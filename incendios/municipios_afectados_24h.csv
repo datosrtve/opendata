@@ -1,241 +1,250 @@
 tipo,latitude,longitude,bright,date,admin2,admin3,country_code,country_es
-24h,59.64826,6.35946,305.78,17 de May,Sauda,Rogaland,NO,Noruega
-24h,59.24998,8.04986,309.37,17 de May,Fyresdal,Vestfold og Telemark,NO,Noruega
-24h,57.06156,9.98124,325.12,17 de May,Aalborg,Region Nordjylland,DK,Dinamarca
-24h,53.51334,10.03827,307.29,17 de May,Hamburg,NA,DE,Alemania
-24h,52.48982,13.8384,296.17,17 de May,Rüdersdorf bei Berlin,Brandenburg,DE,Alemania
-24h,52.17294,14.62594,322.86,17 de May,Eisenhüttenstadt,Brandenburg,DE,Alemania
-24h,53.13869,8.6768,300.9,17 de May,Bremen,Bremen,DE,Alemania
-24h,51.68831,15.98272,324.18,17 de May,Głogów,województwo dolnośląskie,PL,Polonia
-24h,53.5716,-0.60958,338.02,17 de May,Scunthorpe,England,GB,Reino Unido
-24h,53.57063,-0.59422,298.02,17 de May,NA,England,GB,Reino Unido
-24h,52.3174,10.25326,310.11,17 de May,Peine,Niedersachsen,DE,Alemania
-24h,52.37392,9.87662,296.02,17 de May,Hannover,Niedersachsen,DE,Alemania
-24h,52.35463,9.89108,302.78,17 de May,Sehnde,Niedersachsen,DE,Alemania
-24h,52.174,10.41429,338.08,17 de May,Salzgitter,Niedersachsen,DE,Alemania
-24h,52.20996,8.05616,298.06,17 de May,Georgsmarienhütte,Niedersachsen,DE,Alemania
-24h,52.17249,7.8913,297.5,17 de May,Lengerich,Nordrhein-Westfalen,DE,Alemania
-24h,52.49517,4.61203,297.03,17 de May,Beverwijk,Noord-Holland,NL,Países Bajos
-24h,51.61709,8.51068,302.56,17 de May,Geseke,Nordrhein-Westfalen,DE,Alemania
-24h,51.59503,8.3375,305.43,17 de May,Erwitte,Nordrhein-Westfalen,DE,Alemania
-24h,52.64545,-8.68961,295.12,17 de May,Limerick,County Limerick,IE,Irlanda
-24h,51.50399,6.7284,298.06,17 de May,Duisburg,Nordrhein-Westfalen,DE,Alemania
-24h,51.29708,7.01134,320.78,17 de May,Wülfrath,Nordrhein-Westfalen,DE,Alemania
-24h,52.07092,-1.29624,308.74,17 de May,Banbury,England,GB,Reino Unido
-24h,51.26821,4.32593,301.33,17 de May,Antwerpen,Antwerpen,BE,Bélgica
-24h,50.87639,6.92151,303.04,17 de May,Köln,Nordrhein-Westfalen,DE,Alemania
-24h,51.16706,4.33055,297.97,17 de May,Hoboken,Antwerpen,BE,Bélgica
-24h,50.8423,6.91572,302.25,17 de May,Brühl,Nordrhein-Westfalen,DE,Alemania
-24h,51.18381,3.81441,307.25,17 de May,Gent,Oost-Vlaanderen,BE,Bélgica
-24h,51.17649,3.81238,328.82,17 de May,Zelzate,Oost-Vlaanderen,BE,Bélgica
-24h,51.68444,-5.0298,303.26,17 de May,Rhoscrowther,Cymru / Wales,GB,Reino Unido
-24h,51.571,-3.77896,331.78,17 de May,Port Talbot,Cymru / Wales,GB,Reino Unido
-24h,50.76422,5.67552,301.3,17 de May,Visé,Liège,BE,Bélgica
-24h,51.03948,2.28314,298.06,17 de May,Dunkerque,Hauts-de-France,FR,Francia
-24h,49.9535,9.77091,298.26,17 de May,Karlstadt,Bayern,DE,Alemania
-24h,50.57127,5.37141,299.84,17 de May,Engis,Liège,BE,Bélgica
-24h,50.48877,4.19839,295.35,17 de May,La Louvière,Hainaut,BE,Bélgica
-24h,50.47158,3.99133,310.1,17 de May,Mons,Hainaut,BE,Bélgica
-24h,50.40362,3.56158,307.85,17 de May,Bruay-sur-l'Escaut,Hauts-de-France,FR,Francia
-24h,49.52332,5.90588,297.66,17 de May,Differdange,Canton Esch-sur-Alzette,LU,Luxemburgo
-24h,49.50572,5.95855,341.14,17 de May,Esch-sur-Alzette,Canton Esch-sur-Alzette,LU,Luxemburgo
-24h,49.46794,6.00494,302.54,17 de May,Rumelange,Canton Esch-sur-Alzette,LU,Luxemburgo
-24h,49.35825,6.75088,329.42,17 de May,Saarlouis,Saarland,DE,Alemania
-24h,49.35901,6.7455,297.12,17 de May,Dillingen/Saar,Saarland,DE,Alemania
-24h,49.24512,6.85232,329.14,17 de May,Völklingen,Saarland,DE,Alemania
-24h,48.88531,6.05519,300.24,17 de May,Nancy,Grand Est,FR,Francia
-24h,48.59866,7.8202,319.77,17 de May,Kehl,Baden-Württemberg,DE,Alemania
-24h,49.47579,0.53633,298.39,17 de May,Port-Jérôme-sur-Seine,Normandie,FR,Francia
-24h,48.6926,6.96558,300.81,17 de May,Sarrebourg-Château-Salins,Grand Est,FR,Francia
-24h,48.38882,2.98215,305.26,17 de May,Montereau-Fault-Yonne,Île-de-France,FR,Francia
-24h,46.66839,2.64272,295.23,17 de May,Montluçon,Auvergne-Rhône-Alpes,FR,Francia
-24h,45.86638,4.66145,296.38,17 de May,Villefranche-sur-Saône,Rhône,FR,Francia
-24h,40.66962,20.29351,296.66,17 de May,Bashkia Skrapar,Shqipëria Jugore,AL,Albania
-24h,43.44823,4.90019,296.21,17 de May,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.53914,-5.82901,337.17,17 de May,Carreño,Asturias / Asturies,ES,España
-24h,43.52861,-5.72904,325.16,17 de May,Gijón/Xixón,Asturias / Asturies,ES,España
-24h,43.34647,-8.43596,297.68,17 de May,A Coruña,A Coruña,ES,España
-24h,42.55137,-6.76821,298.63,17 de May,Toral de los Vados,León,ES,España
-24h,41.31306,1.66139,306.58,17 de May,Santa Margarida i els Monjos,Barcelona,ES,España
-24h,38.20521,15.26811,301.03,17 de May,Milazzo,Sicilia,IT,Italia
-24h,37.21012,15.16844,299.25,17 de May,Augusta,Sicilia,IT,Italia
-24h,40.24614,-3.47423,314.83,17 de May,Morata de Tajuña,Comunidad de Madrid,ES,España
-24h,38.92331,-9.0114,304.68,17 de May,Sobralinho,Lisboa,PT,Portugal
-24h,53.39894,-1.3866,298.93,17 de May,Sheffield,South Yorkshire Mayoral Combined Authority,GB,Reino Unido
-24h,50.69983,2.11438,295.68,17 de May,Saint-Omer,Hauts-de-France,FR,Francia
-24h,50.83073,-1.36351,298.39,17 de May,New Forest,England,GB,Reino Unido
-24h,48.98459,1.76081,303.4,17 de May,Mantes-la-Jolie,Île-de-France,FR,Francia
-24h,41.72856,-8.25176,297.86,17 de May,Terras de Bouro,Braga,PT,Portugal
-24h,40.29092,-8.41759,298.8,17 de May,Coimbra,Coimbra,PT,Portugal
-24h,38.62888,-9.0778,305.09,17 de May,Seixal,Setúbal,PT,Portugal
-24h,52.48494,4.59895,300.43,17 de May,Velsen,Noord-Holland,NL,Países Bajos
-24h,36.93534,30.64751,335.37,17 de May,Kepez,Antalya,TR,Turquía
-24h,38.20765,27.55097,336.2,17 de May,Bayındır,Ege Bölgesi,TR,Turquía
-24h,38.73631,26.94943,331.12,17 de May,Aliağa,İzmir,TR,Turquía
-24h,37.12604,15.19911,329.2,17 de May,Priolo Gargallo,Sicilia,IT,Italia
-24h,37.43598,15.03368,367,17 de May,Catania,Sicilia,IT,Italia
-24h,39.86526,26.2457,333.68,17 de May,Bozalan,Çanakkale,TR,Turquía
-24h,45.21931,19.39246,331.34,17 de May,Ilok,Vukovarsko-srijemska županija,HR,Croacia
-24h,52.48637,11.5194,338.22,17 de May,Gardelegen,Sachsen-Anhalt,DE,Alemania
-24h,51.03392,2.28807,335.76,17 de May,Grande-Synthe,Hauts-de-France,FR,Francia
-24h,39.92376,-0.10991,337.17,17 de May,Vila-real,Comunitat Valenciana,ES,España
-24h,41.59869,-0.82062,339.82,17 de May,Zaragoza,Zaragoza,ES,España
-24h,41.35551,-8.36589,342.53,17 de May,Santo Tirso,Porto,PT,Portugal
-24h,40.36875,-7.96988,334.77,17 de May,Tábua,Coimbra,PT,Portugal
-24h,40.76556,32.21727,307.14,17 de May,Gerede,Bolu,TR,Turquía
-24h,40.04899,32.6506,298.81,17 de May,Kahramankazan,Ankara,TR,Turquía
-24h,39.94593,33.19407,301.01,17 de May,Elmadağ,Ankara,TR,Turquía
-24h,39.59708,32.42112,299.37,17 de May,Türkşerefli,Ankara,TR,Turquía
-24h,37.94003,32.5367,304.66,17 de May,Selçuklu,Konya,TR,Turquía
-24h,38.42889,27.21516,297.07,17 de May,Bornova,Ege Bölgesi,TR,Turquía
-24h,37.89735,30.49295,296.85,17 de May,Gönen,Isparta,TR,Turquía
-24h,36.87082,34.76328,308.77,17 de May,Akdeniz,Mersin,TR,Turquía
-24h,60.28532,22.29187,299.55,18 de May,Pargas,Lounais-Suomen aluehallintovirasto,FI,Finlandia
-24h,60.49092,15.45303,302.22,18 de May,Borlänge,Dalarnas län,SE,Suecia
-24h,58.68367,17.13389,314.24,18 de May,Oxelösund,Södermanlands län,SE,Suecia
-24h,59.12741,9.61963,296.65,18 de May,Porsgrunn,Vestfold og Telemark,NO,Noruega
-24h,57.70957,18.80763,300.49,18 de May,Gotlands kommun,Gotlands län,SE,Suecia
-24h,58.38467,13.82381,301.97,18 de May,Skövde,Västra Götalands län,SE,Suecia
-24h,58.3609,12.37618,326.55,18 de May,Vänersborgs kommun,Västra Götalands län,SE,Suecia
-24h,56.69183,22.59689,297.51,18 de May,Brocēni,Kurzeme,LV,Letonia
-24h,58.3457,11.42442,296.82,18 de May,Lysekils kommun,Västra Götalands län,SE,Suecia
-24h,57.06227,9.98142,326.93,18 de May,Aalborg,Region Nordjylland,DK,Dinamarca
-24h,53.13422,8.68347,295.4,18 de May,Bremen,Bremen,DE,Alemania
-24h,52.1729,14.62923,337.5,18 de May,Eisenhüttenstadt,Brandenburg,DE,Alemania
-24h,51.68714,15.9799,326.13,18 de May,Głogów,województwo dolnośląskie,PL,Polonia
-24h,52.37465,9.87758,297.63,18 de May,Hannover,Niedersachsen,DE,Alemania
-24h,52.35297,9.89106,296.33,18 de May,Sehnde,Niedersachsen,DE,Alemania
-24h,52.16581,10.42973,303.13,18 de May,Salzgitter,Niedersachsen,DE,Alemania
-24h,52.46484,7.3217,302.66,18 de May,Lingen (Ems),Niedersachsen,DE,Alemania
-24h,52.20775,8.04435,312.91,18 de May,Georgsmarienhütte,Niedersachsen,DE,Alemania
-24h,51.61717,8.5095,297.94,18 de May,Geseke,Nordrhein-Westfalen,DE,Alemania
-24h,51.36361,10.48193,297.56,18 de May,Deuna,Thüringen,DE,Alemania
-24h,51.59371,8.33476,300.03,18 de May,Erwitte,Nordrhein-Westfalen,DE,Alemania
-24h,51.50558,6.73612,300.2,18 de May,Duisburg,Nordrhein-Westfalen,DE,Alemania
-24h,51.2984,7.01092,295.48,18 de May,Wülfrath,Nordrhein-Westfalen,DE,Alemania
-24h,50.65234,11.41653,296.82,18 de May,Saalfeld/Saale,Thüringen,DE,Alemania
-24h,51.16649,4.33127,296.46,18 de May,Hoboken,Antwerpen,BE,Bélgica
-24h,51.17657,3.80996,332.2,18 de May,Zelzate,Oost-Vlaanderen,BE,Bélgica
-24h,51.1721,3.80918,348.01,18 de May,Gent,Oost-Vlaanderen,BE,Bélgica
-24h,50.84296,6.91505,295.18,18 de May,Brühl,Nordrhein-Westfalen,DE,Alemania
-24h,50.76637,5.67343,304.56,18 de May,Visé,Liège,BE,Bélgica
-24h,49.95451,9.76918,308.37,18 de May,Karlstadt,Bayern,DE,Alemania
-24h,49.77076,11.02386,298.1,18 de May,Pautzfeld,Bayern,DE,Alemania
-24h,50.47318,3.99046,303.5,18 de May,Mons,Hainaut,BE,Bélgica
-24h,49.52542,5.89941,297.53,18 de May,Differdange,Canton Esch-sur-Alzette,LU,Luxemburgo
-24h,49.50347,5.961,308.54,18 de May,Esch-sur-Alzette,Canton Esch-sur-Alzette,LU,Luxemburgo
-24h,49.35761,6.74572,306.29,18 de May,Dillingen/Saar,Saarland,DE,Alemania
-24h,49.35648,6.74656,300.68,18 de May,Saarlouis,Saarland,DE,Alemania
-24h,49.24448,6.84696,326.75,18 de May,Völklingen,Saarland,DE,Alemania
-24h,48.65306,10.16586,302.46,18 de May,Heidenheim an der Brenz,Baden-Württemberg,DE,Alemania
-24h,48.51097,10.85219,317.65,18 de May,Meitingen,Bayern,DE,Alemania
-24h,48.88692,6.05408,335.92,18 de May,Nancy,Grand Est,FR,Francia
-24h,48.69163,6.96763,295.02,18 de May,Sarrebourg-Château-Salins,Grand Est,FR,Francia
-24h,48.5996,7.8194,300.63,18 de May,Kehl,Baden-Württemberg,DE,Alemania
-24h,47.17366,7.56363,322.67,18 de May,Bezirk Wasseramt,Solothurn,CH,Suiza
-24h,46.06723,13.62832,301.88,18 de May,Morsko,NA,SI,Eslovenia
-24h,45.3816,11.94751,311.13,18 de May,Padova,Veneto,IT,Italia
-24h,45.47813,10.21172,319.92,18 de May,San Zeno Naviglio,Lombardia,IT,Italia
-24h,45.14458,9.94447,331.83,18 de May,Spinadesco,Lombardia,IT,Italia
-24h,44.85556,11.5935,295.58,18 de May,Ferrara,Emilia-Romagna,IT,Italia
-24h,43.44161,4.89618,298.95,18 de May,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.52214,-0.20085,297.21,18 de May,Pau,Nouvelle-Aquitaine,FR,Francia
-24h,43.26545,2.60799,307.75,18 de May,Carcassonne,Occitanie,FR,Francia
-24h,43.54113,-5.82879,312.33,18 de May,Carreño,Asturias / Asturies,ES,España
-24h,40.63113,18.00081,302.3,18 de May,Brindisi,Puglia,IT,Italia
-24h,40.67505,16.65824,296.55,18 de May,Matera,Basilicata,IT,Italia
-24h,40.52005,17.21031,300.25,18 de May,Taranto,Puglia,IT,Italia
-24h,42.55389,-6.76908,295.96,18 de May,Toral de los Vados,León,ES,España
-24h,40.55671,9.67012,296.07,18 de May,Thiniscole/Siniscola,Sardigna/Sardegna,IT,Italia
-24h,41.31069,1.66298,301.81,18 de May,Santa Margarida i els Monjos,Barcelona,ES,España
-24h,41.47308,-1.48588,297.53,18 de May,Morata de Jalón,Zaragoza,ES,España
-24h,41.1054,1.21674,296.29,18 de May,Tarragona,Tarragona,ES,España
-24h,40.323480000000004,-6.33734,367,18 de May,Horcajo,Cáceres,ES,España
-24h,40.24637,-3.47484,320.89,18 de May,Morata de Tajuña,Comunidad de Madrid,ES,España
-24h,40.32323,-6.31978,300.55,18 de May,Pinofranqueado,Cáceres,ES,España
-24h,37.44039,15.03021,299.53,18 de May,Catania,Sicilia,IT,Italia
-24h,57.08436,0.89456,298.16,18 de May,NA,NA,NA,Mundo
-24h,52.64463,-8.68813,305.21,18 de May,Limerick,County Limerick,IE,Irlanda
-24h,41.40822,2.0006,295.73,18 de May,Sant Vicenç dels Horts,Barcelona,ES,España
-24h,43.53111,-5.72979,297.06,18 de May,Gijón/Xixón,Asturias / Asturies,ES,España
-24h,43.34563,-8.43814,295.04,18 de May,A Coruña,A Coruña,ES,España
-24h,41.31916,-8.08564,295.44,18 de May,"Vila Garcia, Aboim e Chapa",Porto,PT,Portugal
-24h,38.92194,-9.00827,312.57,18 de May,Alhandra,Lisboa,PT,Portugal
-24h,38.92287,-9.00897,314.41,18 de May,"Alhandra, São João dos Montes e Calhandriz",Lisboa,PT,Portugal
-24h,38.50349,-8.9337,309.17,18 de May,Setúbal,Setúbal,PT,Portugal
-24h,58.45047,31.60999,301.66,17 de May,Asentamiento rural de Bronnitsky,Región de novgorod,RU,Rusia
-24h,53.44485,34.42136,297.1,17 de May,Fokino,Región de Bryansk,RU,Rusia
-24h,55.5312,28.5191,319.27,17 de May,Navapolatsk,Región de Vitebsk,BY,Bielorrusia
-24h,36.43223,6.62415,307,17 de May,Hamma bouziane ⵃⴰⵎⴰ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ,Constantino ⵇⵙⴻⵏⵟⵉⵏⴰ Constantino,DZ,Argelia
-24h,36.72486,3.92751,296.22,17 de May,Draa ben khedda,Tizi wezzu ⵜⵉⵣⵉ ⵡⴻⵣⵣⵓ tizi oUzou,DZ,Argelia
-24h,36.74941,3.08083,316.06,17 de May,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ a,Alger Argelia,DZ,Argelia
-24h,36.74223,3.10589,307.08,17 de May,Hussin dey ⵃⵓⵙⵉⵏ ⴷⴻⵢ ⴷⴻⵢ ⴷⴻⵢ ⴷⴻⵢ ⴷⴻⵢ ⴷⴻⵢ ⴷⴻⵢ hussein day,Alger Argelia,DZ,Argelia
-24h,36.3363,5.48297,307.33,17 de May,Beni Fouda,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
-24h,36.08763,6.80381,298.45,17 de May,Sigus ⵙⵉⴳⵓⵙ Sigus,OUM El Boughi ⵓⵎⵍⴻⴱⵡⴰⵖⵉ Umm al -Baqi,DZ,Argelia
-24h,36.6629,3.06742,301.37,17 de May,Baraki Baraqi,Alger Argelia,DZ,Argelia
-24h,36.63103,3.23323,306.96,17 de May,Meftah ⵎⴻⴼⵜⴰⵃ clave,Blida Blida,DZ,Argelia
-24h,36.17682,5.57103,309.84,17 de May,OULD SABOR ⵡⵍⴰⴷ ⵚⴰⴱⴻⵔ Hijos de Saber,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
-24h,36.56941,2.87396,296.36,17 de May,Benkhelil ⴱⴻⵏ ⵅⵍⵉⵍ bin khalil,Blida Blida,DZ,Argelia
-24h,36.18044,3.74783,322.22,17 de May,El Hachimia,Tuburet ⵜⵓⴱⵉⵔⴻⵜ bouira,DZ,Argelia
-24h,35.55101,6.8708,302.03,17 de May,Remia ⵔⵎⵉⵍⴰ Rumaila,Khenchela ⵅⴻⵏⵛⵍⴰ Khenchela,DZ,Argelia
-24h,35.2337,8.17168,306.09,17 de May,El ma labiodh ⵍⵎⴰ ⵍⴻⴱⵢⴻⴹ agua blanca,Tebessa ⵴ రర రర ipe swee 2017,DZ,Argelia
-24h,35.88018,4.44959,321.65,17 de May,El euch ⵍⵄⴻⵛ nido,Bordj bou arrreidj ⴱⵓⵔⴵ ⴱⵓ ⵄⵔⵉⵔⵉⴵ ⵄⵔⵉⵔⵉⴵ burj bou arreridj,DZ,Argelia
-24h,35.70868,4.47458,299,17 de May,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,36.12947,1.24281,307.95,17 de May,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,35.35062,5.76086,320.59,17 de May,Legride,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
-24h,35.34984,5.7653,307.3,17 de May,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
-24h,35.09476,5.64925,314.59,17 de May,Djemorah ⴵⵎⵓⵔⴰ Jamura,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,34.9841,5.7155,303.61,17 de May,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,35.81211,-0.23671,343.83,17 de May,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,36.67911,9.92067,298.82,17 de May,Ritual,Delegación de Al -Mortaga,TN,Túnez
-24h,36.59037,10.31842,300.61,17 de May,NA,Delegación de marané,TN,Túnez
-24h,36.7891,7.70117,312.94,17 de May,Sidi Amar ⵙⵉⴷⵉ ⵄⴻⵎⵎⴰⵔ Sidi Ammar,Annaba ⵄⴻⵏⵏⴰⴱⴰ Annaba,DZ,Argelia
-24h,36.88204,6.96206,304.45,17 de May,Skikda ⵙⴽⵉⴽⴷⴰ skikda,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
-24h,36.7461,6.25691,330.87,17 de May,El Milia ⵍⵎⵉⵍⵉⵢⴰ milla,Jijel ⵉⵖⵉⵍ ⴳⵉⵍⵉ jijel,DZ,Argelia
-24h,44.8215,33.74197,332.75,17 de May,Asentamiento rural fragante,República Autónoma de Crimea,UA,Ucrania
-24h,46.52762,33.1044,334.84,17 de May,Comunidad Rural de Aniversario,Región de Kherson,UA,Ucrania
-24h,46.71381,33.07151,349.84,17 de May,Comunidad de la ciudad de Oleshkiv,Región de Kherson,UA,Ucrania
-24h,47.62706,34.32537,340.18,17 de May,Comunidad de la ciudad de Nikolp,Región de dnipropetrovsk,UA,Ucrania
-24h,48.61483,33.53981,332.82,17 de May,Comunidad de PopelyNasty Village,Región de Kirovohrad,UA,Ucrania
-24h,48.72925,33.742,346.91,17 de May,Comunidad de asentamiento de Likhiv,Región de dnipropetrovsk,UA,Ucrania
-24h,49.04726,34.67349,342.18,17 de May,Comunidad de Chernechchyn Village,Región de dnipropetrovsk,UA,Ucrania
-24h,49.07959,34.14413,331.24,17 de May,Comunidad de la ciudad de Kobelyatsk,Poltava,UA,Ucrania
-24h,49.83398,34.26457,346.6,17 de May,Comunidad de asentamiento de Dykan,Poltava,UA,Ucrania
-24h,50.47107,34.12904,351.44,17 de May,Velikobudyshchansk Comunidad rural,Poltava,UA,Ucrania
-24h,50.51057,32.73899,329.57,17 de May,Varwa,Región de Chernihiv,UA,Ucrania
-24h,51.193,34.66528,336.49,17 de May,Comunidad de asentamiento de Hotinsk,Región sumy,UA,Ucrania
-24h,52.15018,32.34526,336.46,17 de May,Kamenskokhutorsky asentamiento rural,Región de Bryansk,RU,Rusia
-24h,55.22815,34.90825,329.83,17 de May,Asentamiento rural de Batyushkovsky,Región de smolensk,RU,Rusia
-24h,34.79751,33.29797,331.56,17 de May,Tobillo,Lago,CY,Chipre
-24h,46.4346,32.59069,355.92,17 de May,Comunidad de la ciudad de Golopristán,Región de Kherson,UA,Ucrania
-24h,46.51714,33.07266,343.71,17 de May,Velikopanivska Comunidad rural,Región de Kherson,UA,Ucrania
-24h,47.33202,34.5182,344.88,17 de May,Comunidad rural vodian,Región de Zaporizhzhia,UA,Ucrania
-24h,48.19896,29.23412,335.42,17 de May,Comunidad de asentamiento de Chechelnitsky,Región de Vinnytsia,UA,Ucrania
-24h,52.12486,32.34723,340.21,17 de May,Comunidad de la ciudad de Semenovsk,Región de Chernihiv,UA,Ucrania
-24h,53.56995,31.98619,331.11,17 de May,Consejo de la aldea de Rhodnensky,Región de Mogilev,BY,Bielorrusia
-24h,54.58879,31.3729,339.25,17 de May,Asentamiento de la ciudad de Krasninsky,Región de smolensk,RU,Rusia
-24h,34.72658,33.31869,301.25,17 de May,Kalavasos,Lago,CY,Chipre
-24h,59.53188,34.14849,299.85,17 de May,Picallavo,Región de Leningrado,RU,Rusia
-24h,52.35785,33.82625,295.34,17 de May,Comunidad de la ciudad de Mid-Budsk,Región sumy,UA,Ucrania
-24h,48.52878,34.65283,303.29,17 de May,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,48.76787,32.4966,344.29,17 de May,Comunidad rural subotsi,Región de Kirovohrad,UA,Ucrania
-24h,48.47173,34.96434,297.65,17 de May,Dnipro,Región de dnipropetrovsk,UA,Ucrania
-24h,47.88123,33.39856,297.7,17 de May,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
-24h,47.86624,33.43277,301.89,17 de May,Comunidad de la ciudad de Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
-24h,44.77274,33.85936,304.73,17 de May,Asentamiento de la ciudad Bakhchisaray,República Autónoma de Crimea,UA,Ucrania
-24h,48.76731,32.49546,343.64,18 de May,Comunidad rural subotsi,Región de Kirovohrad,UA,Ucrania
-24h,47.86911,33.44867,354.36,18 de May,Comunidad de la ciudad de Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
-24h,47.87214,33.44058,309.74,18 de May,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
-24h,46.51896,33.06937,301.4,18 de May,Velikopanivska Comunidad rural,Región de Kherson,UA,Ucrania
-24h,47.78774,29.01917,296.81,18 de May,Ayuntamiento de Rybnitsky,Distrito de Ribnica / Distrito Ribnitsky / Distrito Ribnitsky,MD,Moldavia
-24h,47.78963,28.95252,304.3,18 de May,NA,NA,MD,Moldavia
-24h,35.8103,-0.25297,312.45,18 de May,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81533,-0.27262,304.48,18 de May,Aïn El Bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ Ein Al -Bayya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,45.10613,34.0177,339.92,18 de May,Guardia de asentamiento rural,República Autónoma de Crimea,UA,Ucrania
-24h,46.56939,32.95481,330.4,18 de May,Comunidad de la ciudad de Oleshkiv,Región de Kherson,UA,Ucrania
-24h,46.51913,32.7496,367,18 de May,Comunidad de la ciudad de Golopristán,Región de Kherson,UA,Ucrania
-24h,46.42645,32.16574,367,18 de May,Comunidad rural de Chulakiv,Región de Kherson,UA,Ucrania
-24h,47.62347,34.32595,328.57,18 de May,Comunidad de la ciudad de Nikolp,Región de dnipropetrovsk,UA,Ucrania
-24h,49.73927,34.7985,329.87,18 de May,Novoselivska Comunidad rural,Poltava,UA,Ucrania
-24h,50.18428,29.18908,325.94,18 de May,Comunidad de la ciudad de Korostyshiv,Región de zhytomyr,UA,Ucrania
-24h,52.14989,32.35191,334.19,18 de May,Kamenskokhutorsky asentamiento rural,Región de Bryansk,RU,Rusia
+24h,60.28532,22.29187,299.55,18 de mayo,Pargas,Lounais-Suomen aluehallintovirasto,FI,Finlandia
+24h,60.49092,15.45303,302.22,18 de mayo,Borlänge,Dalarnas län,SE,Suecia
+24h,58.68367,17.13389,314.24,18 de mayo,Oxelösund,Södermanlands län,SE,Suecia
+24h,59.12741,9.61963,296.65,18 de mayo,Porsgrunn,Vestfold og Telemark,NO,Noruega
+24h,57.70957,18.80763,300.49,18 de mayo,Gotlands kommun,Gotlands län,SE,Suecia
+24h,58.38467,13.82381,301.97,18 de mayo,Skövde,Västra Götalands län,SE,Suecia
+24h,58.3609,12.37618,326.55,18 de mayo,Vänersborgs kommun,Västra Götalands län,SE,Suecia
+24h,56.69183,22.59689,297.51,18 de mayo,Brocēni,Kurzeme,LV,Letonia
+24h,58.3457,11.42442,296.82,18 de mayo,Lysekils kommun,Västra Götalands län,SE,Suecia
+24h,57.06227,9.98142,326.93,18 de mayo,Aalborg,Region Nordjylland,DK,Dinamarca
+24h,53.13422,8.68347,295.4,18 de mayo,Bremen,Bremen,DE,Alemania
+24h,52.1729,14.62923,337.5,18 de mayo,Eisenhüttenstadt,Brandenburg,DE,Alemania
+24h,51.68714,15.9799,326.13,18 de mayo,Głogów,województwo dolnośląskie,PL,Polonia
+24h,52.37465,9.87758,297.63,18 de mayo,Hannover,Niedersachsen,DE,Alemania
+24h,52.35297,9.89106,296.33,18 de mayo,Sehnde,Niedersachsen,DE,Alemania
+24h,52.16581,10.42973,303.13,18 de mayo,Salzgitter,Niedersachsen,DE,Alemania
+24h,52.46484,7.3217,302.66,18 de mayo,Lingen (Ems),Niedersachsen,DE,Alemania
+24h,52.20775,8.04435,312.91,18 de mayo,Georgsmarienhütte,Niedersachsen,DE,Alemania
+24h,51.61717,8.5095,297.94,18 de mayo,Geseke,Nordrhein-Westfalen,DE,Alemania
+24h,51.36361,10.48193,297.56,18 de mayo,Deuna,Thüringen,DE,Alemania
+24h,51.59371,8.33476,300.03,18 de mayo,Erwitte,Nordrhein-Westfalen,DE,Alemania
+24h,51.50558,6.73612,300.2,18 de mayo,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.2984,7.01092,295.48,18 de mayo,Wülfrath,Nordrhein-Westfalen,DE,Alemania
+24h,50.65234,11.41653,296.82,18 de mayo,Saalfeld/Saale,Thüringen,DE,Alemania
+24h,51.16649,4.33127,296.46,18 de mayo,Hoboken,Antwerpen,BE,Bélgica
+24h,51.17657,3.80996,332.2,18 de mayo,Zelzate,Oost-Vlaanderen,BE,Bélgica
+24h,51.1721,3.80918,348.01,18 de mayo,Gent,Oost-Vlaanderen,BE,Bélgica
+24h,50.84296,6.91505,295.18,18 de mayo,Brühl,Nordrhein-Westfalen,DE,Alemania
+24h,50.76637,5.67343,304.56,18 de mayo,Visé,Liège,BE,Bélgica
+24h,49.95451,9.76918,308.37,18 de mayo,Karlstadt,Bayern,DE,Alemania
+24h,49.77076,11.02386,298.1,18 de mayo,Pautzfeld,Bayern,DE,Alemania
+24h,50.47318,3.99046,303.5,18 de mayo,Mons,Hainaut,BE,Bélgica
+24h,49.52542,5.89941,297.53,18 de mayo,Differdange,Canton Esch-sur-Alzette,LU,Luxemburgo
+24h,49.50347,5.961,308.54,18 de mayo,Esch-sur-Alzette,Canton Esch-sur-Alzette,LU,Luxemburgo
+24h,49.35761,6.74572,306.29,18 de mayo,Dillingen/Saar,Saarland,DE,Alemania
+24h,49.35648,6.74656,300.68,18 de mayo,Saarlouis,Saarland,DE,Alemania
+24h,49.24448,6.84696,326.75,18 de mayo,Völklingen,Saarland,DE,Alemania
+24h,48.65306,10.16586,302.46,18 de mayo,Heidenheim an der Brenz,Baden-Württemberg,DE,Alemania
+24h,48.51097,10.85219,317.65,18 de mayo,Meitingen,Bayern,DE,Alemania
+24h,48.88692,6.05408,335.92,18 de mayo,Nancy,Grand Est,FR,Francia
+24h,48.69163,6.96763,295.02,18 de mayo,Sarrebourg-Château-Salins,Grand Est,FR,Francia
+24h,48.5996,7.8194,300.63,18 de mayo,Kehl,Baden-Württemberg,DE,Alemania
+24h,47.17366,7.56363,322.67,18 de mayo,Bezirk Wasseramt,Solothurn,CH,Suiza
+24h,46.06723,13.62832,301.88,18 de mayo,Morsko,NA,SI,Eslovenia
+24h,45.3816,11.94751,311.13,18 de mayo,Padova,Veneto,IT,Italia
+24h,45.47813,10.21172,319.92,18 de mayo,San Zeno Naviglio,Lombardia,IT,Italia
+24h,45.14458,9.94447,331.83,18 de mayo,Spinadesco,Lombardia,IT,Italia
+24h,44.85556,11.5935,295.58,18 de mayo,Ferrara,Emilia-Romagna,IT,Italia
+24h,43.44161,4.89618,298.95,18 de mayo,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
+24h,43.52214,-0.20085,297.21,18 de mayo,Pau,Nouvelle-Aquitaine,FR,Francia
+24h,43.26545,2.60799,307.75,18 de mayo,Carcassonne,Occitanie,FR,Francia
+24h,43.54113,-5.82879,312.33,18 de mayo,Carreño,Asturias / Asturies,ES,España
+24h,40.63113,18.00081,302.3,18 de mayo,Brindisi,Puglia,IT,Italia
+24h,40.67505,16.65824,296.55,18 de mayo,Matera,Basilicata,IT,Italia
+24h,40.52005,17.21031,300.25,18 de mayo,Taranto,Puglia,IT,Italia
+24h,42.55389,-6.76908,295.96,18 de mayo,Toral de los Vados,León,ES,España
+24h,40.55671,9.67012,296.07,18 de mayo,Thiniscole/Siniscola,Sardigna/Sardegna,IT,Italia
+24h,41.31069,1.66298,301.81,18 de mayo,Santa Margarida i els Monjos,Barcelona,ES,España
+24h,41.47308,-1.48588,297.53,18 de mayo,Morata de Jalón,Zaragoza,ES,España
+24h,41.1054,1.21674,296.29,18 de mayo,Tarragona,Tarragona,ES,España
+24h,40.323480000000004,-6.33734,367,18 de mayo,Horcajo,Cáceres,ES,España
+24h,40.24637,-3.47484,320.89,18 de mayo,Morata de Tajuña,Comunidad de Madrid,ES,España
+24h,40.32323,-6.31978,300.55,18 de mayo,Pinofranqueado,Cáceres,ES,España
+24h,37.44039,15.03021,299.53,18 de mayo,Catania,Sicilia,IT,Italia
+24h,57.08436,0.89456,298.16,18 de mayo,NA,NA,NA,Mundo
+24h,52.64463,-8.68813,305.21,18 de mayo,Limerick,County Limerick,IE,Irlanda
+24h,41.40822,2.0006,295.73,18 de mayo,Sant Vicenç dels Horts,Barcelona,ES,España
+24h,43.53111,-5.72979,297.06,18 de mayo,Gijón/Xixón,Asturias / Asturies,ES,España
+24h,43.34563,-8.43814,295.04,18 de mayo,A Coruña,A Coruña,ES,España
+24h,41.31916,-8.08564,295.44,18 de mayo,"Vila Garcia, Aboim e Chapa",Porto,PT,Portugal
+24h,38.92194,-9.00827,312.57,18 de mayo,Alhandra,Lisboa,PT,Portugal
+24h,38.92287,-9.00897,314.41,18 de mayo,"Alhandra, São João dos Montes e Calhandriz",Lisboa,PT,Portugal
+24h,38.50349,-8.9337,309.17,18 de mayo,Setúbal,Setúbal,PT,Portugal
+24h,36.92173,34.91295,335.01,18 de mayo,Tarsus,Mersin,TR,Turquía
+24h,45.13505,27.2274,335.21,18 de mayo,Jirlău,Brăila,RO,Rumanía
+24h,51.03629,2.28611,329.77,18 de mayo,Dunkerque,Hauts-de-France,FR,Francia
+24h,57.66679,15.83455,335.55,18 de mayo,Vimmerby,Kalmar län,SE,Suecia
+24h,59.29355,14.13814,341.17,18 de mayo,Kristinehamn,Värmlands län,SE,Suecia
+24h,65.56377,22.22093,335.39,18 de mayo,Luleå,Norrbottens län,SE,Suecia
+24h,37.33037,-6.77769,336.47,18 de mayo,Trigueros,Huelva,ES,España
+24h,40.328360000000004,-6.32205,332.98,18 de mayo,Caminomorisco,Cáceres,ES,España
+24h,41.47247,-8.21921,367,18 de mayo,Guimarães,Braga,PT,Portugal
+24h,50.57253,13.59592,345.59,18 de mayo,Litvínov,Severozápad,CZ,Rep. Checa
+24h,50.44258,2.74451,333.39,18 de mayo,Lens,Hauts-de-France,FR,Francia
+24h,50.62812,3.38402,333.23,18 de mayo,Tournai,Hainaut,BE,Bélgica
+24h,50.81918,3.34395,343.94,18 de mayo,Zwevegem,West-Vlaanderen,BE,Bélgica
+24h,51.30352,6.5497,329.11,18 de mayo,Krefeld,Nordrhein-Westfalen,DE,Alemania
+24h,51.05382,3.17492,328.9,18 de mayo,Zwevezele,West-Vlaanderen,BE,Bélgica
+24h,51.03512,2.28885,332.88,18 de mayo,Grande-Synthe,Hauts-de-France,FR,Francia
+24h,50.84612,-0.74449,344.14,18 de mayo,Chichester,England,GB,Reino Unido
+24h,51.07219,-1.00811,332.31,18 de mayo,East Hampshire,England,GB,Reino Unido
+24h,51.32309,-2.16409,344.38,18 de mayo,Steeple Ashton,England,GB,Reino Unido
+24h,51.38208,-2.1798,325.41,18 de mayo,Broughton Gifford,England,GB,Reino Unido
+24h,51.48646,-2.21708,328.98,18 de mayo,Upper Castle Combe,England,GB,Reino Unido
+24h,51.57887,-2.46529,329.41,18 de mayo,Rangeworthy,West of England,GB,Reino Unido
+24h,51.5769,-2.47651,336.29,18 de mayo,Tytherington,West of England,GB,Reino Unido
+24h,51.77636,-1.40809,339.11,18 de mayo,West Oxfordshire,England,GB,Reino Unido
+24h,51.7226,-1.91712,346.68,18 de mayo,Cotswold,England,GB,Reino Unido
+24h,51.73684,-2.35742,349.48,18 de mayo,Stroud,England,GB,Reino Unido
+24h,51.57804,-3.77616,334.82,18 de mayo,Port Talbot,Cymru / Wales,GB,Reino Unido
+24h,52.46874,0.83658,330.05,18 de mayo,Breckland,England,GB,Reino Unido
+24h,53.52324,9.90582,331.45,18 de mayo,Hamburg,NA,DE,Alemania
+24h,58.98056,11.87611,332.14,18 de mayo,Ed,Västra Götalands län,SE,Suecia
+24h,37.95477,-8.38911,367,18 de mayo,Santiago do Cacém,Setúbal,PT,Portugal
+24h,40.28344,-6.37594,331.41,18 de mayo,Torrecilla de los Ángeles,Cáceres,ES,España
+24h,40.291,-6.33181,331.58,18 de mayo,Casar de Palomero,Cáceres,ES,España
+24h,40.57809,-8.56152,367,18 de mayo,Aveiro,Aveiro,PT,Portugal
+24h,41.44089,-8.12209,330.94,18 de mayo,Fafe,Braga,PT,Portugal
+24h,41.02021,28.55406,305.99,18 de mayo,Büyükçekmece,İstanbul,TR,Turquía
+24h,40.0504,32.65121,296.38,18 de mayo,Yenimahalle,Ankara,TR,Turquía
+24h,39.59754,32.41953,297.92,18 de mayo,Türkşerefli,Ankara,TR,Turquía
+24h,38.75493,26.95107,309.19,18 de mayo,Aliağa,İzmir,TR,Turquía
+24h,36.86962,34.76061,301.34,18 de mayo,Akdeniz,Mersin,TR,Turquía
+24h,36.93389,30.64668,308.07,18 de mayo,Kepez,Antalya,TR,Turquía
+24h,36.26318,33.72715,295.12,18 de mayo,Akdere,Mersin,TR,Turquía
+24h,65.77229,24.18727,319.99,18 de mayo,Tornio,Lapin aluehallintovirasto,FI,Finlandia
+24h,64.64614,24.42141,308.89,18 de mayo,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+24h,51.86881,4.2842,297.84,19 de mayo,Rotterdam,Zuid-Holland,NL,Países Bajos
+24h,51.61753,8.5107,295.09,19 de mayo,Geseke,Nordrhein-Westfalen,DE,Alemania
+24h,51.5922,8.33575,298.76,19 de mayo,Erwitte,Nordrhein-Westfalen,DE,Alemania
+24h,51.47761,7.1637,297.27,19 de mayo,Bochum,Nordrhein-Westfalen,DE,Alemania
+24h,51.49499,6.74011,316.55,19 de mayo,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.26704,4.32512,296.79,19 de mayo,Antwerpen,Antwerpen,BE,Bélgica
+24h,51.18232,3.80997,298.14,19 de mayo,Zelzate,Oost-Vlaanderen,BE,Bélgica
+24h,51.17125,3.80917,343.36,19 de mayo,Gent,Oost-Vlaanderen,BE,Bélgica
+24h,51.04914,2.29526,306.64,19 de mayo,Grande-Synthe,Hauts-de-France,FR,Francia
+24h,51.04526,2.30116,306.08,19 de mayo,Dunkerque,Hauts-de-France,FR,Francia
+24h,50.76726,5.67322,297.29,19 de mayo,Visé,Liège,BE,Bélgica
+24h,50.70028,2.11424,295.86,19 de mayo,Saint-Omer,Hauts-de-France,FR,Francia
+24h,50.4725,3.99207,303.35,19 de mayo,Mons,Hainaut,BE,Bélgica
+24h,48.60902,21.17949,312.5,19 de mayo,Košice,Košický kraj,SK,Eslovaquia
+24h,49.95425,9.76916,305.39,19 de mayo,Karlstadt,Bayern,DE,Alemania
+24h,50.02062,8.76202,314.54,19 de mayo,Dietzenbach,Hessen,DE,Alemania
+24h,45.3768,30.92982,367,19 de mayo,NA,NA,NA,Mundo
+24h,49.68155,3.06114,298.15,19 de mayo,Compiègne,Hauts-de-France,FR,Francia
+24h,49.35926,6.74577,309.26,19 de mayo,Dillingen/Saar,Saarland,DE,Alemania
+24h,49.24774,6.85007,352.63,19 de mayo,Völklingen,Saarland,DE,Alemania
+24h,47.46849,12.63324,295.14,19 de mayo,Gemeinde Hochfilzen,Tirol,AT,Austria
+24h,41.02277,28.55734,298.37,19 de mayo,Büyükçekmece,İstanbul,TR,Turquía
+24h,38.80354,26.93717,295.34,19 de mayo,Aliağa,İzmir,TR,Turquía
+24h,38.79457,15.21267,314.76,19 de mayo,Lipari,Sicilia,IT,Italia
+24h,38.20364,15.26667,302.09,19 de mayo,Milazzo,Sicilia,IT,Italia
+24h,37.75,14.99231,340.09,19 de mayo,Belpasso,Sicilia,IT,Italia
+24h,37.74774,15.00566,324.59,19 de mayo,Zafferana Etnea,Sicilia,IT,Italia
+24h,37.21307,15.17052,299.42,19 de mayo,Augusta,Sicilia,IT,Italia
+24h,37.57301,-0.91772,298.59,19 de mayo,Cartagena,Región de Murcia,ES,España
+24h,65.56488,22.2224,317.84,19 de mayo,Luleå,Norrbottens län,SE,Suecia
+24h,64.64815,24.43399,300.94,19 de mayo,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+24h,64.20713,26.46527,334.86,19 de mayo,Pyhäntä,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+24h,64.66422,21.28645,328.67,19 de mayo,Skellefteå kommun,Västerbottens län,SE,Suecia
+24h,61.14726,28.80037,299.58,19 de mayo,Imatra,Etelä-Suomen aluehallintovirasto,FI,Finlandia
+24h,61.06591,28.24058,296.95,19 de mayo,Lappeenranta,Etelä-Suomen aluehallintovirasto,FI,Finlandia
+24h,60.28653,22.28949,309.01,19 de mayo,Pargas,Lounais-Suomen aluehallintovirasto,FI,Finlandia
+24h,58.68235,17.13627,295.63,19 de mayo,Oxelösund,Södermanlands län,SE,Suecia
+24h,58.38467,13.82964,304.38,19 de mayo,Skövde,Västra Götalands län,SE,Suecia
+24h,57.71131,18.8021,308.84,19 de mayo,Gotlands kommun,Gotlands län,SE,Suecia
+24h,56.68987,22.59536,297.69,19 de mayo,Brocēni,Kurzeme,LV,Letonia
+24h,57.06042,9.98149,325.95,19 de mayo,Aalborg,Region Nordjylland,DK,Dinamarca
+24h,53.14201,8.67437,301.85,19 de mayo,Bremen,Bremen,DE,Alemania
+24h,52.17357,14.62566,297.62,19 de mayo,Eisenhüttenstadt,Brandenburg,DE,Alemania
+24h,52.46712,7.31889,313.4,19 de mayo,Lingen (Ems),Niedersachsen,DE,Alemania
+24h,52.49304,4.61483,321.95,19 de mayo,Beverwijk,Noord-Holland,NL,Países Bajos
+24h,52.48302,4.58602,300.81,19 de mayo,Velsen,Noord-Holland,NL,Países Bajos
+24h,52.20755,8.04679,325.24,19 de mayo,Georgsmarienhütte,Niedersachsen,DE,Alemania
+24h,46.81008,-0.13921,296.73,19 de mayo,Parthenay,Nouvelle-Aquitaine,FR,Francia
+24h,43.55368,-5.85776,298.89,19 de mayo,Gozón,Asturias / Asturies,ES,España
+24h,43.52911,-5.72976,302.05,19 de mayo,Gijón/Xixón,Asturias / Asturies,ES,España
+24h,43.34554,-8.43614,300.32,19 de mayo,A Coruña,A Coruña,ES,España
+24h,42.55223,-6.76651,296.46,19 de mayo,Toral de los Vados,León,ES,España
+24h,40.89539,-8.49289,316.41,19 de mayo,São João da Madeira,Aveiro,PT,Portugal
+24h,40.3444,-6.37121,304.31,19 de mayo,Pinofranqueado,Cáceres,ES,España
+24h,40.33997,-6.34857,301.74,19 de mayo,Horcajo,Cáceres,ES,España
+24h,40.29769,-6.34515,327.66,19 de mayo,Torrecilla de los Ángeles,Cáceres,ES,España
+24h,40.30358,-6.47042,313.75,19 de mayo,Descargamaría,Cáceres,ES,España
+24h,40.26753,-6.50472,367,19 de mayo,Santibáñez el Alto,Cáceres,ES,España
+24h,40.26498,-6.51091,367,19 de mayo,Cadalso,Cáceres,ES,España
+24h,40.25108,-6.4782400000000004,341.45,19 de mayo,Hernán-Pérez,Cáceres,ES,España
+24h,39.6876,-8.90632,296.77,19 de mayo,Maceira,Leiria,PT,Portugal
+24h,39.06795,-8.89185,315.23,19 de mayo,Azambuja,Lisboa,PT,Portugal
+24h,38.57793,-6.46276,303.58,19 de mayo,Fuente del Maestre,Badajoz,ES,España
+24h,38.92266,-9.00888,319.23,19 de mayo,"Alhandra, São João dos Montes e Calhandriz",Lisboa,PT,Portugal
+24h,38.62963,-9.07702,311.49,19 de mayo,Seixal,Setúbal,PT,Portugal
+24h,38.50189,-8.93613,304.48,19 de mayo,Setúbal,Setúbal,PT,Portugal
+24h,37.60641,-4.63508,311.98,19 de mayo,Montilla,Córdoba,ES,España
+24h,58.36217,12.37986,299.24,19 de mayo,Vänersborgs kommun,Västra Götalands län,SE,Suecia
+24h,55.82178,13.08084,298.6,19 de mayo,Kävlinge kommun,Skåne län,SE,Suecia
+24h,53.08075,14.2537,309.44,19 de mayo,Schwedt/Oder,Brandenburg,DE,Alemania
+24h,53.52245,9.90622,304.93,19 de mayo,Hamburg,NA,DE,Alemania
+24h,56.31226,-3.721,295.84,19 de mayo,Auchterarder,Alba / Scotland,GB,Reino Unido
+24h,50.57554,13.59727,312.45,19 de mayo,Litvínov,Severozápad,CZ,Rep. Checa
+24h,51.85925,8.03323,298.44,19 de mayo,Ennigerloh,Nordrhein-Westfalen,DE,Alemania
+24h,52.44508,5.83812,319.75,19 de mayo,Elburg,Gelderland,NL,Países Bajos
+24h,53.33952,-1.74988,298.98,19 de mayo,High Peak,England,GB,Reino Unido
+24h,51.16733,4.33522,297.43,19 de mayo,Hoboken,Antwerpen,BE,Bélgica
+24h,49.35683,6.75186,339.79,19 de mayo,Saarlouis,Saarland,DE,Alemania
+24h,49.52499,5.90272,297.28,19 de mayo,Differdange,Canton Esch-sur-Alzette,LU,Luxemburgo
+24h,49.50806,5.96146,298.43,19 de mayo,Esch-sur-Alzette,Canton Esch-sur-Alzette,LU,Luxemburgo
+24h,49.46743,6.00527,299.53,19 de mayo,Rumelange,Canton Esch-sur-Alzette,LU,Luxemburgo
+24h,49.32843,6.1036,300.64,19 de mayo,Florange,Grand Est,FR,Francia
+24h,51.5783,-3.7752,308.64,19 de mayo,Port Talbot,Cymru / Wales,GB,Reino Unido
+24h,51.68365,-5.03115,299.81,19 de mayo,Rhoscrowther,Cymru / Wales,GB,Reino Unido
+24h,48.88836,6.0551,296.62,19 de mayo,Nancy,Grand Est,FR,Francia
+24h,49.47958,0.53589,295.64,19 de mayo,Port-Jérôme-sur-Seine,Normandie,FR,Francia
+24h,48.76731,32.49546,343.64,18 de mayo,Comunidad rural subotsi,Región de Kirovohrad,UA,Ucrania
+24h,47.86911,33.44867,354.36,18 de mayo,Comunidad de la ciudad de Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+24h,47.87214,33.44058,309.74,18 de mayo,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+24h,46.51896,33.06937,301.4,18 de mayo,Velikopanivska Comunidad rural,Región de Kherson,UA,Ucrania
+24h,47.78774,29.01917,296.81,18 de mayo,Ayuntamiento de Rybnitsky,Distrito de Ribnica / Distrito Ribnitsky / Distrito Ribnitsky,MD,Moldavia
+24h,47.78963,28.95252,304.3,18 de mayo,NA,NA,MD,Moldavia
+24h,35.8103,-0.25297,312.45,18 de mayo,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.81533,-0.27262,304.48,18 de mayo,Aïn El Bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ Ein Al -Bayya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,45.10613,34.0177,339.92,18 de mayo,Guardia de asentamiento rural,República Autónoma de Crimea,UA,Ucrania
+24h,46.56939,32.95481,330.4,18 de mayo,Comunidad de la ciudad de Oleshkiv,Región de Kherson,UA,Ucrania
+24h,46.51913,32.7496,367,18 de mayo,Comunidad de la ciudad de Golopristán,Región de Kherson,UA,Ucrania
+24h,46.42645,32.16574,367,18 de mayo,Comunidad rural de Chulakiv,Región de Kherson,UA,Ucrania
+24h,47.62347,34.32595,328.57,18 de mayo,Comunidad de la ciudad de Nikolp,Región de dnipropetrovsk,UA,Ucrania
+24h,49.73927,34.7985,329.87,18 de mayo,Novoselivska Comunidad rural,Poltava,UA,Ucrania
+24h,50.18428,29.18908,325.94,18 de mayo,Comunidad de la ciudad de Korostyshiv,Región de zhytomyr,UA,Ucrania
+24h,52.14989,32.35191,334.19,18 de mayo,Kamenskokhutorsky asentamiento rural,Región de Bryansk,RU,Rusia
+24h,46.53055,33.10719,337.04,18 de mayo,Comunidad Rural de Aniversario,Región de Kherson,UA,Ucrania
+24h,46.51579,31.60339,355.85,18 de mayo,Comunidad de la ciudad de Ochakiv,Región de mykolaiv,UA,Ucrania
+24h,46.85397,31.14808,335.06,18 de mayo,Comunidad de asentamiento de Berezan,Región de mykolaiv,UA,Ucrania
+24h,49.06072,33.03773,336.37,18 de mayo,Greater Andrusivska Comunidad rural,Región de Kirovohrad,UA,Ucrania
+24h,49.34069,32.93873,337.8,18 de mayo,Comunidad de asentamiento gradziano,Poltava,UA,Ucrania
+24h,50.78942,30.7117,344.82,18 de mayo,La comunidad rural de Pyrnovsk,Región de Kyiv,UA,Ucrania
+24h,50.66057,28.57464,331.98,18 de mayo,Comunidad de asentamiento de Khoroshivska,Región de zhytomyr,UA,Ucrania
+24h,52.64956,33.60261,295.74,18 de mayo,Semyachkovskoye asentamiento rural,Región de Bryansk,RU,Rusia
+24h,51.90218,34.84762,336.74,18 de mayo,Consejo de la aldea de Skovorodnevsky,Región de Kursk,RU,Rusia
+24h,49.18242,33.45921,296.92,18 de mayo,Comunidad de Peschansk Village,Poltava,UA,Ucrania
+24h,48.53321,34.61842,299.17,18 de mayo,Kamianske,Región de dnipropetrovsk,UA,Ucrania
+24h,47.93428,33.30999,297.61,18 de mayo,Comunidad del pueblo de Lozuvatsk,Región de dnipropetrovsk,UA,Ucrania
+24h,47.63181,34.32098,300.76,18 de mayo,Comunidad rural de Pokrovsk,Región de dnipropetrovsk,UA,Ucrania
+24h,47.10747,31.66003,317.33,18 de mayo,Comunidad de la aldea de Stepiv,Región de mykolaiv,UA,Ucrania
+24h,44.77375,33.8606,299.9,18 de mayo,Asentamiento de la ciudad Bakhchisaray,República Autónoma de Crimea,UA,Ucrania
+24h,34.72696,33.3182,302.03,18 de mayo,Kalavasos,Lago,CY,Chipre
+24h,59.52825,34.14322,318.56,18 de mayo,Picallavo,Región de Leningrado,RU,Rusia
+24h,47.78891,28.95618,310.21,19 de mayo,NA,NA,MD,Moldavia
+24h,46.51514,33.07124,297.19,19 de mayo,Velikopanivska Comunidad rural,Región de Kherson,UA,Ucrania
+24h,44.77309,33.86171,299.42,19 de mayo,Asentamiento de la ciudad Bakhchisaray,República Autónoma de Crimea,UA,Ucrania
+24h,35.81627,-0.26856,305.54,19 de mayo,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,59.7139,30.29808,295.02,19 de mayo,Pelea,San Petersburgo,RU,Rusia
+24h,59.52835,30.20934,297.27,19 de mayo,Asentamiento rural Novoswest,Región de Leningrado,RU,Rusia
+24h,59.38612,28.4632,314.75,19 de mayo,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+24h,50.04077,34.03966,303.28,19 de mayo,Velikosorochyk Comunidad rural,Poltava,UA,Ucrania
+24h,48.53601,34.6456,331.84,19 de mayo,Kamianske,Región de dnipropetrovsk,UA,Ucrania
+24h,48.73431,33.74539,296.51,19 de mayo,Comunidad de asentamiento de Likhiv,Región de dnipropetrovsk,UA,Ucrania
+24h,47.87406,33.44808,305.86,19 de mayo,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+24h,47.86698,33.43015,296.09,19 de mayo,Comunidad de la ciudad de Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+24h,36.12957,1.24112,315.4,19 de mayo,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
