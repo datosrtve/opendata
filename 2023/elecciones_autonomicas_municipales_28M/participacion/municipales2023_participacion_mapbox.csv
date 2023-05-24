@@ -1,4 +1,4 @@
-cod_mun,municipio,ccaa,provincia,renta_previa,renta,pob,var_anual
+cod_mun,municipio,ccaa,provincia,d_previo,d_actual,pob,variacion
 44001,Ababuj,Aragón,Teruel,42.19,50.77,76,8.580000000000005
 40001,Abades,Castilla y León,Segovia,43,45.39,835,2.3900000000000006
 10001,Abadía,Extremadura,Cáceres,63.24999999999999,61.050000000000004,359,-2.1999999999999886
