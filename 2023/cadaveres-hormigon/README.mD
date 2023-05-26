@@ -3,7 +3,7 @@ Te invitamos a descubrir el proyecto <a href="https://lab.rtve.es/cadaveres-de-h
 <br><br>
 También te animamos a que nos ayudes a hacerlo crecer. ¿Cómo? Mandándonos los edificios a medios construir o los que nunca se han usado pese a haberse terminado. Tienes más detalles <a href="rtve.es/n/2432588" target="_blank">en esta noticia</a>, pero las principales vías de colaboración son:
 <br><br>
-1. Un formulario.
-2. El correo electrónico: datosrtve@rtve.es
-3. El servicio de WhatsApp en el 676676148.
-4. Nuestros perfiles en redes sociales como Twitter, Facebook, Instagram o TikTok.
+1. El correo electrónico: datosrtve@rtve.es
+2. El servicio de WhatsApp en el 676676148.
+3. Nuestros perfiles en redes sociales como Twitter, Facebook, Instagram o TikTok.
+4. Un formulario.
