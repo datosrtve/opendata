@@ -2,39 +2,13 @@ cod_mun,municipio,ccaa,provincia,d_previo,d_actual,pob,variacion
 26153,Torre en Cameros,La Rioja,La Rioja,100,22.22,10,-77.78
 50042,Balconchán,Aragón,Zaragoza,100,29.41,18,-70.59
 44018,Almohaja,Aragón,Teruel,100,35.29,16,-64.71000000000001
-31245,Urzainqui/Urzainki,Navarra,Navarra,56.58,0,85,-56.58
-31128,Isaba/Izaba,Navarra,Navarra,48.42,0,410,-48.42
-31022,Arantza,Navarra,Navarra,47.4,0,591,-47.4
-31199,Oroz-Betelu/Orotz-Betelu,Navarra,Navarra,46.81,0,139,-46.81
-31148,Legaria,Navarra,Navarra,46.739999999999995,0,108,-46.739999999999995
 05189,Poyales del Hoyo,Castilla y León,Ávila,60.42999999999999,13.74,463,-46.68999999999999
-31093,Ezcároz/Ezkaroze,Navarra,Navarra,46.550000000000004,0,305,-46.550000000000004
-40036,Cabezuela,Castilla y León,Segovia,44.64,0,643,-44.64
-31051,Beire,Navarra,Navarra,43.16,0,311,-43.16
-31080,Dicastillo,Navarra,Navarra,43.120000000000005,0,595,-43.120000000000005
 26181,Zarzosa,La Rioja,La Rioja,100,57.14,12,-42.86
-44154,Monroyo,Aragón,Teruel,41.77,0,312,-41.77
-31031,Areso,Navarra,Navarra,41.18,0,270,-41.18
-09294,Quintanilla de la Mata,Castilla y León,Burgos,40.589999999999996,0,117,-40.589999999999996
 26115,Pinillos,La Rioja,La Rioja,100,60,21,-40
-31052,Belascoáin,Navarra,Navarra,39.22,0,121,-39.22
 40144,Navares de las Cuevas,Castilla y León,Segovia,62.5,23.52,22,-38.980000000000004
-31246,Uterga,Navarra,Navarra,38.46,0,165,-38.46
-31263,Zubieta,Navarra,Navarra,38.46,0,296,-38.46
-31058,Auritz/Burguete,Navarra,Navarra,38.12,0,230,-38.12
-31040,Atez/Atetz,Navarra,Navarra,37.63,0,212,-37.63
-09262,Peral de Arlanza,Castilla y León,Burgos,37.5,0,175,-37.5
-31229,Tirapu,Navarra,Navarra,36.84,0,56,-36.84
-31247,Uztárroz/Uztarroze,Navarra,Navarra,36.809999999999995,0,147,-36.809999999999995
-31181,Navascués/Nabaskoze,Navarra,Navarra,35.82,0,118,-35.82
-09394,Trespaderne,Castilla y León,Burgos,35.709999999999994,0,735,-35.709999999999994
 37368,Villasdardo,Castilla y León,Salamanca,58.81999999999999,23.52,23,-35.3
-31099,Etayo,Navarra,Navarra,35.19,0,65,-35.19
-31045,Barásoain,Navarra,Navarra,34.32,0,621,-34.32
-31256,Hiriberri/Villanueva de Aezkoa,Navarra,Navarra,34.02,0,99,-34.02
 26067,Gallinero de Cameros,La Rioja,La Rioja,75,41.17,17,-33.83
 19284,Torremochuela,Castilla-La Mancha,Guadalajara,50,16.66,8,-33.34
-31113,Garde,Navarra,Navarra,33.33,0,134,-33.33
 45080,Illán de Vacas,Castilla-La Mancha,Toledo,33.33,0,3,-33.33
 42131,Nolay,Castilla y León,Soria,47.06,14.28,57,-32.78
 09010,Alcocero de Mola,Castilla y León,Burgos,59.38,27.5,40,-31.880000000000003
@@ -46,7 +20,6 @@ cod_mun,municipio,ccaa,provincia,d_previo,d_actual,pob,variacion
 17105,Mieres,Cataluña,Girona,56.699999999999996,28.88,341,-27.819999999999997
 09083,Castil de Peones,Castilla y León,Burgos,59.260000000000005,32,26,-27.260000000000005
 26086,Ledesma de la Cogolla,La Rioja,La Rioja,100,73.33,16,-26.67
-31212,Sada,Navarra,Navarra,26.56,0,139,-26.56
 47168,Torrecilla de la Torre,Castilla y León,Valladolid,53.13,26.92,34,-26.21
 47223,Villardefrades,Castilla y León,Valladolid,59.330000000000005,33.84,149,-25.490000000000002
 34113,Olea de Boedo,Castilla y León,Palencia,57.49999999999999,32.35,37,-25.14999999999999
@@ -2915,37 +2888,20 @@ cod_mun,municipio,ccaa,provincia,d_previo,d_actual,pob,variacion
 15037,Fisterra,Galicia,A Coruña,36.480000000000004,36.48,4726,-7.105427357601002e-15
 37332,Valdehijaderos,Castilla y León,Salamanca,36.230000000000004,36.23,79,-7.105427357601002e-15
 44020,Alpeñés,Aragón,Teruel,36.36,36.36,20,0
-31021,Aranarache/Aranaratxe,Navarra,Navarra,0,0,71,0
-31034,Aribe,Navarra,Navarra,0,0,36,0
-31047,Bargota,Navarra,Navarra,0,0,256,0
-31059,Burgui/Burgi,Navarra,Navarra,0,0,203,0
 31071,Castillonuevo,Navarra,Navarra,100,100,16,0
 26045,Cellorigo,La Rioja,La Rioja,100,100,9,0
 26048,Cidamón,La Rioja,La Rioja,100,100,23,0
 44094,Cuevas Labradas,Aragón,Teruel,54.47,54.47,133,0
-31090,Eratsun,Navarra,Navarra,0,0,150,0
-31094,Eslava,Navarra,Navarra,0,0,101,0
 19118,Fuembellida,Castilla-La Mancha,Guadalajara,100,100,12,0
 42097,Gormaz,Castilla y León,Soria,28.57,28.57,25,0
-31115,Garralda,Navarra,Navarra,0,0,190,0
-31130,Iturmendi,Navarra,Navarra,0,0,420,0
-31133,Izalzu/Itzaltzu,Navarra,Navarra,0,0,37,0
 19175,Mazarete,Castilla-La Mancha,Guadalajara,40,40,24,0
-31154,Lezaun,Navarra,Navarra,0,0,247,0
 19202,La Olmeda de Jadraque,Castilla-La Mancha,Guadalajara,100,100,14,0
-31195,Orbaizeta,Navarra,Navarra,0,0,191,0
-31197,Orísoain,Navarra,Navarra,0,0,72,0
-31180,Muruzábal,Navarra,Navarra,0,0,261,0
 09327,Rublacedo de Abajo,Castilla y León,Burgos,25,25,28,0
 44203,Salcedillo,Aragón,Teruel,100,100,11,0
 26154,Torremontalbo,La Rioja,La Rioja,100,100,9,0
-31222,Sarriés/Sartze,Navarra,Navarra,0,0,58,0
-31244,Urroz,Navarra,Navarra,0,0,177,0
 26161,Valdemadera,La Rioja,La Rioja,100,100,13,0
-31252,Vidángoz/Bidankoze,Navarra,Navarra,0,0,80,0
 42206,Villanueva de Gormaz,Castilla y León,Soria,0,0,8,0
 26173,Villarroya,La Rioja,La Rioja,100,100,5,0
-09480,Zael,Castilla y León,Burgos,0,0,121,0
 14017,La Carlota,Andalucía,Córdoba,35.199999999999996,35.2,14324,7.105427357601002e-15
 17065,Esponellà,Cataluña,Girona,49.4,49.41,489,0.00999999999999801
 39034,Lamasón,Cantabria,Cantabria,44.57,44.58,258,0.00999999999999801
@@ -8130,3 +8086,47 @@ cod_mun,municipio,ccaa,provincia,d_previo,d_actual,pob,variacion
 31190,Olejua,Navarra,Navarra,29.549999999999997,97.67,49,68.12
 44142,Maicas,Aragón,Teruel,3.3300000000000005,71.87,31,68.54
 19270,Tordelrábano,Castilla-La Mancha,Guadalajara,29.17,100,12,70.83
+31021,Aranarache/Aranaratxe,Navarra,Navarra,0,NA,71,NA
+31022,Arantza,Navarra,Navarra,47.4,NA,591,NA
+31031,Areso,Navarra,Navarra,41.18,NA,270,NA
+31034,Aribe,Navarra,Navarra,0,NA,36,NA
+31040,Atez/Atetz,Navarra,Navarra,37.63,NA,212,NA
+31058,Auritz/Burguete,Navarra,Navarra,38.12,NA,230,NA
+31045,Barásoain,Navarra,Navarra,34.32,NA,621,NA
+31047,Bargota,Navarra,Navarra,0,NA,256,NA
+31051,Beire,Navarra,Navarra,43.16,NA,311,NA
+31052,Belascoáin,Navarra,Navarra,39.22,NA,121,NA
+31059,Burgui/Burgi,Navarra,Navarra,0,NA,203,NA
+40036,Cabezuela,Castilla y León,Segovia,44.64,NA,643,NA
+31080,Dicastillo,Navarra,Navarra,43.120000000000005,NA,595,NA
+31090,Eratsun,Navarra,Navarra,0,NA,150,NA
+31094,Eslava,Navarra,Navarra,0,NA,101,NA
+31099,Etayo,Navarra,Navarra,35.19,NA,65,NA
+31093,Ezcároz/Ezkaroze,Navarra,Navarra,46.550000000000004,NA,305,NA
+31113,Garde,Navarra,Navarra,33.33,NA,134,NA
+31115,Garralda,Navarra,Navarra,0,NA,190,NA
+31256,Hiriberri/Villanueva de Aezkoa,Navarra,Navarra,34.02,NA,99,NA
+31128,Isaba/Izaba,Navarra,Navarra,48.42,NA,410,NA
+31130,Iturmendi,Navarra,Navarra,0,NA,420,NA
+31133,Izalzu/Itzaltzu,Navarra,Navarra,0,NA,37,NA
+31148,Legaria,Navarra,Navarra,46.739999999999995,NA,108,NA
+31154,Lezaun,Navarra,Navarra,0,NA,247,NA
+44154,Monroyo,Aragón,Teruel,41.77,NA,312,NA
+31181,Navascués/Nabaskoze,Navarra,Navarra,35.82,NA,118,NA
+31195,Orbaizeta,Navarra,Navarra,0,NA,191,NA
+31197,Orísoain,Navarra,Navarra,0,NA,72,NA
+31180,Muruzábal,Navarra,Navarra,0,NA,261,NA
+09262,Peral de Arlanza,Castilla y León,Burgos,37.5,NA,175,NA
+31199,Oroz-Betelu/Orotz-Betelu,Navarra,Navarra,46.81,NA,139,NA
+09294,Quintanilla de la Mata,Castilla y León,Burgos,40.589999999999996,NA,117,NA
+31212,Sada,Navarra,Navarra,26.56,NA,139,NA
+31229,Tirapu,Navarra,Navarra,36.84,NA,56,NA
+31222,Sarriés/Sartze,Navarra,Navarra,0,NA,58,NA
+09394,Trespaderne,Castilla y León,Burgos,35.709999999999994,NA,735,NA
+31244,Urroz,Navarra,Navarra,0,NA,177,NA
+31246,Uterga,Navarra,Navarra,38.46,NA,165,NA
+31245,Urzainqui/Urzainki,Navarra,Navarra,56.58,NA,85,NA
+31247,Uztárroz/Uztarroze,Navarra,Navarra,36.809999999999995,NA,147,NA
+31252,Vidángoz/Bidankoze,Navarra,Navarra,0,NA,80,NA
+09480,Zael,Castilla y León,Burgos,0,NA,121,NA
+31263,Zubieta,Navarra,Navarra,38.46,NA,296,NA
