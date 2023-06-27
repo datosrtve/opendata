@@ -1,718 +1,911 @@
 tipo,latitude,longitude,bright,date,admin2,admin3,country_code,country_es
-48h,64.66226,21.27868,312.2,11 de junio,Skellefteå kommun,Västerbottens län,SE,Suecia
-48h,62.54325,30.151,325.58,11 de junio,Joensuu,Itä-Suomen aluehallintovirasto,FI,Finlandia
-48h,62.59297,25.75127,295.47,11 de junio,Äänekoski,Länsi- ja Sisä-Suomen aluehallintovirasto,FI,Finlandia
-48h,60.28837,22.29196,308.56,11 de junio,Pargas,Lounais-Suomen aluehallintovirasto,FI,Finlandia
-48h,60.49287,15.45397,305.29,11 de junio,Borlänge,Dalarnas län,SE,Suecia
-48h,58.68276,17.12839,297.27,11 de junio,Oxelösund,Södermanlands län,SE,Suecia
-48h,58.08625,11.82623,299.6,11 de junio,Stenungsund,Västra Götalands län,SE,Suecia
-48h,57.71036,18.80697,308.25,11 de junio,Gotlands kommun,Gotlands län,SE,Suecia
-48h,56.93687,24.16041,329.53,11 de junio,Rīga,Vidzeme,LV,Letonia
-48h,56.42853,27.57608,308.94,11 de junio,Stoļerova,Latgale,LV,Letonia
-48h,57.06496,9.97674,308.08,11 de junio,Aalborg,Region Nordjylland,DK,Dinamarca
-48h,55.31108,25.75117,303.87,11 de junio,Paisetė II,Utenos rajono savivaldybė,LT,Lituania
-48h,53.69982,18.9231,298.07,11 de junio,Kwidzyn,województwo pomorskie,PL,Polonia
-48h,53.87754,11.01795,320.98,11 de junio,Stepenitztal,Mecklenburg-Vorpommern,DE,Alemania
-48h,53.8735,9.58319,296.5,11 de junio,Krempermarsch,Schleswig-Holstein,DE,Alemania
-48h,53.23221,20.68392,319.03,11 de junio,gmina Dzierzgowo,województwo mazowieckie,PL,Polonia
-48h,53.51325,10.03876,298.73,11 de junio,Hamburg,NA,DE,Alemania
-48h,53.34758,13.43476,299.57,11 de junio,Feldberger Seenlandschaft,Mecklenburg-Vorpommern,DE,Alemania
-48h,52.56544,7.30171,305.88,11 de junio,Lingen (Ems),Niedersachsen,DE,Alemania
-48h,52.40271,12.49747,301.33,11 de junio,Brandenburg an der Havel,Brandenburg,DE,Alemania
-48h,51.56876,23.30787,310.81,11 de junio,gmina Wyryki,województwo lubelskie,PL,Polonia
-48h,52.35755,9.88965,299.01,11 de junio,Hannover,Niedersachsen,DE,Alemania
-48h,52.35154,9.88945,296.99,11 de junio,Sehnde,Niedersachsen,DE,Alemania
-48h,52.17453,7.88692,297.42,11 de junio,Lengerich,Nordrhein-Westfalen,DE,Alemania
-48h,52.16593,10.41898,305.94,11 de junio,Salzgitter,Niedersachsen,DE,Alemania
-48h,51.13844,23.55445,302.33,11 de junio,gmina Chełm,województwo lubelskie,PL,Polonia
-48h,51.68773,15.97685,328.65,11 de junio,Głogów,województwo dolnośląskie,PL,Polonia
-48h,51.68727,15.98448,335.8,11 de junio,gmina Żukowice,województwo dolnośląskie,PL,Polonia
-48h,51.76931,8.05336,304.14,11 de junio,Beckum,Nordrhein-Westfalen,DE,Alemania
-48h,50.92867,21.67785,301.45,11 de junio,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
-48h,51.10654,18.94213,301.8,11 de junio,gmina Działoszyn,województwo łódzkie,PL,Polonia
-48h,51.50115,6.72016,311.45,11 de junio,Duisburg,Nordrhein-Westfalen,DE,Alemania
-48h,51.17773,16.11326,301.94,11 de junio,NA,województwo dolnośląskie,PL,Polonia
-48h,50.80697,20.53,297.5,11 de junio,gmina Nowiny,województwo świętokrzyskie,PL,Polonia
-48h,50.82894,20.27568,308.86,11 de junio,Małogoszcz,województwo świętokrzyskie,PL,Polonia
-48h,51.26926,11.65918,310.44,11 de junio,Unstruttal,Sachsen-Anhalt,DE,Alemania
-48h,50.49021,19.46733,297.18,11 de junio,Zawiercie,województwo śląskie,PL,Polonia
-48h,50.53596,17.9784,311.94,11 de junio,gmina Gogolin,województwo opolskie,PL,Polonia
-48h,50.34677,19.29926,299.38,11 de junio,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-48h,50.41952,18.14516,297.85,11 de junio,Zdzieszowice,województwo opolskie,PL,Polonia
-48h,50.34336,18.87114,295.98,11 de junio,Bytom,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-48h,50.76559,5.66968,300.9,11 de junio,Visé,Liège,BE,Bélgica
-48h,50.33482,18.83052,308.4,11 de junio,Zabrze,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-48h,50.35518,16.14,295.47,11 de junio,Nové Město nad Metují,Královéhradecký kraj,CZ,Rep. Checa
-48h,50.04046,18.48458,298.81,11 de junio,Radlin,województwo śląskie,PL,Polonia
-48h,49.7832,18.31969,305.43,11 de junio,Vratimov,Moravskoslezsko,CZ,Rep. Checa
-48h,49.95557,9.765,297.81,11 de junio,Karlstadt,Bayern,DE,Alemania
-48h,49.52265,5.90673,310.23,11 de junio,Differdange,Canton Esch-sur-Alzette,LU,Luxemburgo
-48h,49.21587,16.7755,297.2,11 de junio,okres Brno-venkov,Jihovýchod,CZ,Rep. Checa
-48h,49.50268,5.95746,299.63,11 de junio,Esch-sur-Alzette,Canton Esch-sur-Alzette,LU,Luxemburgo
-48h,49.35826,6.74528,308.21,11 de junio,Dillingen/Saar,Saarland,DE,Alemania
-48h,49.35148,6.74528,299.54,11 de junio,Saarlouis,Saarland,DE,Alemania
-48h,49.25222,5.82936,297.46,11 de junio,Val-de-Briey,Grand Est,FR,Francia
-48h,48.2839,14.32895,322.42,11 de junio,Linz,Oberösterreich,AT,Austria
-48h,48.33511,9.73424,300.77,11 de junio,Gemeindeverwaltungsverband Allmendingen,Baden-Württemberg,DE,Alemania
-48h,45.95304,25.28434,303.01,11 de junio,Cuciulata,Brașov,RO,Rumanía
-48h,47.17675,7.56084,297.62,11 de junio,Bezirk Wasseramt,Solothurn,CH,Suiza
-48h,47.06908,8.26754,299.3,11 de junio,Luzern,Luzern,CH,Suiza
-48h,45.95373,22.87051,298.45,11 de junio,Chișcădaga,Hunedoara,RO,Rumanía
-48h,45.11964,27.36065,296.48,11 de junio,Mircea Vodă,Brăila,RO,Rumanía
-48h,45.12376,25.41989,307.87,11 de junio,Fieni,Dâmbovița,RO,Rumanía
-48h,44.23912,28.311,300.98,11 de junio,Medgidia,Constanța,RO,Rumanía
-48h,45.45944,10.45779,297.92,11 de junio,Lonato del Garda,Lombardia,IT,Italia
-48h,44.68267,10.06696,296.55,11 de junio,Solignano,Emilia-Romagna,IT,Italia
-48h,41.56526,32.42937,303.56,11 de junio,Bartın Merkez,Bartın,TR,Turquía
-48h,41.26845,31.42873,298.43,11 de junio,Ereğli,Zonguldak,TR,Turquía
-48h,41.25877,31.43053,299.39,11 de junio,Gülüç,Zonguldak,TR,Turquía
-48h,41.63113,27.68621,299.98,11 de junio,Vize,Kırklareli,TR,Turquía
-48h,41.79634,26.70411,304.28,11 de junio,Lalapaşa,Edirne,TR,Turquía
-48h,41.63662,27.50566,296.11,11 de junio,Pınarhisar,Kırklareli,TR,Turquía
-48h,43.44883,4.89279,302.15,11 de junio,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-48h,41.07987,28.80841,304.84,11 de junio,Başakşehir,İstanbul,TR,Turquía
-48h,41.02208,28.55447,308.92,11 de junio,Büyükçekmece,İstanbul,TR,Turquía
-48h,40.75915,29.76098,301.38,11 de junio,Körfez,Kocaeli,TR,Turquía
-48h,40.78386,29.5326,297.6,11 de junio,Dilovası,Kocaeli,TR,Turquía
-48h,40.80069,29.37899,305.12,11 de junio,Gebze,Kocaeli,TR,Turquía
-48h,42.9309,10.53438,303.87,11 de junio,Piombino,Toscana,IT,Italia
-48h,40.26358,30.04312,297.66,11 de junio,Bilecik Merkez,Bilecik,TR,Turquía
-48h,42.59958,9.44511,303.15,11 de junio,Bastia,Corse,FR,Francia
-48h,40.44397,27.14439,298.64,11 de junio,Biga,Çanakkale,TR,Turquía
-48h,40.51524,17.1916,296.96,11 de junio,Statte,Puglia,IT,Italia
-48h,38.75386,26.9505,299.02,11 de junio,Aliağa,İzmir,TR,Turquía
-48h,41.52868,1.80926,297.86,11 de junio,els Hostalets de Pierola,Barcelona,ES,España
-48h,41.31292,1.6649,315.75,11 de junio,Santa Margarida i els Monjos,Barcelona,ES,España
-48h,41.89481,-5.59545,296.7,11 de junio,San Agustín del Pozo,Zamora,ES,España
-48h,39.99524,-2.4731,295,11 de junio,Huerta de la Obispalía,Cuenca,ES,España
-48h,39.93631,-3.74512,309.14,11 de junio,Yepes,Toledo,ES,España
-48h,38.66733,-4.04838,297.49,11 de junio,Puertollano,Ciudad Real,ES,España
-48h,38.92217,-9.01061,310.27,11 de junio,Sobralinho,Lisboa,PT,Portugal
-48h,38.3792,-6.48223,303.18,11 de junio,Alconera,Badajoz,ES,España
-48h,38.63091,-9.07507,301.56,11 de junio,Seixal,Setúbal,PT,Portugal
-48h,38.50045,-8.93346,301.9,11 de junio,Setúbal,Setúbal,PT,Portugal
-48h,37.66685,-5.15984,328.18,11 de junio,Écija,Sevilla,ES,España
-48h,37.66749,-5.1643,309.45,11 de junio,Fuente Carreteros,Córdoba,ES,España
-48h,37.35888,-5.865,302.58,11 de junio,Alcalá de Guadaíra,Sevilla,ES,España
-48h,51.57241,-3.77147,296.09,11 de junio,Port Talbot,Cymru / Wales,GB,Reino Unido
-48h,65.77133,24.19065,327.49,11 de junio,Tornio,Lapin aluehallintovirasto,FI,Finlandia
-48h,65.56611,22.2173,328.44,11 de junio,Luleå,Norrbottens län,SE,Suecia
-48h,60.80745,5.01983,297.71,11 de junio,Alver,Vestland,NO,Noruega
-48h,59.64926,6.36189,305.9,11 de junio,Sauda,Rogaland,NO,Noruega
-48h,58.36071,12.37917,328.23,11 de junio,Vänersborgs kommun,Västra Götalands län,SE,Suecia
-48h,58.34586,11.42656,299.35,11 de junio,Lysekils kommun,Västra Götalands län,SE,Suecia
-48h,58.27901,6.89457,307.54,11 de junio,Kvinesdal,Agder,NO,Noruega
-48h,57.41682,-4.11557,297.82,11 de junio,Daviot,Alba / Scotland,GB,Reino Unido
-48h,53.48285,13.82928,302.33,11 de junio,Uckerland,Brandenburg,DE,Alemania
-48h,52.48774,13.8407,298.3,11 de junio,Rüdersdorf bei Berlin,Brandenburg,DE,Alemania
-48h,52.17199,14.6445,303.11,11 de junio,Eisenhüttenstadt,Brandenburg,DE,Alemania
-48h,51.1796,16.10993,320.01,11 de junio,Legnica,województwo dolnośląskie,PL,Polonia
-48h,50.42223,18.14668,299.03,11 de junio,Leśnica,województwo opolskie,PL,Polonia
-48h,51.81402,11.75441,299.28,11 de junio,Bernburg,Sachsen-Anhalt,DE,Alemania
-48h,49.79452,18.32583,301.7,11 de junio,Ostrava,Moravskoslezsko,CZ,Rep. Checa
-48h,53.73919,-0.23452,298.26,11 de junio,Hedon,England,GB,Reino Unido
-48h,53.63543,-0.24816,297.66,11 de junio,South Killingholme,England,GB,Reino Unido
-48h,52.21041,8.04579,305.48,11 de junio,Georgsmarienhütte,Niedersachsen,DE,Alemania
-48h,53.58857,-0.61925,304.03,11 de junio,Scunthorpe,England,GB,Reino Unido
-48h,51.36495,10.48193,302.21,11 de junio,Deuna,Thüringen,DE,Alemania
-48h,51.85788,8.03265,305.67,11 de junio,Ennigerloh,Nordrhein-Westfalen,DE,Alemania
-48h,49.89684,15.63989,297.92,11 de junio,okres Chrudim,Pardubický kraj,CZ,Rep. Checa
-48h,52.49749,4.61123,311.45,11 de junio,Beverwijk,Noord-Holland,NL,Países Bajos
-48h,52.48424,4.58617,335.3,11 de junio,Velsen,Noord-Holland,NL,Países Bajos
-48h,50.65493,11.43597,311.24,11 de junio,Kamsdorf,Thüringen,DE,Alemania
-48h,51.60633,7.02221,306.53,11 de junio,Gelsenkirchen,Nordrhein-Westfalen,DE,Alemania
-48h,51.9441,4.10884,306.18,11 de junio,Rotterdam,Zuid-Holland,NL,Países Bajos
-48h,52.37394,1.34771,317.31,11 de junio,Mid Suffolk,England,GB,Reino Unido
-48h,48.45811,17.19198,295.22,11 de junio,Rohožník,Bratislavský kraj,SK,Eslovaquia
-48h,50.87702,6.92524,299.39,11 de junio,Köln,Nordrhein-Westfalen,DE,Alemania
-48h,51.22635,5.14034,304.75,11 de junio,Dessel,Antwerpen,BE,Bélgica
-48h,51.3532,4.28153,301.29,11 de junio,Antwerpen,Antwerpen,BE,Bélgica
-48h,51.183,3.81394,312.39,11 de junio,Zelzate,Oost-Vlaanderen,BE,Bélgica
-48h,51.17418,3.80395,328.7,11 de junio,Gent,Oost-Vlaanderen,BE,Bélgica
-48h,51.071040000000004,4.35193,304.59,11 de junio,Willebroek,Antwerpen,BE,Bélgica
-48h,50.57197,5.36818,305.1,11 de junio,Stockay,Liège,BE,Bélgica
-48h,51.04616,2.29533,327.38,11 de junio,Grande-Synthe,Hauts-de-France,FR,Francia
-48h,51.03823,2.28052,301.85,11 de junio,Dunkerque,Hauts-de-France,FR,Francia
-48h,50.97004,1.89522,305.93,11 de junio,Calais,Hauts-de-France,FR,Francia
-48h,50.40962,4.42861,307.75,11 de junio,Charleroi,Hainaut,BE,Bélgica
-48h,50.47249,3.99311,302.87,11 de junio,Mons,Hainaut,BE,Bélgica
-48h,50.69983,2.11325,311.07,11 de junio,Saint-Omer,Hauts-de-France,FR,Francia
-48h,50.62694,2.46673,305.98,11 de junio,Béthune,Hauts-de-France,FR,Francia
-48h,48.78052,10.69954,295.25,11 de junio,Harburg (Schwaben),Bayern,DE,Alemania
-48h,50.33723,3.494,311.76,11 de junio,Valenciennes,Hauts-de-France,FR,Francia
-48h,48.51198,10.85221,298.82,11 de junio,Meitingen,Bayern,DE,Alemania
-48h,49.05846,8.33055,302.8,11 de junio,Karlsruhe,Baden-Württemberg,DE,Alemania
-48h,49.50555,5.92983,309.33,11 de junio,Belvaux,Canton Esch-sur-Alzette,LU,Luxemburgo
-48h,49.46621,6.00657,304.72,11 de junio,Rumelange,Canton Esch-sur-Alzette,LU,Luxemburgo
-48h,49.32487,6.09139,299.62,11 de junio,Thionville,Grand Est,FR,Francia
-48h,47.46752,12.62877,309.75,11 de junio,Gemeinde Hochfilzen,Tirol,AT,Austria
-48h,49.09092,5.95013,303.83,11 de junio,Rezonville-Vionville,Grand Est,FR,Francia
-48h,48.59949,7.82519,308.64,11 de junio,Kehl,Baden-Württemberg,DE,Alemania
-48h,48.71715,5.68186,296.48,11 de junio,Commercy,Grand Est,FR,Francia
-48h,48.61026,6.1194,310.29,11 de junio,Nancy,Grand Est,FR,Francia
-48h,48.77005,4.565,305.14,11 de junio,Vitry-le-François,Grand Est,FR,Francia
-48h,46.23095,13.0782,297.53,11 de junio,Osoppo,Friuli-Venezia Giulia,IT,Italia
-48h,46.07053,13.62807,298.66,11 de junio,Gorenja vas,NA,SI,Eslovenia
-48h,47.41332,8.16048,298.4,11 de junio,Möriken-Wildegg,Aargau,CH,Suiza
-48h,47.07317,8.26385,295.7,11 de junio,Emmen,Luzern,CH,Suiza
-48h,48.10784,-1.03467,302.58,11 de junio,Laval,Pays de la Loire,FR,Francia
-48h,45.68226,9.46465,296.29,11 de junio,Calusco d'Adda,Lombardia,IT,Italia
-48h,45.6412,9.60534,305.59,11 de junio,Dalmine,Lombardia,IT,Italia
-48h,45.37269,10.33474,304.89,11 de junio,Viadana,Lombardia,IT,Italia
-48h,47.31665,-2.05429,300.45,11 de junio,Saint-Nazaire,Pays de la Loire,FR,Francia
-48h,43.31778,-3.00455,300.89,11 de junio,Leioa,Bizkaia,ES,España
-48h,40.56156,9.6689,300.24,11 de junio,Thiniscole/Siniscola,Sardigna/Sardegna,IT,Italia
-48h,43.54086,-5.82813,328.44,11 de junio,Carreño,Asturias / Asturies,ES,España
-48h,43.52592,-5.73362,295.57,11 de junio,Gijón/Xixón,Asturias / Asturies,ES,España
-48h,54.97531,23.59405,335.22,11 de junio,Riogliškiai,Kauno rajono savivaldybė,LT,Lituania
-48h,60.13831,16.19207,298.29,12 de junio,Avesta,Dalarnas län,SE,Suecia
-48h,58.91984,17.97568,303.94,12 de junio,Nynäshamn,Stockholms län,SE,Suecia
-48h,58.35409,0.86475,339.98,12 de junio,NA,NA,NA,Mundo
-48h,58.68583,17.13153,296.86,12 de junio,Oxelösund,Södermanlands län,SE,Suecia
-48h,57.71136,18.80858,297.65,12 de junio,Gotlands kommun,Gotlands län,SE,Suecia
-48h,56.69031,22.59406,296.69,12 de junio,Brocēni,Kurzeme,LV,Letonia
-48h,59.64543,6.36428,306.23,12 de junio,Sauda,Rogaland,NO,Noruega
-48h,59.12756,9.61855,310.37,12 de junio,Porsgrunn,Vestfold og Telemark,NO,Noruega
-48h,58.36031,12.37901,302.64,12 de junio,Vänersborgs kommun,Västra Götalands län,SE,Suecia
-48h,58.34626,11.42434,304.13,12 de junio,Lysekils kommun,Västra Götalands län,SE,Suecia
-48h,56.84183,15.74805,327.62,12 de junio,Nybro kommun,Kalmar län,SE,Suecia
-48h,58.27826,6.89187,332.95,12 de junio,Kvinesdal,Agder,NO,Noruega
-48h,57.06058,9.98079,327.22,12 de junio,Aalborg,Region Nordjylland,DK,Dinamarca
-48h,52.29713,20.9218,300.01,12 de junio,Warszawa,województwo mazowieckie,PL,Polonia
-48h,51.14079,23.55199,297.83,12 de junio,gmina Chełm,województwo lubelskie,PL,Polonia
-48h,56.01655,-3.69004,295.38,12 de junio,Polmont,Alba / Scotland,GB,Reino Unido
-48h,51.35452,21.15636,296.2,12 de junio,Radom,województwo mazowieckie,PL,Polonia
-48h,50.93413,21.67647,297.71,12 de junio,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
-48h,50.93262,21.68131,296.14,12 de junio,gmina Tarłów,województwo świętokrzyskie,PL,Polonia
-48h,53.51265,10.03913,330.88,12 de junio,Hamburg,NA,DE,Alemania
-48h,50.80962,20.5358,302.25,12 de junio,gmina Nowiny,województwo świętokrzyskie,PL,Polonia
-48h,52.49049,13.84108,297.88,12 de junio,Rüdersdorf bei Berlin,Brandenburg,DE,Alemania
-48h,51.10722,18.9418,301.01,12 de junio,gmina Działoszyn,województwo łódzkie,PL,Polonia
-48h,52.17165,14.63861,298.82,12 de junio,Eisenhüttenstadt,Brandenburg,DE,Alemania
-48h,53.14068,8.68069,299.9,12 de junio,Bremen,Bremen,DE,Alemania
-48h,52.40004,12.49693,307.36,12 de junio,Brandenburg an der Havel,Brandenburg,DE,Alemania
-48h,50.49468,19.45844,300.66,12 de junio,Zawiercie,województwo śląskie,PL,Polonia
-48h,51.0655,17.03786,327.74,12 de junio,Wrocław,województwo dolnośląskie,PL,Polonia
-48h,50.34068,19.3363,297.35,12 de junio,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-48h,50.07456,20.09883,295.67,12 de junio,Kraków,województwo małopolskie,PL,Polonia
-48h,50.33216,18.8347,295.8,12 de junio,Zabrze,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-48h,50.53601,17.98063,308.38,12 de junio,gmina Gogolin,województwo opolskie,PL,Polonia
-48h,52.35382,9.88892,307.49,12 de junio,Sehnde,Niedersachsen,DE,Alemania
-48h,53.8892,-2.38213,300.08,12 de junio,Clitheroe,England,GB,Reino Unido
-48h,50.4168,18.14586,297.22,12 de junio,Zdzieszowice,województwo opolskie,PL,Polonia
-48h,52.16506,10.4322,306.2,12 de junio,Salzgitter,Niedersachsen,DE,Alemania
-48h,51.81396,11.75416,298.5,12 de junio,Bernburg,Sachsen-Anhalt,DE,Alemania
-48h,53.56768,-0.59694,306.3,12 de junio,Scunthorpe,England,GB,Reino Unido
-48h,52.56509,7.31044,330.48,12 de junio,Lingen (Ems),Niedersachsen,DE,Alemania
-48h,50.03722,18.48782,300.75,12 de junio,Radlin,województwo śląskie,PL,Polonia
-48h,52.20771,8.04828,328.1,12 de junio,Georgsmarienhütte,Niedersachsen,DE,Alemania
-48h,52.17591,7.89018,307.51,12 de junio,Lengerich,Nordrhein-Westfalen,DE,Alemania
-48h,49.67767,18.66605,333.11,12 de junio,Třinec,Moravskoslezsko,CZ,Rep. Checa
-48h,52.49535,4.61404,317.68,12 de junio,Beverwijk,Noord-Holland,NL,Países Bajos
-48h,52.48528,4.58595,312.09,12 de junio,Velsen,Noord-Holland,NL,Países Bajos
-48h,51.27076,11.65857,301.89,12 de junio,Unstruttal,Sachsen-Anhalt,DE,Alemania
-48h,51.8581,8.02967,317.75,12 de junio,Ennigerloh,Nordrhein-Westfalen,DE,Alemania
-48h,51.36362,10.4835,301.59,12 de junio,Deuna,Thüringen,DE,Alemania
-48h,48.62185,21.19121,295.21,12 de junio,Košice,Košický kraj,SK,Eslovaquia
-48h,48.60794,21.17483,298.59,12 de junio,Veľká Ida,Košický kraj,SK,Eslovaquia
-48h,51.76665,8.05421,317.02,12 de junio,Beckum,Nordrhein-Westfalen,DE,Alemania
-48h,51.61803,8.51267,309.38,12 de junio,Geseke,Nordrhein-Westfalen,DE,Alemania
-48h,51.59647,8.33525,302.97,12 de junio,Erwitte,Nordrhein-Westfalen,DE,Alemania
-48h,48.64521,20.22048,296,12 de junio,Jelšava,Banskobystrický kraj,SK,Eslovaquia
-48h,49.89735,15.64351,298.03,12 de junio,okres Chrudim,Pardubický kraj,CZ,Rep. Checa
-48h,51.60441,7.01965,336.15,12 de junio,Gelsenkirchen,Nordrhein-Westfalen,DE,Alemania
-48h,49.0349,18.29413,296.95,12 de junio,Ladce,Trenčiansky kraj,SK,Eslovaquia
-48h,51.51915,6.97074,305.87,12 de junio,Bottrop,Nordrhein-Westfalen,DE,Alemania
-48h,51.88189,4.36724,308.91,12 de junio,Rotterdam,Zuid-Holland,NL,Países Bajos
-48h,51.4325,7.32886,303.12,12 de junio,Witten,Nordrhein-Westfalen,DE,Alemania
-48h,50.65667,11.43761,316.06,12 de junio,Kamsdorf,Thüringen,DE,Alemania
-48h,51.50519,6.73805,324.92,12 de junio,Duisburg,Nordrhein-Westfalen,DE,Alemania
-48h,51.29882,7.00977,300.61,12 de junio,Wülfrath,Nordrhein-Westfalen,DE,Alemania
-48h,50.91697,8.01897,298.61,12 de junio,Siegen,Nordrhein-Westfalen,DE,Alemania
-48h,51.22879,5.13912,299.97,12 de junio,Dessel,Antwerpen,BE,Bélgica
-48h,50.87523,6.9205,301.84,12 de junio,Köln,Nordrhein-Westfalen,DE,Alemania
-48h,51.34162,3.78129,300.94,12 de junio,Terneuzen,Zeeland,NL,Países Bajos
-48h,51.26704,4.32506,307.2,12 de junio,Antwerpen,Antwerpen,BE,Bélgica
-48h,50.95839,5.79615,311.13,12 de junio,Geleen,Limburg,NL,Países Bajos
-48h,51.18182,3.81474,309.58,12 de junio,Zelzate,Oost-Vlaanderen,BE,Bélgica
-48h,51.17259,3.80561,327.01,12 de junio,Gent,Oost-Vlaanderen,BE,Bélgica
-48h,48.45765,17.1954,298.12,12 de junio,Rohožník,Bratislavský kraj,SK,Eslovaquia
-48h,51.06885,4.3526,307.43,12 de junio,Willebroek,Antwerpen,BE,Bélgica
-48h,50.76443,5.67298,318.97,12 de junio,Visé,Liège,BE,Bélgica
-48h,50.38784,7.59363,297.12,12 de junio,Koblenz,Rheinland-Pfalz,DE,Alemania
-48h,50.57048,5.37007,306.73,12 de junio,Engis,Liège,BE,Bélgica
-48h,49.6582,8.36806,302.52,12 de junio,Worms,Rheinland-Pfalz,DE,Alemania
-48h,48.28494,14.33163,297.9,12 de junio,Linz,NA,AT,Austria
-48h,49.5162,8.41884,305.18,12 de junio,Ludwigshafen am Rhein,Rheinland-Pfalz,DE,Alemania
-48h,46.93695,18.95156,295.95,12 de junio,Dunaújváros,Fejér vármegye,HU,Hungría
-48h,48.77618,10.70068,299.68,12 de junio,Harburg (Schwaben),Bayern,DE,Alemania
-48h,49.52464,5.90541,316.76,12 de junio,Differdange,Canton Esch-sur-Alzette,LU,Luxemburgo
-48h,49.35807,6.74639,321.57,12 de junio,Dillingen/Saar,Saarland,DE,Alemania
-48h,49.35719,6.75164,314.56,12 de junio,Saarlouis,Saarland,DE,Alemania
-48h,49.46722,6.00512,314.12,12 de junio,Rumelange,Canton Esch-sur-Alzette,LU,Luxemburgo
-48h,48.5116,10.85641,329.26,12 de junio,Meitingen,Bayern,DE,Alemania
-48h,49.0647,6.31642,301.82,12 de junio,Metz,Grand Est,FR,Francia
-48h,48.37015,9.7391,301.28,12 de junio,Schelklingen,Baden-Württemberg,DE,Alemania
-48h,48.33301,9.73539,308.59,12 de junio,Gemeindeverwaltungsverband Allmendingen,Baden-Württemberg,DE,Alemania
-48h,48.88385,6.05675,308.27,12 de junio,Nancy,Grand Est,FR,Francia
-48h,48.69205,6.96646,297.84,12 de junio,Sarrebourg-Château-Salins,Grand Est,FR,Francia
-48h,47.46751,12.62926,304.42,12 de junio,Gemeinde Hochfilzen,Tirol,AT,Austria
-48h,49.47578,0.5354,301.23,12 de junio,Port-Jérôme-sur-Seine,Normandie,FR,Francia
-48h,48.71771,5.68394,300.68,12 de junio,Commercy,Grand Est,FR,Francia
-48h,48.76961,4.56689,307.21,12 de junio,Vitry-le-François,Grand Est,FR,Francia
-48h,47.63111,7.23522,297.68,12 de junio,Altkirch,Grand Est,FR,Francia
-48h,47.41284,8.1594,297.41,12 de junio,Möriken-Wildegg,Aargau,CH,Suiza
-48h,46.22919,13.07733,303.91,12 de junio,Osoppo,Friuli-Venezia Giulia,IT,Italia
-48h,46.06814,13.62708,299.69,12 de junio,Gorenja vas,NA,SI,Eslovenia
-48h,47.06982,8.26491,321.78,12 de junio,Emmen,Luzern,CH,Suiza
-48h,47.17501,7.56089,327.07,12 de junio,Bezirk Wasseramt,Solothurn,CH,Suiza
-48h,47.58812,0.32979,298.78,12 de junio,Chinon,Centre-Val de Loire,FR,Francia
-48h,47.31773,-2.05905,296.37,12 de junio,Saint-Nazaire,Pays de la Loire,FR,Francia
-48h,43.54168,16.44073,302.87,12 de junio,Grad Kaštela,Splitsko-dalmatinska županija,HR,Croacia
-48h,45.91302,5.82288,301.37,12 de junio,Belley,Auvergne-Rhône-Alpes,FR,Francia
-48h,43.36657,12.54341,298.7,12 de junio,Gubbio,Umbria,IT,Italia
-48h,42.57358,12.67758,298.31,12 de junio,Terni,Umbria,IT,Italia
-48h,43.80369,4.62104,300.84,12 de junio,Beaucaire,Occitanie,FR,Francia
-48h,43.44783,4.89508,329.83,12 de junio,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-48h,43.22409,-2.8794,313.73,12 de junio,Basauri,Bizkaia,ES,España
-48h,43.03522,-2.21876,306.1,12 de junio,Olaberria,Gipuzkoa,ES,España
-48h,40.55817,9.67104,300.43,12 de junio,Thiniscole/Siniscola,Sardigna/Sardegna,IT,Italia
-48h,41.45422,1.97835,311.62,12 de junio,Castellbisbal,Barcelona,ES,España
-48h,41.40617,2.00126,309.43,12 de junio,Sant Vicenç dels Horts,Barcelona,ES,España
-48h,41.31475,1.66196,308.07,12 de junio,Santa Margarida i els Monjos,Barcelona,ES,España
-48h,41.47361,-1.48481,297.01,12 de junio,Morata de Jalón,Zaragoza,ES,España
-48h,39.08153,9.0191,303.5,12 de junio,Sarroccu/Sarroch,Sardigna/Sardegna,IT,Italia
-48h,39.95224,-0.00419,295,12 de junio,Castelló de la Plana,Comunitat Valenciana,ES,España
-48h,40.24651,-3.47412,314.96,12 de junio,Morata de Tajuña,Comunidad de Madrid,ES,España
-48h,39.99458,-2.47055,296.59,12 de junio,Huerta de la Obispalía,Cuenca,ES,España
-48h,40.05033,32.65377,295.76,12 de junio,Kahramankazan,Ankara,TR,Turquía
-48h,40.24335,29.92629,299.53,12 de junio,Bilecik Merkez,Bilecik,TR,Turquía
-48h,40.18694,29.2258,298.75,12 de junio,Kestel,Marmara Bölgesi,TR,Turquía
-48h,40.44394,27.14105,344.56,12 de junio,Biga,Çanakkale,TR,Turquía
-48h,39.86758,26.24492,318.17,12 de junio,Mahmudiye,Çanakkale,TR,Turquía
-48h,39.86428,26.2441,304.3,12 de junio,Bozalan,Çanakkale,TR,Turquía
-48h,40.62878,18.00115,300.24,12 de junio,Brindisi,Puglia,IT,Italia
-48h,40.51922,17.20921,299.64,12 de junio,Taranto,Puglia,IT,Italia
-48h,38.79135,26.93071,312.58,12 de junio,Aliağa,İzmir,TR,Turquía
-48h,38.45491,27.26207,304.36,12 de junio,Bornova,Ege Bölgesi,TR,Turquía
-48h,37.86253,29.37546,297.68,12 de junio,Karapınar,Denizli,TR,Turquía
-48h,39.41582,16.25042,301.33,12 de junio,Montalto Uffugo,Calabria,IT,Italia
-48h,37.21217,15.16931,306.88,12 de junio,Augusta,Sicilia,IT,Italia
-48h,53.74345,-0.22954,299.27,12 de junio,Hedon,England,GB,Reino Unido
-48h,53.63707,-0.23818,302.62,12 de junio,South Killingholme,England,GB,Reino Unido
-48h,38.92253,-9.01045,298.22,12 de junio,Sobralinho,Lisboa,PT,Portugal
-48h,62.59793,30.2445,332.85,11 de junio,Kontiolahti,Itä-Suomen aluehallintovirasto,FI,Finlandia
-48h,60.61,16.79529,306.41,11 de junio,Sandviken,Gävleborgs län,SE,Suecia
-48h,51.6763,19.32878,300.1,12 de junio,Pabianice,województwo łódzkie,PL,Polonia
-48h,51.69264,15.98026,295.98,12 de junio,Głogów,województwo dolnośląskie,PL,Polonia
-48h,50.82833,20.27262,298.72,12 de junio,gmina Małogoszcz,województwo świętokrzyskie,PL,Polonia
-48h,49.78309,18.32049,302.84,12 de junio,Vratimov,Moravskoslezsko,CZ,Rep. Checa
-48h,48.99688,18.10315,300.06,12 de junio,Horné Srnie,Trenčiansky kraj,SK,Eslovaquia
-48h,45.4206,27.9765,295.55,12 de junio,Galați,Galați,RO,Rumanía
-48h,46.06672,13.63023,297.17,12 de junio,Morsko,NA,SI,Eslovenia
-48h,44.58518,27.2997,321.53,12 de junio,Păltinișu,Ialomița,RO,Rumanía
-48h,44.24083,28.31247,303.74,12 de junio,Medgidia,Constanța,RO,Rumanía
-48h,41.17588,32.63446,304.94,12 de junio,Karabük,Karabük,TR,Turquía
-48h,41.25575,31.41332,301.75,12 de junio,Gülüç,Zonguldak,TR,Turquía
-48h,41.79821,26.70116,304.28,12 de junio,Lalapaşa,Edirne,TR,Turquía
-48h,41.62903,27.68722,302.73,12 de junio,Vize,Kırklareli,TR,Turquía
-48h,41.63644,27.5066,303.54,12 de junio,Pınarhisar,Kırklareli,TR,Turquía
-48h,41.28338,27.62528,295.78,12 de junio,Ergene,Marmara Bölgesi,TR,Turquía
-48h,41.02088,28.5571,319.86,12 de junio,Büyükçekmece,İstanbul,TR,Turquía
-48h,40.78007,29.60396,303.92,12 de junio,Körfez,Kocaeli,TR,Turquía
-48h,40.79863,29.37847,303.6,12 de junio,Darıca,Kocaeli,TR,Turquía
-48h,39.93747,-3.74265,302.18,12 de junio,Yepes,Toledo,ES,España
-48h,38.3782,-0.54523,303.3,12 de junio,Alacant / Alicante,Alacant / Alicante,ES,España
-48h,36.17708,-5.42355,304.93,12 de junio,Los Barrios,Cádiz,ES,España
-48h,36.32106,34.05192,341.4,12 de junio,Silifke,Mersin,TR,Turquía
-48h,59.464,24.94107,334.05,12 de junio,Maardu linn,Harju maakond,EE,Estonia
-48h,44.44732,12.23673,329.38,12 de junio,Ravenna,Emilia-Romagna,IT,Italia
-48h,45.6257,13.78013,335.08,12 de junio,Trieste,Friuli-Venezia Giulia,IT,Italia
-48h,45.1445,9.94811,327.98,12 de junio,Cremona,Lombardia,IT,Italia
-48h,45.1429,9.9417,338.75,12 de junio,Spinadesco,Lombardia,IT,Italia
-48h,45.31749,10.59386,331,12 de junio,Guidizzolo,Lombardia,IT,Italia
-48h,47.16006,20.03166,328.55,12 de junio,Abony,Pest vármegye,HU,Hungría
-48h,45.86203,12.7666,333.84,12 de junio,Villotta,Friuli-Venezia Giulia,IT,Italia
-48h,45.40491,10.42877,340.17,12 de junio,Montichiari,Lombardia,IT,Italia
-48h,47.43702,21.13048,337.07,12 de junio,Nádudvar,Hajdú-Bihar vármegye,HU,Hungría
-48h,45.50971,10.22602,335.48,12 de junio,Brescia,Lombardia,IT,Italia
-48h,47.50469,19.11684,331.5,12 de junio,Budapest,Közép-Magyarország,HU,Hungría
-48h,47.61318,19.17739,332.65,12 de junio,Fót,Pest vármegye,HU,Hungría
-48h,46.20263,11.12742,326.5,12 de junio,Comunità Rotaliana-Königsberg,Trentino-Alto Adige/Südtirol,IT,Italia
-48h,47.83627,18.7146,327.32,12 de junio,Malá nad Hronom,Nitriansky kraj,SK,Eslovaquia
-48h,45.8092,8.78415,339.86,12 de junio,Varese,Lombardia,IT,Italia
-48h,48.19511,18.50971,328.25,12 de junio,Kalná nad Hronom,Nitriansky kraj,SK,Eslovaquia
-48h,48.41028,19.92108,339.95,12 de junio,Kružno,Banskobystrický kraj,SK,Eslovaquia
-48h,48.51452,19.41674,331.77,12 de junio,Detva,Banskobystrický kraj,SK,Eslovaquia
-48h,48.71468,19.36015,328.23,12 de junio,Povrazník,Banskobystrický kraj,SK,Eslovaquia
-48h,48.83035,16.07382,330.02,12 de junio,Znojmo,Jihovýchod,CZ,Rep. Checa
-48h,48.96906,16.51936,335.4,12 de junio,Pohořelice,Jihovýchod,CZ,Rep. Checa
-48h,49.0701,16.64733,339.17,12 de junio,okres Brno-venkov,Jihovýchod,CZ,Rep. Checa
-48h,49.1502,16.60435,343.69,12 de junio,Brno,Jihovýchod,CZ,Rep. Checa
-48h,47.65464,9.14489,345.23,12 de junio,Tägerwilen,Thurgau,CH,Suiza
-48h,47.50579,8.20729,340.48,12 de junio,Hinterrein,Aargau,CH,Suiza
-48h,49.82285,18.1221,327.36,12 de junio,okres Ostrava-město,Moravskoslezsko,CZ,Rep. Checa
-48h,48.9813,8.46132,340.15,12 de junio,Karlsruhe,Baden-Württemberg,DE,Alemania
-48h,50.68467,12.92785,334.33,12 de junio,Burkhardtsdorf,Sachsen,DE,Alemania
-48h,52.01994,21.14137,330.82,12 de junio,gmina Góra Kalwaria,województwo mazowieckie,PL,Polonia
-48h,51.83415,17.35634,345.76,12 de junio,gmina Koźmin Wielkopolski,województwo wielkopolskie,PL,Polonia
-48h,49.50465,5.9610900000000004,330.11,12 de junio,Esch-sur-Alzette,Canton Esch-sur-Alzette,LU,Luxemburgo
-48h,52.58841,19.7021,331.72,12 de junio,Płock,województwo mazowieckie,PL,Polonia
-48h,51.70554,13.24695,330.29,12 de junio,Herzberg (Elster),Brandenburg,DE,Alemania
-48h,52.39756,17.12963,350.14,12 de junio,gmina Swarzędz,województwo wielkopolskie,PL,Polonia
-48h,50.83711,8.96253,330.33,12 de junio,Kirchhain,Hessen,DE,Alemania
-48h,52.04363,12.28096,338.29,12 de junio,Zerbst/Anhalt,Sachsen-Anhalt,DE,Alemania
-48h,51.07385,6.77295,344.74,12 de junio,Dormagen,Nordrhein-Westfalen,DE,Alemania
-48h,53.13739,16.92862,332.58,12 de junio,gmina Kaczory,województwo wielkopolskie,PL,Polonia
-48h,51.29432,6.61926,353.73,12 de junio,Meerbusch,Nordrhein-Westfalen,DE,Alemania
-48h,52.80404,11.86157,343.23,12 de junio,Osterburg (Altmark),Sachsen-Anhalt,DE,Alemania
-48h,53.64265,13.90822,340.66,12 de junio,Torgelow,Mecklenburg-Vorpommern,DE,Alemania
-48h,51.03266,2.29196,331.48,12 de junio,Grande-Synthe,Hauts-de-France,FR,Francia
-48h,51.03605,2.28338,330.15,12 de junio,Dunkerque,Hauts-de-France,FR,Francia
-48h,52.39827,7.01437,332.71,12 de junio,Denekamp,Overijssel,NL,Países Bajos
-48h,52.37344,6.05901,333.37,12 de junio,Heerde,Gelderland,NL,Países Bajos
-48h,54.0693,13.85967,329.52,12 de junio,Usedom-Nord,Mecklenburg-Vorpommern,DE,Alemania
-48h,54.78623,17.77141,329.91,12 de junio,gmina Choczewo,województwo pomorskie,PL,Polonia
-48h,54.11686,13.33596,342.4,12 de junio,Landhagen,Mecklenburg-Vorpommern,DE,Alemania
-48h,52.23045,4.79067,337.25,12 de junio,Uithoorn,Noord-Holland,NL,Países Bajos
-48h,52.22847,4.78329,339.53,12 de junio,Vrouwenakker,Zuid-Holland,NL,Países Bajos
-48h,51.22974,1.20987,336.06,12 de junio,Dover,England,GB,Reino Unido
-48h,56.4535,21.45981,337.89,12 de junio,Virgas pagasts,Kurzeme,LV,Letonia
-48h,57.39091,26.76119,343.51,12 de junio,Strautiņu mācību un pāraudzināšanas iestāde,Vidzeme,LV,Letonia
-48h,55.86837,11.95259,332.37,12 de junio,Frederikssund Kommune,Region Hovedstaden,DK,Dinamarca
-48h,60.33402,24.54575,338.24,12 de junio,Vihti,Etelä-Suomen aluehallintovirasto,FI,Finlandia
-48h,60.28722,22.28987,326.37,12 de junio,Pargas,Lounais-Suomen aluehallintovirasto,FI,Finlandia
-48h,62.47047,21.9981,345.21,12 de junio,Teuva,Länsi- ja Sisä-Suomen aluehallintovirasto,FI,Finlandia
-48h,62.4699,21.99035,337.21,12 de junio,Kauhajoki,Länsi- ja Sisä-Suomen aluehallintovirasto,FI,Finlandia
-48h,63.09548,26.19351,344.92,12 de junio,Viitasaari,Länsi- ja Sisä-Suomen aluehallintovirasto,FI,Finlandia
-48h,64.66425,21.282,355.01,12 de junio,Skellefteå kommun,Västerbottens län,SE,Suecia
-48h,65.76766,24.18964,339.73,12 de junio,Tornio,Lapin aluehallintovirasto,FI,Finlandia
-48h,37.66885,27.35594,337.95,12 de junio,Söke,Aydın,TR,Turquía
-48h,36.68887,15.09502,334.65,12 de junio,Pachino,Sicilia,IT,Italia
-48h,40.28429,18.07104,330.06,12 de junio,San Pietro in Lama,Puglia,IT,Italia
-48h,37.20098,13.70016,335.57,12 de junio,Palma di Montechiaro,Sicilia,IT,Italia
-48h,41.89587,-5.59408,332.16,12 de junio,San Agustín del Pozo,Zamora,ES,España
-48h,44.97969,9.03069,356.38,12 de junio,Voghera,Lombardia,IT,Italia
-48h,45.26649,11.93655,337.76,12 de junio,Bovolenta,Veneto,IT,Italia
-48h,48.68347,8.97384,341.84,12 de junio,Böblingen,Baden-Württemberg,DE,Alemania
-48h,53.27052,11.12281,346.69,12 de junio,Lübtheen,Mecklenburg-Vorpommern,DE,Alemania
-48h,53.45633,11.23469,367,12 de junio,Hagenow,Mecklenburg-Vorpommern,DE,Alemania
-48h,36.86842,34.76124,300.86,12 de junio,Akdeniz,Mersin,TR,Turquía
-48h,36.9347,30.64702,299.96,12 de junio,Kepez,Antalya,TR,Turquía
-48h,49.81266,18.31653,297.22,12 de junio,Ostrava,Moravskoslezsko,CZ,Rep. Checa
-48h,47.90718,21.02947,350.67,12 de junio,Tiszaújváros,Borsod-Abaúj-Zemplén vármegye,HU,Hungría
-48h,41.1913,28.76606,297.87,12 de junio,Arnavutköy,İstanbul,TR,Turquía
-48h,41.01737,27.96299,309.3,12 de junio,Marmaraereğlisi,Marmara Bölgesi,TR,Turquía
-48h,40.04063,32.78183,300.02,12 de junio,Yenimahalle,Ankara,TR,Turquía
-48h,39.83609,30.30277,299.35,12 de junio,Tepebaşı,Eskişehir,TR,Turquía
-48h,40.51366,17.19083,298.18,12 de junio,Statte,Puglia,IT,Italia
-48h,37.93983,32.53492,310.04,12 de junio,Selçuklu,Konya,TR,Turquía
-48h,57.06184,9.97586,308.77,13 de junio,Aalborg,Region Nordjylland,DK,Dinamarca
-48h,57.25823,0.80699,303.46,13 de junio,NA,NA,NA,Mundo
-48h,54.63247,17.91636,298.23,13 de junio,gmina Gniewino,województwo pomorskie,PL,Polonia
-48h,53.87471,9.58819,299.18,13 de junio,Krempermarsch,Schleswig-Holstein,DE,Alemania
-48h,53.45662,11.2351,304.28,13 de junio,Hagenow,Mecklenburg-Vorpommern,DE,Alemania
-48h,53.4567,10.79603,306.63,13 de junio,Boizenburg-Land,Mecklenburg-Vorpommern,DE,Alemania
-48h,53.0856,12.92312,314.92,13 de junio,Rheinsberg,Brandenburg,DE,Alemania
-48h,53.5132,10.03766,324.49,13 de junio,Hamburg,NA,DE,Alemania
-48h,53.26805,11.11753,327.19,13 de junio,Lübtheen,Mecklenburg-Vorpommern,DE,Alemania
-48h,50.93226,21.67697,304.49,13 de junio,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
-48h,52.49018,13.84228,301.82,13 de junio,Rüdersdorf bei Berlin,Brandenburg,DE,Alemania
-48h,53.13965,8.6731,296.16,13 de junio,Bremen,Bremen,DE,Alemania
-48h,52.17397,14.61392,329.95,13 de junio,Eisenhüttenstadt,Brandenburg,DE,Alemania
-48h,50.80707,20.53197,302.35,13 de junio,gmina Nowiny,województwo świętokrzyskie,PL,Polonia
-48h,52.40167,12.49903,303.09,13 de junio,Brandenburg an der Havel,Brandenburg,DE,Alemania
-48h,51.10603,18.94124,310.27,13 de junio,gmina Działoszyn,województwo łódzkie,PL,Polonia
-48h,53.74126,-0.23801,295.83,13 de junio,Hedon,England,GB,Reino Unido
-48h,51.687,15.98254,333.86,13 de junio,Głogów,województwo dolnośląskie,PL,Polonia
-48h,53.6359,-0.24356,304.11,13 de junio,South Killingholme,England,GB,Reino Unido
-48h,53.58812,-0.61574,297.41,13 de junio,Scunthorpe,England,GB,Reino Unido
-48h,52.31528,10.25126,311.6,13 de junio,Peine,Niedersachsen,DE,Alemania
-48h,50.49334,19.4564,302.85,13 de junio,Zawiercie,województwo śląskie,PL,Polonia
-48h,53.33771,-1.75249,310.43,13 de junio,High Peak,England,GB,Reino Unido
-48h,52.17459,10.41348,327.73,13 de junio,Salzgitter,Niedersachsen,DE,Alemania
-48h,52.56286,7.30495,317.4,13 de junio,Lingen (Ems),Niedersachsen,DE,Alemania
-48h,50.34312,19.33425,297.05,13 de junio,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-48h,50.53373,17.97872,308.15,13 de junio,gmina Gogolin,województwo opolskie,PL,Polonia
-48h,50.3337,18.83425,297.54,13 de junio,Zabrze,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-48h,52.21081,8.05338,298.34,13 de junio,Georgsmarienhütte,Niedersachsen,DE,Alemania
-48h,50.41611,18.14625,301.07,13 de junio,Zdzieszowice,województwo opolskie,PL,Polonia
-48h,52.17628,7.88891,300.24,13 de junio,Lengerich,Nordrhein-Westfalen,DE,Alemania
-48h,52.49763,4.61483,302.39,13 de junio,Beverwijk,Noord-Holland,NL,Países Bajos
-48h,52.48451,4.58736,300.57,13 de junio,Velsen,Noord-Holland,NL,Países Bajos
-48h,50.0392,18.4856,309.4,13 de junio,Radlin,województwo śląskie,PL,Polonia
-48h,51.2878,12.00375,303.54,13 de junio,Leuna,Sachsen-Anhalt,DE,Alemania
-48h,51.85652,8.03161,309.33,13 de junio,Ennigerloh,Nordrhein-Westfalen,DE,Alemania
-48h,51.27144,11.66166,313.26,13 de junio,Unstruttal,Sachsen-Anhalt,DE,Alemania
-48h,51.76477,8.05691,313.81,13 de junio,Beckum,Nordrhein-Westfalen,DE,Alemania
-48h,52.37555,1.34931,307.72,13 de junio,Mid Suffolk,England,GB,Reino Unido
-48h,51.89418,6.51101,302.82,13 de junio,Aalten,Gelderland,NL,Países Bajos
-48h,51.36481,10.48047,298.91,13 de junio,Deuna,Thüringen,DE,Alemania
-48h,51.61794,8.51072,310.72,13 de junio,Geseke,Nordrhein-Westfalen,DE,Alemania
-48h,49.8161,18.31926,315.19,13 de junio,Ostrava,Moravskoslezsko,CZ,Rep. Checa
-48h,51.59848,8.33835,303.02,13 de junio,Erwitte,Nordrhein-Westfalen,DE,Alemania
-48h,49.78351,18.32205,304.64,13 de junio,Vratimov,Moravskoslezsko,CZ,Rep. Checa
-48h,49.68413,18.65579,297.65,13 de junio,Třinec,Moravskoslezsko,CZ,Rep. Checa
-48h,51.50636,6.73963,303.87,13 de junio,Duisburg,Nordrhein-Westfalen,DE,Alemania
-48h,48.60649,21.17839,320.36,13 de junio,Košice,Košický kraj,SK,Eslovaquia
-48h,49.8954,15.64205,297.64,13 de junio,okres Chrudim,Pardubický kraj,CZ,Rep. Checa
-48h,51.29673,7.01374,300.9,13 de junio,Wülfrath,Nordrhein-Westfalen,DE,Alemania
-48h,50.65309,11.43558,311,13 de junio,Kamsdorf,Thüringen,DE,Alemania
-48h,50.82053,9.00762,304.81,13 de junio,Stadtallendorf,Hessen,DE,Alemania
-48h,51.22731,5.13961,300.53,13 de junio,Dessel,Antwerpen,BE,Bélgica
-48h,50.87457,6.91852,297.3,13 de junio,Köln,Nordrhein-Westfalen,DE,Alemania
-48h,51.68459,-5.03287,298.71,13 de junio,Rhoscrowther,Cymru / Wales,GB,Reino Unido
-48h,51.18243,3.81302,308.5,13 de junio,Zelzate,Oost-Vlaanderen,BE,Bélgica
-48h,50.84287,6.97196,301.71,13 de junio,Wesseling,Nordrhein-Westfalen,DE,Alemania
-48h,51.17147,3.80236,321.48,13 de junio,Gent,Oost-Vlaanderen,BE,Bélgica
-48h,51.0706,4.351,300.74,13 de junio,Willebroek,Antwerpen,BE,Bélgica
-48h,51.5693,-3.76754,302.94,13 de junio,Port Talbot,Cymru / Wales,GB,Reino Unido
-48h,50.76307,5.67252,313.88,13 de junio,Visé,Liège,BE,Bélgica
-48h,51.04382,2.29403,339.02,13 de junio,Grande-Synthe,Hauts-de-France,FR,Francia
-48h,51.03651,2.28035,321.39,13 de junio,Dunkerque,Hauts-de-France,FR,Francia
-48h,50.21137,8.47958,296.7,13 de junio,Königstein im Taunus,Hessen,DE,Alemania
-48h,50.57256,5.37331,303.04,13 de junio,Engis,Liège,BE,Bélgica
-48h,49.95668,9.76787,307.48,13 de junio,Karlstadt,Bayern,DE,Alemania
-48h,50.70034,2.11313,301.62,13 de junio,Saint-Omer,Hauts-de-France,FR,Francia
-48h,50.03039,8.25983,300.53,13 de junio,Wiesbaden,Hessen,DE,Alemania
-48h,50.49026,4.19599,299.95,13 de junio,La Louvière,Hainaut,BE,Bélgica
-48h,50.82996,-1.36689,298.8,13 de junio,New Forest,England,GB,Reino Unido
-48h,49.65721,8.36677,302.77,13 de junio,Worms,Rheinland-Pfalz,DE,Alemania
-48h,49.51798,8.42046,301.52,13 de junio,Ludwigshafen am Rhein,Rheinland-Pfalz,DE,Alemania
-48h,48.28423,14.32898,301.04,13 de junio,Linz,NA,AT,Austria
-48h,49.52423,5.90223,322.25,13 de junio,Differdange,Canton Esch-sur-Alzette,LU,Luxemburgo
-48h,49.52349,5.9084,320.37,13 de junio,Sanem,Canton Esch-sur-Alzette,LU,Luxemburgo
-48h,49.50632,5.96049,329.97,13 de junio,Esch-sur-Alzette,Canton Esch-sur-Alzette,LU,Luxemburgo
-48h,49.46806,6.00688,301.51,13 de junio,Rumelange,Canton Esch-sur-Alzette,LU,Luxemburgo
-48h,49.35911,6.74805,336.84,13 de junio,Dillingen/Saar,Saarland,DE,Alemania
-48h,49.35568,6.74702,301.47,13 de junio,Saarlouis,Saarland,DE,Alemania
-48h,48.77893,10.69986,302.24,13 de junio,Harburg (Schwaben),Bayern,DE,Alemania
-48h,49.27822,6.78305,307.47,13 de junio,Bous,Saarland,DE,Alemania
-48h,49.23835,6.14572,301.09,13 de junio,Hagondange,Grand Est,FR,Francia
-48h,47.92417,13.77786,295.23,13 de junio,Steinbichl,Bezirk Gmunden,AT,Austria
-48h,49.47603,0.53531,301.17,13 de junio,Port-Jérôme-sur-Seine,Normandie,FR,Francia
-48h,48.88484,6.0555,298.56,13 de junio,Nancy,Grand Est,FR,Francia
-48h,47.38025,15.06769,302.35,13 de junio,Leoben,Steiermark,AT,Austria
-48h,48.33316,9.73151,312.34,13 de junio,Gemeindeverwaltungsverband Allmendingen,Baden-Württemberg,DE,Alemania
-48h,48.59887,7.82332,313.45,13 de junio,Kehl,Baden-Württemberg,DE,Alemania
-48h,48.69006,6.96682,300.27,13 de junio,Sarrebourg-Château-Salins,Grand Est,FR,Francia
-48h,47.79113,12.18251,306.46,13 de junio,Rohrdorf,Bayern,DE,Alemania
-48h,48.71675,5.6816,297.02,13 de junio,Commercy,Grand Est,FR,Francia
-48h,48.98453,1.75862,302.77,13 de junio,Limay,Île-de-France,FR,Francia
-48h,48.98286,1.76343,302.48,13 de junio,Mantes-la-Jolie,Île-de-France,FR,Francia
-48h,47.4691,12.62974,302.4,13 de junio,Gemeinde Hochfilzen,Tirol,AT,Austria
-48h,46.73809,15.57383,295.85,13 de junio,Obervogau,Steiermark,AT,Austria
-48h,48.38631,2.98335,306.57,13 de junio,Montereau-Fault-Yonne,Île-de-France,FR,Francia
-48h,48.03455,4.45122,320.38,13 de junio,Troyes,Grand Est,FR,Francia
-48h,47.17614,7.56587,320.15,13 de junio,Bezirk Wasseramt,Solothurn,CH,Suiza
-48h,47.07124,8.26663,333.95,13 de junio,Emmen,Luzern,CH,Suiza
-48h,45.43328,8.79597,300.39,13 de junio,Trecate,Piemonte,IT,Italia
-48h,45.14453,9.94149,311.46,13 de junio,Spinadesco,Lombardia,IT,Italia
-48h,43.36484,12.54755,304.46,13 de junio,Gubbio,Umbria,IT,Italia
-48h,41.09563,20.02563,298.07,13 de junio,Bashkia Elbasan,Shqipëria Qendrore,AL,Albania
-48h,42.57304,12.67526,299.93,13 de junio,Terni,Umbria,IT,Italia
-48h,40.62783,18.0027,299.48,13 de junio,Brindisi,Puglia,IT,Italia
-48h,40.95061,15.66984,295.4,13 de junio,Barile,Basilicata,IT,Italia
-48h,40.5159,17.20846,299.94,13 de junio,Taranto,Puglia,IT,Italia
-48h,43.22634,-2.87759,296.33,13 de junio,Zaratamo,Bizkaia,ES,España
-48h,41.31289,1.66233,314,13 de junio,Santa Margarida i els Monjos,Barcelona,ES,España
-48h,38.08452,15.67464,306.76,13 de junio,Reggio di Calabria,Calabria,IT,Italia
-48h,37.43943,15.02907,302.74,13 de junio,Catania,Sicilia,IT,Italia
-48h,39.93885,-3.74492,297.73,13 de junio,Yepes,Toledo,ES,España
-48h,39.44046,-4.35953,305.52,13 de junio,Retuerta del Bullaque,Ciudad Real,ES,España
-48h,37.95898,-8.80394,297.37,13 de junio,Sines,Setúbal,PT,Portugal
-48h,37.35853,-6.67447,298.35,13 de junio,Niebla,Huelva,ES,España
-48h,36.96635,-1.90269,303.04,13 de junio,Carboneras,Almería,ES,España
-48h,64.64748,24.42657,328.5,13 de junio,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-48h,61.19875,17.14347,318.62,13 de junio,Söderhamns kommun,Gävleborgs län,SE,Suecia
-48h,60.6131,16.79181,297.57,13 de junio,Sandviken,Gävleborgs län,SE,Suecia
-48h,60.49141,15.45471,296.33,13 de junio,Borlänge,Dalarnas län,SE,Suecia
-48h,60.13846,16.19196,295.94,13 de junio,Avesta,Dalarnas län,SE,Suecia
-48h,60.13858,15.41373,295.41,13 de junio,Smedjebacken,Dalarnas län,SE,Suecia
-48h,58.68355,17.13608,327.34,13 de junio,Oxelösund,Södermanlands län,SE,Suecia
-48h,57.71105,18.80339,313.51,13 de junio,Gotlands kommun,Gotlands län,SE,Suecia
-48h,58.36226,12.37794,303.49,13 de junio,Vänersborgs kommun,Västra Götalands län,SE,Suecia
-48h,56.31693,22.91826,295.3,13 de junio,Naujoji Akmenė,Akmenės rajono savivaldybė,LT,Lituania
-48h,57.0211,15.92122,310.54,13 de junio,Nybro kommun,Kalmar län,SE,Suecia
-48h,50.42249,4.54377,304.31,13 de junio,Farciennes,Hainaut,BE,Bélgica
-48h,51.39652,-3.39252,307.36,13 de junio,East Aberthaw,Cymru / Wales,GB,Reino Unido
-48h,43.22387,-2.88023,297.86,13 de junio,Basauri,Bizkaia,ES,España
-48h,40.24682,-3.4745,309.22,13 de junio,Morata de Tajuña,Comunidad de Madrid,ES,España
-48h,40.29166,-8.42084,296.97,13 de junio,Coimbra,Coimbra,PT,Portugal
-48h,38.66528,-4.04682,307.32,13 de junio,Puertollano,Ciudad Real,ES,España
-48h,61.53981,26.75641,356.19,13 de junio,Mäntyharju,Itä-Suomen aluehallintovirasto,FI,Finlandia
-48h,52.95766,8.23583,297.31,13 de junio,Döhlen,Niedersachsen,DE,Alemania
-48h,52.95212,8.23018,302.44,13 de junio,Sage,Niedersachsen,DE,Alemania
-48h,52.95565,8.23639,311.48,13 de junio,Großenkneten,Niedersachsen,DE,Alemania
-48h,56.10089,-3.30112,304.37,13 de junio,Auchtertool,Alba / Scotland,GB,Reino Unido
-48h,53.64814,-0.25043,350.42,13 de junio,North Killingholme,England,GB,Reino Unido
-48h,51.36236,4.28165,319.05,13 de junio,Antwerpen,Antwerpen,BE,Bélgica
-48h,50.76941,5.67124,296.18,13 de junio,Ében,Liège,BE,Bélgica
-48h,59.16441,27.69464,342.63,13 de junio,Alutaguse vald,Ida-Viru maakond,EE,Estonia
-48h,65.76772,24.18816,334.26,13 de junio,Tornio,Lapin aluehallintovirasto,FI,Finlandia
-48h,67.26067,23.04934,328.09,13 de junio,Pajala kommun,Norrbottens län,SE,Suecia
-48h,37.0822,30.82979,335.01,13 de junio,Aksu,Antalya,TR,Turquía
-48h,38.73131,26.96483,334.26,13 de junio,Aliağa,İzmir,TR,Turquía
-48h,37.08825,14.32445,344.96,13 de junio,Gela,Sicilia,IT,Italia
-48h,41.04708,17.03791,326.26,13 de junio,Noicattaro,Puglia,IT,Italia
-48h,46.30623,16.3664,326.83,13 de junio,Varaždin,Varaždinska županija,HR,Croacia
-48h,45.59015,12.29934,326.71,13 de junio,Mogliano Veneto,Veneto,IT,Italia
-48h,47.15178,18.41525,335.32,13 de junio,Székesfehérvár,Fejér vármegye,HU,Hungría
-48h,47.50576,17.79214,328.18,13 de junio,Pannonhalmi járás,Győr-Moson-Sopron vármegye,HU,Hungría
-48h,47.63876,17.98866,332,13 de junio,Bábolna,Komárom-Esztergom vármegye,HU,Hungría
-48h,48.24508,17.50088,330.12,13 de junio,Veľký Grob,Trnavský kraj,SK,Eslovaquia
-48h,48.23564,16.98204,325.65,13 de junio,Devínska Nová Ves,Bratislavský kraj,SK,Eslovaquia
-48h,50.07151,14.86991,328.58,13 de junio,Český Brod,Střední Čechy,CZ,Rep. Checa
-48h,51.39875,17.49513,326.23,13 de junio,gmina Twardogóra,województwo dolnośląskie,PL,Polonia
-48h,51.88083,4.34225,341.82,13 de junio,Rotterdam,Zuid-Holland,NL,Países Bajos
-48h,52.41234,5.96107,367,13 de junio,'t Loo Oldebroek,Gelderland,NL,Países Bajos
-48h,52.4108,5.95606,336.22,13 de junio,Oldebroek,Gelderland,NL,Países Bajos
-48h,55.77706,12.3262,331.44,13 de junio,Furesø Kommune,Region Hovedstaden,DK,Dinamarca
-48h,55.08722,8.52596,339.58,13 de junio,Tønder Kommune,Region Syddanmark,DK,Dinamarca
-48h,56.29546,8.64576,335.96,13 de junio,Holstebro Kommune,Region Midtjylland,DK,Dinamarca
-48h,59.3634,25.83492,330.1,13 de junio,Kuusalu vald,Harju maakond,EE,Estonia
-48h,59.5922,10.79548,336.33,13 de junio,Vestby,Viken,NO,Noruega
-48h,62.74855,17.30783,332.93,13 de junio,Ljustorps distrikt,Västernorrlands län,SE,Suecia
-48h,62.69775,15.31367,331.59,13 de junio,Bräcke kommun,Jämtlands län,SE,Suecia
-48h,37.6644,-5.15951,342.88,13 de junio,Écija,Sevilla,ES,España
-48h,38.98446,-5.7051,333.95,13 de junio,Villanueva de la Serena,Badajoz,ES,España
-48h,43.43937,4.89133,345.16,13 de junio,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-48h,45.76672,12.42063,330.89,13 de junio,Ormelle,Veneto,IT,Italia
-48h,46.25103,3.55402,333.57,13 de junio,Vichy,Auvergne-Rhône-Alpes,FR,Francia
-48h,59.91315,32.36272,299.89,11 de junio,Volkhov,Región de Leningrado,RU,Rusia
-48h,59.53117,34.14719,331.17,11 de junio,Picallavo,Región de Leningrado,RU,Rusia
-48h,59.38657,28.46485,313.84,11 de junio,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
-48h,58.61451,31.23034,295.05,11 de junio,Velikiy Novgorod,Región de novgorod,RU,Rusia
-48h,59.06416,28.14021,299.6,11 de junio,Asentamiento rural de la oficina,Región de Leningrado,RU,Rusia
-48h,57.64423,32.44836,314.98,11 de junio,Demyansk,Región de novgorod,RU,Rusia
-48h,56.49994,34.70473,297.41,11 de junio,NA,Región de tver,RU,Rusia
-48h,56.77958,28.20224,304.65,11 de junio,Krasnogorodskaya Volost,Región de pskov,RU,Rusia
-48h,55.50389,28.59024,303.2,11 de junio,Navapolatsk,Región de Vitebsk,BY,Bielorrusia
-48h,54.19078,28.52293,322.77,11 de junio,Borisov,Región de Minsk,BY,Bielorrusia
-48h,54.62965,21.04315,311.25,11 de junio,Guardia,Región de Kaliningrado,RU,Rusia
-48h,53.27077,24.44135,304.18,11 de junio,Consejo de la aldea de Krasnoselsky,Región de Grodno,BY,Bielorrusia
-48h,48.16108,30.32425,297.62,11 de junio,La comunidad de la ciudad de Annunciation,Región de Kirovohrad,UA,Ucrania
-48h,47.78521,29.01715,296,11 de junio,Ayuntamiento de Rybnitsky,Distrito de Ribnica / Distrito Ribnitsky / Distrito Ribnitsky,MD,Moldavia
-48h,44.85431,21.04169,297.18,11 de junio,Municipio de Kovin,Vojvodina,RS,Serbia
-48h,44.60406,20.97036,301.7,11 de junio,Ciudad de Smederevo,Serbia central,RS,Serbia
-48h,43.52001,27.50689,307.22,11 de junio,Lobo dol,Varna,BG,Bulgaria
-48h,43.23379,27.59472,305.64,11 de junio,Virgen,Varna,BG,Bulgaria
-48h,44.08076,22.10602,304.01,11 de junio,Boro,Serbia central,RS,Serbia
-48h,43.90913,21.51377,297.85,11 de junio,Municipio de paracina,Serbia central,RS,Serbia
-48h,42.59136,23.10527,303.81,11 de junio,Pernik,Pernik,BG,Bulgaria
-48h,36.87876,6.9434,299.7,11 de junio,Skikda ⵙⴽⵉⴽⴷⴰ skikda,En el skik,DZ,Argelia
-48h,36.79047,7.69218,312.34,11 de junio,Sidi Amar ⵙⵉⴷⵉ ⵄⴻⵎⵎⴰⵔ Sidi Ammar,Annaba,DZ,Argelia
-48h,36.76204,7.30598,311.59,11 de junio,Bekkouche Lakhdar ⴱⴻⴽⴽⵓⵛ ⵍⴻⵅⴹⴻⵔ Green Kush,En el skik,DZ,Argelia
-48h,36.74875,6.25568,313.78,11 de junio,El Milia ⵍⵎⵉⵍⵉⵢⴰ milla,Jijel,DZ,Argelia
-48h,36.43381,6.62109,304.27,11 de junio,Hamma bouziane ⵃⴰⵎⴰ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ,Constantino,DZ,Argelia
-48h,35.88034,4.44583,304.79,11 de junio,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ Pigón,M'sila,DZ,Argelia
-48h,36.33399,5.48516,312.18,11 de junio,Beni Fouda,Sofocar,DZ,Argelia
-48h,36.74908,3.08347,314.38,11 de junio,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ a,Alero,DZ,Argelia
-48h,36.60026,3.13616,299.44,11 de junio,Larbâa ⵍⴰⵔⴱⵄⴰ miércoles,Blida,DZ,Argelia
-48h,35.87793,4.44987,308.41,11 de junio,El euch ⵍⵄⴻⵛ nido,Bordj bou arreridj,DZ,Argelia
-48h,36.13869,2.93102,297.08,11 de junio,Berroughia ⴱⴻⵔⵡⴰⴳⵉⵢⴰ Al Barawqiya,Medea,DZ,Argelia
-48h,35.34867,5.76174,314.66,11 de junio,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Mejorar,DZ,Argelia
-48h,36.13173,1.2406,302.07,11 de junio,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef,DZ,Argelia
-48h,34.98258,5.71628,319.56,11 de junio,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra,DZ,Argelia
-48h,35.81434,-0.26718,328.53,11 de junio,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Decimos,DZ,Argelia
-48h,35.8153,-0.27222,318.29,11 de junio,Aïn El Bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ Ein Al -Bayya,Decimos,DZ,Argelia
-48h,35.81008,-0.34286,302.72,11 de junio,Arzew ⴰⵔⴻⵣⵢⵓ Arzio,Decimos,DZ,Argelia
-48h,34.80168,0.32998,296.65,11 de junio,El Hessasna ⵍⴻⵃⵙⴰⵙⵏⴰ Sensible,Saila,DZ,Argelia
-48h,34.25045,-5.7022,315.92,11 de junio,Caïdat de Zarara,"Provincia de Sidi Kacem, provincia de Sidi Kassem",MA,Marruecos
-48h,69.34448,31.88307,345.49,11 de junio,asentamiento rural del tuloma,Región murmansk,RU,Rusia
-48h,45.12831,34.99952,329.89,11 de junio,Asentamiento rural de Zolotopolvodvosky,Distrito de Kirovsky,UA,Ucrania
-48h,54.57738,33.13905,329.65,11 de junio,Abeto,Región de smolensk,RU,Rusia
-48h,52.81488,24.69208,327.15,11 de junio,Consejo de la aldea de Zelenevichi,Región de Brest,BY,Bielorrusia
-48h,54.85851,31.65506,344,11 de junio,Asentamiento rural de Smetaninsky,Región de smolensk,RU,Rusia
-48h,54.86314,31.65959,343.95,11 de junio,Asentamiento rural de Gnezdovskoye,Región de smolensk,RU,Rusia
-48h,54.29497,27.68497,325.54,11 de junio,Consejo de la aldea de Janushkavichy,Región de Minsk,BY,Bielorrusia
-48h,56.24173,34.35454,339.27,11 de junio,Rzhev,Región de tver,RU,Rusia
-48h,56.23111,30.69698,325.21,11 de junio,Lychevsky Volost,Región de pskov,RU,Rusia
-48h,57.16492,31.1849,325.62,11 de junio,Asentamiento de la ciudad de Kholmsk,Región de novgorod,RU,Rusia
-48h,55.19003,21.33915,296.16,12 de junio,NA,Región de Kaliningrado,RU,Rusia
-48h,53.27335,24.44605,299.43,12 de junio,Consejo de la aldea de Krasnoselsky,Región de Grodno,BY,Bielorrusia
-48h,41.44677,21.9419,296.21,12 de junio,Municipio de Kavadarci,Vardar sr,MK,Macedonia del Norte
-48h,59.56974,32.07273,298.63,11 de junio,Asentamiento rural de Glazhevskoye,Región de Leningrado,RU,Rusia
-48h,58.68816,29.42129,299.73,12 de junio,Asentamiento rural de Voloshovsky,Región de Leningrado,RU,Rusia
-48h,57.16402,31.19092,325.7,12 de junio,Asentamiento de la ciudad de Kholmsk,Región de novgorod,RU,Rusia
-48h,55.506100000000004,28.58678,297.6,12 de junio,Navapolatsk,Región de Vitebsk,BY,Bielorrusia
-48h,43.23318,27.59632,309.25,12 de junio,Virgen,Varna,BG,Bulgaria
-48h,36.79173,7.69148,334.12,12 de junio,Sidi Amar ⵙⵉⴷⵉ ⵄⴻⵎⵎⴰⵔ Sidi Ammar,Annaba,DZ,Argelia
-48h,36.8682,6.98099,325.37,12 de junio,Hamadi Krouma ⵃⴻⵎⵎⴰⴷⵉ ⴽⵔⵓⵎⴰ Hammadi Karma,En el skik,DZ,Argelia
-48h,36.87737,6.94362,300.32,12 de junio,Skikda ⵙⴽⵉⴽⴷⴰ skikda,En el skik,DZ,Argelia
-48h,36.76304,7.30895,312.43,12 de junio,Bekkouche Lakhdar ⴱⴻⴽⴽⵓⵛ ⵍⴻⵅⴹⴻⵔ Green Kush,En el skik,DZ,Argelia
-48h,36.74823,6.25859,306.42,12 de junio,El Milia ⵍⵎⵉⵍⵉⵢⴰ milla,Jijel,DZ,Argelia
-48h,36.43175,6.62186,304.23,12 de junio,Hamma bouziane ⵃⴰⵎⴰ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ,Constantino,DZ,Argelia
-48h,36.33619,5.48376,304.84,12 de junio,Beni Fouda,Sofocar,DZ,Argelia
-48h,36.74813,3.0821,321.22,12 de junio,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ a,Alero,DZ,Argelia
-48h,36.17683,5.57318,299.58,12 de junio,OULD SABOR ⵡⵍⴰⴷ ⵚⴰⴱⴻⵔ Hijos de Saber,Sofocar,DZ,Argelia
-48h,36.60014,3.13586,303.03,12 de junio,Larbâa ⵍⴰⵔⴱⵄⴰ miércoles,Blida,DZ,Argelia
-48h,36.50602,2.86754,304.96,12 de junio,OULD YAïCH ⵓⵍⴻⴷ ⵉⵄⵉⵛ VIVE NIÑOS,Blida,DZ,Argelia
-48h,36.28565,2.79332,304.69,12 de junio,Médéa ⵍⴻⵎⴷⵉⵢⴰ Medea,Medea,DZ,Argelia
-48h,35.71093,4.47527,306.91,12 de junio,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,M'sila,DZ,Argelia
-48h,35.34903,5.76186,320.46,12 de junio,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Mejorar,DZ,Argelia
-48h,36.12969,1.24281,302.15,12 de junio,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef,DZ,Argelia
-48h,34.9804,5.71829,316.15,12 de junio,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra,DZ,Argelia
-48h,35.81618,-0.26684,323.32,12 de junio,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Decimos,DZ,Argelia
-48h,35.81352,-0.27181,329.86,12 de junio,Aïn El Bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ Ein Al -Bayya,Decimos,DZ,Argelia
-48h,35.80719,-0.34349,321.09,12 de junio,Arzew ⴰⵔⴻⵣⵢⵓ Arzio,Decimos,DZ,Argelia
-48h,35.56844,-0.93955,302.38,12 de junio,Boutlessis ⴱⵓⵜⵍⵉⵍⵉⵙ Potlis,Decimos,DZ,Argelia
-48h,35.46111,-0.39406,306.58,12 de junio,Zahan ⵣⴻⵀⵀⴰⵏⴰ زھانة,Máscara,DZ,Argelia
-48h,52.57133,34.63242,329.36,12 de junio,Asentamiento rural de Bratovsky,Región de Bryansk,RU,Rusia
-48h,54.01029,32.15491,328.64,12 de junio,Asentamiento rural de Pechersk,Región de smolensk,RU,Rusia
-48h,54.40995,32.66109,329.66,12 de junio,Asentamiento rural de Leninsky,Región de smolensk,RU,Rusia
-48h,54.8671,31.64935,345.44,12 de junio,Asentamiento rural de Smetaninsky,Región de smolensk,RU,Rusia
-48h,54.80366,31.36876,329.45,12 de junio,Asentamiento rural de puravikovskoye,Región de smolensk,RU,Rusia
-48h,55.27933,30.7271,331.21,12 de junio,Consejo de la aldea de Janavitsky,Región de Vitebsk,BY,Bielorrusia
-48h,55.74432,30.68428,336.14,12 de junio,Usyatsky Volost,Región de pskov,RU,Rusia
-48h,59.52885,34.14964,333.43,12 de junio,Picallavo,Región de Leningrado,RU,Rusia
-48h,53.527,33.72136,341.71,12 de junio,Zhukovka,Región de Bryansk,RU,Rusia
-48h,54.554,20.60187,332.3,12 de junio,Sur,Región de Kaliningrado,RU,Rusia
-48h,54.68403,20.40952,335.14,12 de junio,Kaliningrado,Región de Kaliningrado,RU,Rusia
-48h,56.3037,30.5166,349.42,12 de junio,Grandes arcos,Región de pskov,RU,Rusia
-48h,34.58962,7.24046,336.56,12 de junio,Babar ⴱⴰⴱⴰⵔ babar,Khenchela,DZ,Argelia
-48h,35.35015,5.76063,338.31,12 de junio,Legride,Mejorar,DZ,Argelia
-48h,34.83428,-1.41957,336.82,12 de junio,Aïn Douz,Tlemcen,DZ,Argelia
-48h,35.1549,-0.59139,341.21,12 de junio,Tilmouni ⵜⴻⵍⵎⵓⵏⵉ Talmouni,Sidi Bel Abbes,DZ,Argelia
-48h,34.51015,-6.1212,337.05,12 de junio,Caïdat d'Ol Mokhtar,"Provincia de Sidi Kacem, provincia de Sidi Kassem",MA,Marruecos
-48h,34.60373,-6.22687,335.16,12 de junio,Caïdat de Sidi Allal Tazi,"Provincia de Kenitra, región de Quneitra",MA,Marruecos
-48h,34.72418,33.31634,313.94,12 de junio,Grande,Lago,CY,Chipre
-48h,60.52426,28.1309,339.09,12 de junio,Asentamiento rural de Seleznevsky,Región de Leningrado,RU,Rusia
-48h,59.7239,31.5306,295.84,12 de junio,Asentamiento de la ciudad de Nazievsky,Región de Leningrado,RU,Rusia
-48h,59.38645,28.46458,312.73,12 de junio,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
-48h,59.06474,28.13988,297.32,12 de junio,Asentamiento rural de la oficina,Región de Leningrado,RU,Rusia
-48h,58.7711,30.04509,310.79,12 de junio,Asentamiento rural de Zamlinsky,Región de Leningrado,RU,Rusia
-48h,53.44331,34.41674,323.78,12 de junio,Fokino,Región de Bryansk,RU,Rusia
-48h,44.77412,33.86417,304.21,12 de junio,Asentamiento de la ciudad Bakhchisaray,Distrito de Bakhchisarai,UA,Ucrania
-48h,36.12628,1.2446,305.51,13 de junio,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef,DZ,Argelia
-48h,35.81548,-0.26616,326.89,13 de junio,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Decimos,DZ,Argelia
-48h,35.80759,-0.34155,330.64,13 de junio,Aïn El Bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ Ein Al -Bayya,Decimos,DZ,Argelia
-48h,34.98135,5.71444,308.52,13 de junio,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra,DZ,Argelia
-48h,35.5341,-0.27688,302.64,13 de junio,Oggaz ⵄⵓⴳⴳⴰⵔ aqaz,Máscara,DZ,Argelia
-48h,34.74545,5.27319,321.76,13 de junio,El Ghror ⵍⴻⵖⵔⵓⵙ se ve,Biskra,DZ,Argelia
-48h,35.45955,-0.39352,307.84,13 de junio,Zahan ⵣⴻⵀⵀⴰⵏⴰ زھانة,Máscara,DZ,Argelia
-48h,34.27981,-6.57266,299.81,13 de junio,Partidario de MNASRA,"Provincia de Kenitra, región de Quneitra",MA,Marruecos
-48h,54.81643,20.04911,341.48,13 de junio,NA,Región de Kaliningrado,RU,Rusia
-48h,54.81286,20.04675,306.29,13 de junio,Provarcir,Región de Kaliningrado,RU,Rusia
-48h,44.22205,17.89644,301.6,13 de junio,Zenica,Zenica-Doboj Cantón,BA,Bosnia y Herzegovina
-48h,36.7478,3.08005,303.15,13 de junio,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ a,Alero,DZ,Argelia
-48h,36.69952,2.94137,300.58,13 de junio,Dura ⴷⵡⵉⵔⴰ duira,Alero,DZ,Argelia
-48h,36.51706,2.87006,304.01,13 de junio,OULD YAïCH ⵓⵍⴻⴷ ⵉⵄⵉⵛ VIVE NIÑOS,Blida,DZ,Argelia
-48h,68.14309,33.30768,332.12,13 de junio,Olenegorsk,Región murmansk,RU,Rusia
-48h,59.5308,34.14705,325.33,13 de junio,Picallavo,Región de Leningrado,RU,Rusia
-48h,60.52321,28.13536,338.38,13 de junio,Asentamiento rural de Seleznevsky,Región de Leningrado,RU,Rusia
-48h,55.73317,33.74786,351.31,13 de junio,Asentamiento rural de dnieper,Región de smolensk,RU,Rusia
-48h,55.59833,32.61412,329.48,13 de junio,Asentamiento rural prechistensky,Región de smolensk,RU,Rusia
-48h,57.31509,28.65536,343.99,13 de junio,Ostrovskaya Volost,Región de pskov,RU,Rusia
-48h,57.58174,28.45522,339.43,13 de junio,Krasnoprudsky Volost,Región de pskov,RU,Rusia
-48h,59.72208,31.53657,367,13 de junio,Asentamiento de la ciudad de Nazievsky,Región de Leningrado,RU,Rusia
-48h,59.98472,29.78624,327.77,13 de junio,Kronstadt,San Petersburgo,RU,Rusia
-48h,44.59948,20.97705,333.48,13 de junio,Ciudad de Smederevo,Serbia central,RS,Serbia
-48h,44.85065,20.66366,326.92,13 de junio,Ciudad de Pancevo,Vojvodina,RS,Serbia
-48h,45.59303,20.16447,327.44,13 de junio,Municipio de Novi Becej,Vojvodina,RS,Serbia
-48h,55.65574,34.6138,327.19,13 de junio,Tyosovskoye asentamiento rural,Región de smolensk,RU,Rusia
-48h,55.97379,27.81384,339.72,13 de junio,Consejo de la aldea Sarman,Región de Vitebsk,BY,Bielorrusia
-48h,56.29961,28.94386,332.84,13 de junio,Asentamiento de la ciudad Idrika,Región de pskov,RU,Rusia
-48h,56.40989,30.37825,333.28,13 de junio,Peresleginsky Volost,Región de pskov,RU,Rusia
-48h,35.34742,5.76177,336.31,13 de junio,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Mejorar,DZ,Argelia
-48h,35.24031,-5.4031,333.01,13 de junio,"Caïdat de Bni Hassan, dirigido por Bani Hassan",Provincia de la provincia de Tétouan Tetouan,MA,Marruecos
+48h,65.77018,24.19717,328.61,25 de junio,Tornio,Lapin aluehallintovirasto,FI,Finlandia
+48h,62.46145,6.17029,327.29,25 de junio,Ålesund,Møre og Romsdal,NO,Noruega
+48h,60.81363,5.03201,295.6,25 de junio,Alver,Vestland,NO,Noruega
+48h,58.68295,17.13011,327.73,25 de junio,Oxelösund,Södermanlands län,SE,Suecia
+48h,58.38515,13.82963,308.91,25 de junio,Skövde,Västra Götalands län,SE,Suecia
+48h,57.71024,18.80256,317.53,25 de junio,Gotlands kommun,Gotlands län,SE,Suecia
+48h,58.35953,12.37823,310.72,25 de junio,Vänersborgs kommun,Västra Götalands län,SE,Suecia
+48h,58.35525,0.86011,350.21,25 de junio,NA,NA,NA,Mundo
+48h,53.91217,9.20986,302.08,25 de junio,Amt Wilstermarsch,Schleswig-Holstein,DE,Alemania
+48h,53.87406,9.5834,300.35,25 de junio,Krempermarsch,Schleswig-Holstein,DE,Alemania
+48h,53.52335,9.89945,307.5,25 de junio,Hamburg,NA,DE,Alemania
+48h,53.63649,-0.24778,300.6,25 de junio,South Killingholme,England,GB,Reino Unido
+48h,53.57313,-0.61932,299.51,25 de junio,Scunthorpe,England,GB,Reino Unido
+48h,53.14238,8.68059,301.63,25 de junio,Bremen,Bremen,DE,Alemania
+48h,53.34128,-1.75662,297.72,25 de junio,High Peak,England,GB,Reino Unido
+48h,52.17106,14.62727,323.17,25 de junio,Eisenhüttenstadt,Brandenburg,DE,Alemania
+48h,50.93203,21.67813,303.74,25 de junio,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
+48h,50.9468,21.45177,301.7,25 de junio,Ostrowiec Świętokrzyski,województwo świętokrzyskie,PL,Polonia
+48h,52.92788,1.21973,320.53,25 de junio,North Norfolk,England,GB,Reino Unido
+48h,51.68749,15.97979,330.43,25 de junio,Głogów,województwo dolnośląskie,PL,Polonia
+48h,51.6867,15.98537,298.65,25 de junio,gmina Żukowice,województwo dolnośląskie,PL,Polonia
+48h,52.37681,9.87914,297.43,25 de junio,Hannover,Niedersachsen,DE,Alemania
+48h,52.56506,7.30653,312.44,25 de junio,Lingen (Ems),Niedersachsen,DE,Alemania
+48h,51.10525,18.94112,316.9,25 de junio,gmina Działoszyn,województwo łódzkie,PL,Polonia
+48h,50.806,20.53315,309.54,25 de junio,gmina Nowiny,województwo świętokrzyskie,PL,Polonia
+48h,50.82869,20.27603,310.39,25 de junio,Małogoszcz,województwo świętokrzyskie,PL,Polonia
+48h,52.16695,10.43196,309.07,25 de junio,Salzgitter,Niedersachsen,DE,Alemania
+48h,52.49339,4.60499,304.88,25 de junio,Beverwijk,Noord-Holland,NL,Países Bajos
+48h,52.48416,4.58485,299.03,25 de junio,Velsen,Noord-Holland,NL,Países Bajos
+48h,52.20889,8.04442,312.41,25 de junio,Georgsmarienhütte,Niedersachsen,DE,Alemania
+48h,50.80162,19.17617,303.61,25 de junio,Częstochowa,NA,PL,Polonia
+48h,51.81281,11.75639,297.64,25 de junio,Bernburg,Sachsen-Anhalt,DE,Alemania
+48h,51.17934,16.1108,327.72,25 de junio,Legnica,województwo dolnośląskie,PL,Polonia
+48h,50.49389,19.45859,301.02,25 de junio,Zawiercie,powiat zawierciański,PL,Polonia
+48h,51.85872,8.02871,309.38,25 de junio,Ennigerloh,Nordrhein-Westfalen,DE,Alemania
+48h,50.86042,16.34399,298.44,25 de junio,Świebodzice,województwo dolnośląskie,PL,Polonia
+48h,50.34317,19.33704,313.02,25 de junio,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+48h,51.76746,8.05931,313.11,25 de junio,Beckum,Nordrhein-Westfalen,DE,Alemania
+48h,51.70057,8.74755,299.15,25 de junio,Paderborn,Nordrhein-Westfalen,DE,Alemania
+48h,50.53643,17.9759,299.42,25 de junio,gmina Gogolin,województwo opolskie,PL,Polonia
+48h,50.34206,18.86687,297.58,25 de junio,Bytom,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+48h,50.75499,16.24616,296.2,25 de junio,Wałbrzych,województwo dolnośląskie,PL,Polonia
+48h,50.33201,18.83176,301.9,25 de junio,Zabrze,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+48h,51.8839,4.34029,312.81,25 de junio,Rotterdam,Zuid-Holland,NL,Países Bajos
+48h,51.6171,8.51096,303.89,25 de junio,Geseke,Nordrhein-Westfalen,DE,Alemania
+48h,50.42199,18.1439,300.61,25 de junio,Zdzieszowice,województwo opolskie,PL,Polonia
+48h,50.07374,20.10237,309.47,25 de junio,Kraków,województwo małopolskie,PL,Polonia
+48h,51.59665,8.33543,299.57,25 de junio,Erwitte,Nordrhein-Westfalen,DE,Alemania
+48h,51.27279,11.65993,301.47,25 de junio,Unstruttal,Sachsen-Anhalt,DE,Alemania
+48h,50.06225,19.62208,297.58,25 de junio,gmina Czernichów,województwo małopolskie,PL,Polonia
+48h,51.50502,6.74063,303.7,25 de junio,Duisburg,Nordrhein-Westfalen,DE,Alemania
+48h,50.03912,18.4844,307.14,25 de junio,Radlin,powiat wodzisławski,PL,Polonia
+48h,51.57339,-3.77273,302.6,25 de junio,Port Talbot,Cymru / Wales,GB,Reino Unido
+48h,51.29808,7.00738,297.62,25 de junio,Wülfrath,Nordrhein-Westfalen,DE,Alemania
+48h,49.8605,18.27691,297.66,25 de junio,Ostrava,Moravskoslezsko,CZ,Rep. Checa
+48h,51.2675,4.32197,301.52,25 de junio,Antwerpen,Antwerpen,BE,Bélgica
+48h,49.69263,18.64631,313.62,25 de junio,Třinec,Moravskoslezsko,CZ,Rep. Checa
+48h,50.65432,11.43149,300.63,25 de junio,Kamsdorf,Thüringen,DE,Alemania
+48h,51.18229,3.81444,311.24,25 de junio,Zelzate,Oost-Vlaanderen,BE,Bélgica
+48h,49.4536,19.47961,302.01,25 de junio,Klin,Žilinský kraj,SK,Eslovaquia
+48h,51.186,3.81398,304.44,25 de junio,Gent,Oost-Vlaanderen,BE,Bélgica
+48h,49.40037,19.43797,295.42,25 de junio,Oravská Jasenica,Žilinský kraj,SK,Eslovaquia
+48h,50.87501,6.91937,297.73,25 de junio,Köln,Nordrhein-Westfalen,DE,Alemania
+48h,51.04185,2.29669,307.83,25 de junio,Grande-Synthe,Hauts-de-France,FR,Francia
+48h,51.03678,2.27926,326.46,25 de junio,Dunkerque,Hauts-de-France,FR,Francia
+48h,49.896,15.64089,304.23,25 de junio,okres Chrudim,Pardubický kraj,CZ,Rep. Checa
+48h,49.27684,19.15261,302.27,25 de junio,Zázrivá,Žilinský kraj,SK,Eslovaquia
+48h,50.62201,8.77836,300.59,25 de junio,Buseck,Hessen,DE,Alemania
+48h,50.76686,5.66957,306.15,25 de junio,Ében,Liège,BE,Bélgica
+48h,50.76573,5.67015,309.9,25 de junio,Visé,Liège,BE,Bélgica
+48h,50.68862,5.23778,327.55,25 de junio,Waremme,Liège,BE,Bélgica
+48h,50.57162,5.37203,297.59,25 de junio,Engis,Liège,BE,Bélgica
+48h,50.04001,11.57878,295.5,25 de junio,Trebgast (VGem),Bayern,DE,Alemania
+48h,50.05402,11.31631,302.73,25 de junio,Kasendorf (VGem),Bayern,DE,Alemania
+48h,49.03412,18.29284,295.98,25 de junio,Ladce,Trenčiansky kraj,SK,Eslovaquia
+48h,49.95531,11.73784,297.74,25 de junio,Weidenberg,Bayern,DE,Alemania
+48h,49.92381,11.81555,296.68,25 de junio,Weidenberg (VGem),Bayern,DE,Alemania
+48h,49.21735,16.77307,301.32,25 de junio,okres Brno-venkov,Jihovýchod,CZ,Rep. Checa
+48h,49.84774,11.89946,302.44,25 de junio,Kemnath (VGem),Bayern,DE,Alemania
+48h,49.89536,11.33564,295.12,25 de junio,Hollfeld (VGem),Bayern,DE,Alemania
+48h,49.74205,12.19442,299.19,25 de junio,Neustadt an der Waldnaab,Bayern,DE,Alemania
+48h,49.72474,12.06099,295.25,25 de junio,Neustadt an der Waldnaab (VGem),Bayern,DE,Alemania
+48h,49.95359,9.76913,307.63,25 de junio,Karlstadt,Bayern,DE,Alemania
+48h,50.33811,3.49073,298.63,25 de junio,Valenciennes,Hauts-de-France,FR,Francia
+48h,49.78802,10.89149,302.02,25 de junio,Schlüsselau,Bayern,DE,Alemania
+48h,49.80887,10.58383,297.72,25 de junio,Ebrach (VGem),Bayern,DE,Alemania
+48h,49.7616,11.0317,298.27,25 de junio,Pautzfeld,Bayern,DE,Alemania
+48h,49.69929,11.18995,297.31,25 de junio,Kirchehrenbach (VGem),Bayern,DE,Alemania
+48h,49.71986,10.88821,302.89,25 de junio,Aisch,Bayern,DE,Alemania
+48h,49.67071,11.11915,295.42,25 de junio,Effeltrich (VGem),Bayern,DE,Alemania
+48h,49.48037,12.39128,311.47,25 de junio,Oberviechtach (VGem),Bayern,DE,Alemania
+48h,49.4277,12.61837,303.47,25 de junio,Tiefenbach (VGem),Bayern,DE,Alemania
+48h,50.18092,2.37714,303.39,25 de junio,Amiens,Hauts-de-France,FR,Francia
+48h,49.66568,10.40299,296.05,25 de junio,Markt Bibart,Bayern,DE,Alemania
+48h,49.59903,10.94114,298.53,25 de junio,Erlangen,Bayern,DE,Alemania
+48h,49.59897,10.82308,296.08,25 de junio,Buch,Bayern,DE,Alemania
+48h,49.57148,10.27146,298.67,25 de junio,Uffenheim (VGem),Bayern,DE,Alemania
+48h,49.29177,12.78564,299.82,25 de junio,Furth im Wald,Bayern,DE,Alemania
+48h,49.28921,12.74831,296.87,25 de junio,Weiding (VGem),Bayern,DE,Alemania
+48h,49.27244,12.81597,295.19,25 de junio,Grasfilzing,Bayern,DE,Alemania
+48h,49.48441,10.88549,303.29,25 de junio,Veitsbronn (VGem),Bayern,DE,Alemania
+48h,49.19416,13.03988,296.76,25 de junio,Frahelsbruck,Bayern,DE,Alemania
+48h,49.22108,12.7404,295.27,25 de junio,Niederrunding,Bayern,DE,Alemania
+48h,49.18257,12.58247,303.78,25 de junio,Nanzing,Bayern,DE,Alemania
+48h,48.45945,17.19617,297.53,25 de junio,Rohožník,Bratislavský kraj,SK,Eslovaquia
+48h,49.79395,1.00782,302.68,25 de junio,Dieppe,Normandie,FR,Francia
+48h,48.90231,13.18146,298.76,25 de junio,Reichertsried,Bayern,DE,Alemania
+48h,48.8506,13.42084,295.1,25 de junio,Grafenau,Bayern,DE,Alemania
+48h,48.85401,13.28823,296.96,25 de junio,Schönberg (VGem),Bayern,DE,Alemania
+48h,48.54274,15.28524,298,25 de junio,Gemeinde Waldhausen,Niederösterreich,AT,Austria
+48h,49.50428,5.96154,333.06,25 de junio,Esch-sur-Alzette,Canton Esch-sur-Alzette,LU,Luxemburgo
+48h,48.95224,12.00868,297.1,25 de junio,Bad Abbach,Bayern,DE,Alemania
+48h,48.74525,13.420959999999999,306.41,25 de junio,Tittling (VGem),Bayern,DE,Alemania
+48h,49.45075,6.35297,304.69,25 de junio,Thionville,Grand Est,FR,Francia
+48h,49.46486,6.00754,306.95,25 de junio,Rumelange,Canton Esch-sur-Alzette,LU,Luxemburgo
+48h,49.64883,1.7273,297.56,25 de junio,Beauvais,Hauts-de-France,FR,Francia
+48h,49.35996,6.74906,313.77,25 de junio,Dillingen/Saar,Saarland,DE,Alemania
+48h,48.46037,15.03329,301.87,25 de junio,Gemeinde Schönbach,Niederösterreich,AT,Austria
+48h,48.50566,14.57924,295.31,25 de junio,Wartberg,Bezirk Freistadt,AT,Austria
+48h,48.84132,11.82703,297.34,25 de junio,Abensberg,Bayern,DE,Alemania
+48h,48.6445,13.36136,300.01,25 de junio,Hirzing,Bayern,DE,Alemania
+48h,48.4065,14.89019,295.45,25 de junio,Königswiesen,Oberösterreich,AT,Austria
+48h,48.93468,10.70799,304.32,25 de junio,Trendel,Bayern,DE,Alemania
+48h,49.32648,6.0799,300.2,25 de junio,Hayange,Grand Est,FR,Francia
+48h,49.31732,6.14929,302.6,25 de junio,Florange,Grand Est,FR,Francia
+48h,49.05699,9.34445,299.25,25 de junio,Beilstein,Baden-Württemberg,DE,Alemania
+48h,49.24661,6.85154,326.35,25 de junio,Völklingen,Saarland,DE,Alemania
+48h,48.92918,10.43574,306.31,25 de junio,Verwaltungsverband Tannhausen,Baden-Württemberg,DE,Alemania
+48h,49.25864,6.13283,297.88,25 de junio,Amnéville,Grand Est,FR,Francia
+48h,48.78593,11.4481,296.13,25 de junio,Ingolstadt,Bayern,DE,Alemania
+48h,49.05796,8.3302600000000009,302.45,25 de junio,Karlsruhe,Baden-Württemberg,DE,Alemania
+48h,49.44198,1.19722,299.58,25 de junio,Rouen,Normandie,FR,Francia
+48h,47.98574,16.60578,298.75,25 de junio,Mannersdorf am Leithagebirge,Niederösterreich,AT,Austria
+48h,48.28572,14.33378,321.68,25 de junio,Linz,NA,AT,Austria
+48h,48.81733,9.95932,295.96,25 de junio,Verwaltungsverband Rosenstein,Baden-Württemberg,DE,Alemania
+48h,48.87361,9.31274,303.92,25 de junio,Remseck am Neckar,Baden-Württemberg,DE,Alemania
+48h,48.84493,9.44489,304.6,25 de junio,Berglen,Baden-Württemberg,DE,Alemania
+48h,49.31177,1.76847,305.02,25 de junio,Les Andelys,Normandie,FR,Francia
+48h,48.08641,15.47329,297.15,25 de junio,Gemeinde Hofstetten-Grünau,Niederösterreich,AT,Austria
+48h,48.43755,12.90414,295.82,25 de junio,Postmünster,Bayern,DE,Alemania
+48h,48.75748,9.69592,299.88,25 de junio,Vereinbarte Verwaltungsgemeinschaft der Stadt Göppingen,Baden-Württemberg,DE,Alemania
+48h,49.07037,3.92033,316.83,25 de junio,Épernay,Grand Est,FR,Francia
+48h,48.50988,10.85754,295.89,25 de junio,Meitingen,Bayern,DE,Alemania
+48h,48.90607,5.17346,301.38,25 de junio,Bar-le-Duc,Grand Est,FR,Francia
+48h,48.62376,8.8119,298.89,25 de junio,Herrenberg,Baden-Württemberg,DE,Alemania
+48h,48.92473,2.61146,304.43,25 de junio,Torcy,Île-de-France,FR,Francia
+48h,45.0854,27.27018,298.88,25 de junio,Făurei,Brăila,RO,Rumanía
+48h,48.33237,9.73425,302,25 de junio,Gemeindeverwaltungsverband Allmendingen,Baden-Württemberg,DE,Alemania
+48h,48.07454,11.75325,299.75,25 de junio,Grasbrunn,Bayern,DE,Alemania
+48h,47.72401,13.05552,295.27,25 de junio,Niederalm,Salzburg,AT,Austria
+48h,47.8409,12.0982,308.42,25 de junio,Rosenheim,Bayern,DE,Alemania
+48h,47.79125,12.17973,306.84,25 de junio,Rohrdorf,Bayern,DE,Alemania
+48h,48.1191,9.10453,295.18,25 de junio,Verwaltungsgemeinschaft Stetten am kalten Markt,Baden-Württemberg,DE,Alemania
+48h,48.51571,2.54736,299.66,25 de junio,Melun,Île-de-France,FR,Francia
+48h,47.61189,12.97643,295.56,25 de junio,Oberschönau,Bayern,DE,Alemania
+48h,48.38931,2.98334,300.58,25 de junio,Montereau-Fault-Yonne,Île-de-France,FR,Francia
+48h,47.73686,11.34216,295.87,25 de junio,Habach (VGem),Bayern,DE,Alemania
+48h,48.16947,6.44695,305.41,25 de junio,Épinal,Grand Est,FR,Francia
+48h,48.07882,7.5387,303.83,25 de junio,Colmar-Ribeauvillé,Grand Est,FR,Francia
+48h,47.68895,11.39054,302.83,25 de junio,Kochel am See (VGem),Bayern,DE,Alemania
+48h,47.46768,12.62935,303.84,25 de junio,Gemeinde Hochfilzen,Tirol,AT,Austria
+48h,47.93991,6.97148,303.69,25 de junio,Thann-Guebwiller,Grand Est,FR,Francia
+48h,47.77169,6.23518,297.85,25 de junio,Lure,Bourgogne-Franche-Comté,FR,Francia
+48h,46.5895,14.74185,298.12,25 de junio,Feistritz ob Bleiburg,Kärnten,AT,Austria
+48h,47.36829,6.1241,297.37,25 de junio,Besançon,Bourgogne-Franche-Comté,FR,Francia
+48h,47.17671,7.56018,297.67,25 de junio,Bezirk Wasseramt,Solothurn,CH,Suiza
+48h,47.06903,8.26503,318.33,25 de junio,Emmen,Luzern,CH,Suiza
+48h,46.71411,10.08497,311.99,25 de junio,Zernez,Graubünden/Grischun/Grigioni,CH,Suiza
+48h,45.4519,18.03536,300.13,25 de junio,Grad Našice,Osječko-baranjska županija,HR,Croacia
+48h,46.23067,13.07423,304.74,25 de junio,Osoppo,Friuli-Venezia Giulia,IT,Italia
+48h,46.92557,6.31107,318.41,25 de junio,Pontarlier,Bourgogne-Franche-Comté,FR,Francia
+48h,46.06805,13.62739,315.46,25 de junio,Gorenja vas,NA,SI,Eslovenia
+48h,47.18179,-1.82515,299.35,25 de junio,Nantes,Pays de la Loire,FR,Francia
+48h,46.17781,12.73999,305.22,25 de junio,Fanna,Friuli-Venezia Giulia,IT,Italia
+48h,46.8013,5.90107,311.27,25 de junio,Lons-le-Saunier,Bourgogne-Franche-Comté,FR,Francia
+48h,45.37918,14.53975,302.28,25 de junio,Općina Čavle,Primorsko-goranska županija,HR,Croacia
+48h,41.26459,31.42309,301.77,25 de junio,Ereğli,Zonguldak,TR,Turquía
+48h,46.2506,3.42564,296.94,25 de junio,Vichy,Auvergne-Rhône-Alpes,FR,Francia
+48h,45.51831,11.49781,321.15,25 de junio,Vicenza,Veneto,IT,Italia
+48h,46.11666,4.63565,297.06,25 de junio,Villefranche-sur-Saône,Rhône,FR,Francia
+48h,45.78113,8.6851,303.55,25 de junio,Ternate,Lombardia,IT,Italia
+48h,45.63924,9.60489,306.32,25 de junio,Dalmine,Lombardia,IT,Italia
+48h,45.42903,10.9999,316.69,25 de junio,Verona,Veneto,IT,Italia
+48h,45.51091,10.24466,304.17,25 de junio,Brescia,Lombardia,IT,Italia
+48h,45.91208,5.82128,302.34,25 de junio,Belley,Auvergne-Rhône-Alpes,FR,Francia
+48h,45.46048,10.45813,328.68,25 de junio,Lonato del Garda,Lombardia,IT,Italia
+48h,45.73457,7.33906,302.63,25 de junio,Aosta / Aoste,Valle d'Aosta / Vallée d'Aoste,IT,Italia
+48h,45.62091,6.77781,299.88,25 de junio,Bourg-Saint-Maurice,Auvergne-Rhône-Alpes,FR,Francia
+48h,45.14771,9.94165,327.98,25 de junio,Spinadesco,Lombardia,IT,Italia
+48h,45.38309,6.71892,296.28,25 de junio,Albertville,Auvergne-Rhône-Alpes,FR,Francia
+48h,40.76871,29.52643,313.65,25 de junio,Dilovası,Kocaeli,TR,Turquía
+48h,41.02329,28.55585,311.64,25 de junio,Büyükçekmece,İstanbul,TR,Turquía
+48h,45.22907,5.66721,299.07,25 de junio,Saint-Égrève,Auvergne-Rhône-Alpes,FR,Francia
+48h,43.54305,16.442,303.22,25 de junio,Grad Kaštela,Splitsko-dalmatinska županija,HR,Croacia
+48h,44.05176,12.53389,327.05,25 de junio,Rimini,Emilia-Romagna,IT,Italia
+48h,44.3779,8.29206,318.84,25 de junio,Cairo Montenotte,Liguria,IT,Italia
+48h,44.85749,0.15214,303.08,25 de junio,Bergerac,Nouvelle-Aquitaine,FR,Francia
+48h,43.79368,7.37497,313.43,25 de junio,Nice,Provence-Alpes-Côte d'Azur,FR,Francia
+48h,40.14045,25.93147,302.51,25 de junio,Gökçeada,Çanakkale,TR,Turquía
+48h,43.44883,4.8945,337.35,25 de junio,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
+48h,42.57088,12.67762,318.14,25 de junio,Terni,Umbria,IT,Italia
+48h,43.22638,-2.88365,302.85,25 de junio,Basauri,Bizkaia,ES,España
+48h,42.01009,12.7147,306.87,25 de junio,Guidonia,Lazio,IT,Italia
+48h,38.8075,26.94015,309.57,25 de junio,Aliağa,İzmir,TR,Turquía
+48h,40.952,15.67007,295.65,25 de junio,Barile,Basilicata,IT,Italia
+48h,40.51974,17.20916,318.74,25 de junio,Taranto,Puglia,IT,Italia
+48h,40.41183,16.08428,302.29,25 de junio,Pietrapertosa,Basilicata,IT,Italia
+48h,41.31528,1.66322,312.06,25 de junio,Santa Margarida i els Monjos,Barcelona,ES,España
+48h,40.55756,9.6731,311.73,25 de junio,Thiniscole/Siniscola,Sardigna/Sardegna,IT,Italia
+48h,40.57887,0.54223,303.64,25 de junio,Alcanar,Tarragona,ES,España
+48h,38.79152,15.21287,306.54,25 de junio,Lipari,Sicilia,IT,Italia
+48h,40.24437,-3.47211,306.84,25 de junio,Morata de Tajuña,Comunidad de Madrid,ES,España
+48h,39.95171,-0.00458,304.6,25 de junio,Castelló de la Plana,Comunitat Valenciana,ES,España
+48h,38.20316,15.2666,305.58,25 de junio,Milazzo,Sicilia,IT,Italia
+48h,37.74802,15.00188,295.16,25 de junio,Zafferana Etnea,Sicilia,IT,Italia
+48h,37.43796,15.03247,307.41,25 de junio,Catania,Sicilia,IT,Italia
+48h,37.21237,15.17038,306.24,25 de junio,Augusta,Sicilia,IT,Italia
+48h,38.90336,-3.79624,317.17,25 de junio,Pozuelo de Calatrava,Ciudad Real,ES,España
+48h,36.98192,14.53304,311.92,25 de junio,Vittoria,Sicilia,IT,Italia
+48h,36.9048,14.7244,304.18,25 de junio,Ragusa,Sicilia,IT,Italia
+48h,37.66489,-5.16173,313.43,25 de junio,Écija,Sevilla,ES,España
+48h,37.67076,-5.167,313.52,25 de junio,Fuente Carreteros,Córdoba,ES,España
+48h,37.08736,-4.94134,301.85,25 de junio,Campillos,Málaga,ES,España
+48h,36.96516,-1.90561,302.03,25 de junio,Carboneras,Almería,ES,España
+48h,45.3723,10.33175,303.79,25 de junio,Viadana,Lombardia,IT,Italia
+48h,48.10771,-1.0374,304.18,25 de junio,Laval,Pays de la Loire,FR,Francia
+48h,43.53887,-5.82613,299.72,25 de junio,Carreño,Asturias / Asturies,ES,España
+48h,41.45541,1.98061,301.78,25 de junio,Castellbisbal,Barcelona,ES,España
+48h,42.93436,-4.22129,296.14,25 de junio,Valdeolea,Cantabria,ES,España
+48h,39.93828,-3.74438,307.26,25 de junio,Yepes,Toledo,ES,España
+48h,38.50295,-8.93741,311.43,25 de junio,Setúbal,Setúbal,PT,Portugal
+48h,50.47059,3.99108,296.9,25 de junio,Mons,Hainaut,BE,Bélgica
+48h,50.69728,2.11501,300.41,25 de junio,Saint-Omer,Hauts-de-France,FR,Francia
+48h,49.35436,6.74955,298.98,25 de junio,Saarlouis,Saarland,DE,Alemania
+48h,48.59844,7.82388,301.73,25 de junio,Kehl,Baden-Württemberg,DE,Alemania
+48h,51.39818,-3.39411,303.43,25 de junio,East Aberthaw,Cymru / Wales,GB,Reino Unido
+48h,50.83097,-1.36284,303.37,25 de junio,New Forest,England,GB,Reino Unido
+48h,48.70736,5.6976,297.06,25 de junio,Commercy,Grand Est,FR,Francia
+48h,48.77123,4.56305,297.05,25 de junio,Vitry-le-François,Grand Est,FR,Francia
+48h,48.23798,5.76133,337.97,25 de junio,Neufchâteau,Grand Est,FR,Francia
+48h,49.47647,0.53777,300.53,25 de junio,Port-Jérôme-sur-Seine,Normandie,FR,Francia
+48h,48.98593,1.75937,305.3,25 de junio,Limay,Île-de-France,FR,Francia
+48h,66.31446,14.16366,326.57,25 de junio,Mo i Rana,Nordland,NO,Noruega
+48h,37.25299,27.6209,338.73,25 de junio,Milas,Muğla,TR,Turquía
+48h,39.10619,34.18777,340.39,25 de junio,Kırşehir Merkez,Kırşehir,TR,Turquía
+48h,40.2077,29.27151,330.05,25 de junio,Kestel,Marmara Bölgesi,TR,Turquía
+48h,40.23798,28.96382,338.32,25 de junio,Nilüfer,Bursa,TR,Turquía
+48h,40.99004,29.09129,335.68,25 de junio,Ataşehir,İstanbul,TR,Turquía
+48h,43.25237,13.75376,338.67,25 de junio,Porto Sant'Elpidio,Marche,IT,Italia
+48h,45.78249,12.24556,327.34,25 de junio,Spresiano,Veneto,IT,Italia
+48h,48.60778,21.18129,344.11,25 de junio,Košice,Košický kraj,SK,Eslovaquia
+48h,49.33434,13.2087,339.16,25 de junio,Janovice nad Úhlavou,Jihozápad,CZ,Rep. Checa
+48h,50.30616,14.15781,325.95,25 de junio,okres Kladno,Střední Čechy,CZ,Rep. Checa
+48h,52.5884,19.70037,329.61,25 de junio,Płock,województwo mazowieckie,PL,Polonia
+48h,52.32335,13.27317,335.76,25 de junio,Ludwigsfelde,Brandenburg,DE,Alemania
+48h,64.64426,24.42636,326.29,25 de junio,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+48h,65.56231,22.21522,336.03,25 de junio,Luleå,Norrbottens län,SE,Suecia
+48h,37.00826,14.36092,331.64,25 de junio,Gela,Sicilia,IT,Italia
+48h,37.44356,14.66222,339.54,25 de junio,Ramacca,Sicilia,IT,Italia
+48h,37.45832,13.30939,338.29,25 de junio,Ribera,Sicilia,IT,Italia
+48h,37.65069,14.84276,348.18,25 de junio,Adrano,Sicilia,IT,Italia
+48h,40.23301,18.16353,340.4,25 de junio,Galatina,Puglia,IT,Italia
+48h,40.25301,18.1695,337.17,25 de junio,San Donato di Lecce,Puglia,IT,Italia
+48h,39.05603,-3.35028,339,25 de junio,Manzanares,Ciudad Real,ES,España
+48h,38.75166,-6.56587,332.86,25 de junio,Solana de los Barros,Badajoz,ES,España
+48h,41.44081,2.23478,338.61,25 de junio,Badalona,Barcelona,ES,España
+48h,39.99777,-4.25978,334.08,25 de junio,Barcience,Toledo,ES,España
+48h,43.01223,12.34608,335.49,25 de junio,Perugia,Umbria,IT,Italia
+48h,39.98933,-5.38725,338.02,25 de junio,Talayuela,Cáceres,ES,España
+48h,45.3248,11.07923,346.74,25 de junio,Oppeano,Veneto,IT,Italia
+48h,44.93728,7.50987,347.57,25 de junio,Volvera,Piemonte,IT,Italia
+48h,45.00469,7.48385,336.97,25 de junio,Bruino,Piemonte,IT,Italia
+48h,45.51167,11.4369,339.59,25 de junio,Montecchio Maggiore,Veneto,IT,Italia
+48h,45.42289,9.97271,336.58,25 de junio,Unione dei Comuni Bassa Bresciana Occidentale,Lombardia,IT,Italia
+48h,45.39369,9.50438,338.66,25 de junio,Spino d'Adda,Lombardia,IT,Italia
+48h,45.39276,9.25842,338.11,25 de junio,San Giuliano Milanese,Lombardia,IT,Italia
+48h,45.71234,11.4126,332.32,25 de junio,Schio,Veneto,IT,Italia
+48h,45.51839,9.01338,339.11,25 de junio,Pregnana Milanese,Lombardia,IT,Italia
+48h,45.63341,8.83679,339.46,25 de junio,Busto Arsizio,Lombardia,IT,Italia
+48h,45.66361,8.35752,342.9,25 de junio,Prato Sesia,Piemonte,IT,Italia
+48h,46.54181,6.57393,336.97,25 de junio,Crissier,Vaud,CH,Suiza
+48h,46.6233,7.03563,335.73,25 de junio,Bulle,Fribourg/Freiburg,CH,Suiza
+48h,47.48467,9.46208,336.87,25 de junio,Tübach,Sankt Gallen,CH,Suiza
+48h,46.93222,1.84478,339.82,25 de junio,Issoudun,Centre-Val de Loire,FR,Francia
+48h,47.20039,2.97735,333.34,25 de junio,Bourges,Centre-Val de Loire,FR,Francia
+48h,48.74107,17.68097,342.21,25 de junio,Kostolné,Trenčiansky kraj,SK,Eslovaquia
+48h,48.09128,4.81918,338.88,25 de junio,Chaumont,Grand Est,FR,Francia
+48h,47.51295,-0.44384,337.6,25 de junio,Verrières-en-Anjou,Pays de la Loire,FR,Francia
+48h,47.82568,1.00596,333.83,25 de junio,Vendôme,Centre-Val de Loire,FR,Francia
+48h,47.76158,0.41614,333.12,25 de junio,La Flèche,Pays de la Loire,FR,Francia
+48h,49.47669,8.60428,337.82,25 de junio,Ladenburg,Baden-Württemberg,DE,Alemania
+48h,49.77488,9.43679,330.37,25 de junio,Wertheim,Baden-Württemberg,DE,Alemania
+48h,49.71602,5.73214,333.81,25 de junio,Attert,Luxembourg,BE,Bélgica
+48h,49.34544,2.7631,335.25,25 de junio,Compiègne,Hauts-de-France,FR,Francia
+48h,50.38984,7.58726,331.46,25 de junio,Koblenz,Rheinland-Pfalz,DE,Alemania
+48h,50.43496,7.47892,338.34,25 de junio,Neuwied,Rheinland-Pfalz,DE,Alemania
+48h,50.71775,7.12748,334.54,25 de junio,Bonn,Nordrhein-Westfalen,DE,Alemania
+48h,50.54854,2.83413,336.42,25 de junio,Lille,Hauts-de-France,FR,Francia
+48h,51.15151,6.77695,332.63,25 de junio,Neuss,Nordrhein-Westfalen,DE,Alemania
+48h,51.20385,6.75332,331.69,25 de junio,Düsseldorf,Nordrhein-Westfalen,DE,Alemania
+48h,50.99881,3.76627,336.84,25 de junio,Merelbeke,Oost-Vlaanderen,BE,Bélgica
+48h,51.51843,6.96849,333.12,25 de junio,Bottrop,Nordrhein-Westfalen,DE,Alemania
+48h,51.35829,5.70606,340.45,25 de junio,Someren,Noord-Brabant,NL,Países Bajos
+48h,51.53671,5.53956,337.19,25 de junio,Sint-Oedenrode,Noord-Brabant,NL,Países Bajos
+48h,51.92144,5.90359,335.29,25 de junio,Lingewaard,Gelderland,NL,Países Bajos
+48h,52.58503,7.0987,331.77,25 de junio,Samtgemeinde Neuenhaus,Niedersachsen,DE,Alemania
+48h,37.68151,-4.91964,341.02,25 de junio,La Carlota,Córdoba,ES,España
+48h,37.85186,-4.74011,343.11,25 de junio,Córdoba,Córdoba,ES,España
+48h,39.1398,-9.20847,341.6,25 de junio,Torres Vedras,Lisboa,PT,Portugal
+48h,40.466,-3.61732,336.79,25 de junio,Madrid,Comunidad de Madrid,ES,España
+48h,40.75997,-7.81022,342.95,25 de junio,Viseu,Viseu,PT,Portugal
+48h,47.03732,-0.23373,332.47,25 de junio,Bressuire,Nouvelle-Aquitaine,FR,Francia
+48h,47.03754,-0.24462,355.78,25 de junio,Loretz-d'Argenton,Nouvelle-Aquitaine,FR,Francia
+48h,41.25534,31.41389,318.84,25 de junio,Gülüç,Zonguldak,TR,Turquía
+48h,41.18114,32.63559,302.74,25 de junio,Karabük,Karabük,TR,Turquía
+48h,41.14045,32.63745,297.8,25 de junio,Zopran,Karabük,TR,Turquía
+48h,40.76278,29.36214,297.08,25 de junio,Darıca,Kocaeli,TR,Turquía
+48h,40.26402,30.04458,300.01,25 de junio,Bilecik Merkez,Bilecik,TR,Turquía
+48h,39.69783,34.67462,298.68,25 de junio,Yerköy,Yozgat,TR,Turquía
+48h,39.83883,30.30211,305.2,25 de junio,Tepebaşı,Eskişehir,TR,Turquía
+48h,38.42892,27.21464,303.76,25 de junio,Bornova,Ege Bölgesi,TR,Turquía
+48h,37.94009,32.53617,301.71,25 de junio,Selçuklu,Konya,TR,Turquía
+48h,36.87127,34.76402,307.82,25 de junio,Akdeniz,Mersin,TR,Turquía
+48h,36.26631,33.72808,310.39,25 de junio,Silifke,Mersin,TR,Turquía
+48h,49.21844,16.77612,296.49,26 de junio,okres Brno-venkov,Jihovýchod,CZ,Rep. Checa
+48h,48.25661,20.35399,313.97,26 de junio,Ózd,Borsod-Abaúj-Zemplén vármegye,HU,Hungría
+48h,49.50671,5.96056,316.39,26 de junio,Esch-sur-Alzette,Canton Esch-sur-Alzette,LU,Luxemburgo
+48h,49.46559,6.00765,303.92,26 de junio,Rumelange,Canton Esch-sur-Alzette,LU,Luxemburgo
+48h,49.35872,6.74623,309.38,26 de junio,Dillingen/Saar,Saarland,DE,Alemania
+48h,49.35855,6.75172,301.49,26 de junio,Saarlouis,Saarland,DE,Alemania
+48h,48.4576,17.19275,309.79,26 de junio,Rohožník,Bratislavský kraj,SK,Eslovaquia
+48h,49.24556,6.84908,330.32,26 de junio,Völklingen,Saarland,DE,Alemania
+48h,48.77649,10.69892,296.9,26 de junio,Harburg (Schwaben),Bayern,DE,Alemania
+48h,45.37581,30.92875,337.41,26 de junio,NA,NA,NA,Mundo
+48h,48.27747,14.33849,335.79,26 de junio,Linz,NA,AT,Austria
+48h,48.51251,10.85572,297.19,26 de junio,Meitingen,Bayern,DE,Alemania
+48h,47.03591,22.33401,302.4,26 de junio,Subpiatră,Bihor,RO,Rumanía
+48h,48.59201,7.8201599999999996,305.39,26 de junio,Kehl,Baden-Württemberg,DE,Alemania
+48h,48.33302,9.72883,297.28,26 de junio,Gemeindeverwaltungsverband Allmendingen,Baden-Württemberg,DE,Alemania
+48h,47.46782,12.63119,301.16,26 de junio,Gemeinde Hochfilzen,Tirol,AT,Austria
+48h,45.292230000000004,25.11448,300.08,26 de junio,Bilcești,Argeș,RO,Rumanía
+48h,47.45948,7.75308,307.52,26 de junio,Lausen,Basel-Landschaft,CH,Suiza
+48h,46.73821,15.576,298.83,26 de junio,Obervogau,Steiermark,AT,Austria
+48h,45.12449,25.42149,304.48,26 de junio,Fieni,Dâmbovița,RO,Rumanía
+48h,47.17368,7.56412,304.81,26 de junio,Bezirk Wasseramt,Solothurn,CH,Suiza
+48h,46.01588,17.98356,301.64,26 de junio,Szentlőrinci járás,Baranya vármegye,HU,Hungría
+48h,46.22876,13.07818,304.01,26 de junio,Osoppo,Friuli-Venezia Giulia,IT,Italia
+48h,46.17824,12.74149,306.1,26 de junio,Fanna,Friuli-Venezia Giulia,IT,Italia
+48h,46.07113,13.62859,306.44,26 de junio,Gorenja vas,NA,SI,Eslovenia
+48h,45.45162,18.03546,300.51,26 de junio,Grad Našice,Osječko-baranjska županija,HR,Croacia
+48h,41.48149,34.75198,297.18,26 de junio,Boyabat,Sinop,TR,Turquía
+48h,45.28424,14.52925,301.44,26 de junio,Općina Kostrena,Primorsko-goranska županija,HR,Croacia
+48h,45.52053,11.50019,328.37,26 de junio,Vicenza,Veneto,IT,Italia
+48h,45.38294,11.95173,305.36,26 de junio,Padova,Veneto,IT,Italia
+48h,45.4289,11.00234,314.73,26 de junio,Verona,Veneto,IT,Italia
+48h,45.462,10.45514,319.2,26 de junio,Lonato del Garda,Lombardia,IT,Italia
+48h,45.43747,8.79267,303.95,26 de junio,Trecate,Piemonte,IT,Italia
+48h,41.18459,32.63586,300.06,26 de junio,Karabük,Karabük,TR,Turquía
+48h,45.14794,9.94451,338.51,26 de junio,Cremona,Lombardia,IT,Italia
+48h,45.22958,5.6674,299.66,26 de junio,Saint-Égrève,Auvergne-Rhône-Alpes,FR,Francia
+48h,41.26126,31.4285,302.26,26 de junio,Ereğli,Zonguldak,TR,Turquía
+48h,44.30288,7.50686,302.52,26 de junio,Robilante,Piemonte,IT,Italia
+48h,41.01862,28.55531,302.54,26 de junio,Büyükçekmece,İstanbul,TR,Turquía
+48h,43.79338,7.37535,310.4,26 de junio,Nice,Provence-Alpes-Côte d'Azur,FR,Francia
+48h,40.17528,28.91595,299.65,26 de junio,Nilüfer,Marmara Bölgesi,TR,Turquía
+48h,43.44325,4.88116,354.13,26 de junio,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
+48h,42.57147,12.67284,302.12,26 de junio,Terni,Umbria,IT,Italia
+48h,41.5489,19.72389,304.27,26 de junio,Bashkia Krujë,Shqipëria Veriore,AL,Albania
+48h,39.86712,26.24326,306.19,26 de junio,Mahmudiye,Çanakkale,TR,Turquía
+48h,41.09726,20.02634,304,26 de junio,Bashkia Elbasan,Shqipëria Qendrore,AL,Albania
+48h,38.65833,30.619,305.07,26 de junio,Afyonkarahisar Merkez,Afyonkarahisar,TR,Turquía
+48h,42.01094,12.71497,305.32,26 de junio,Guidonia,Lazio,IT,Italia
+48h,41.42677,15.91383,301.43,26 de junio,Cerignola,Puglia,IT,Italia
+48h,40.62986,18.00139,303.07,26 de junio,Brindisi,Puglia,IT,Italia
+48h,40.95177,15.67212,301.13,26 de junio,Barile,Basilicata,IT,Italia
+48h,38.74494,26.95005,307.76,26 de junio,Aliağa,İzmir,TR,Turquía
+48h,38.52076,27.81577,301.1,26 de junio,Turgutlu,Manisa,TR,Turquía
+48h,40.52085,17.20551,323.32,26 de junio,Statte,Puglia,IT,Italia
+48h,40.52017,17.21002,311.63,26 de junio,Taranto,Puglia,IT,Italia
+48h,38.42598,27.21488,303.41,26 de junio,Bornova,Ege Bölgesi,TR,Turquía
+48h,40.31451,15.89436,297.91,26 de junio,Viggiano,Basilicata,IT,Italia
+48h,40.55853,9.67395,309.55,26 de junio,Thiniscole/Siniscola,Sardigna/Sardegna,IT,Italia
+48h,38.79229,15.21162,336.28,26 de junio,Lipari,Sicilia,IT,Italia
+48h,37.75174,14.99024,309.21,26 de junio,Biancavilla,Sicilia,IT,Italia
+48h,37.7511,14.99488,304.82,26 de junio,Zafferana Etnea,Sicilia,IT,Italia
+48h,37.44126,14.85545,303.42,26 de junio,Paternò,Sicilia,IT,Italia
+48h,37.21109,15.1694,308.89,26 de junio,Augusta,Sicilia,IT,Italia
+48h,37.1258,15.19788,309.64,26 de junio,Priolo Gargallo,Sicilia,IT,Italia
+48h,37.01591,14.33274,302.56,26 de junio,Gela,Sicilia,IT,Italia
+48h,36.93547,14.46012,307.41,26 de junio,Vittoria,Sicilia,IT,Italia
+48h,36.78439,15.042,304.69,26 de junio,Noto,Sicilia,IT,Italia
+48h,65.77028,24.19144,337.92,26 de junio,Tornio,Lapin aluehallintovirasto,FI,Finlandia
+48h,65.56223,22.22003,330.79,26 de junio,Luleå,Norrbottens län,SE,Suecia
+48h,61.06572,28.23751,300.49,26 de junio,Lappeenranta,Etelä-Suomen aluehallintovirasto,FI,Finlandia
+48h,60.90718,26.6663,297.51,26 de junio,Kuusankoski,Etelä-Suomen aluehallintovirasto,FI,Finlandia
+48h,58.68419,17.1293,310.88,26 de junio,Oxelösund,Södermanlands län,SE,Suecia
+48h,58.38481,13.83039,302.31,26 de junio,Skövde,Västra Götalands län,SE,Suecia
+48h,58.36173,12.37665,300.42,26 de junio,Vänersborgs kommun,Västra Götalands län,SE,Suecia
+48h,57.70852,18.80362,310.05,26 de junio,Gotlands kommun,Gotlands län,SE,Suecia
+48h,56.69097,22.59515,303.74,26 de junio,Brocēni,Kurzeme,LV,Letonia
+48h,56.31562,22.91665,299.33,26 de junio,Naujoji Akmenė,Akmenės rajono savivaldybė,LT,Lituania
+48h,57.06042,9.97889,331.57,26 de junio,Aalborg,Region Nordjylland,DK,Dinamarca
+48h,53.52596,9.90172,310.76,26 de junio,Hamburg,NA,DE,Alemania
+48h,52.58645,19.69314,310.86,26 de junio,Płock,województwo mazowieckie,PL,Polonia
+48h,52.44576,18.71208,300.26,26 de junio,gmina Izbica Kujawska,województwo kujawsko-pomorskie,PL,Polonia
+48h,53.14216,8.67774,317.53,26 de junio,Bremen,Bremen,DE,Alemania
+48h,51.13844,23.55319,311.08,26 de junio,gmina Chełm,województwo lubelskie,PL,Polonia
+48h,52.17305,14.63045,316.19,26 de junio,Eisenhüttenstadt,Brandenburg,DE,Alemania
+48h,52.56383,7.30672,303.28,26 de junio,Lingen (Ems),Niedersachsen,DE,Alemania
+48h,52.49327,4.60785,300.85,26 de junio,Beverwijk,Noord-Holland,NL,Países Bajos
+48h,52.47488,4.60738,307.9,26 de junio,Velsen,Noord-Holland,NL,Países Bajos
+48h,52.35331,9.89002,303.78,26 de junio,Sehnde,Niedersachsen,DE,Alemania
+48h,52.16502,10.41896,302.41,26 de junio,Salzgitter,Niedersachsen,DE,Alemania
+48h,52.2081,8.04769,313.3,26 de junio,Georgsmarienhütte,Niedersachsen,DE,Alemania
+48h,51.68824,15.97839,332,26 de junio,Głogów,województwo dolnośląskie,PL,Polonia
+48h,51.6875,15.9857,322.77,26 de junio,gmina Żukowice,województwo dolnośląskie,PL,Polonia
+48h,50.93131,21.67497,304.58,26 de junio,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
+48h,50.94256,21.44605,298.26,26 de junio,Ostrowiec Świętokrzyski,województwo świętokrzyskie,PL,Polonia
+48h,51.104,18.94291,313.52,26 de junio,gmina Działoszyn,województwo łódzkie,PL,Polonia
+48h,50.80814,20.53095,313.69,26 de junio,gmina Nowiny,województwo świętokrzyskie,PL,Polonia
+48h,50.82791,20.27346,314.86,26 de junio,Małogoszcz,województwo świętokrzyskie,PL,Polonia
+48h,51.85866,8.02838,307.61,26 de junio,Ennigerloh,Nordrhein-Westfalen,DE,Alemania
+48h,51.86222,1.077,297.47,26 de junio,Great Bentley,England,GB,Reino Unido
+48h,51.88346,4.33807,298.3,26 de junio,Rotterdam,Zuid-Holland,NL,Países Bajos
+48h,51.76886,8.05665,321.27,26 de junio,Beckum,Nordrhein-Westfalen,DE,Alemania
+48h,51.62074,8.51079,305.52,26 de junio,Geseke,Nordrhein-Westfalen,DE,Alemania
+48h,51.59589,8.33657,305.39,26 de junio,Erwitte,Nordrhein-Westfalen,DE,Alemania
+48h,51.50422,6.72918,315.14,26 de junio,Duisburg,Nordrhein-Westfalen,DE,Alemania
+48h,50.49181,19.46698,316.79,26 de junio,Zawiercie,powiat zawierciański,PL,Polonia
+48h,51.2714,11.65792,299.95,26 de junio,Unstruttal,Sachsen-Anhalt,DE,Alemania
+48h,50.53618,17.976680000000002,322.69,26 de junio,gmina Gogolin,województwo opolskie,PL,Polonia
+48h,50.3443,19.34152,298.18,26 de junio,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+48h,51.30002,7.01133,334.03,26 de junio,Wülfrath,Nordrhein-Westfalen,DE,Alemania
+48h,50.34439,18.86956,296.86,26 de junio,Bytom,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+48h,50.33209,18.82991,298.14,26 de junio,Zabrze,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+48h,50.07434,20.10074,310.41,26 de junio,Kraków,województwo małopolskie,PL,Polonia
+48h,51.04203,2.27869,301.46,26 de junio,Grande-Synthe,Hauts-de-France,FR,Francia
+48h,51.03535,2.27902,313.17,26 de junio,Dunkerque,Hauts-de-France,FR,Francia
+48h,50.04071,18.48406,310.32,26 de junio,Radlin,powiat wodzisławski,PL,Polonia
+48h,50.65459,11.43187,299.76,26 de junio,Kamsdorf,Thüringen,DE,Alemania
+48h,49.86076,18.27714,299.27,26 de junio,Ostrava,Moravskoslezsko,CZ,Rep. Checa
+48h,50.76403,5.67373,306.44,26 de junio,Visé,Liège,BE,Bélgica
+48h,49.69176,18.65435,300.19,26 de junio,Třinec,Moravskoslezsko,CZ,Rep. Checa
+48h,50.5817,4.6849,296.84,26 de junio,Gembloux,Namur,BE,Bélgica
+48h,50.57239,5.37175,299.67,26 de junio,Stockay,Liège,BE,Bélgica
+48h,50.4758,3.98899,301.55,26 de junio,Mons,Hainaut,BE,Bélgica
+48h,49.5016,17.95487,300.2,26 de junio,okres Vsetín,Střední Morava,CZ,Rep. Checa
+48h,49.95366,9.76984,306.01,26 de junio,Karlstadt,Bayern,DE,Alemania
+48h,59.64822,6.36362,309.53,26 de junio,Sauda,Rogaland,NO,Noruega
+48h,53.87465,9.58647,302.08,26 de junio,Krempermarsch,Schleswig-Holstein,DE,Alemania
+48h,56.01709,-3.68794,300.74,26 de junio,Grangemouth,Alba / Scotland,GB,Reino Unido
+48h,51.18003,16.11149,323.44,26 de junio,Legnica,województwo dolnośląskie,PL,Polonia
+48h,51.81218,11.75523,303.4,26 de junio,Bernburg,Sachsen-Anhalt,DE,Alemania
+48h,51.36661,10.485900000000001,298.17,26 de junio,Deuna,Thüringen,DE,Alemania
+48h,53.63617,-0.24283,312.07,26 de junio,South Killingholme,England,GB,Reino Unido
+48h,53.58294,-0.61877,299.44,26 de junio,Scunthorpe,England,GB,Reino Unido
+48h,53.56735,-0.58912,309.69,26 de junio,Broughton,England,GB,Reino Unido
+48h,53.33895,-1.75286,305.05,26 de junio,High Peak,England,GB,Reino Unido
+48h,51.47843,7.16418,304.15,26 de junio,Bochum,Nordrhein-Westfalen,DE,Alemania
+48h,53.15116,-3.0609,302.72,26 de junio,Little Mountain,Cymru / Wales,GB,Reino Unido
+48h,52.42421,-1.21236,297.13,26 de junio,Harborough,England,GB,Reino Unido
+48h,51.2735,4.32535,301.75,26 de junio,Antwerpen,Antwerpen,BE,Bélgica
+48h,51.17595,3.80932,338.64,26 de junio,Zelzate,Oost-Vlaanderen,BE,Bélgica
+48h,51.17228,3.80724,332.2,26 de junio,Gent,Oost-Vlaanderen,BE,Bélgica
+48h,51.15618,0.89157,296.47,26 de junio,Ashford,England,GB,Reino Unido
+48h,51.32366,-0.88039,303.7,26 de junio,Hart,England,GB,Reino Unido
+48h,50.69899,2.11509,303.35,26 de junio,Saint-Omer,Hauts-de-France,FR,Francia
+48h,49.92497,5.45381,296.3,26 de junio,Saint-Marie-Chevigny,Luxembourg,BE,Bélgica
+48h,50.33789,3.49788,303.88,26 de junio,Valenciennes,Hauts-de-France,FR,Francia
+48h,51.57869,-3.77307,305.84,26 de junio,Port Talbot,Cymru / Wales,GB,Reino Unido
+48h,51.68373,-5.03247,297.59,26 de junio,Rhoscrowther,Cymru / Wales,GB,Reino Unido
+48h,49.52225,5.9064,317.13,26 de junio,Differdange,Canton Esch-sur-Alzette,LU,Luxemburgo
+48h,51.39634,-3.39147,300.51,26 de junio,East Aberthaw,Cymru / Wales,GB,Reino Unido
+48h,49.52536,5.90969,307.86,26 de junio,Belvaux,Canton Esch-sur-Alzette,LU,Luxemburgo
+48h,50.83678,-1.37439,300.81,26 de junio,New Forest,England,GB,Reino Unido
+48h,49.17938,3.583,310.63,26 de junio,Château-Thierry,Hauts-de-France,FR,Francia
+48h,48.76759,4.56592,304.29,26 de junio,Vitry-le-François,Grand Est,FR,Francia
+48h,48.98436,1.76464,312.4,26 de junio,Mantes-la-Jolie,Île-de-France,FR,Francia
+48h,47.45807,7.75101,306.05,26 de junio,Bubendorf,Basel-Landschaft,CH,Suiza
+48h,47.06908,8.26671,307.98,26 de junio,Emmen,Luzern,CH,Suiza
+48h,45.3724,10.3328,301.18,26 de junio,Viadana,Lombardia,IT,Italia
+48h,45.57198,9.40505,300.2,26 de junio,Omate,Lombardia,IT,Italia
+48h,45.78409,8.68357,300.12,26 de junio,Ternate,Lombardia,IT,Italia
+48h,48.10818,-1.0334,303.43,26 de junio,Laval,Pays de la Loire,FR,Francia
+48h,47.0843,3.00168,303.47,26 de junio,Bourges,Centre-Val de Loire,FR,Francia
+48h,48.0726,-1.76626,310.47,26 de junio,Rennes,Bretagne,FR,Francia
+48h,45.14702,9.94204,317.5,26 de junio,Spinadesco,Lombardia,IT,Italia
+48h,47.31649,-2.05142,297.27,26 de junio,Saint-Nazaire,Pays de la Loire,FR,Francia
+48h,43.54169,-5.79457,301.03,26 de junio,Carreño,Asturias / Asturies,ES,España
+48h,43.53095,-5.72868,305.91,26 de junio,Gijón/Xixón,Asturias / Asturies,ES,España
+48h,41.40856,2.00191,303.38,26 de junio,Sant Vicenç dels Horts,Barcelona,ES,España
+48h,43.3475,-8.43364,299.81,26 de junio,A Coruña,A Coruña,ES,España
+48h,42.55469,-6.76878,301.82,26 de junio,Toral de los Vados,León,ES,España
+48h,41.78138,-8.35204,328.77,26 de junio,Ponte da Barca,Viana do Castelo,PT,Portugal
+48h,37.56921,-0.91649,304.07,26 de junio,Cartagena,Región de Murcia,ES,España
+48h,38.37984,-6.48394,307.72,26 de junio,Alconera,Badajoz,ES,España
+48h,37.85493,-4.74333,307.88,26 de junio,Córdoba,Córdoba,ES,España
+48h,38.50152,-8.93692,316.14,26 de junio,Setúbal,Setúbal,PT,Portugal
+48h,37.66887,-5.16175,323.87,26 de junio,Fuente Carreteros,Córdoba,ES,España
+48h,37.66542,-5.16277,313.8,26 de junio,Écija,Sevilla,ES,España
+48h,36.9665,-1.9034,308.16,26 de junio,Carboneras,Almería,ES,España
+48h,37.36106,-5.86384,313.61,26 de junio,Alcalá de Guadaíra,Sevilla,ES,España
+48h,36.71636,-4.33021,307.18,26 de junio,Málaga,Málaga,ES,España
+48h,36.91996,30.92295,331.6,26 de junio,Aksu,Antalya,TR,Turquía
+48h,37.79834,30.38046,339.57,26 de junio,Gönen,Isparta,TR,Turquía
+48h,37.98278,28.9803,333.32,26 de junio,Ada,Denizli,TR,Turquía
+48h,38.17024,27.56043,335.21,26 de junio,Bayındır,İzmir,TR,Turquía
+48h,44.75761,27.23758,333.44,26 de junio,Nicolești,Ialomița,RO,Rumanía
+48h,43.99547,23.31852,333.52,26 de junio,Băilești,Dolj,RO,Rumanía
+48h,53.12107,23.1778,332.4,26 de junio,Białystok,województwo podlaskie,PL,Polonia
+48h,53.09129,14.24337,353.88,26 de junio,Schwedt/Oder,Brandenburg,DE,Alemania
+48h,59.12788,9.62329,339.71,26 de junio,Porsgrunn,Vestfold og Telemark,NO,Noruega
+48h,64.64599,24.42649,329.31,26 de junio,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+48h,69.35214,18.0658,338.05,26 de junio,Senja,Troms og Finnmark,NO,Noruega
+48h,37.18443,14.66716,333.28,26 de junio,Licodia Eubea,Sicilia,IT,Italia
+48h,37.263,14.38361,330.74,26 de junio,Mazzarino,Sicilia,IT,Italia
+48h,37.45008,13.45519,336.68,26 de junio,Sant'Angelo Muxaro,Sicilia,IT,Italia
+48h,38.24813,16.22709,334.41,26 de junio,Gerace,Calabria,IT,Italia
+48h,39.46487,16.23015,346.68,26 de junio,Luzzi,Calabria,IT,Italia
+48h,40.39198,17.90552,337.54,26 de junio,Salice Salentino,Puglia,IT,Italia
+48h,40.46521,18.07318,336.46,26 de junio,Torchiarolo,Puglia,IT,Italia
+48h,40.467,17.93597,331.93,26 de junio,San Donaci,Puglia,IT,Italia
+48h,40.54451,17.7608,339.16,26 de junio,Mesagne,Puglia,IT,Italia
+48h,40.87509,19.80466,337.83,26 de junio,Bashkia Lushnjë,Shqipëria Jugore,AL,Albania
+48h,42.7476,12.71304,343.43,26 de junio,Spoleto,Umbria,IT,Italia
+48h,43.16102,13.66354,338.02,26 de junio,Fermo,Marche,IT,Italia
+48h,39.94709,-2.62925,336.27,26 de junio,Palomares del Campo,Cuenca,ES,España
+48h,43.56424,13.04054,336.67,26 de junio,Serra de' Conti,Marche,IT,Italia
+48h,40.11147,-3.04026,336.54,26 de junio,Barajas de Melo,Cuenca,ES,España
+48h,41.38615,1.35277,347.28,26 de junio,el Pont d'Armentera,Tarragona,ES,España
+48h,43.73478,12.92551,331.1,26 de junio,Colli al Metauro,Marche,IT,Italia
+48h,44.75964,26.91605,338.24,26 de junio,Grindu,Ialomița,RO,Rumanía
+48h,43.99872,12.42287,336.03,26 de junio,Verucchio,Emilia-Romagna,IT,Italia
+48h,44.22699,12.08429,342.41,26 de junio,Forlì,Forlì-Cesena,IT,Italia
+48h,44.37834,12.02636,338.22,26 de junio,Russi,Emilia-Romagna,IT,Italia
+48h,44.43166,11.52211,335.98,26 de junio,Castel San Pietro Terme,Emilia-Romagna,IT,Italia
+48h,44.42335,11.3498,339.87,26 de junio,Pianoro,Emilia-Romagna,IT,Italia
+48h,44.47757,11.41656,341.55,26 de junio,San Lazzaro di Savena,Emilia-Romagna,IT,Italia
+48h,44.51807,11.53003,340.25,26 de junio,Budrio,Emilia-Romagna,IT,Italia
+48h,44.50121,11.41479,337.32,26 de junio,Bologna,Emilia-Romagna,IT,Italia
+48h,44.49422,11.25202,349.17,26 de junio,Zola Predosa,Emilia-Romagna,IT,Italia
+48h,44.52882,11.41687,337.8,26 de junio,Granarolo dell'Emilia,Emilia-Romagna,IT,Italia
+48h,44.51696,11.17559,340.86,26 de junio,Valsamoggia,Emilia-Romagna,IT,Italia
+48h,44.53973,11.21388,335.13,26 de junio,Anzola dell'Emilia,Emilia-Romagna,IT,Italia
+48h,41.84825,-2.03324,336.27,26 de junio,Matalebreras,Soria,ES,España
+48h,44.67773,11.01802,348.31,26 de junio,Nonantola,Emilia-Romagna,IT,Italia
+48h,44.69007,11.00938,339.77,26 de junio,Bomporto,Emilia-Romagna,IT,Italia
+48h,44.7362,11.29642,341.49,26 de junio,Cento,Emilia-Romagna,IT,Italia
+48h,45.03014,11.23199,333.25,26 de junio,Borgocarbonara,Lombardia,IT,Italia
+48h,45.20843,11.90561,342.94,26 de junio,Conselve,Veneto,IT,Italia
+48h,45.35232,11.9603,335.9,26 de junio,Legnaro,Veneto,IT,Italia
+48h,45.33556,11.43188,334.16,26 de junio,Orgiano,Veneto,IT,Italia
+48h,45.28589,10.88496,335.47,26 de junio,Pradelle,Veneto,IT,Italia
+48h,45.4378,11.7681,335.69,26 de junio,Mestrino,Veneto,IT,Italia
+48h,45.40684,11.26526,337.09,26 de junio,San Bonifacio,Veneto,IT,Italia
+48h,45.41208,11.09293,335.5,26 de junio,San Martino Buon Albergo,Veneto,IT,Italia
+48h,45.49407,11.44619,349.56,26 de junio,Arcugnano,Veneto,IT,Italia
+48h,45.52456,11.61187,335.54,26 de junio,Torri di Quartesolo,Veneto,IT,Italia
+48h,45.49382,10.88316,334.33,26 de junio,Pescantina,Veneto,IT,Italia
+48h,45.64753,11.66183,338.05,26 de junio,Colceresa,Veneto,IT,Italia
+48h,45.86142,12.27283,345.23,26 de junio,Susegana,Veneto,IT,Italia
+48h,45.56725,9.35303,354.6,26 de junio,Agrate Brianza,Lombardia,IT,Italia
+48h,45.48677,8.12,335.96,26 de junio,Verrone,Piemonte,IT,Italia
+48h,47.06865,8.26799,339.95,26 de junio,Luzern,Luzern,CH,Suiza
+48h,48.34806,12.93552,344.88,26 de junio,Tann (VGem),Bayern,DE,Alemania
+48h,48.30916,10.86949,334.6,26 de junio,Augsburg,Bayern,DE,Alemania
+48h,48.19344,9.08802,334.19,26 de junio,Gemeindeverwaltungsverband Winterlingen,Baden-Württemberg,DE,Alemania
+48h,48.39178,10.04029,336.53,26 de junio,Neu-Ulm,Bayern,DE,Alemania
+48h,48.04897,7.5663,330.93,26 de junio,Colmar-Ribeauvillé,Grand Est,FR,Francia
+48h,47.25666,-1.27201,334.93,26 de junio,Nantes,Pays de la Loire,FR,Francia
+48h,49.53033,8.41939,335.09,26 de junio,Ludwigshafen am Rhein,Rheinland-Pfalz,DE,Alemania
+48h,48.75864,1.36702,331.12,26 de junio,Dreux,Centre-Val de Loire,FR,Francia
+48h,50.8586,6.97951,333.73,26 de junio,Köln,Nordrhein-Westfalen,DE,Alemania
+48h,51.40684,6.12254,333.42,26 de junio,Venlo,Limburg,NL,Países Bajos
+48h,51.6671,6.00786,340.42,26 de junio,Gennep,Limburg,NL,Países Bajos
+48h,51.891,5.81543,338.57,26 de junio,Overbetuwe,Gelderland,NL,Países Bajos
+48h,51.87141,5.51677,350.1,26 de junio,West Maas en Waal,Gelderland,NL,Países Bajos
+48h,52.06661,6.62248,338.83,26 de junio,Eibergen,Gelderland,NL,Países Bajos
+48h,52.50647,6.71663,337.2,26 de junio,Samtgemeinde Uelsen,Niedersachsen,DE,Alemania
+48h,52.64073,7.19731,338.49,26 de junio,Heseper Torfwerk,Niedersachsen,DE,Alemania
+48h,52.64397,7.19595,334.72,26 de junio,Geeste,Niedersachsen,DE,Alemania
+48h,36.5368,-4.71044,340.27,26 de junio,Mijas,Málaga,ES,España
+48h,37.77842,-4.30809,341.84,26 de junio,Baena,Córdoba,ES,España
+48h,41.25962,31.42577,299.11,26 de junio,Gülüç,Zonguldak,TR,Turquía
+48h,40.24598,29.9234,296.12,26 de junio,Bilecik Merkez,Bilecik,TR,Turquía
+48h,39.9599,33.14378,295.64,26 de junio,Mamak,Ankara,TR,Turquía
+48h,39.94598,33.19384,296.44,26 de junio,Elmadağ,Ankara,TR,Turquía
+48h,39.84141,30.29921,298.07,26 de junio,Tepebaşı,Eskişehir,TR,Turquía
+48h,39.83778,30.29963,298.89,26 de junio,Bozüyük,Bilecik,TR,Turquía
+48h,37.93953,32.53368,299.23,26 de junio,Selçuklu,Konya,TR,Turquía
+48h,36.86823,34.75982,299.79,26 de junio,Akdeniz,Mersin,TR,Turquía
+48h,42.45086,-6.03613,341.19,26 de junio,San Justo de la Vega,León,ES,España
+48h,44.34552,28.65574,301.35,27 de junio,Năvodari,Constanța,RO,Rumanía
+48h,46.06982,13.63102,301.36,27 de junio,Morsko,NA,SI,Eslovenia
+48h,46.00611,13.25245,301.49,27 de junio,Lumignacco,Friuli-Venezia Giulia,IT,Italia
+48h,45.51947,11.49525,306.7,27 de junio,Altavilla Vicentina,Veneto,IT,Italia
+48h,45.46431,10.45294,325.54,27 de junio,Lonato del Garda,Lombardia,IT,Italia
+48h,45.38442,11.94666,302.92,27 de junio,Padova,Veneto,IT,Italia
+48h,45.35326,4.79099,298.31,27 de junio,Vienne,Auvergne-Rhône-Alpes,FR,Francia
+48h,45.23145,5.6661,299.8,27 de junio,Saint-Égrève,Auvergne-Rhône-Alpes,FR,Francia
+48h,45.14897,9.9412,313.57,27 de junio,Spinadesco,Lombardia,IT,Italia
+48h,41.17656,32.63377,306.91,27 de junio,Karabük,Karabük,TR,Turquía
+48h,44.30402,7.50601,303.03,27 de junio,Robilante,Piemonte,IT,Italia
+48h,41.26599,31.42484,315.34,27 de junio,Ereğli,Zonguldak,TR,Turquía
+48h,41.25459,31.41416,304.23,27 de junio,Gülüç,Zonguldak,TR,Turquía
+48h,43.54276,16.441770000000002,305.8,27 de junio,Grad Kaštela,Splitsko-dalmatinska županija,HR,Croacia
+48h,43.79337,7.37434,303.03,27 de junio,Nice,Provence-Alpes-Côte d'Azur,FR,Francia
+48h,41.62987,27.68875,304.53,27 de junio,Vize,Kırklareli,TR,Turquía
+48h,41.79758,26.70158,301.06,27 de junio,Lalapaşa,Edirne,TR,Turquía
+48h,42.64233,20.90053,300.52,27 de junio,Komuna e Drenasit / Opština Glogovac,NA,XK,Kosovo
+48h,43.44662,4.88232,309.07,27 de junio,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
+48h,41.01896,28.55706,309.76,27 de junio,Büyükçekmece,İstanbul,TR,Turquía
+48h,40.78126,29.60021,299.99,27 de junio,Dilovası,Kocaeli,TR,Turquía
+48h,40.26212,30.04279,300.94,27 de junio,Bilecik Merkez,Bilecik,TR,Turquía
+48h,39.83711,30.30105,301.14,27 de junio,Bozüyük,Bilecik,TR,Turquía
+48h,41.54884,19.72451,304.26,27 de junio,Bashkia Krujë,Shqipëria Veriore,AL,Albania
+48h,42.00785,12.71798,306.28,27 de junio,Guidonia,Lazio,IT,Italia
+48h,39.48596,30.04285,297.12,27 de junio,Kütahya Merkez,Kütahya,TR,Turquía
+48h,39.86691,26.24628,312.46,27 de junio,Bozalan,Çanakkale,TR,Turquía
+48h,38.66027,30.61672,296.21,27 de junio,Afyonkarahisar Merkez,Afyonkarahisar,TR,Turquía
+48h,40.63039,18.00166,307.43,27 de junio,Brindisi,Puglia,IT,Italia
+48h,40.51827,17.21042,304.96,27 de junio,Taranto,Puglia,IT,Italia
+48h,38.74369,26.94843,326.72,27 de junio,Aliağa,İzmir,TR,Turquía
+48h,38.42502,27.2176,308.96,27 de junio,Bornova,Ege Bölgesi,TR,Turquía
+48h,40.55976,9.67284,303.2,27 de junio,Thiniscole/Siniscola,Sardigna/Sardegna,IT,Italia
+48h,38.79646,15.20839,320.11,27 de junio,Lipari,Sicilia,IT,Italia
+48h,37.75163,14.99379,295.74,27 de junio,Castiglione di Sicilia,Sicilia,IT,Italia
+48h,37.74713,14.9971,298.33,27 de junio,Zafferana Etnea,Sicilia,IT,Italia
+48h,37.43929,15.02962,303.56,27 de junio,Catania,Sicilia,IT,Italia
+48h,37.21101,15.16904,307.5,27 de junio,Augusta,Sicilia,IT,Italia
+48h,37.24735,13.95898,308.1,27 de junio,Ravanusa,Sicilia,IT,Italia
+48h,62.59483,25.7517,299.71,27 de junio,Äänekoski,Länsi- ja Sisä-Suomen aluehallintovirasto,FI,Finlandia
+48h,61.06393,28.24286,298.09,27 de junio,Lappeenranta,Etelä-Suomen aluehallintovirasto,FI,Finlandia
+48h,61.31676,22.11317,296.13,27 de junio,Harjavalta,Lounais-Suomen aluehallintovirasto,FI,Finlandia
+48h,60.24069,25.00775,295.78,27 de junio,Helsinki,Etelä-Suomen aluehallintovirasto,FI,Finlandia
+48h,60.49012,15.4541,309.07,27 de junio,Borlänge,Dalarnas län,SE,Suecia
+48h,60.0831,16.12148,311.83,27 de junio,Norbergs kommun,Västmanlands län,SE,Suecia
+48h,58.68481,17.12866,299.69,27 de junio,Oxelösund,Södermanlands län,SE,Suecia
+48h,56.31537,22.91657,296.04,27 de junio,Naujoji Akmenė,Akmenės rajono savivaldybė,LT,Lituania
+48h,54.52937,9.20528,315.98,27 de junio,Viöl,Schleswig-Holstein,DE,Alemania
+48h,53.14232,8.67611,311.88,27 de junio,Bremen,Bremen,DE,Alemania
+48h,52.3561,9.89142,296.85,27 de junio,Hannover,Niedersachsen,DE,Alemania
+48h,52.16666,10.4195,297.54,27 de junio,Salzgitter,Niedersachsen,DE,Alemania
+48h,51.85612,8.03061,296.2,27 de junio,Ennigerloh,Nordrhein-Westfalen,DE,Alemania
+48h,51.765860000000004,8.05631,304.87,27 de junio,Beckum,Nordrhein-Westfalen,DE,Alemania
+48h,51.4897,6.70878,298.09,27 de junio,Duisburg,Nordrhein-Westfalen,DE,Alemania
+48h,51.36677,10.47999,299,27 de junio,Deuna,Thüringen,DE,Alemania
+48h,51.26937,11.65873,308.41,27 de junio,Unstruttal,Sachsen-Anhalt,DE,Alemania
+48h,49.95372,9.767,302.15,27 de junio,Karlstadt,Bayern,DE,Alemania
+48h,48.62303,21.19629,303.11,27 de junio,Košice,Košický kraj,SK,Eslovaquia
+48h,48.59366,20.84363,300.11,27 de junio,Dvorníky-Včeláre,Košický kraj,SK,Eslovaquia
+48h,48.64835,20.2234,299.24,27 de junio,Jelšava,Banskobystrický kraj,SK,Eslovaquia
+48h,47.85004,25.91523,312.67,27 de junio,Rădăuți,Suceava,RO,Rumanía
+48h,47.90889,21.02163,297.52,27 de junio,Tiszaújváros,Borsod-Abaúj-Zemplén vármegye,HU,Hungría
+48h,47.03624,22.33194,301.19,27 de junio,Subpiatră,Bihor,RO,Rumanía
+48h,45.37447,30.92865,330.99,27 de junio,NA,NA,NA,Mundo
+48h,46.94114,18.93639,302,27 de junio,Dunaújváros,Fejér vármegye,HU,Hungría
+48h,45.9508,25.28157,299.03,27 de junio,Cuciulata,Brașov,RO,Rumanía
+48h,45.42365,27.96519,325.2,27 de junio,Galați,Galați,RO,Rumanía
+48h,45.29212,25.11184,307.02,27 de junio,Bilcești,Argeș,RO,Rumanía
+48h,45.12442,25.41722,316.65,27 de junio,Fieni,Dâmbovița,RO,Rumanía
+48h,53.9684,9.19637,297.93,27 de junio,Burg-Sankt Michaelisdonn,Schleswig-Holstein,DE,Alemania
+48h,53.51279,10.03519,300.83,27 de junio,Hamburg,NA,DE,Alemania
+48h,52.49022,13.84159,297.05,27 de junio,Rüdersdorf bei Berlin,Brandenburg,DE,Alemania
+48h,52.17181,14.63047,297.01,27 de junio,Eisenhüttenstadt,Brandenburg,DE,Alemania
+48h,51.81417,11.75826,295.94,27 de junio,Bernburg,Sachsen-Anhalt,DE,Alemania
+48h,52.46842,7.31967,304.44,27 de junio,Lingen (Ems),Niedersachsen,DE,Alemania
+48h,52.2096,8.05396,296.85,27 de junio,Georgsmarienhütte,Niedersachsen,DE,Alemania
+48h,52.17373,7.88895,302.49,27 de junio,Lengerich,Nordrhein-Westfalen,DE,Alemania
+48h,52.50492,5.59108,326.25,27 de junio,Dronten,Flevoland,NL,Países Bajos
+48h,52.50604,5.58513,308.6,27 de junio,Lelystad,Flevoland,NL,Países Bajos
+48h,52.49456,4.61577,312.44,27 de junio,Beverwijk,Noord-Holland,NL,Países Bajos
+48h,52.48564,4.58649,323.84,27 de junio,Velsen,Noord-Holland,NL,Países Bajos
+48h,53.33803,-1.75295,306.2,27 de junio,High Peak,England,GB,Reino Unido
+48h,52.75602,1.30074,320.87,27 de junio,Broadland,England,GB,Reino Unido
+48h,50.65498,11.43209,317.43,27 de junio,Kamsdorf,Thüringen,DE,Alemania
+48h,49.08432,14.90207,306.61,27 de junio,okres Jindřichův Hradec,Jihozápad,CZ,Rep. Checa
+48h,48.2818,14.34215,299.85,27 de junio,Linz,NA,AT,Austria
+48h,50.41231,4.41627,299.45,27 de junio,Charleroi,Hainaut,BE,Bélgica
+48h,50.47374,3.99095,310.57,27 de junio,Mons,Hainaut,BE,Bélgica
+48h,48.98397,1.76313,319.46,27 de junio,Mantes-la-Jolie,Île-de-France,FR,Francia
+48h,46.06812,13.62736,301.56,27 de junio,Gorenja vas,NA,SI,Eslovenia
+48h,46.17687,12.73982,299.53,27 de junio,Fanna,Friuli-Venezia Giulia,IT,Italia
+48h,48.38589,2.98306,299.48,27 de junio,Montereau-Fault-Yonne,Île-de-France,FR,Francia
+48h,47.17582,7.56173,304.39,27 de junio,Bezirk Wasseramt,Solothurn,CH,Suiza
+48h,45.52188,11.49695,302.22,27 de junio,Vicenza,Veneto,IT,Italia
+48h,45.51102,10.24857,310.86,27 de junio,Brescia,Lombardia,IT,Italia
+48h,45.68532,9.46315,303.1,27 de junio,Calusco d'Adda,Lombardia,IT,Italia
+48h,45.47836,10.21536,310.59,27 de junio,San Zeno Naviglio,Lombardia,IT,Italia
+48h,47.08365,3.00116,300.25,27 de junio,Bourges,Centre-Val de Loire,FR,Francia
+48h,45.78263,8.68669,301.51,27 de junio,Ternate,Lombardia,IT,Italia
+48h,45.91383,5.81843,300.48,27 de junio,Belley,Auvergne-Rhône-Alpes,FR,Francia
+48h,45.86662,4.65686,296.51,27 de junio,Villefranche-sur-Saône,Rhône,FR,Francia
+48h,42.81533,-1.7427,315.68,27 de junio,Cendea de Olza/Oltza Zendea,Navarra - Nafarroa,ES,España
+48h,41.40698,2.00159,306.27,27 de junio,Sant Vicenç dels Horts,Barcelona,ES,España
+48h,41.31227,1.66461,317.07,27 de junio,Santa Margarida i els Monjos,Barcelona,ES,España
+48h,42.55357,-6.76846,300.69,27 de junio,Toral de los Vados,León,ES,España
+48h,41.47678,-1.48829,305.65,27 de junio,Morata de Jalón,Zaragoza,ES,España
+48h,40.57548,0.54166,304.68,27 de junio,Alcanar,Tarragona,ES,España
+48h,40.24679,-3.47237,308.7,27 de junio,Morata de Tajuña,Comunidad de Madrid,ES,España
+48h,39.93688,-3.74496,316.95,27 de junio,Yepes,Toledo,ES,España
+48h,39.9444,-4.44325,313.85,27 de junio,La Mata,Toledo,ES,España
+48h,38.376,-0.54289,308.72,27 de junio,Alacant / Alicante,Alacant / Alicante,ES,España
+48h,38.2635,-1.19421,314.3,27 de junio,Fortuna,Región de Murcia,ES,España
+48h,38.66813,-4.04962,306.63,27 de junio,Puertollano,Ciudad Real,ES,España
+48h,38.75526,-6.99037,313.21,27 de junio,Badajoz,Badajoz,ES,España
+48h,38.63053,-9.07544,309.83,27 de junio,Seixal,Setúbal,PT,Portugal
+48h,38.50046,-8.93431,309.52,27 de junio,Setúbal,Setúbal,PT,Portugal
+48h,37.66604,-5.16263,334.08,27 de junio,Écija,Sevilla,ES,España
+48h,36.96881,-1.90518,306.63,27 de junio,Carboneras,Almería,ES,España
+48h,37.3031,-5.48233,307.07,27 de junio,Paradas,Sevilla,ES,España
+48h,36.75916,-2.71488,314.2,27 de junio,El Ejido,Almería,ES,España
+48h,36.71506,-4.33065,312.23,27 de junio,Málaga,Málaga,ES,España
+48h,66.31055,14.1737,328.36,27 de junio,Mo i Rana,Nordland,NO,Noruega
+48h,53.44278,34.41902,303.12,25 de junio,Fokino,Región de Bryansk,RU,Rusia
+48h,55.19161,21.33523,300.37,25 de junio,NA,Región de Kaliningrado,RU,Rusia
+48h,47.78805,29.0188,311.26,25 de junio,Ayuntamiento de Rybnitsky,Distrito de Ribnica / Distrito Ribnitsky / Distrito Ribnitsky,MD,Moldavia
+48h,47.78457,29.01804,311.78,25 de junio,Rybnitsa,Distrito de Ribnica / Distrito Ribnitsky / Distrito Ribnitsky,MD,Moldavia
+48h,47.2319,28.59475,300.78,25 de junio,Mărtineşti,NA,MD,Moldavia
+48h,47.22839,28.5935,298,25 de junio,el frío,NA,MD,Moldavia
+48h,46.53683,30.32521,301.76,25 de junio,Comunidad rural de Nabodansk,Región de ODESA,UA,Ucrania
+48h,44.77095,33.85977,299.91,25 de junio,Asentamiento de la ciudad Bakhchisaray,República Autónoma de Crimea,UA,Ucrania
+48h,43.23232,27.59365,303.17,25 de junio,Virgen,Varna,BG,Bulgaria
+48h,41.44424,21.93953,330.41,25 de junio,Municipio de Kavadarci,Vardar sr,MK,Macedonia del Norte
+48h,36.88107,6.94712,326.42,25 de junio,Skikda ⵙⴽⵉⴽⴷⴰ skikda,En el skik,DZ,Argelia
+48h,36.79161,7.70225,319.42,25 de junio,Sidi Amar ⵙⵉⴷⵉ ⵄⴻⵎⵎⴰⵔ Sidi Ammar,Annaba,DZ,Argelia
+48h,36.76288,7.31037,314.43,25 de junio,Bekkouche Lakhdar ⴱⴻⴽⴽⵓⵛ ⵍⴻⵅⴹⴻⵔ Green Kush,En el skik,DZ,Argelia
+48h,36.74771,6.25606,329.96,25 de junio,El Milia ⵍⵎⵉⵍⵉⵢⴰ milla,Jijel,DZ,Argelia
+48h,36.42908,6.62554,299.99,25 de junio,Hamma bouziane ⵃⴰⵎⴰ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ,Constantino,DZ,Argelia
+48h,36.75092,3.08329,311.07,25 de junio,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ a,Alero,DZ,Argelia
+48h,36.69529,3.37583,313.1,25 de junio,BudoUaou ⴱⵓⴷⵡⴰⵡ buddhow,Boumerdès,DZ,Argelia
+48h,36.63291,3.23056,309.85,25 de junio,Meftah ⵎⴻⴼⵜⴰⵃ clave,Blida,DZ,Argelia
+48h,36.5999,3.13569,304.6,25 de junio,Larbâa ⵍⴰⵔⴱⵄⴰ miércoles,Blida,DZ,Argelia
+48h,36.59736,2.87652,302.24,25 de junio,Boufarik ⴱⵓ ⴼⴰⵔⵉⴽ boufarik,Blida,DZ,Argelia
+48h,36.08643,6.80345,310.69,25 de junio,Sigus ⵙⵉⴳⵓⵙ Sigus,Oum el Boughi,DZ,Argelia
+48h,36.17767,5.57102,309.84,25 de junio,OULD SABOR ⵡⵍⴰⴷ ⵚⴰⴱⴻⵔ Hijos de Saber,Sofocar,DZ,Argelia
+48h,35.86952,6.02904,304.77,25 de junio,Aïn Djasser ⵙⵙⴻⴱⵜ ⴱⵓⵖⵣⴰⵍ Ain Jasser,Mejorar,DZ,Argelia
+48h,36.13996,2.9266200000000002,305.77,25 de junio,Berroughia ⴱⴻⵔⵡⴰⴳⵉⵢⴰ Al Barawqiya,Medea,DZ,Argelia
+48h,35.88,4.44535,317.41,25 de junio,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ Pigón,M'sila,DZ,Argelia
+48h,36.13367,1.24083,309.59,25 de junio,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef,DZ,Argelia
+48h,35.55239,6.86835,302.32,25 de junio,Remia ⵔⵎⵉⵍⴰ Rumaila,Khenchela,DZ,Argelia
+48h,35.71104,4.47476,310.03,25 de junio,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,M'sila,DZ,Argelia
+48h,35.23402,8.17576,303.49,25 de junio,El ma labiodh ⵍⵎⴰ ⵍⴻⴱⵢⴻⴹ agua blanca,Tébessa,DZ,Argelia
+48h,35.34921,5.76467,326.19,25 de junio,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Mejorar,DZ,Argelia
+48h,35.81364,-0.26933,327.2,25 de junio,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Decimos,DZ,Argelia
+48h,35.81388,-0.27363,318.19,25 de junio,Aïn El Bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ Ein Al -Bayya,Decimos,DZ,Argelia
+48h,35.80842,-0.34337,305.35,25 de junio,Arzew ⴰⵔⴻⵣⵢⵓ Arzio,Decimos,DZ,Argelia
+48h,34.98108,5.7159,318.45,25 de junio,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra,DZ,Argelia
+48h,34.44148,5.88476,308.23,25 de junio,Oumache ⵓⵎⵎⴰⵛ omash,Biskra,DZ,Argelia
+48h,34.43723,2.05859,303.76,25 de junio,GULTAT SIDI SAAD ⴳⴻⵍⵜⴰⵜ ⵙⵉⴷⵉ ⵙⴰⵄⴷ Qalta Sidi Saad,Laghouat,DZ,Argelia
+48h,35.45941,-0.39877,303.17,25 de junio,Zahan ⵣⴻⵀⵀⴰⵏⴰ زھانة,Máscara,DZ,Argelia
+48h,34.28199,-6.57034,322.8,25 de junio,Partidario de MNASRA,"Provincia de Kenitra, región de Quneitra",MA,Marruecos
+48h,59.52848,34.1473,330.99,25 de junio,Picallavo,Región de Leningrado,RU,Rusia
+48h,58.70469,27.84962,355.45,25 de junio,Liquidación urbana de GDS,Región de pskov,RU,Rusia
+48h,42.13851,27.61549,330.7,25 de junio,Pequeño Tarnovo,Burgas,BG,Bulgaria
+48h,46.1403,32.24894,352.28,25 de junio,Comunidad rural de Bekhter,Región de Kherson,UA,Ucrania
+48h,46.59575,32.82718,350.3,25 de junio,Comunidad de la ciudad de Oleshkiv,Región de Kherson,UA,Ucrania
+48h,46.51402,31.67064,348,25 de junio,Comunidad de la ciudad de Ochakov,Región de mykolaiv,UA,Ucrania
+48h,46.68564,32.73895,337.8,25 de junio,Antonovka,Región de Kherson,UA,Ucrania
+48h,46.68829,32.73277,343.7,25 de junio,Comunidad de Kherson City,Región de Kherson,UA,Ucrania
+48h,46.7664,32.40192,337.4,25 de junio,Comunidad rural de Chernobayiv,Región de Kherson,UA,Ucrania
+48h,47.03573,31.50433,342.55,25 de junio,Comunidad de la aldea de Stepiv,Región de mykolaiv,UA,Ucrania
+48h,53.74139,27.36145,329.36,25 de junio,Fanipal,Región de Minsk,BY,Bielorrusia
+48h,53.26875,24.44152,327.87,25 de junio,Consejo de la aldea de Krasnoselsky,Región de Grodno,BY,Bielorrusia
+48h,34.99192,3.84362,347.58,25 de junio,Delgado ⵙⵍⵉⵎ salim,M'sila,DZ,Argelia
+48h,51.89495,29.33489,319.12,25 de junio,Consejo de la aldea de Michalkovsky,Región de Gomel,BY,Bielorrusia
+48h,50.80996,30.12915,302.93,25 de junio,Comunidad Dimer Village,Región de Kyiv,UA,Ucrania
+48h,50.54704,26.25535,303.66,25 de junio,Zdolbunov,Región de Rivne,UA,Ucrania
+48h,49.18237,33.45711,303.27,25 de junio,Comunidad de Peschansk Village,Poltava,UA,Ucrania
+48h,35.3193,33.89922,304.1,25 de junio,Ardahan,Muelle,CY,Chipre
+48h,59.39942,28.4841,298.09,25 de junio,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+48h,59.06118,28.13522,295.79,25 de junio,Asentamiento rural de la oficina,Región de Leningrado,RU,Rusia
+48h,44.77638,33.86026,300.92,26 de junio,Asentamiento de la ciudad Bakhchisaray,República Autónoma de Crimea,UA,Ucrania
+48h,45.20581,19.70885,303.62,26 de junio,Municipio de beocina,Vojvodina,RS,Serbia
+48h,44.60611,20.96831,317.51,26 de junio,Ciudad de Smederevo,Serbia central,RS,Serbia
+48h,43.28243,23.46844,301.67,26 de junio,Vratsa,Vratsa,BG,Bulgaria
+48h,37.25806,9.84974,304.61,26 de junio,NA,Delegación de Southern Bizerte,TN,Túnez
+48h,36.88117,6.94523,306.13,26 de junio,Skikda ⵙⴽⵉⴽⴷⴰ skikda,En el skik,DZ,Argelia
+48h,36.79165,7.68462,308.37,26 de junio,Sidi Amar ⵙⵉⴷⵉ ⵄⴻⵎⵎⴰⵔ Sidi Ammar,Annaba,DZ,Argelia
+48h,36.76339,7.30988,313.96,26 de junio,Bekkouche Lakhdar ⴱⴻⴽⴽⵓⵛ ⵍⴻⵅⴹⴻⵔ Green Kush,En el skik,DZ,Argelia
+48h,36.50182,10.02552,303.42,26 de junio,Estación Bir Masharqa,La delegación de Bir Masharqa,TN,Túnez
+48h,36.74739,6.25482,367,26 de junio,El Milia ⵍⵎⵉⵍⵉⵢⴰ milla,Jijel,DZ,Argelia
+48h,36.65779,6.01399,297.66,26 de junio,Chaahna ⵛⵛⴻⵃⵏⴰ Cargo,Jijel,DZ,Argelia
+48h,36.63342,3.23079,310.51,26 de junio,Meftah ⵎⴻⴼⵜⴰⵃ clave,Blida,DZ,Argelia
+48h,36.42966,6.62326,305.91,26 de junio,Hamma bouziane ⵃⴰⵎⴰ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ,Constantino,DZ,Argelia
+48h,36.59933,2.87611,306.95,26 de junio,Boufarik ⴱⵓ ⴼⴰⵔⵉⴽ boufarik,Blida,DZ,Argelia
+48h,36.08838,6.80385,306.78,26 de junio,Sigus ⵙⵉⴳⵓⵙ Sigus,Oum el Boughi,DZ,Argelia
+48h,36.13195,1.23762,308.77,26 de junio,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef,DZ,Argelia
+48h,35.86819,6.02647,306.99,26 de junio,Aïn Djasser ⵙⵙⴻⴱⵜ ⴱⵓⵖⵣⴰⵍ Ain Jasser,Mejorar,DZ,Argelia
+48h,35.88071,4.44827,314.76,26 de junio,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ Pigón,M'sila,DZ,Argelia
+48h,35.70836,4.47383,306.11,26 de junio,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,M'sila,DZ,Argelia
+48h,35.81742,-0.27922,305.46,26 de junio,Aïn El Bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ Ein Al -Bayya,Decimos,DZ,Argelia
+48h,35.81004,-0.26244,323.9,26 de junio,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Decimos,DZ,Argelia
+48h,35.34768,5.76264,332.2,26 de junio,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Mejorar,DZ,Argelia
+48h,35.09732,5.64651,311.53,26 de junio,Djemorah ⴵⵎⵓⵔⴰ Jamura,Biskra,DZ,Argelia
+48h,34.98179,5.71623,318.51,26 de junio,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra,DZ,Argelia
+48h,34.4394,2.05833,305.03,26 de junio,Beidha ⴱⴻⵢⴹⴰ White,Laghouat,DZ,Argelia
+48h,34.43618,2.05803,306.21,26 de junio,GULTAT SIDI SAAD ⴳⴻⵍⵜⴰⵜ ⵙⵉⴷⵉ ⵙⴰⵄⴷ Qalta Sidi Saad,Laghouat,DZ,Argelia
+48h,59.91367,32.35916,295.01,26 de junio,Volkhov,Región de Leningrado,RU,Rusia
+48h,58.38892,33.87432,296.19,26 de junio,Borovichi,Región de novgorod,RU,Rusia
+48h,59.11214,28.19666,296.28,26 de junio,Pizarra,Región de Leningrado,RU,Rusia
+48h,59.06332,28.13534,304.21,26 de junio,Asentamiento rural de la oficina,Región de Leningrado,RU,Rusia
+48h,58.70472,27.84718,314.46,26 de junio,Liquidación urbana de GDS,Región de pskov,RU,Rusia
+48h,54.56902,22.18273,298.13,26 de junio,Gusev,Región de Kaliningrado,RU,Rusia
+48h,53.25861,24.45152,297.65,26 de junio,Consejo de la aldea de Krasnoselsky,Región de Grodno,BY,Bielorrusia
+48h,51.89295,29.34577,298.92,26 de junio,Consejo de la aldea de Michalkovsky,Región de Gomel,BY,Bielorrusia
+48h,50.54531,26.26104,318.65,26 de junio,Zdolbunov,Región de Rivne,UA,Ucrania
+48h,47.62892,34.32226,303.94,26 de junio,Comunidad rural de Pokrovsk,Región de dnipropetrovsk,UA,Ucrania
+48h,48.74631,26.60727,307.49,26 de junio,Humenets Comunidad rural,Región de Khmelnytsky,UA,Ucrania
+48h,48.97538,24.70853,308.82,26 de junio,Comunidad rural de Yamnitsky,Región de Ivano-Frankivsk,UA,Ucrania
+48h,36.87183,6.98601,303.98,26 de junio,Filfila ⴼⵉⵍⴼⵉⵍⴰ فلفلفلة,En el skik,DZ,Argelia
+48h,36.33357,5.47973,299.97,26 de junio,Beni Fouda,Sofocar,DZ,Argelia
+48h,35.35026,5.76037,317.87,26 de junio,Legride,Mejorar,DZ,Argelia
+48h,35.66735,-0.35938,302.69,26 de junio,Boufatis ⴱⵓⴼⴰⵟⵉⵙ boufatis,Decimos,DZ,Argelia
+48h,35.45791,-0.39393,310.44,26 de junio,Zahan ⵣⴻⵀⵀⴰⵏⴰ زھانة,Máscara,DZ,Argelia
+48h,35.56923,-0.93811,306.28,26 de junio,Boutlessis ⴱⵓⵜⵍⵉⵍⵉⵙ Potlis,Decimos,DZ,Argelia
+48h,34.80131,0.32813,298.65,26 de junio,El Hessasna ⵍⴻⵃⵙⴰⵙⵏⴰ Sensible,Saila,DZ,Argelia
+48h,34.59667,-2.34455,306.57,26 de junio,Apóstoles de rislano,Provincia de Berkane Berkane Región,MA,Marruecos
+48h,34.2598,-5.9911,312.65,26 de junio,Dar Bel Amri ⴷⴰⵕ ⴱⵍⵍⵄⵎⵔⵉ Dar Balasri,"Provincia de Sidi Slimane, provincia de Sidi Suleiman",MA,Marruecos
+48h,59.52813,34.14585,335.08,26 de junio,Picallavo,Región de Leningrado,RU,Rusia
+48h,34.8608,32.54691,338.54,26 de junio,Choulou,Paphos,CY,Chipre
+48h,34.86195,32.54335,345.03,26 de junio,Kourdaka,Paphos,CY,Chipre
+48h,48.24636,30.16962,335.94,26 de junio,La comunidad de la ciudad de Annunciation,Región de Kirovohrad,UA,Ucrania
+48h,48.35188,26.46939,325.99,26 de junio,Comunidad de Khotyn City,Región de Chernivtsi,UA,Ucrania
+48h,51.49609,27.32399,329.18,26 de junio,Comunidad rural de Berezovsk,Región de Rivne,UA,Ucrania
+48h,53.80942,27.69665,328.22,26 de junio,Minsk,NA,BY,Bielorrusia
+48h,55.71719,34.02146,349.83,26 de junio,Asentamiento rural de Karavaevsky,Región de smolensk,RU,Rusia
+48h,57.8813,34.03545,329.84,26 de junio,Boloe,Región de tver,RU,Rusia
+48h,60.52825,30.37883,333.51,26 de junio,Asentamiento rural de Zaporizhzhya,Región de Leningrado,RU,Rusia
+48h,36.12371,4.91899,345.16,26 de junio,Sidi Embarek ⵙⵉⴷⵉ ⵎⴱⴰⵔⴻⴽ Sidi Mubarak,Bordj bou arreridj,DZ,Argelia
+48h,36.86702,6.98241,344.9,26 de junio,Hamadi Krouma ⵃⴻⵎⵎⴰⴷⵉ ⴽⵔⵓⵎⴰ Hammadi Karma,En el skik,DZ,Argelia
+48h,36.7388,2.94059,349.38,26 de junio,ⵓⵍⴻⴷ ⴼⴰⵢⴻⵜ lucha contra niños,Alero,DZ,Argelia
+48h,44.34344,20.12373,328.11,26 de junio,Municipio de Lajkovac,Serbia central,RS,Serbia
+48h,44.22195,17.90602,344.76,26 de junio,Zenica,Zenica-Doboj Cantón,BA,Bosnia y Herzegovina
+48h,45.36414,20.69745,340.37,26 de junio,Municipio de Secanj,Vojvodina,RS,Serbia
+48h,34.47698,-5.97569,350.35,26 de junio,Caïdat d'Al Haouafate,"Provincia de Sidi Kacem, provincia de Sidi Kassem",MA,Marruecos
+48h,36.65057,4.06676,345.11,26 de junio,Yo aïsi,Tizi oUzou,DZ,Argelia
+48h,47.87267,33.43642,300.42,26 de junio,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+48h,49.18604,33.45832,295.64,26 de junio,Comunidad de Peschansk Village,Poltava,UA,Ucrania
+48h,48.5312,34.64856,303.79,26 de junio,Kamianske,Región de dnipropetrovsk,UA,Ucrania
+48h,48.47067,34.96664,310.31,26 de junio,Dnipro,Región de dnipropetrovsk,UA,Ucrania
+48h,45.20704,19.70914,302.96,27 de junio,Municipio de beocina,Vojvodina,RS,Serbia
+48h,44.60185,20.97688,300.06,27 de junio,Ciudad de Smederevo,Serbia central,RS,Serbia
+48h,44.08097,22.10584,300.78,27 de junio,Boro,Serbia central,RS,Serbia
+48h,44.52699,18.52741,299.61,27 de junio,Lukavac,Tuzla Cantón,BA,Bosnia y Herzegovina
+48h,43.26072,26.95214,328.37,27 de junio,Ruidoso,Ruidoso,BG,Bulgaria
+48h,43.90801,21.51158,299.36,27 de junio,Municipio de paracina,Serbia central,RS,Serbia
+48h,44.01271,19.88706,300.67,27 de junio,Municipio de Kosjerić,Serbia central,RS,Serbia
+48h,43.28119,23.46808,299.95,27 de junio,Vratsa,Vratsa,BG,Bulgaria
+48h,43.0864,24.17469,304.77,27 de junio,Yablanitsa,Lovech,BG,Bulgaria
+48h,42.71667,24.17229,321.72,27 de junio,Depósito,Sofía,BG,Bulgaria
+48h,41.96922,21.45507,304.48,27 de junio,Skopje,Skopje sr,MK,Macedonia del Norte
+48h,41.44623,21.93922,321.5,27 de junio,Municipio de Kavadarci,Vardar sr,MK,Macedonia del Norte
+48h,34.7275,33.31652,304.47,27 de junio,Grande,Lago,CY,Chipre
+48h,36.88016,6.94064,307.02,27 de junio,Skikda ⵙⴽⵉⴽⴷⴰ skikda,En el skik,DZ,Argelia
+48h,36.76389,7.30808,312.25,27 de junio,Bekkouche Lakhdar ⴱⴻⴽⴽⵓⵛ ⵍⴻⵅⴹⴻⵔ Green Kush,En el skik,DZ,Argelia
+48h,36.75126,6.25409,353.31,27 de junio,El Milia ⵍⵎⵉⵍⵉⵢⴰ milla,Jijel,DZ,Argelia
+48h,36.50234,10.02661,304.42,27 de junio,Estación Bir Masharqa,La delegación de Bir Masharqa,TN,Túnez
+48h,36.08976,6.80281,309.57,27 de junio,Sigus ⵙⵉⴳⵓⵙ Sigus,Oum el Boughi,DZ,Argelia
+48h,35.88313,4.44448,304.59,27 de junio,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ Pigón,M'sila,DZ,Argelia
+48h,35.34885,5.75761,310.81,27 de junio,Legride,Mejorar,DZ,Argelia
+48h,35.34865,5.76452,302.49,27 de junio,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Mejorar,DZ,Argelia
+48h,34.98184,5.71673,307.92,27 de junio,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra,DZ,Argelia
+48h,60.34596,29.8836,317.4,27 de junio,Asentamiento rural pervomaisky,Región de Leningrado,RU,Rusia
+48h,59.91442,32.36051,298.06,27 de junio,Volkhov,Región de Leningrado,RU,Rusia
+48h,59.53053,34.14587,338.09,27 de junio,Picallavo,Región de Leningrado,RU,Rusia
+48h,60.25188,29.32785,296.74,27 de junio,Asentamiento rural de polyanskoye,Región de Leningrado,RU,Rusia
+48h,59.40248,28.49228,301.52,27 de junio,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+48h,58.38241,33.98102,295.46,27 de junio,Borovichi,Región de novgorod,RU,Rusia
+48h,59.0631,28.13617,297.39,27 de junio,Asentamiento rural de la oficina,Región de Leningrado,RU,Rusia
+48h,58.70411,27.84918,296.24,27 de junio,Liquidación urbana de GDS,Región de pskov,RU,Rusia
+48h,56.30186,28.94012,295.07,27 de junio,Asentamiento de la ciudad Idrika,Región de pskov,RU,Rusia
+48h,52.84838,29.99182,328.51,27 de junio,Consejo Rural del Salón,Región de Gomel,BY,Bielorrusia
+48h,53.27263,24.4438,312.66,27 de junio,Consejo de la aldea de Krasnoselsky,Región de Grodno,BY,Bielorrusia
+48h,51.89321,29.34303,313.13,27 de junio,Consejo de la aldea de Michalkovsky,Región de Gomel,BY,Bielorrusia
+48h,50.22156,30.92606,312.66,27 de junio,Voronkivska Comunidad rural,Región de Kyiv,UA,Ucrania
+48h,50.54414,26.25981,314.33,27 de junio,Zdolbunov,Región de Rivne,UA,Ucrania
+48h,49.36942,32.06842,308.25,27 de junio,Cherkasy,Región cherkasy,UA,Ucrania
+48h,48.47099,34.96923,320.91,27 de junio,Dnipro,Región de dnipropetrovsk,UA,Ucrania
+48h,48.53147,34.64558,298.36,27 de junio,Kamianske,Región de dnipropetrovsk,UA,Ucrania
+48h,48.52873,34.65689,301.73,27 de junio,Comunidad de la ciudad de Kamyansk,Región de dnipropetrovsk,UA,Ucrania
+48h,47.87514,33.43954,298.14,27 de junio,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+48h,48.74797,26.60742,305.72,27 de junio,Humenets Comunidad rural,Región de Khmelnytsky,UA,Ucrania
+48h,48.97571,24.7106,319.39,27 de junio,Comunidad rural de Yamnitsky,Región de Ivano-Frankivsk,UA,Ucrania
+48h,47.78546,29.02026,308.24,27 de junio,Ayuntamiento de Rybnitsky,Distrito de Ribnica / Distrito Ribnitsky / Distrito Ribnitsky,MD,Moldavia
+48h,47.7843,29.01978,310.82,27 de junio,Rybnitsa,Distrito de Ribnica / Distrito Ribnitsky / Distrito Ribnitsky,MD,Moldavia
+48h,47.78916,28.95556,313,27 de junio,NA,NA,MD,Moldavia
+48h,47.37967,28.44274,299.85,27 de junio,Bravicea,NA,MD,Moldavia
+48h,45.13174,33.99886,298.01,27 de junio,Guardia de asentamiento rural,República Autónoma de Crimea,UA,Ucrania
+48h,44.77137,33.85964,302.41,27 de junio,Asentamiento de la ciudad Bakhchisaray,República Autónoma de Crimea,UA,Ucrania
+48h,36.86774,6.98173,307.05,27 de junio,Hamadi Krouma ⵃⴻⵎⵎⴰⴷⵉ ⴽⵔⵓⵎⴰ Hammadi Karma,En el skik,DZ,Argelia
+48h,36.43227,6.62317,320.28,27 de junio,Hamma bouziane ⵃⴰⵎⴰ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ,Constantino,DZ,Argelia
+48h,36.33213,5.48416,304.2,27 de junio,Beni Fouda,Sofocar,DZ,Argelia
+48h,36.64959,4.06409,300.36,27 de junio,Yo aïsi,Tizi oUzou,DZ,Argelia
+48h,36.74795,3.07962,303.78,27 de junio,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ a,Alero,DZ,Argelia
+48h,36.74141,2.94079,319.08,27 de junio,ⵓⵍⴻⴷ ⴼⴰⵢⴻⵜ lucha contra niños,Alero,DZ,Argelia
+48h,36.62894,3.23365,309.61,27 de junio,Meftah ⵎⴻⴼⵜⴰⵃ clave,Blida,DZ,Argelia
+48h,35.86927,6.02562,306.41,27 de junio,Aïn Djasser ⵙⵙⴻⴱⵜ ⴱⵓⵖⵣⴰⵍ Ain Jasser,Mejorar,DZ,Argelia
+48h,36.59686,2.87667,302.09,27 de junio,Boufarik ⴱⵓ ⴼⴰⵔⵉⴽ boufarik,Blida,DZ,Argelia
+48h,35.87768,4.44821,312.02,27 de junio,El euch ⵍⵄⴻⵛ nido,Bordj bou arreridj,DZ,Argelia
+48h,36.14164,2.92884,313.18,27 de junio,Berroughia ⴱⴻⵔⵡⴰⴳⵉⵢⴰ Al Barawqiya,Medea,DZ,Argelia
+48h,35.71124,4.47679,304.34,27 de junio,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,M'sila,DZ,Argelia
+48h,36.12591,1.24265,316.42,27 de junio,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef,DZ,Argelia
+48h,35.09683,5.64903,308.06,27 de junio,Djemorah ⴵⵎⵓⵔⴰ Jamura,Biskra,DZ,Argelia
+48h,35.77071,-0.26471,309.16,27 de junio,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Decimos,DZ,Argelia
+48h,35.53347,-0.27331,307.53,27 de junio,Oggaz ⵄⵓⴳⴳⴰⵔ aqaz,Máscara,DZ,Argelia
+48h,35.46111,-0.39327,315.21,27 de junio,Zahan ⵣⴻⵀⵀⴰⵏⴰ زھانة,Máscara,DZ,Argelia
+48h,34.79945,0.32968,301.39,27 de junio,El Hessasna ⵍⴻⵃⵙⴰⵙⵏⴰ Sensible,Saila,DZ,Argelia
+48h,34.59773,-2.34485,314.05,27 de junio,Apóstoles de rislano,Provincia de Berkane Berkane Región,MA,Marruecos
+48h,34.3323,-6.34936,322.64,27 de junio,Ameur seflia amer al -safia,"Provincia de Kenitra, región de Quneitra",MA,Marruecos
