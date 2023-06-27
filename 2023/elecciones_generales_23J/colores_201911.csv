@@ -1,47 +1,47 @@
-ganador,color
-EAJ-PNV,#318731
-EH Bildu,#22b194
-PODEMOS-IU,#b865c1
-PSE-EE,#da1f35
-PP,#009ade
-PSOE,#da1f35
-Vox,#69a93b
-PODEMOS-EUPV,#b865c1
-MÃ©s CompromÃ­s,#018D32
-XAV,#f2a325
-PODEMOS-EUIB,#b865c1
-PSC-PSOE,#da1f35
-JxCAT-JUNTS,#00c4b2
-ERC,#e5ab4b
-En ComÃº Podem,#b865c1
-CUP,#e5c64b
-PSdeG-PSOE,#da1f37
-Cs,#da5b1f
-NA+,#0255B4
-GBai,#b74444
-BNG,#6aade4
-PP-FORO,#009ade
-NC-CC,#5ac24d
-CC-NC,#5ebcc3
-PRC,#b4c026
-PPSO,#A29A95
-Teruel Existe,#037252
-Empate PP / PSOE,#3E3E3C
-Empate PP / Vox,#3E3E3C
-Empate PODEMOS-EUIB / PSOE,#3E3E3C
-Empate CUP / ERC,#3E3E3C
-Empate ERC / JxCAT-JUNTS,#3E3E3C
-Empate Cs / PODEMOS-IU,#3E3E3C
-Empate PODEMOS-IU / PP,#3E3E3C
-Empate PSOE / Vox,#3E3E3C
-Empate EAJ-PNV / EH Bildu,#3E3E3C
-Empate ERC / PSC-PSOE,#3E3E3C
-Empate NA+ / PSOE,#3E3E3C
-Empate EH Bildu / PSOE,#3E3E3C
-Empate NA+ / PODEMOS-IU,#3E3E3C
-Empate PP / Teruel Existe,#3E3E3C
-Empate PSOE / Teruel Existe,#3E3E3C
-Empate PACMA / Vox,#3E3E3C
-Empate PODEMOS-IU / PSOE,#3E3E3C
-Empate PP / PSOE / Vox,#3E3E3C
-Empate Cs / PP / Teruel Existe,#3E3E3C
+ganador,partido,color
+EAJ-PNV,PNV,#318731
+EH Bildu,EH Bildu,#22b194
+PODEMOS-IU,Unidas Podemos,#b865c1
+PSE-EE,PSOE,#da1f35
+PP,PP,#009ade
+PSOE,PSOE,#da1f35
+Vox,Vox,#69a93b
+PODEMOS-EUPV,Unidas Podemos,#b865c1
+Més Compromís,Compromís,#018D32
+XAV,XAV,#f2a325
+PODEMOS-EUIB,Unidas Podemos,#b865c1
+PSC-PSOE,PSOE,#da1f35
+JxCAT-JUNTS,JxCAT-JUNTS,#00c4b2
+ERC,ERC,#e5ab4b
+En Comú Podem,En Comú Podem,#b865c1
+CUP,CUP,#e5c64b
+PSdeG-PSOE,PSOE,#da1f35
+Cs,Cs,#da5b1f
+NA+,NA+,#0255B4
+GBai,GBai,#b74444
+BNG,BNG,#6aade4
+PP-FORO,PP,#009ade
+NC-CC,CC,#5ac24d
+CC-NC,CC,#5ebcc3
+PRC,PRC,#b4c026
+PPSO,PPSO,#A29A95
+Teruel Existe,Teruel Existe,#037252
+Empate PP / PSOE,EMPATE,#3E3E3C
+Empate PP / Vox,EMPATE,#3E3E3C
+Empate PODEMOS-EUIB / PSOE,EMPATE,#3E3E3C
+Empate CUP / ERC,EMPATE,#3E3E3C
+Empate ERC / JxCAT-JUNTS,EMPATE,#3E3E3C
+Empate Cs / PODEMOS-IU,EMPATE,#3E3E3C
+Empate PODEMOS-IU / PP,EMPATE,#3E3E3C
+Empate PSOE / Vox,EMPATE,#3E3E3C
+Empate EAJ-PNV / EH Bildu,EMPATE,#3E3E3C
+Empate ERC / PSC-PSOE,EMPATE,#3E3E3C
+Empate NA+ / PSOE,EMPATE,#3E3E3C
+Empate EH Bildu / PSOE,EMPATE,#3E3E3C
+Empate NA+ / PODEMOS-IU,EMPATE,#3E3E3C
+Empate PP / Teruel Existe,EMPATE,#3E3E3C
+Empate PSOE / Teruel Existe,EMPATE,#3E3E3C
+Empate PACMA / Vox,EMPATE,#3E3E3C
+Empate PODEMOS-IU / PSOE,EMPATE,#3E3E3C
+Empate PP / PSOE / Vox,EMPATE,#3E3E3C
+Empate Cs / PP / Teruel Existe,EMPATE,#3E3E3C
