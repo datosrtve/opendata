@@ -2,7 +2,7 @@ ganador,partido,color
 EAJ-PNV,PNV,#318731
 EH Bildu,EH Bildu,#22b194
 PODEMOS IU,Unidas Podemos,#b865c1
-PSE-EE (PSOE),PSOE,#da1f35
+PSE-EE,PSOE,#da1f35
 PP,PP,#009ade
 PSOE,PSOE,#da1f35
 Compromís,Compromís,#b865c1
@@ -15,7 +15,7 @@ ERC,ERC,#e5ab4b
 JxCAT-JUNTS,JxCAT-JUNTS,#00c4b2
 PODEMOS-EUP,Unidas Podemos,#b865c1
 PSdeG-PSOE,PSOE,#da1f35
-NA+,NA+,#0255B4
+"NA+","NA+",#0255B4
 GBai,GBai,#b74444
 PP-FORO,PP,#009ade
 NCa,NCA,#5ac24d
