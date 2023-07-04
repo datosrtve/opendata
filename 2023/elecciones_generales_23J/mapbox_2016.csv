@@ -5244,8 +5244,6 @@ year,mes,fecha,cod_ine,nom_mun,nom_prov,poblacion,ganador,nombre,partido,ganador
 2016,06,2016-06-26,36008,Cangas,Pontevedra,26520,PODEMOS-EN MAREA-ANOVA-EU,En Marea,En Marea,38.13,000056,#b865c1,34123636008
 2016,06,2016-06-26,36009,A Cañiza,Pontevedra,5230,PP,Partido Popular,PP,52.78,000068,#009ade,34123636009
 2016,06,2016-06-26,36010,Catoira,Pontevedra,3368,PP,Partido Popular,PP,35.74,000068,#009ade,34123636010
-2016,06,2016-06-26,36011,NA,NA,1828,PP,Partido Popular,PP,59.18,000068,#009ade,NA
-2016,06,2016-06-26,36012,NA,NA,4332,PP,Partido Popular,PP,44.9,000068,#009ade,NA
 2016,06,2016-06-26,36013,Covelo,Pontevedra,2617,PP,Partido Popular,PP,56.74,000068,#009ade,34123636013
 2016,06,2016-06-26,36014,Crecente,Pontevedra,2252,PP,Partido Popular,PP,59.63,000068,#009ade,34123636014
 2016,06,2016-06-26,36015,Cuntis,Pontevedra,4878,PP,Partido Popular,PP,43.33,000068,#009ade,34123636015
@@ -8124,3 +8122,5 @@ year,mes,fecha,cod_ine,nom_mun,nom_prov,poblacion,ganador,nombre,partido,ganador
 2016,06,2016-06-26,50263,Torrijo de la Cañada,Zaragoza,245,Empate PP-PAR / PSOE,EMPATE,EMPATE,35.54,000000,#3E3E3C,34025050263
 2016,06,2016-06-26,50284,Villafeliche,Zaragoza,195,Empate PP-PAR / PSOE,EMPATE,EMPATE,40.38,000000,#3E3E3C,34025050284
 2016,06,2016-06-26,19010,Alcolea de las Peñas,Guadalajara,13,Empate PP / PSOE / Vox,EMPATE,EMPATE,25,000000,#3E3E3C,34081919010
+2016,06,2016-06-26,36011,Cerdedo,Pontevedra,1828,PP,Partido Popular,PP,59.18,000068,#009ade,NA
+2016,06,2016-06-26,36012,Cotobade,Pontevedra,4332,PP,Partido Popular,PP,44.9,000068,#009ade,NA

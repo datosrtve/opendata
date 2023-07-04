@@ -2136,7 +2136,6 @@ year,mes,fecha,cod_ine,nom_mun,nom_prov,poblacion,ganador,nombre,partido,ganador
 2011,11,2011-11-20,15023,Cee,A Coruña,7818,PP,Partido Popular,PP,52.91,000127,#009ade,34121515023
 2011,11,2011-11-20,15024,Cerceda,A Coruña,5486,PP,Partido Popular,PP,56.68,000127,#009ade,34121515024
 2011,11,2011-11-20,15025,Cerdido,A Coruña,1361,PP,Partido Popular,PP,65.12,000127,#009ade,34121515025
-2011,11,2011-11-20,15026,NA,NA,2209,PP,Partido Popular,PP,66.6,000127,#009ade,NA
 2011,11,2011-11-20,15027,Coirós,A Coruña,1722,PP,Partido Popular,PP,66.26,000127,#009ade,34121515027
 2011,11,2011-11-20,15028,Corcubión,A Coruña,1803,PP,Partido Popular,PP,40.43,000127,#009ade,34121515028
 2011,11,2011-11-20,15029,Coristanco,A Coruña,7165,PP,Partido Popular,PP,65.2,000127,#009ade,34121515029
@@ -2173,7 +2172,6 @@ year,mes,fecha,cod_ine,nom_mun,nom_prov,poblacion,ganador,nombre,partido,ganador
 2011,11,2011-11-20,15060,Oroso,A Coruña,7050,PP,Partido Popular,PP,56.28,000127,#009ade,34121515060
 2011,11,2011-11-20,15061,Ortigueira,A Coruña,6871,PP,Partido Popular,PP,61.62,000127,#009ade,34121515061
 2011,11,2011-11-20,15062,Outes,A Coruña,7313,PP,Partido Popular,PP,64.42,000127,#009ade,34121515062
-2011,11,2011-11-20,15063,NA,NA,3198,PP,Partido Popular,PP,64.07,000127,#009ade,NA
 2011,11,2011-11-20,15064,Paderne,A Coruña,2653,PP,Partido Popular,PP,49.62,000127,#009ade,34121515064
 2011,11,2011-11-20,15065,Padrón,A Coruña,8985,PP,Partido Popular,PP,57.52,000127,#009ade,34121515065
 2011,11,2011-11-20,15066,O Pino,A Coruña,4718,PP,Partido Popular,PP,67.44,000127,#009ade,34121515066
@@ -5248,8 +5246,6 @@ year,mes,fecha,cod_ine,nom_mun,nom_prov,poblacion,ganador,nombre,partido,ganador
 2011,11,2011-11-20,36008,Cangas,Pontevedra,25913,PP,Partido Popular,PP,44.67,000127,#009ade,34123636008
 2011,11,2011-11-20,36009,A Cañiza,Pontevedra,6517,PP,Partido Popular,PP,67.15,000127,#009ade,34123636009
 2011,11,2011-11-20,36010,Catoira,Pontevedra,3469,PP,Partido Popular,PP,46.58,000127,#009ade,34123636010
-2011,11,2011-11-20,36011,NA,NA,2299,PP,Partido Popular,PP,63.99,000127,#009ade,NA
-2011,11,2011-11-20,36012,NA,NA,4427,PP,Partido Popular,PP,51.96,000127,#009ade,NA
 2011,11,2011-11-20,36013,Covelo,Pontevedra,3341,PP,Partido Popular,PP,66.82,000127,#009ade,34123636013
 2011,11,2011-11-20,36014,Crecente,Pontevedra,2540,PP,Partido Popular,PP,67.76,000127,#009ade,34123636014
 2011,11,2011-11-20,36015,Cuntis,Pontevedra,5115,PP,Partido Popular,PP,54.11,000127,#009ade,34123636015
@@ -8115,3 +8111,7 @@ year,mes,fecha,cod_ine,nom_mun,nom_prov,poblacion,ganador,nombre,partido,ganador
 2011,11,2011-11-20,50063,El Buste,Zaragoza,88,Empate PP-PAR / PSOE,EMPATE,EMPATE,47.76,000000,#3E3E3C,34025050063
 2011,11,2011-11-20,50148,Luesia,Zaragoza,361,Empate PP-PAR / PSOE,EMPATE,EMPATE,44.22,000000,#3E3E3C,34025050148
 2011,11,2011-11-20,50245,Sigüés,Zaragoza,132,Empate PP-PAR / PSOE,EMPATE,EMPATE,38.75,000000,#3E3E3C,34025050245
+2011,11,2011-11-20,15026,Cesuras,A Coruña,2209,PP,Partido Popular,PP,66.6,000127,#009ade,NA
+2011,11,2011-11-20,15063,Oza dos Ríos,A Coruña,3198,PP,Partido Popular,PP,64.07,000127,#009ade,NA
+2011,11,2011-11-20,36011,Cerdedo,Pontevedra,2299,PP,Partido Popular,PP,63.99,000127,#009ade,NA
+2011,11,2011-11-20,36012,Cotobade,Pontevedra,4427,PP,Partido Popular,PP,51.96,000127,#009ade,NA
