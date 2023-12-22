@@ -1,81 +1,242 @@
 Series,Localidad,Administración,Recep.,Domicilio,Provincia,Teléfono,Calle,Número,Premio,Valor,Dirección,Latitude,Longitude,premios_serie
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
-,,,,,,,,,El Gordo,"400,000",,,,0
+50,MADRID,205,97555,"AVDA. MONFORTE DE LEMOS, 119",MADRID,917309759,"Avda. Monforte De Lemos, 119",88008,El Gordo,"400,000","Avda. Monforte De Lemos, 119, Madrid, Madrid",40.47813,-3.70921,200000000
+20,JAÉN,6,41885,"BERNABE SORIANO, 5-A",JAÉN,953240506,"Bernabe Soriano, 5-A",88008,El Gordo,"400,000","Bernabe Soriano, 5-A, Jaén, Jaén",37.7663044,-3.7887003,80000000
+15,ÉCIJA,5,71560,"C.C. ""N4"" PROL. AVDA. DEL GENIL, S/N L-B26",SEVILLA,955876136,"C.C. ""N4"" Prol. Avda. Del Genil, S/N L-B26",88008,El Gordo,"400,000","C.C. ""N4"" Prol. Avda. Del Genil, S/N L-B26, Écija, Sevilla",37.5312108,-5.0864159,60000000
+10,VILAMARXANT,1,80970,"PZA. DOS DE MAYO, 3",VALENCIA,963132078,"Pza. Dos De Mayo, 3",88008,El Gordo,"400,000","Pza. Dos De Mayo, 3, Vilamarxant, Valencia",39.5688077,-0.6239696,40000000
+7,DOS HERMANAS,9,73275,"AVDA. DE LOS PINOS, 8",SEVILLA,954642809,"Avda. De Los Pinos, 8",88008,El Gordo,"400,000","Avda. De Los Pinos, 8, Dos Hermanas, Sevilla",37.3194987,-5.9295309,28000000
+5.1,SEVILLA,94,73385,C.C. ALCAMPO R.TAMARGUILLO S/N- L-21,SEVILLA,954921536,C.C. Alcampo R.Tamarguillo S/N- L-21,88008,El Gordo,"400,000","C.C. Alcampo R.Tamarguillo S/N- L-21, Sevilla, Sevilla",37.3703357,-5.9666383,20400000
+4.9,CIUTADELLA DE MENORCA,,60650,"PLZ. DELS PINS, 42",ILLES BALEARS,971381010,"Plz. Dels Pins, 42",88008,El Gordo,"400,000","Plz. Dels Pins, 42, Ciutadella De Menorca, Illes Balears",39.9994693,3.835405,19600000
+2.1,PINOS PUENTE,1,36085,REAL 226,GRANADA,958450769,Real 226,88008,El Gordo,"400,000","Real 226, Pinos Puente, Granada",37.2514515,-3.7496132,8400000
+2.1,MADRID,,105,WWW.LOTERIASYAPUESTAS.ES,MADRID,,Www.Loteriasyapuestas.Es,88008,El Gordo,"400,000","Www.Loteriasyapuestas.Es, Madrid, Madrid",40.4167754,-3.7037902,8400000
+2,BADALONA,29,14810,"CANONGE BARANERA, 13",BARCELONA,933890952,"Canonge Baranera, 13",88008,El Gordo,"400,000","Canonge Baranera, 13, Badalona, Barcelona",41.4489238,2.2491454,8000000
+2,POBRA DO CARAMIÑAL (A),3,30905,"DIAZ DE RÁBAGO, 3",CORUÑA (A),981831674,"Diaz De Rábago, 3",88008,El Gordo,"400,000","Diaz De Rábago, 3, Pobra Do Caramiñal (A), Coruña (A)",42.6065709,-8.9383014,8000000
+1.2,MADRID,,94405,"AVDA. DE LA PESETA, 58",MADRID,915084119,"Avda. De La Peseta, 58",88008,El Gordo,"400,000","Avda. De La Peseta, 58, Madrid, Madrid",40.3621095,-3.7566931,4800000
+1,SANT VICENÇ DELS HORTS,1,15870,"PLAZA DE CATALUNYA, 3",BARCELONA,936564969,"Plaza De Catalunya, 3",88008,El Gordo,"400,000","Plaza De Catalunya, 3, Sant Vicenç Dels Horts, Barcelona",41.413574,2.0159079,4000000
+1,MADRID,150,97245,"ARENAL, 16",MADRID,914093383,"Arenal, 16",88008,El Gordo,"400,000","Arenal, 16, Madrid, Madrid",40.4173467,-3.7064284,4000000
+1,MADRID,67,97310,"CARMEN, 22",MADRID,915214694,"Carmen, 22",88008,El Gordo,"400,000","Carmen, 22, Madrid, Madrid",40.4189689,-3.7047011,4000000
+1,SAN JUAN DE AZNALFARACHE,3,71630,"PLAZA DE LA CONSTITUCION, 4",SEVILLA,954769553,"Plaza De La Constitucion, 4",88008,El Gordo,"400,000","Plaza De La Constitucion, 4, San Juan De Aznalfarache, Sevilla",37.357844,-6.0362837,4000000
+1,SEVILLA,57,72430,"EXTREMADURA, 39 ACC",SEVILLA,954901897,"Extremadura, 39 Acc",88008,El Gordo,"400,000","Extremadura, 39 Acc, Sevilla, Sevilla",37.4233711,-5.9842698,4000000
+1,TORTOSA,2,75850,"AV GENERALITAT, 36",TARRAGONA,977442306,"Av Generalitat, 36",88008,El Gordo,"400,000","Av Generalitat, 36, Tortosa, Tarragona",40.8109153,0.5199912,4000000
+1,TERUEL,7,76765,"JOAQUIN COSTA, 20",TERUEL,978623639,"Joaquin Costa, 20",88008,El Gordo,"400,000","Joaquin Costa, 20, Teruel, Teruel",40.3436123,-1.1062529,4000000
+1,TOLEDO,13,78665,"C.C. LUZ DEL TAJO. RIO BOLADIEZ, S/N L-6",TOLEDO,925241007,"C.C. Luz Del Tajo. Rio Boladiez, S/N L-6",88008,El Gordo,"400,000","C.C. Luz Del Tajo. Rio Boladiez, S/N L-6, Toledo, Toledo",39.8625192,-3.9759739,4000000
+1,ALBERIC,2,79980,"COLON, 3",VALENCIA,962443754,"Colon, 3",88008,El Gordo,"400,000","Colon, 3, Alberic, Valencia",39.1169721,-0.5192291,4000000
+0.9,PUERTO DEL CARMEN,,44830,"C.C. COSTA DE LA LUZ-AVDA. LAS PLAYAS, S/N L.7",LAS PALMAS,928513255,"C.C. Costa De La Luz-Avda. Las Playas, S/N L.7",88008,El Gordo,"400,000","C.C. Costa De La Luz-Avda. Las Playas, S/N L.7, Puerto Del Carmen, Las Palmas",28.9228023,-13.6681095,3600000
+0.8,ELCHE,16,32185,"LEÓN SÁNCHEZ SÁEZ, 70-1",ALICANTE,965422922,"León Sánchez Sáez, 70-1",88008,El Gordo,"400,000","León Sánchez Sáez, 70-1, Elche, Alicante",38.2683458,-0.7158588,3200000
+0.8,ZARAUTZ,,66720,"C.C. EROSKI. ARABA KALEA, 41 L-5",GIPUZKOA,943833205,"C.C. Eroski. Araba Kalea, 41 L-5",88008,El Gordo,"400,000","C.C. Eroski. Araba Kalea, 41 L-5, Zarautz, Gipuzkoa",43.2815127,-2.1648174,3200000
+0.7,ALCOCEBER,,23620,"RENCH, 50-F",CASTELLÓN,964412606,"Rench, 50-F",88008,El Gordo,"400,000","Rench, 50-F, Alcoceber, Castellón",40.2451916,0.2769531,2800000
+0.6,SAN FRANCISCO DE PAULA,,43170,HOYA PARRADO S/N,LAS PALMAS,928354773,Hoya Parrado S/N,88008,El Gordo,"400,000","Hoya Parrado S/N, San Francisco De Paula, Las Palmas",28.0566756,-15.450623,2400000
+0.6,GRANADILLA DE ABONA,,68515,AUTOPISTA DEL SUR KM. 54,STA.CRUZ.TFE,922394396,Autopista Del Sur Km. 54,88008,El Gordo,"400,000","Autopista Del Sur Km. 54, Granadilla De Abona, Sta.Cruz.Tfe",28.2115523,-16.424025,2400000
+0.5,ARANJUEZ,1,78785,"ABASTOS, 49",MADRID,918924416,"Abastos, 49",88008,El Gordo,"400,000","Abastos, 49, Aranjuez, Madrid",40.0319649,-3.6032748,2000000
+0.5,LAS ROZAS DE MADRID,,98300,"CUESTA DE SAN FRANCISCO, 1",MADRID,916370234,"Cuesta De San Francisco, 1",88008,El Gordo,"400,000","Cuesta De San Francisco, 1, Las Rozas De Madrid, Madrid",40.4921076,-3.8726104,2000000
+0.5,SEVILLA,115,72070,C.C. CARREFOUR MONTEQUINTO L-12A,SEVILLA,954611874,C.C. Carrefour Montequinto L-12A,88008,El Gordo,"400,000","C.C. Carrefour Montequinto L-12A, Sevilla, Sevilla",37.3542767,-5.9518496,2000000
+0.5,MANISES,,81895,"ALFONSO BLAT, 4",VALENCIA,960118891,"Alfonso Blat, 4",88008,El Gordo,"400,000","Alfonso Blat, 4, Manises, Valencia",39.4978263,-0.4702434,2000000
+0.4,POYALES DEL HOYO,,6600,"PLAZA NUEVA, 6",ÁVILA,920390256,"Plaza Nueva, 6",88008,El Gordo,"400,000","Plaza Nueva, 6, Poyales Del Hoyo, Ávila",40.1731205,-5.1657124,1600000
+0.4,ALMENDRALEJO,3,7840,"CARRETERA SANTA MARTA, 71",BADAJOZ,924660780,"Carretera Santa Marta, 71",88008,El Gordo,"400,000","Carretera Santa Marta, 71, Almendralejo, Badajoz",38.6795185,-6.4023547,1600000
+0.4,PALMA DE MALLORCA,,61235,"CARRET.MILITAR,127",ILLES BALEARS,971263103,"Carret.Militar,127",88008,El Gordo,"400,000","Carret.Militar,127, Palma De Mallorca, Illes Balears",39.5146128,2.7590227,1600000
+0.4,ALAQUÀS,1,82155,"AVDA. BLASCO IBAÑEZ, 6",VALENCIA,961511717,"Avda. Blasco Ibañez, 6",88008,El Gordo,"400,000","Avda. Blasco Ibañez, 6, Alaquàs, Valencia",39.4562993,-0.4545303,1600000
+0.3,ALMERÍA,,5145,"PEREZ GALDOS, 14",ALMERÍA,950227400,"Perez Galdos, 14",88008,El Gordo,"400,000","Perez Galdos, 14, Almería, Almería",36.8420724,-2.4484257,1200000
+0.3,VAL DO DUBRA,,29205,"ARCAI BENBIBRE, 57",CORUÑA (A),981889166,"Arcai Benbibre, 57",88008,El Gordo,"400,000","Arcai Benbibre, 57, Val Do Dubra, Coruña (A)",43.0270983,-8.6563511,1200000
+0.3,ARUCAS,,43235,POETA PEDRO LEZCANO. LOC-0,LAS PALMAS,928601610,Poeta Pedro Lezcano. Loc-0,88008,El Gordo,"400,000","Poeta Pedro Lezcano. Loc-0, Arucas, Las Palmas",28.1168801,-15.5275994,1200000
+0.3,MADRID,,94110,"AVDA. MANZANARES, 52",MADRID,913666217,"Avda. Manzanares, 52",88008,El Gordo,"400,000","Avda. Manzanares, 52, Madrid, Madrid",40.4047919,-3.7235985,1200000
+0.3,PAMPLONA,,63025,"MAGDALENA, 3",NAVARRA,948136722,"Magdalena, 3",88008,El Gordo,"400,000","Magdalena, 3, Pamplona, Navarra",42.82513,-1.6346397,1200000
+0.3,MANISES,3,81980,"MAESTRO GUILLEM, 5",VALENCIA,960661000,"Maestro Guillem, 5",88008,El Gordo,"400,000","Maestro Guillem, 5, Manises, Valencia",39.4909139,-0.4572508,1200000
+0.2,BENIDORM,,3565,"AVDA. JAUME I, 2- EDIFICIO ROSALEDA",ALICANTE,966811068,"Avda. Jaume I, 2- Edificio Rosaleda",88008,El Gordo,"400,000","Avda. Jaume I, 2- Edificio Rosaleda, Benidorm, Alicante",38.5374274,-0.1372276,800000
+0.2,TORREVIEJA,5,32590,"C.C. CARREFOUR -CRTA CREVILLENTE KM 34,4",ALICANTE,966706063,"C.C. Carrefour -Crta Crevillente Km 34,4",88008,El Gordo,"400,000","C.C. Carrefour -Crta Crevillente Km 34,4, Torrevieja, Alicante",37.9912239,-0.6880914,800000
+0.2,PUENTE DEL RIO,,5365,"CTRA. PUENTE DEL RIO, 17-B",ALMERÍA,950568671,"Ctra. Puente Del Rio, 17-B",88008,El Gordo,"400,000","Ctra. Puente Del Rio, 17-B, Puente Del Rio, Almería",36.7568836,-2.9872267,800000
+0.2,BARCELONA,336,11335,"C.C. ARENAS-GRAN VIA CORTS CATALANES, 373-385 LS28",BARCELONA,934247349,"C.C. Arenas-Gran Via Corts Catalanes, 373-385 Ls28",88008,El Gordo,"400,000","C.C. Arenas-Gran Via Corts Catalanes, 373-385 Ls28, Barcelona, Barcelona",41.3763271,2.1493096,800000
+0.2,SAN SEBASTIAN,16,65360,"ALFONSO VIII, 5",GIPUZKOA,943325891,"Alfonso Viii, 5",88008,El Gordo,"400,000","Alfonso Viii, 5, San Sebastian, Gipuzkoa",43.3176074,-1.9768759,800000
+0.2,CA'N PICAFORT,,60175,"CRTA. ARTA ALCUDIA, 103 L-2 STA. MARGALIDA",ILLES BALEARS,971852544,"Crta. Arta Alcudia, 103 L-2 Sta. Margalida",88008,El Gordo,"400,000","Crta. Arta Alcudia, 103 L-2 Sta. Margalida, Ca'N Picafort, Illes Balears",39.8532672,3.1240239,800000
+0.2,GÁLDAR,,44300,CR SARDINA KM.4 45,LAS PALMAS,928881203,Cr Sardina Km.4 45,88008,El Gordo,"400,000","Cr Sardina Km.4 45, Gáldar, Las Palmas",28.1508889,-15.6951407,800000
+0.2,PÁJARA,,44955,"C.C. CAÑADA DEL RIO, L-15 (COSTA CALMA)",LAS PALMAS,928875199,"C.C. Cañada Del Rio, L-15 (Costa Calma)",88008,El Gordo,"400,000","C.C. Cañada Del Rio, L-15 (Costa Calma), Pájara, Las Palmas",28.1585283,-14.2294205,800000
+0.2,LUGO,,49865,"RONDA DE LAS MERCEDES, 47",LUGO,982284705,"Ronda De Las Mercedes, 47",88008,El Gordo,"400,000","Ronda De Las Mercedes, 47, Lugo, Lugo",43.0010594,-7.5459755,800000
+0.2,MADRID,,94025,"TOLEDO, 93",MADRID,913640330,"Toledo, 93",88008,El Gordo,"400,000","Toledo, 93, Madrid, Madrid",40.4097537,-3.7095009,800000
+0.2,MÁLAGA,61,51540,"ARMENGUAL DE LA MOTA, 13 L-B3",MÁLAGA,952745644,"Armengual De La Mota, 13 L-B3",88008,El Gordo,"400,000","Armengual De La Mota, 13 L-B3, Málaga, Málaga",36.7190608,-4.4294279,800000
+0.2,VILAGARCÍA DE AROUSA,,86785,"PZA. RAVELLA, 9",PONTEVEDRA,986503490,"Pza. Ravella, 9",88008,El Gordo,"400,000","Pza. Ravella, 9, Vilagarcía De Arousa, Pontevedra",42.5964478,-8.7634654,800000
+0.2,SANTA CRUZ DE TENERIFE,9,68250,"CASTILLO, 3",STA.CRUZ.TFE,922244462,"Castillo, 3",88008,El Gordo,"400,000","Castillo, 3, Santa Cruz De Tenerife, Sta.Cruz.Tfe",28.4636296,-16.2518467,800000
+0.2,VALVERDE,1,67020,"LICENCIADO BUENO, 6 TRAS. INT.",STA.CRUZ.TFE,922550346,"Licenciado Bueno, 6 Tras. Int.",88008,El Gordo,"400,000","Licenciado Bueno, 6 Tras. Int., Valverde, Sta.Cruz.Tfe",27.8065195,-17.9153833,800000
+0.2,PUENTE DEL ARZOBISPO,,78115,"PLAZUELA DE LA IGLESIA, 7",TOLEDO,925436105,"Plazuela De La Iglesia, 7",88008,El Gordo,"400,000","Plazuela De La Iglesia, 7, Puente Del Arzobispo, Toledo",39.802301,-5.1716919,800000
+0.2,VALENCIA,,83125,"AVDA. DEL PUERTO, 330 BAJO",VALENCIA,667448161,"Avda. Del Puerto, 330 Bajo",88008,El Gordo,"400,000","Avda. Del Puerto, 330 Bajo, Valencia, Valencia",39.4600848,-0.3337346,800000
+0.2,VALENCIA,39,83535,"S. VICENTE, 61",VALENCIA,963514995,"S. Vicente, 61",88008,El Gordo,"400,000","S. Vicente, 61, Valencia, Valencia",39.4699075,-0.3762881,800000
+0.2,CUARTE DE HUERVA,,92945,RAMON Y CAJAL 59,ZARAGOZA,976504558,Ramon Y Cajal 59,88008,El Gordo,"400,000","Ramon Y Cajal 59, Cuarte De Huerva, Zaragoza",41.5925177,-0.9306372,800000
+0.1,ALBACETE,7,1005,"AVDA. DE ESPAÑA, 21",ALBACETE,967239485,"Avda. De España, 21",88008,El Gordo,"400,000","Avda. De España, 21, Albacete, Albacete",38.9872399,-1.8541444,400000
+0.1,LA RODA,2,1680,"RAMON Y CAJAL, 3",ALBACETE,967443094,"Ramon Y Cajal, 3",88008,El Gordo,"400,000","Ramon Y Cajal, 3, La Roda, Albacete",39.2054013,-2.1580577,400000
+0.1,SAN PEDRO,,1905,"MAYOR, 21",ALBACETE,624091074,"Mayor, 21",88008,El Gordo,"400,000","Mayor, 21, San Pedro, Albacete",38.779652,-2.1646722,400000
+0.1,ALICANTE,,4125,"PZA. ENRIQUE LOPEZ VIDAL, 2",ALICANTE,965285051,"Pza. Enrique Lopez Vidal, 2",88008,El Gordo,"400,000","Pza. Enrique Lopez Vidal, 2, Alicante, Alicante",38.3291203,-0.5135097,400000
+0.1,ATSAVARES,,32050,"AVENIDA DEL TRAVALON, 24-26",ALICANTE,965403090,"Avenida Del Travalon, 24-26",88008,El Gordo,"400,000","Avenida Del Travalon, 24-26, Atsavares, Alicante",38.2619073,-0.6707551,400000
+0.1,SANTA POLA,,32600,"CRISTOBAL SANZ, 10",ALICANTE,965415639,"Cristobal Sanz, 10",88008,El Gordo,"400,000","Cristobal Sanz, 10, Santa Pola, Alicante",38.191974,-0.5802065,400000
+0.1,ALMERÍA,17,5260,"C.C. CARREFOUR-AVDA. MEDITERRANEO, 244",ALMERÍA,950227425,"C.C. Carrefour-Avda. Mediterraneo, 244",88008,El Gordo,"400,000","C.C. Carrefour-Avda. Mediterraneo, 244, Almería, Almería",36.8411848,-2.4443906,400000
+0.1,ALMERÍA,13,5250,"ARTES DE ARCOS, 10",ALMERÍA,950255019,"Artes De Arcos, 10",88008,El Gordo,"400,000","Artes De Arcos, 10, Almería, Almería",36.8369566,-2.4592823,400000
+0.1,CAMPOHERMOSO,,5920,"EXPORTADORES, 6",ALMERÍA,950385026,"Exportadores, 6",88008,El Gordo,"400,000","Exportadores, 6, Campohermoso, Almería",36.9367346,-2.1327683,400000
+0.1,PULPÍ,,5795,"AVDA. LOS ESCOLARES, ESQ. C/ HORNO",ALMERÍA,950464464,"Avda. Los Escolares, Esq. C/ Horno",88008,El Gordo,"400,000","Avda. Los Escolares, Esq. C/ Horno, Pulpí, Almería",37.4111276,-1.7446431,400000
+0.1,ROQUETAS DE MAR,1,5455,"GRAVINA, 15",ALMERÍA,950322257,"Gravina, 15",88008,El Gordo,"400,000","Gravina, 15, Roquetas De Mar, Almería",36.7633171,-2.6172854,400000
+0.1,VERA,,5825,"DEL SOL, 6",ALMERÍA,950390844,"Del Sol, 6",88008,El Gordo,"400,000","Del Sol, 6, Vera, Almería",37.2476803,-1.8679197,400000
+0.1,VÍCAR,2,5545,"PLAZA GARCIA LORCA, 5 (LAS CABAÑUELAS)",ALMERÍA,950555789,"Plaza Garcia Lorca, 5 (Las Cabañuelas)",88008,El Gordo,"400,000","Plaza Garcia Lorca, 5 (Las Cabañuelas), Vícar, Almería",36.8039835,-2.6310625,400000
+0.1,GIJÓN,5,35705,"PALACIO VALDES, 9",ASTURIAS,985340547,"Palacio Valdes, 9",88008,El Gordo,"400,000","Palacio Valdes, 9, Gijón, Asturias",43.5392039,-5.6657349,400000
+0.1,GIJÓN,30,35640,C.C. HIPERCOR-RAMON ARECES 2 (OTRO LOCAL),ASTURIAS,985399715,C.C. Hipercor-Ramon Areces 2 (Otro Local),88008,El Gordo,"400,000","C.C. Hipercor-Ramon Areces 2 (Otro Local), Gijón, Asturias",43.5240391,-5.6789936,400000
+0.1,LLANES,,35125,"AVDA. DE MEXICO, 4",ASTURIAS,985403751,"Avda. De Mexico, 4",88008,El Gordo,"400,000","Avda. De Mexico, 4, Llanes, Asturias",43.4211483,-4.7562159,400000
+0.1,OVIEDO,,57050,"JOVELLANOS, 8",ASTURIAS,985227703,"Jovellanos, 8",88008,El Gordo,"400,000","Jovellanos, 8, Oviedo, Asturias",43.363462,-5.8443679,400000
+0.1,OVIEDO,27,57185,"JUAN RAMON JIMENEZ, 1",ASTURIAS,985274564,"Juan Ramon Jimenez, 1",88008,El Gordo,"400,000","Juan Ramon Jimenez, 1, Oviedo, Asturias",43.3633025,-5.8661836,400000
+0.1,CABEZA DE BUEY,2,7665,"AV. Na SRA DE BELEN, 8",BADAJOZ,924600273,"Av. Na Sra De Belen, 8",88008,El Gordo,"400,000","Av. Na Sra De Belen, 8, Cabeza De Buey, Badajoz",38.7203085,-5.2192042,400000
+0.1,LA ALBUERA,,8205,"AV. DE EXTREMADURA, 125",BADAJOZ,924480033,"Av. De Extremadura, 125",88008,El Gordo,"400,000","Av. De Extremadura, 125, La Albuera, Badajoz",38.71784,-6.8254964,400000
+0.1,OLIVENZA,1,8465,"MORENO NIETO, 17",BADAJOZ,924490749,"Moreno Nieto, 17",88008,El Gordo,"400,000","Moreno Nieto, 17, Olivenza, Badajoz",38.6847827,-7.102033,400000
+0.1,VALDELACALZADA,,7065,"CONSTITUCION, 23-A",BADAJOZ,924446129,"Constitucion, 23-A",88008,El Gordo,"400,000","Constitucion, 23-A, Valdelacalzada, Badajoz",38.8920224,-6.6997999,400000
+0.1,ZAFRA,1,8080,"CAMPO MARIN ,6-B",BADAJOZ,924550905,"Campo Marin ,6-B",88008,El Gordo,"400,000","Campo Marin ,6-B, Zafra, Badajoz",38.4232682,-6.4185249,400000
+0.1,CORNELLÀ DE LLOBREGAT,6,15955,"DOCTOR ARUS, 11",BARCELONA,933761346,"Doctor Arus, 11",88008,El Gordo,"400,000","Doctor Arus, 11, Cornellà De Llobregat, Barcelona",41.3612278,2.0838085,400000
+0.1,L' HOSPITALET DE LLOBREGAT,6,15385,"PROGRES, 58",BARCELONA,934493838,"Progres, 58",88008,El Gordo,"400,000","Progres, 58, L' Hospitalet De Llobregat, Barcelona",41.3736561,2.1199493,400000
+0.1,MANRESA,,13720,"SANT CRISTOFOL,39",BARCELONA,938744448,"Sant Cristofol,39",88008,El Gordo,"400,000","Sant Cristofol,39, Manresa, Barcelona",41.7280213,1.8379591,400000
+0.1,BARAKALDO,18,16605,"C.C.MAX CENTER. BoKAREAGA S/N, L-B.78",BIZKAIA,944851454,"C.C.Max Center. Bokareaga S/N, L-B.78",88008,El Gordo,"400,000","C.C.Max Center. Bokareaga S/N, L-B.78, Barakaldo, Bizkaia",43.2892301,-3.0078776,400000
+0.1,BILBAO,21,17780,"ALAMEDA RECALDE, 24",BIZKAIA,944236743,"Alameda Recalde, 24",88008,El Gordo,"400,000","Alameda Recalde, 24, Bilbao, Bizkaia",43.2650003,-2.9343056,400000
+0.1,ERMUA,,16330,"SAN ISIDRO, 1",BIZKAIA,943170244,"San Isidro, 1",88008,El Gordo,"400,000","San Isidro, 1, Ermua, Bizkaia",43.1869106,-2.5017616,400000
+0.1,ETXEBARRI,,17175,"AVDA.SAN ANTONIO, 12",BIZKAIA,944403651,"Avda.San Antonio, 12",88008,El Gordo,"400,000","Avda.San Antonio, 12, Etxebarri, Bizkaia",43.2456863,-2.8953487,400000
+0.1,LEIOA,4,16810,"C.C. ARTEA, BARRIO PERURI, 33 L- B-74 B",BIZKAIA,944913960,"C.C. Artea, Barrio Peruri, 33 L- B-74 B",88008,El Gordo,"400,000","C.C. Artea, Barrio Peruri, 33 L- B-74 B, Leioa, Bizkaia",43.3366037,-2.9882918,400000
+0.1,ORTUELLA,,16950,"AIEGA, 7",BIZKAIA,946579516,"Aiega, 7",88008,El Gordo,"400,000","Aiega, 7, Ortuella, Bizkaia",43.3074574,-3.0418363,400000
+0.1,PLASENCIA,5,20545,"C.C. CARREFOUR PLASENCIA JULIAN BESTEIRO, S/N L-5",CÁCERES,927044316,"C.C. Carrefour Plasencia Julian Besteiro, S/N L-5",88008,El Gordo,"400,000","C.C. Carrefour Plasencia Julian Besteiro, S/N L-5, Plasencia, Cáceres",40.038481,-6.0786109,400000
+0.1,ROSALEJO,,20205,"PZA. MAYOR, 9",CÁCERES,927550232,"Pza. Mayor, 9",88008,El Gordo,"400,000","Pza. Mayor, 9, Rosalejo, Cáceres",39.9942598,-5.4588758,400000
+0.1,TALAYUELA,,20235,"C/ MANUEL MAS, 33",CÁCERES,927551046,"C/ Manuel Mas, 33",88008,El Gordo,"400,000","C/ Manuel Mas, 33, Talayuela, Cáceres",39.9859342,-5.6097903,400000
+0.1,TRUJILLO,,19615,"AVDA. MIAJADAS, 1",CÁCERES,927320338,"Avda. Miajadas, 1",88008,El Gordo,"400,000","Avda. Miajadas, 1, Trujillo, Cáceres",39.45679,-5.88159,400000
+0.1,ALCALÁ DE LOS GAZULES,1,21410,"REAL, 37",CÁDIZ,956420184,"Real, 37",88008,El Gordo,"400,000","Real, 37, Alcalá De Los Gazules, Cádiz",36.4947666,-6.263116,400000
+0.1,CÁDIZ,3,21260,"JOSE DEL TORO, 13 (MODERNO)",CÁDIZ,956213213,"Jose Del Toro, 13 (Moderno)",88008,El Gordo,"400,000","Jose Del Toro, 13 (Moderno), Cádiz, Cádiz",36.5324902,-6.2961737,400000
+0.1,CONIL DE LA FRONTERA,,21560,"VENTA CASA DE POSTAS, S/N",CÁDIZ,956442495,"Venta Casa De Postas, S/N",88008,El Gordo,"400,000","Venta Casa De Postas, S/N, Conil De La Frontera, Cádiz",36.296261,-6.0760391,400000
+0.1,JEREZ DE LA FRONTERA,16,42200,"ENRIQUE DOMINGUEZ RODIÑO, EDIF HUELVA II LOC 12",CÁDIZ,956320438,"Enrique Dominguez Rodiño, Edif Huelva Ii Loc 12",88008,El Gordo,"400,000","Enrique Dominguez Rodiño, Edif Huelva Ii Loc 12, Jerez De La Frontera, Cádiz",36.6921746,-6.1290005,400000
+0.1,CASTELLON DE LA PLANA,6,23325,"AVD REY DON JAIME, 32",CASTELLÓN,964215027,"Avd Rey Don Jaime, 32",88008,El Gordo,"400,000","Avd Rey Don Jaime, 32, Castellon De La Plana, Castellón",39.9857097,-0.0402645,400000
+0.1,ALCÁZAR DE SAN JUAN,5,26850,"PLAZA DEL ARENAL, 5",CIUDAD REAL,926546539,"Plaza Del Arenal, 5",88008,El Gordo,"400,000","Plaza Del Arenal, 5, Alcázar De San Juan, Ciudad Real",39.3933464,-3.2125164,400000
+0.1,FERNAN NUÑEZ,,27105,"DOCTOR MIGUEL SERVET, 1",CÓRDOBA,957036889,"Doctor Miguel Servet, 1",88008,El Gordo,"400,000","Doctor Miguel Servet, 1, Fernan Nuñez, Córdoba",37.6683444,-4.7269326,400000
+0.1,HINOJOSA DEL DUQUE,1,27650,"FONTANILLA, 2 (OTRO LOCAL)",CÓRDOBA,957140526,"Fontanilla, 2 (Otro Local)",88008,El Gordo,"400,000","Fontanilla, 2 (Otro Local), Hinojosa Del Duque, Córdoba",38.4956276,-5.1458131,400000
+0.1,IZNÁJAR,,27245,"PUERTA DE LA MUELA, 19",CÓRDOBA,957534596,"Puerta De La Muela, 19",88008,El Gordo,"400,000","Puerta De La Muela, 19, Iznájar, Córdoba",37.2571569,-4.3074603,400000
+0.1,PUENTE GENIL,,27360,"SUSANA BENITEZ, 27",CÓRDOBA,957601858,"Susana Benitez, 27",88008,El Gordo,"400,000","Susana Benitez, 27, Puente Genil, Córdoba",37.3909463,-4.7685792,400000
+0.1,VILLARRUBIA,,27420,"GUARROMAN, 2",CÓRDOBA,957327073,"Guarroman, 2",88008,El Gordo,"400,000","Guarroman, 2, Villarrubia, Córdoba",38.1837566,-3.6864121,400000
+0.1,ALMEIRAS,,29260,"AVDA. ALMEIRAS, 42",CORUÑA (A),981660148,"Avda. Almeiras, 42",88008,El Gordo,"400,000","Avda. Almeiras, 42, Almeiras, Coruña (A)",43.3078787,-8.3619981,400000
+0.1,CAMBRE,1,29485,"CRUCERO, 2",CORUÑA (A),981675485,"Crucero, 2",88008,El Gordo,"400,000","Crucero, 2, Cambre, Coruña (A)",43.286882,-8.3197946,400000
+0.1,CORUÑA (A),,29785,"BUENOS AIRES, 10",CORUÑA (A),981918467,"Buenos Aires, 10",88008,El Gordo,"400,000","Buenos Aires, 10, Coruña (A), Coruña (A)",43.3601634,-8.4157383,400000
+0.1,LEDOÑO,,30075,"ALONSO PEDREIRA, 1 C.L. TRANSPORTES PARCELA 139",CORUÑA (A),981679827,"Alonso Pedreira, 1 C.L. Transportes Parcela 139",88008,El Gordo,"400,000","Alonso Pedreira, 1 C.L. Transportes Parcela 139, Ledoño, Coruña (A)",43.2653561,-8.4169765,400000
+0.1,PORTO DO SON,,30650,"RÚA CAMIÑO NOVO, 9",CORUÑA (A),981853294,"Rúa Camiño Novo, 9",88008,El Gordo,"400,000","Rúa Camiño Novo, 9, Porto Do Son, Coruña (A)",42.7244425,-9.0049669,400000
+0.1,SANTIAGO DE COMPOSTELA,16,30940,"C.C. AS CANCELAS AVDA. CAMIÑO FRANCES, 3 L-0.28 B",CORUÑA (A),881088693,"C.C. As Cancelas Avda. Camiño Frances, 3 L-0.28 B",88008,El Gordo,"400,000","C.C. As Cancelas Avda. Camiño Frances, 3 L-0.28 B, Santiago De Compostela, Coruña (A)",42.8891165,-8.5261738,400000
+0.1,SANTIAGO DE COMPOSTELA,,30730,"HORREO,27",CORUÑA (A),981572265,"Horreo,27",88008,El Gordo,"400,000","Horreo,27, Santiago De Compostela, Coruña (A)",42.8751891,-8.5441574,400000
+0.1,ERRENTERIA,,65700,"CAPITAN ENEA,15",GIPUZKOA,943527372,"Capitan Enea,15",88008,El Gordo,"400,000","Capitan Enea,15, Errenteria, Gipuzkoa",43.3081107,-1.8912823,400000
+0.1,SAN SEBASTIAN,,65320,"USURBIL, 1",GIPUZKOA,943311553,"Usurbil, 1",88008,El Gordo,"400,000","Usurbil, 1, San Sebastian, Gipuzkoa",43.3009567,-2.0046193,400000
+0.1,FIGUERES,,33045,"C.C. ""NOU CENTRE"" CTRA. DE ROSES, KM. 29 L-6",GIRONA,972505921,"C.C. ""Nou Centre"" Ctra. De Roses, Km. 29 L-6",88008,El Gordo,"400,000","C.C. ""Nou Centre"" Ctra. De Roses, Km. 29 L-6, Figueres, Girona",42.2720326,2.9625587,400000
+0.1,GIRONA,4,33740,"PZA. MARQUES DE CAMPS, 19",GIRONA,972204696,"Pza. Marques De Camps, 19",88008,El Gordo,"400,000","Pza. Marques De Camps, 19, Girona, Girona",41.9823818,2.8195001,400000
+0.1,GIRONA,7,33755,"CREU, 14",GIRONA,972219861,"Creu, 14",88008,El Gordo,"400,000","Creu, 14, Girona, Girona",41.9763894,2.8068033,400000
+0.1,GRANADA,,37070,PLAZA NUEVA- KIOSKO No 71,GRANADA,958224290,Plaza Nueva- Kiosko No 71,88008,El Gordo,"400,000","Plaza Nueva- Kiosko No 71, Granada, Granada",37.1767291,-3.5959164,400000
+0.1,GRANADA,22,37690,"GRAN VIA DE COLON, 21, L-3 BIS",GRANADA,958202102,"Gran Via De Colon, 21, L-3 Bis",88008,El Gordo,"400,000","Gran Via De Colon, 21, L-3 Bis, Granada, Granada",37.1781037,-3.5990679,400000
+0.1,GRANADA,,37235,"ANCHA DE CAPUCHINOS, 34",GRANADA,958294210,"Ancha De Capuchinos, 34",88008,El Gordo,"400,000","Ancha De Capuchinos, 34, Granada, Granada",37.1863859,-3.6029845,400000
+0.1,VILLANUEVA DE LA TORRE,,38165,"C.C. VALGREEN AVDA PICO OCEJÓN, S/N LOC 8",GUADALAJARA,949273140,"C.C. Valgreen Avda Pico Ocejón, S/N Loc 8",88008,El Gordo,"400,000","C.C. Valgreen Avda Pico Ocejón, S/N Loc 8, Villanueva De La Torre, Guadalajara",40.5830236,-3.2978427,400000
+0.1,AYAMONTE,,39005,"RAMON Y CAJAL , 19",HUELVA,959320849,"Ramon Y Cajal , 19",88008,El Gordo,"400,000","Ramon Y Cajal , 19, Ayamonte, Huelva",37.2115266,-7.4032023,400000
+0.1,HUELVA,7,39925,"PASEO  DE LA INDEPENDENCIA, 3-5-7 L-B-2",HUELVA,959251766,"Paseo  De La Independencia, 3-5-7 L-B-2",88008,El Gordo,"400,000","Paseo  De La Independencia, 3-5-7 L-B-2, Huelva, Huelva",37.261093,-6.9532996,400000
+0.1,HUELVA,16,39785,"AVDA. CRISTOBAL COLON, 111",HUELVA,959357856,"Avda. Cristobal Colon, 111",88008,El Gordo,"400,000","Avda. Cristobal Colon, 111, Huelva, Huelva",37.2713872,-6.9504266,400000
+0.1,LEPE,,39315,"FUENTE, 90",HUELVA,959380499,"Fuente, 90",88008,El Gordo,"400,000","Fuente, 90, Lepe, Huelva",37.2571539,-7.2032754,400000
+0.1,PALOS DE LA FRONTERA,,39030,"CRISTOBAL COLON, 22",HUELVA,959351311,"Cristobal Colon, 22",88008,El Gordo,"400,000","Cristobal Colon, 22, Palos De La Frontera, Huelva",37.2287125,-6.8924711,400000
+0.1,PEGUERA,2,60550,"SAVINA, 2 L-3",ILLES BALEARS,971685690,"Savina, 2 L-3",88008,El Gordo,"400,000","Savina, 2 L-3, Peguera, Illes Balears",39.5373725,2.4411345,400000
+0.1,POLLENSA,1,60445,"HUERTA, 118",ILLES BALEARS,971532783,"Huerta, 118",88008,El Gordo,"400,000","Huerta, 118, Pollensa, Illes Balears",39.8771939,3.0162026,400000
+0.1,PORTAL NOUS-CALVIA,,60250,"CRTA. ANDRATX, 37, L-2",ILLES BALEARS,971675422,"Crta. Andratx, 37, L-2",88008,El Gordo,"400,000","Crta. Andratx, 37, L-2, Portal Nous-Calvia, Illes Balears",39.544794,2.595325,400000
+0.1,JAÉN,15,41530,"DR.EDUARDO Ga- TRIVIÑO LOPEZ, 1 LOCAL 3",JAÉN,953222315,"Dr.Eduardo Ga- Triviño Lopez, 1 Local 3",88008,El Gordo,"400,000","Dr.Eduardo Ga- Triviño Lopez, 1 Local 3, Jaén, Jaén",37.7795941,-3.7849057,400000
+0.1,JAÉN,8,41595,"ALAMOS,1",JAÉN,953237194,"Alamos,1",88008,El Gordo,"400,000","Alamos,1, Jaén, Jaén",37.7660997,-3.7902353,400000
+0.1,JÓDAR,1,41820,"GENERAL FRESNEDA, 14",JAÉN,953785459,"General Fresneda, 14",88008,El Gordo,"400,000","General Fresneda, 14, Jódar, Jaén",37.8435484,-3.3526095,400000
+0.1,POZO ALCÓN,1,41790,"AVDA. FONTANAR, 4",JAÉN,953738110,"Avda. Fontanar, 4",88008,El Gordo,"400,000","Avda. Fontanar, 4, Pozo Alcón, Jaén",37.703221,-2.9368031,400000
+0.1,ÚBEDA,4,41140,C.C. CARREFOUR-CRTA. LINARES S/N-L34,JAÉN,953756681,C.C. Carrefour-Crta. Linares S/N-L34,88008,El Gordo,"400,000","C.C. Carrefour-Crta. Linares S/N-L34, Úbeda, Jaén",38.0969098,-3.6369803,400000
+0.1,VILLACARRILLO,1,41760,"SAN RAFAEL, 71",JAÉN,953441131,"San Rafael, 71",88008,El Gordo,"400,000","San Rafael, 71, Villacarrillo, Jaén",38.1157682,-3.0823243,400000
+0.1,ANTIGUA,,44975,"VIRGEN DE LA ANTIGUA, 4-B",LAS PALMAS,928878268,"Virgen De La Antigua, 4-B",88008,El Gordo,"400,000","Virgen De La Antigua, 4-B, Antigua, Las Palmas",28.3937335,-13.9376021,400000
+0.1,ARGUINEGUIN,,43910,"LUJAN PEREZ, 2",LAS PALMAS,928506306,"Lujan Perez, 2",88008,El Gordo,"400,000","Lujan Perez, 2, Arguineguin, Las Palmas",27.7600274,-15.6817136,400000
+0.1,ARUCAS,,44160,"AVDA. EL MIRÓN, 29",LAS PALMAS,619450846,"Avda. El Mirón, 29",88008,El Gordo,"400,000","Avda. El Mirón, 29, Arucas, Las Palmas",28.1171789,-15.5244251,400000
+0.1,LAS PALMAS GC,,43010,"FERNANDO GUANARTEME, 61",LAS PALMAS,928273300,"Fernando Guanarteme, 61",88008,El Gordo,"400,000","Fernando Guanarteme, 61, Las Palmas Gc, Las Palmas",28.1363659,-15.436041,400000
+0.1,LAS PALMAS GC,,43195,"PZA. DEL PILAR, 14, L-2",LAS PALMAS,828908731,"Pza. Del Pilar, 14, L-2",88008,El Gordo,"400,000","Pza. Del Pilar, 14, L-2, Las Palmas Gc, Las Palmas",28.1292904,-15.4446208,400000
+0.1,LAS PALMAS GC,,43610,"ALEMANIA, 86",LAS PALMAS,928240962,"Alemania, 86",88008,El Gordo,"400,000","Alemania, 86, Las Palmas Gc, Las Palmas",28.132974,-15.4314095,400000
+0.1,LAS PALMAS GC,,43115,"RAFAEL CABRERA, 7",LAS PALMAS,928380660,"Rafael Cabrera, 7",88008,El Gordo,"400,000","Rafael Cabrera, 7, Las Palmas Gc, Las Palmas",28.1056135,-15.4147109,400000
+0.1,PÁJARA,,44980,"AVDA. SALADAR, 15 LOCAL 18 -JANDIA",LAS PALMAS,928540961,"Avda. Saladar, 15 Local 18 -Jandia",88008,El Gordo,"400,000","Avda. Saladar, 15 Local 18 -Jandia, Pájara, Las Palmas",28.0488679,-14.3350361,400000
+0.1,SANTA LUCÍA DE TIRAJANA,,44530,"C.C. "" LA CIEL""  AVDA. CANARIAS, 334 L-7",LAS PALMAS,928755752,"C.C. "" La Ciel""  Avda. Canarias, 334 L-7",88008,El Gordo,"400,000","C.C. "" La Ciel""  Avda. Canarias, 334 L-7, Santa Lucía De Tirajana, Las Palmas",27.8455342,-15.4449248,400000
+0.1,TAHICHE,,43145,CRTA. DE ARRECIFE A TAHICHE KM. 2 S/N,LAS PALMAS,678517922,Crta. De Arrecife A Tahiche Km. 2 S/N,88008,El Gordo,"400,000","Crta. De Arrecife A Tahiche Km. 2 S/N, Tahiche, Las Palmas",29.0180946,-13.5473091,400000
+0.1,TEROR,,44115,"AVDA. DE VENEZUELA, 14",LAS PALMAS,928634739,"Avda. De Venezuela, 14",88008,El Gordo,"400,000","Avda. De Venezuela, 14, Teror, Las Palmas",28.0616461,-15.5459718,400000
+0.1,TUNTE,,44505,"TAMARÁN, 10",LAS PALMAS,928127132,"Tamarán, 10",88008,El Gordo,"400,000","Tamarán, 10, Tunte, Las Palmas",28.1008837,-15.4653897,400000
+0.1,VALLESECO,1,44435,"CURA CABALLERO, 3",LAS PALMAS,928618278,"Cura Caballero, 3",88008,El Gordo,"400,000","Cura Caballero, 3, Valleseco, Las Palmas",28.0498677,-15.5748026,400000
+0.1,YAIZA,,44765,"VISTA DE YAIZA, 46",LAS PALMAS,928753840,"Vista De Yaiza, 46",88008,El Gordo,"400,000","Vista De Yaiza, 46, Yaiza, Las Palmas",28.95254,-13.76538,400000
+0.1,BARALLA,,49645,"EVARISTO CORREA, 63",LUGO,982363310,"Evaristo Correa, 63",88008,El Gordo,"400,000","Evaristo Correa, 63, Baralla, Lugo",42.8930478,-7.2525292,400000
+0.1,ALCALÁ DE HENARES,4,98365,"MAYOR, 32",MADRID,918882440,"Mayor, 32",88008,El Gordo,"400,000","Mayor, 32, Alcalá De Henares, Madrid",40.4827424,-3.3663481,400000
+0.1,ALCALÁ DE HENARES,,98230,"JOSE Ma PEREDA, 5",MADRID,918026555,"Jose Ma Pereda, 5",88008,El Gordo,"400,000","Jose Ma Pereda, 5, Alcalá De Henares, Madrid",40.4966056,-3.36368,400000
+0.1,GETAFE,13,98725,"LEGANES, 61",MADRID,916814209,"Leganes, 61",88008,El Gordo,"400,000","Leganes, 61, Getafe, Madrid",40.3096341,-3.7372014,400000
+0.1,MADRID,125,95375,"NARVAEZ, 13 L-DCH",MADRID,914357087,"Narvaez, 13 L-Dch",88008,El Gordo,"400,000","Narvaez, 13 L-Dch, Madrid, Madrid",40.4167754,-3.7037902,400000
+0.1,MADRID,297,94860,"ALBERTO PALACIOS, 5",MADRID,917974015,"Alberto Palacios, 5",88008,El Gordo,"400,000","Alberto Palacios, 5, Madrid, Madrid",40.3462207,-3.709644,400000
+0.1,MADRID,358,96470,"GAZTAMBIDE, 68",MADRID,914414979,"Gaztambide, 68",88008,El Gordo,"400,000","Gaztambide, 68, Madrid, Madrid",40.4395335,-3.715043,400000
+0.1,MADRID,247,97395,"EMILIO FERRARI, 64",MADRID,914085680,"Emilio Ferrari, 64",88008,El Gordo,"400,000","Emilio Ferrari, 64, Madrid, Madrid",40.4306123,-3.6409592,400000
+0.1,MADRID,501,96535,"SANTA BARBARA, 11",MADRID,910404173,"Santa Barbara, 11",88008,El Gordo,"400,000","Santa Barbara, 11, Madrid, Madrid",40.4266483,-3.6962129,400000
+0.1,MADRID,523,94365,"INTER.TRANSP.MONCLOA PRINCESA, 89 L-32",MADRID,915443323,"Inter.Transp.Moncloa Princesa, 89 L-32",88008,El Gordo,"400,000","Inter.Transp.Moncloa Princesa, 89 L-32, Madrid, Madrid",40.4340478,-3.7189602,400000
+0.1,MADRID,64,97375,"C.C. CARREFOUR LOS ANGELES CRTA. AND, KM 7 100",MADRID,913180007,"C.C. Carrefour Los Angeles Crta. And, Km 7 100",88008,El Gordo,"400,000","C.C. Carrefour Los Angeles Crta. And, Km 7 100, Madrid, Madrid",40.4378861,-3.700825,400000
+0.1,MADRID,,96070,"QUINTANA, 18",MADRID,915420984,"Quintana, 18",88008,El Gordo,"400,000","Quintana, 18, Madrid, Madrid",40.4279292,-3.7174515,400000
+0.1,MADRID,87,95395,"Po DE EXTREMADURA, No 62",MADRID,914641032,"Po De Extremadura, No 62",88008,El Gordo,"400,000","Po De Extremadura, No 62, Madrid, Madrid",40.4148678,-3.7281978,400000
+0.1,MAJADAHONDA,7,95975,"HOSPITAL PUERTA DE HIERRO MANUEL DE FALLA, 1 L 1-3",MADRID,913984172,"Hospital Puerta De Hierro Manuel De Falla, 1 L 1-3",88008,El Gordo,"400,000","Hospital Puerta De Hierro Manuel De Falla, 1 L 1-3, Majadahonda, Madrid",40.4502082,-3.8742158,400000
+0.1,MÓSTOLES,19,99315,"RIO EBRO, 5  POSTERIOR L-A",MADRID,916465808,"Rio Ebro, 5  Posterior L-A",88008,El Gordo,"400,000","Rio Ebro, 5  Posterior L-A, Móstoles, Madrid",40.3161138,-3.8748597,400000
+0.1,PARLA,7,99630,"C.C. EL FERIAL,PINTO, S/N LOC 67",MADRID,660128163,"C.C. El Ferial,Pinto, S/N Loc 67",88008,El Gordo,"400,000","C.C. El Ferial,Pinto, S/N Loc 67, Parla, Madrid",40.2409029,-3.7558188,400000
+0.1,PARLA,1,99615,"PINTO, 37",MADRID,916991783,"Pinto, 37",88008,El Gordo,"400,000","Pinto, 37, Parla, Madrid",40.2393204,-3.7675092,400000
+0.1,SAN FERNANDO DE HENARES,,98535,"ALBINO PEREZ AYESTARAIN, 2",MADRID,916711449,"Albino Perez Ayestarain, 2",88008,El Gordo,"400,000","Albino Perez Ayestarain, 2, San Fernando De Henares, Madrid",40.4257078,-3.5361496,400000
+0.1,SAN LORENZO DEL ESCORIAL,1,99240,"DEL REY, 22",MADRID,918904331,"Del Rey, 22",88008,El Gordo,"400,000","Del Rey, 22, San Lorenzo Del Escorial, Madrid",40.5932386,-4.1475748,400000
+0.1,TRES CANTOS,1,98105,"SECTOR DESCUBRIDORES, 42",MADRID,918036248,"Sector Descubridores, 42",88008,El Gordo,"400,000","Sector Descubridores, 42, Tres Cantos, Madrid",40.6092619,-3.7154804,400000
+0.1,BENALMÁDENA,,50080,"REAL,11",MÁLAGA,952448383,"Real,11",88008,El Gordo,"400,000","Real,11, Benalmádena, Málaga",36.5987966,-4.5168056,400000
+0.1,MÁLAGA,,51380,"ALMERIA, 55",MÁLAGA,952291453,"Almeria, 55",88008,El Gordo,"400,000","Almeria, 55, Málaga, Málaga",36.7207034,-4.3559108,400000
+0.1,MÁLAGA,51,51580,"CATAPILCO, 3",MÁLAGA,952244260,"Catapilco, 3",88008,El Gordo,"400,000","Catapilco, 3, Málaga, Málaga",36.6904311,-4.45331,400000
+0.1,MÁLAGA,59,51290,"MARMOLES, 41",MÁLAGA,952307886,"Marmoles, 41",88008,El Gordo,"400,000","Marmoles, 41, Málaga, Málaga",36.7214403,-4.4304345,400000
+0.1,RONDA,,50245,"AVDA. DE MALAGA, 52 LOC 1",MÁLAGA,952872671,"Avda. De Malaga, 52 Loc 1",88008,El Gordo,"400,000","Avda. De Malaga, 52 Loc 1, Ronda, Málaga",36.746209,-5.1612251,400000
+0.1,ALCANTARILLA,3,53635,"AVDA. REYES CATOLICOS, 27",MURCIA,968827202,"Avda. Reyes Catolicos, 27",88008,El Gordo,"400,000","Avda. Reyes Catolicos, 27, Alcantarilla, Murcia",37.9695869,-1.2190419,400000
+0.1,ALCAYNA (LA),,53770,"AVDA. PICOS DE EUROPA, 21",MURCIA,968404356,"Avda. Picos De Europa, 21",88008,El Gordo,"400,000","Avda. Picos De Europa, 21, Alcayna (La), Murcia",38.08935,-1.16671,400000
+0.1,BALSAPINTADA,,54700,"SANCHEZ PICAZO, 20",MURCIA,968159973,"Sanchez Picazo, 20",88008,El Gordo,"400,000","Sanchez Picazo, 20, Balsapintada, Murcia",37.7556575,-1.102635,400000
+0.1,BULLAS,,53705,"CL TERCIA, 1",MURCIA,968652069,"Cl Tercia, 1",88008,El Gordo,"400,000","Cl Tercia, 1, Bullas, Murcia",38.0492812,-1.6702805,400000
+0.1,MAZARRÓN,3,53885,"LARGA, 4",MURCIA,968590806,"Larga, 4",88008,El Gordo,"400,000","Larga, 4, Mazarrón, Murcia",37.5958175,-1.3147353,400000
+0.1,MURCIA,26,53280,"DOCTOR GREGORIO MARAÑON, 3",MURCIA,968246585,"Doctor Gregorio Marañon, 3",88008,El Gordo,"400,000","Doctor Gregorio Marañon, 3, Murcia, Murcia",38.0271715,-1.0921123,400000
+0.1,PUERTO DE MAZARRON,,53930,"HERNAN CORTES, LOCAL 4 (MAZARRON)",MURCIA,968153959,"Hernan Cortes, Local 4 (Mazarron)",88008,El Gordo,"400,000","Hernan Cortes, Local 4 (Mazarron), Puerto De Mazarron, Murcia",37.5640564,-1.2591153,400000
+0.1,SAN PEDRO DEL PINATAR,2,53945,"GABRIEL CAÑADAS, 17",MURCIA,968187588,"Gabriel Cañadas, 17",88008,El Gordo,"400,000","Gabriel Cañadas, 17, San Pedro Del Pinatar, Murcia",37.8337936,-0.7922442,400000
+0.1,CORDOVILLA,,62350,C.C. LA MOREA-HIPERMERCADO LECLERC,NAVARRA,948240419,C.C. La Morea-Hipermercado Leclerc,88008,El Gordo,"400,000","C.C. La Morea-Hipermercado Leclerc, Cordovilla, Navarra",42.7832441,-1.6330469,400000
+0.1,OURENSE,4,56015,"ERVEDELO, 20",OURENSE,988225440,"Ervedelo, 20",88008,El Gordo,"400,000","Ervedelo, 20, Ourense, Ourense",42.3396441,-7.8690762,400000
+0.1,XINZO DE LIMIA,1,56085,"AVDA. DE MADRID, 4",OURENSE,988462394,"Avda. De Madrid, 4",88008,El Gordo,"400,000","Avda. De Madrid, 4, Xinzo De Limia, Ourense",42.0627464,-7.7253028,400000
+0.1,BECERRIL DE CAMPOS,,59340,"PLAZA OBISPO IBAÑEZ, 7",PALENCIA,979833123,"Plaza Obispo Ibañez, 7",88008,El Gordo,"400,000","Plaza Obispo Ibañez, 7, Becerril De Campos, Palencia",42.1076764,-4.6397079,400000
+0.1,ILLA DE AROUSA (A),1,86875,"RUA TRAVESIA CRUCEIRO,2",PONTEVEDRA,986527647,"Rua Travesia Cruceiro,2",88008,El Gordo,"400,000","Rua Travesia Cruceiro,2, Illa De Arousa (A), Pontevedra",42.5621564,-8.8704166,400000
+0.1,MARÍN,1,86460,"RUA DA PONTE, 6",PONTEVEDRA,986890096,"Rua Da Ponte, 6",88008,El Gordo,"400,000","Rua Da Ponte, 6, Marín, Pontevedra",42.3913646,-8.7033226,400000
+0.1,O PORRIÑO,,86205,"RAMON GONZALEZ, 7",PONTEVEDRA,986330368,"Ramon Gonzalez, 7",88008,El Gordo,"400,000","Ramon Gonzalez, 7, O Porriño, Pontevedra",42.1622871,-8.6212507,400000
+0.1,SALVATERRA DE MIÑO,,86005,"FONTE DA VILA, 7",PONTEVEDRA,986658107,"Fonte Da Vila, 7",88008,El Gordo,"400,000","Fonte Da Vila, 7, Salvaterra De Miño, Pontevedra",42.0813329,-8.4979971,400000
+0.1,VIGO,,87790,"PORTA DO SOL, 12",PONTEVEDRA,986220289,"Porta Do Sol, 12",88008,El Gordo,"400,000","Porta Do Sol, 12, Vigo, Pontevedra",42.2379551,-8.7258126,400000
+0.1,VIGO,27,88575,"AVDA. CAMELIAS, 110",PONTEVEDRA,986239091,"Avda. Camelias, 110",88008,El Gordo,"400,000","Avda. Camelias, 110, Vigo, Pontevedra",42.2255115,-8.7296894,400000
+0.1,GUIJUELO,2,64175,"SAN MARCOS, 3",SALAMANCA,923158076,"San Marcos, 3",88008,El Gordo,"400,000","San Marcos, 3, Guijuelo, Salamanca",40.5587135,-5.671803,400000
+0.1,SALAMANCA,,64630,"FILIBERTO VILLALOBOS, 57-59",SALAMANCA,923231025,"Filiberto Villalobos, 57-59",88008,El Gordo,"400,000","Filiberto Villalobos, 57-59, Salamanca, Salamanca",40.9693403,-5.6734772,400000
+0.1,CONSTANTINA,2,72090,"MESONES, 28",SEVILLA,955880836,"Mesones, 28",88008,El Gordo,"400,000","Mesones, 28, Constantina, Sevilla",37.8739,-5.62011,400000
+0.1,LOS ROSALES,,72005,"AVDA. DE SEVILLA, 56",SEVILLA,955645512,"Avda. De Sevilla, 56",88008,El Gordo,"400,000","Avda. De Sevilla, 56, Los Rosales, Sevilla",37.5899601,-5.7317393,400000
+0.1,MAIRENA DEL ALCOR,1,71135,"CALATRAVA, 40",SEVILLA,955942189,"Calatrava, 40",88008,El Gordo,"400,000","Calatrava, 40, Mairena Del Alcor, Sevilla",37.3755322,-5.7439083,400000
+0.1,MORÓN DE LA FRONTERA,4,71480,"AVDA. DE LA ASUNCIÓN, 4",SEVILLA,955856193,"Avda. De La Asunción, 4",88008,El Gordo,"400,000","Avda. De La Asunción, 4, Morón De La Frontera, Sevilla",37.1208966,-5.4669277,400000
+0.1,SEVILLA,77,73150,"LOPEZ DE GOMARA, 25  LOCAL 4",SEVILLA,954453647,"Lopez De Gomara, 25  Local 4",88008,El Gordo,"400,000","Lopez De Gomara, 25  Local 4, Sevilla, Sevilla",37.3790761,-6.0077828,400000
+0.1,SEVILLA,,73065,"PLAZA ALJARAFE, 4",SEVILLA,954214005,"Plaza Aljarafe, 4",88008,El Gordo,"400,000","Plaza Aljarafe, 4, Sevilla, Sevilla",37.3761616,-5.9737267,400000
+0.1,SEVILLA,44,72855,C.C. DE ALCOSA. LOCAL 5,SEVILLA,954675675,C.C. De Alcosa. Local 5,88008,El Gordo,"400,000","C.C. De Alcosa. Local 5, Sevilla, Sevilla",37.4087385,-5.9267195,400000
+0.1,SEVILLA,,72475,"AVDA. EDUARDO DATO, 57",SEVILLA,954098595,"Avda. Eduardo Dato, 57",88008,El Gordo,"400,000","Avda. Eduardo Dato, 57, Sevilla, Sevilla",37.3832658,-5.974134,400000
+0.1,ALMAZÁN,1,74145,"PLAZA MAYOR, 7",SORIA,975300110,"Plaza Mayor, 7",88008,El Gordo,"400,000","Plaza Mayor, 7, Almazán, Soria",41.487024,-2.5331366,400000
+0.1,CRUZ SANTA,,67165,"CRTA. NUEVA, 32 EDIF. GRANADILLAR 2 L- 9",STA.CRUZ.TFE,922340382,"Crta. Nueva, 32 Edif. Granadillar 2 L- 9",88008,El Gordo,"400,000","Crta. Nueva, 32 Edif. Granadillar 2 L- 9, Cruz Santa, Sta.Cruz.Tfe",28.3782473,-16.5692604,400000
+0.1,GÜÍMAR,,67820,"AVDA. VENEZUELA, 120  LOC A (Bo DE FÁTIMA)",STA.CRUZ.TFE,922513063,"Avda. Venezuela, 120  Loc A (Bo De Fátima)",88008,El Gordo,"400,000","Avda. Venezuela, 120  Loc A (Bo De Fátima), Güímar, Sta.Cruz.Tfe",28.3106065,-16.4125784,400000
+0.1,SAN CRISTÓBAL DE LA LAGUNA,,67155,"CRTA. GRAL. DE LA ESPERANZA, KM. 2200",STA.CRUZ.TFE,922312011,"Crta. Gral. De La Esperanza, Km. 2200",88008,El Gordo,"400,000","Crta. Gral. De La Esperanza, Km. 2200, San Cristóbal De La Laguna, Sta.Cruz.Tfe",28.4423815,-16.3019014,400000
+0.1,SAN CRISTÓBAL DE LA LAGUNA,,68330,C.C. ALCAMPO L-401 CTRA. GUAJARA-LA LAGUNA,STA.CRUZ.TFE,922311477,C.C. Alcampo L-401 Ctra. Guajara-La Laguna,88008,El Gordo,"400,000","C.C. Alcampo L-401 Ctra. Guajara-La Laguna, San Cristóbal De La Laguna, Sta.Cruz.Tfe",28.4650045,-16.3056416,400000
+0.1,SANTA CRUZ DE TENERIFE,,68000,"C/ PUERTA CANSECO, 67",STA.CRUZ.TFE,922289564,"C/ Puerta Canseco, 67",88008,El Gordo,"400,000","C/ Puerta Canseco, 67, Santa Cruz De Tenerife, Sta.Cruz.Tfe",28.4663477,-16.2527231,400000
+0.1,HORTA DE SANT JOAN,,75270,"PARC INFANTIL, 11",TARRAGONA,977435337,"Parc Infantil, 11",88008,El Gordo,"400,000","Parc Infantil, 11, Horta De Sant Joan, Tarragona",40.9544361,0.3140821,400000
+0.1,REUS,,75570,"VAPOR VELL, 35",TARRAGONA,977311923,"Vapor Vell, 35",88008,El Gordo,"400,000","Vapor Vell, 35, Reus, Tarragona",41.1523608,1.1034935,400000
+0.1,ANDORRA,1,76565,"SAN JORGE, 43",TERUEL,978842834,"San Jorge, 43",88008,El Gordo,"400,000","San Jorge, 43, Andorra, Teruel",40.9772888,-0.4459806,400000
+0.1,TOLEDO,12,78825,"COMERCIO, 27",TOLEDO,925223379,"Comercio, 27",88008,El Gordo,"400,000","Comercio, 27, Toledo, Toledo",39.8628296,-4.0273067,400000
+0.1,VILLAFRANCA CABALLEROS,1,77660,"SANTA CRUZ, 18",TOLEDO,926558203,"Santa Cruz, 18",88008,El Gordo,"400,000","Santa Cruz, 18, Villafranca Caballeros, Toledo",39.4251937,-3.3628919,400000
+0.1,ALBAIDA,1,79440,"SAN JUAN, 21",VALENCIA,962901022,"San Juan, 21",88008,El Gordo,"400,000","San Juan, 21, Albaida, Valencia",38.8397038,-0.5179924,400000
+0.1,ALDAIA,3,80155,"C.C. BONAIRE,LOC B- 346, CTRA NAC. III, KM 345",VALENCIA,961921378,"C.C. Bonaire,Loc B- 346, Ctra Nac. Iii, Km 345",88008,El Gordo,"400,000","C.C. Bonaire,Loc B- 346, Ctra Nac. Iii, Km 345, Aldaia, Valencia",39.5494559,-1.3015884,400000
+0.1,ALFARA DEL PATRIARCA,1,81495,"DOCTOR NAVARRO, 19",VALENCIA,961391662,"Doctor Navarro, 19",88008,El Gordo,"400,000","Doctor Navarro, 19, Alfara Del Patriarca, Valencia",39.5447712,-0.3852599,400000
+0.1,ALZIRA,,79905,"CARDENAL VERA,52",VALENCIA,962414049,"Cardenal Vera,52",88008,El Gordo,"400,000","Cardenal Vera,52, Alzira, Valencia",39.1466998,-0.4343179,400000
+0.1,ALZIRA,5,79970,"C.C. CARREFOUR-CRTA. ALBALAT, S/N L-17",VALENCIA,962415020,"C.C. Carrefour-Crta. Albalat, S/N L-17",88008,El Gordo,"400,000","C.C. Carrefour-Crta. Albalat, S/N L-17, Alzira, Valencia",39.1917943,-0.4318228,400000
+0.1,BENIFAIÓ,1,81215,"AVDA. GERMANIAS, 4",VALENCIA,961781592,"Avda. Germanias, 4",88008,El Gordo,"400,000","Avda. Germanias, 4, Benifaió, Valencia",39.28278,-0.42485,400000
+0.1,CARCAIXENT,3,80410,"CANDIDO HERNANDEZ, 20",VALENCIA,962432445,"Candido Hernandez, 20",88008,El Gordo,"400,000","Candido Hernandez, 20, Carcaixent, Valencia",39.1235374,-0.447346,400000
+0.1,GANDIA,,79010,"PASEO GERMANIAS, 57",VALENCIA,962950589,"Paseo Germanias, 57",88008,El Gordo,"400,000","Paseo Germanias, 57, Gandia, Valencia",38.9659072,-0.1853142,400000
+0.1,GANDIA,10,79285,"PASEO GERMANÍAS, 39",VALENCIA,962950497,"Paseo Germanías, 39",88008,El Gordo,"400,000","Paseo Germanías, 39, Gandia, Valencia",38.9657111,-0.1849133,400000
+0.1,MISLATA,2,82130,"POETA MIGUEL HERNANDEZ, 9",VALENCIA,963595564,"Poeta Miguel Hernandez, 9",88008,El Gordo,"400,000","Poeta Miguel Hernandez, 9, Mislata, Valencia",39.4740994,-0.4163964,400000
+0.1,PAIPORTA,,81850,"JAIME I,1",VALENCIA,963970789,"Jaime I,1",88008,El Gordo,"400,000","Jaime I,1, Paiporta, Valencia",39.4300992,-0.4173513,400000
+0.1,QUART DE POBLET,2,80980,"PARET DE PILES, 16-BAJO",VALENCIA,961533846,"Paret De Piles, 16-Bajo",88008,El Gordo,"400,000","Paret De Piles, 16-Bajo, Quart De Poblet, Valencia",39.4824352,-0.4414004,400000
+0.1,REQUENA,2,80090,"AVDA. ARRABAL, 3",VALENCIA,962305049,"Avda. Arrabal, 3",88008,El Gordo,"400,000","Avda. Arrabal, 3, Requena, Valencia",39.4878412,-1.1007222,400000
+0.1,VALENCIA,27,83480,"MARIA CRISTINA, 11 BAJOS",VALENCIA,963513016,"Maria Cristina, 11 Bajos",88008,El Gordo,"400,000","Maria Cristina, 11 Bajos, Valencia, Valencia",39.4731018,-0.3777188,400000
+0.1,VALENCIA,108,83645,"C.C. CARREFOUR CAMPANAR -AV. MANUELDE FALLA,13 L11",VALENCIA,963409176,"C.C. Carrefour Campanar -Av. Manuelde Falla,13 L11",88008,El Gordo,"400,000","C.C. Carrefour Campanar -Av. Manuelde Falla,13 L11, Valencia, Valencia",39.4772623,-0.4045477,400000
+0.1,XÀTIVA,6,79620,"C.C. PLAZA MAYOR C/ LLOSA DE RANES, S/N",VALENCIA,962259023,"C.C. Plaza Mayor C/ Llosa De Ranes, S/N",88008,El Gordo,"400,000","C.C. Plaza Mayor C/ Llosa De Ranes, S/N, Xàtiva, Valencia",39.0037631,-0.5272592,400000
+0.1,ARROYO DE LA ENCOMIENDA,2,85385,"C.C. RÍO SHOPPING L-B70ME FALTA UN TORNILLO, 3",VALLADOLID,983399860,"C.C. Río Shopping L-B70Me Falta Un Tornillo, 3",88008,El Gordo,"400,000","C.C. Río Shopping L-B70Me Falta Un Tornillo, 3, Arroyo De La Encomienda, Valladolid",41.6280639,-4.7865539,400000
+0.1,LAGUNA DE DUERO,,84985,"AVDA. LIBERTAD, 30",VALLADOLID,983541840,"Avda. Libertad, 30",88008,El Gordo,"400,000","Avda. Libertad, 30, Laguna De Duero, Valladolid",41.5893719,-4.7241717,400000
+0.1,PORTILLO,1,84965,"ENSANCHE, 26-28",VALLADOLID,983556987,"Ensanche, 26-28",88008,El Gordo,"400,000","Ensanche, 26-28, Portillo, Valladolid",41.4732972,-4.5908115,400000
+0.1,VALLADOLID,,85375,"PZA DE LOS VADILLOS,7",VALLADOLID,983307796,"Pza De Los Vadillos,7",88008,El Gordo,"400,000","Pza De Los Vadillos,7, Valladolid, Valladolid",41.6513333,-4.7131277,400000
+0.1,VALLADOLID,14,85145,"PASEO HOSPITAL MILITAR, 2",VALLADOLID,983477538,"Paseo Hospital Militar, 2",88008,El Gordo,"400,000","Paseo Hospital Militar, 2, Valladolid, Valladolid",41.6425013,-4.7288441,400000
+0.1,ZAMORA,,91265,"MIRADOR DEL DUERO, 6",ZAMORA,980510479,"Mirador Del Duero, 6",88008,El Gordo,"400,000","Mirador Del Duero, 6, Zamora, Zamora",41.5044476,-5.7327615,400000
+0.1,ZARAGOZA,84,92715,"CONDE ARANDA, 15",ZARAGOZA,876268059,"Conde Aranda, 15",88008,El Gordo,"400,000","Conde Aranda, 15, Zaragoza, Zaragoza",41.654478,-0.886037,400000
+0.1,ZARAGOZA,,92705,"AVDA DE SALVADOR ALLENDE, 65",ZARAGOZA,976515523,"Avda De Salvador Allende, 65",88008,El Gordo,"400,000","Avda De Salvador Allende, 65, Zaragoza, Zaragoza",41.6747095,-0.8773462,400000
 130,CORUÑA (A),7,29985,"RUA NUEVA, 4",CORUÑA (A),981204383,"Rua Nueva, 4",58303,2º Premio,"125,000","Rua Nueva, 4, Coruña (A), Coruña (A)",43.3691835,-8.4022681,162500000
 45,O GROVE,1,87060,"LUIS SEOANE, 2-A  BAJO",PONTEVEDRA,986732363,"Luis Seoane, 2-A  Bajo",58303,2º Premio,"125,000","Luis Seoane, 2-A  Bajo, O Grove, Pontevedra",42.4940829,-8.8634687,56250000
 1.8,ZAHARA DE LOS ATUNES,,22280,"PASEO DEL PRADILLO, 36-A2 L-2",CÁDIZ,956439028,"Paseo Del Pradillo, 36-A2 L-2",58303,2º Premio,"125,000","Paseo Del Pradillo, 36-A2 L-2, Zahara De Los Atunes, Cádiz",36.1342215,-5.8439146,2250000
@@ -1085,33 +1246,3 @@ Series,Localidad,Administración,Recep.,Domicilio,Provincia,Teléfono,Calle,Núm
 0.1,RIBADAVIA,1,56095,"JOSÉ MARÍA MARTÍNEZ VÁZQUEZ, 1",OURENSE,988470345,"José María Martínez Vázquez, 1",37038,5º Premio,"6,000","José María Martínez Vázquez, 1, Ribadavia, Ourense",42.2866661,-8.1447348,6000
 0.1,ILLA DE AROUSA (A),1,86875,"RUA TRAVESIA CRUCEIRO,2",PONTEVEDRA,986527647,"Rua Travesia Cruceiro,2",37038,5º Premio,"6,000","Rua Travesia Cruceiro,2, Illa De Arousa (A), Pontevedra",42.5621564,-8.8704166,6000
 0.1,O GROVE,1,87060,"LUIS SEOANE, 2-A  BAJO",PONTEVEDRA,986732363,"Luis Seoane, 2-A  Bajo",37038,5º Premio,"6,000","Luis Seoane, 2-A  Bajo, O Grove, Pontevedra",42.4940829,-8.8634687,6000
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
