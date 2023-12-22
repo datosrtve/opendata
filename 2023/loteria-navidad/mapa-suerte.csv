@@ -217,15 +217,409 @@ Series,Localidad,Administración,Recep.,Domicilio,Provincia,Teléfono,Calle,Núm
 0.1,MÁLAGA,54,51605,"AVD. VELAZQUEZ, 68",MÁLAGA,952230399,"Avd. Velazquez, 68",45353,5º Premio,"6,000","Avd. Velazquez, 68, Málaga, Málaga",36.6949055,-4.4523878,6000
 0.1,MÁLAGA,51,51580,"CATAPILCO, 3",MÁLAGA,952244260,"Catapilco, 3",45353,5º Premio,"6,000","Catapilco, 3, Málaga, Málaga",36.6904311,-4.45331,6000
 0.1,TORREMOLINOS,72,51980,"PZA.DEL LIDO, CONJ.LOS JAZMINES",MÁLAGA,952386675,"Pza.Del Lido, Conj.Los Jazmines",45353,5º Premio,"6,000","Pza.Del Lido, Conj.Los Jazmines, Torremolinos, Málaga",36.6265566,-4.5160396,6000
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
+0.1,CEUTÍ,1,54055,"PZA. NUEVA, 1",MURCIA,968690289,"Pza. Nueva, 1",45353,5º Premio,"6,000","Pza. Nueva, 1, Ceutí, Murcia",38.07923,-1.2719,6000
+0.1,LAS TORRES DE COTILLAS,1,54080,"MAYOR, 15",MURCIA,968627784,"Mayor, 15",45353,5º Premio,"6,000","Mayor, 15, Las Torres De Cotillas, Murcia",38.0274986,-1.2433848,6000
+0.1,MAZARRÓN,3,53885,"LARGA, 4",MURCIA,968590806,"Larga, 4",45353,5º Premio,"6,000","Larga, 4, Mazarrón, Murcia",37.5958175,-1.3147353,6000
+0.1,OURENSE,2,56005,"RÚA DO PASEO, 10",OURENSE,988235123,"Rúa Do Paseo, 10",45353,5º Premio,"6,000","Rúa Do Paseo, 10, Ourense, Ourense",42.3387914,-7.864645,6000
+0.1,OURENSE,4,56015,"ERVEDELO, 20",OURENSE,988225440,"Ervedelo, 20",45353,5º Premio,"6,000","Ervedelo, 20, Ourense, Ourense",42.3396441,-7.8690762,6000
+0.1,XINZO DE LIMIA,1,56085,"AVDA. DE MADRID, 4",OURENSE,988462394,"Avda. De Madrid, 4",45353,5º Premio,"6,000","Avda. De Madrid, 4, Xinzo De Limia, Ourense",42.0627464,-7.7253028,6000
+0.1,CANGAS,2,86475,"MONTERO RIOS, 6",PONTEVEDRA,986303543,"Montero Rios, 6",45353,5º Premio,"6,000","Montero Rios, 6, Cangas, Pontevedra",42.2623952,-8.7854471,6000
+0.1,ILLA DE AROUSA (A),1,86875,"RUA TRAVESIA CRUCEIRO,2",PONTEVEDRA,986527647,"Rua Travesia Cruceiro,2",45353,5º Premio,"6,000","Rua Travesia Cruceiro,2, Illa De Arousa (A), Pontevedra",42.5621564,-8.8704166,6000
+0.1,REDONDELA,2,86490,"GENERAL RUBIN, 26",PONTEVEDRA,986401309,"General Rubin, 26",45353,5º Premio,"6,000","General Rubin, 26, Redondela, Pontevedra",42.426683,-8.6472642,6000
+0.1,VIGO,27,88575,"AVDA. CAMELIAS, 110",PONTEVEDRA,986239091,"Avda. Camelias, 110",45353,5º Premio,"6,000","Avda. Camelias, 110, Vigo, Pontevedra",42.2255115,-8.7296894,6000
+0.1,MORÓN DE LA FRONTERA,4,71480,"AVDA. DE LA ASUNCIÓN, 4",SEVILLA,955856193,"Avda. De La Asunción, 4",45353,5º Premio,"6,000","Avda. De La Asunción, 4, Morón De La Frontera, Sevilla",37.1208966,-5.4669277,6000
+0.1,SEVILLA,94,73385,C.C. ALCAMPO R.TAMARGUILLO S/N- L-21,SEVILLA,954921536,C.C. Alcampo R.Tamarguillo S/N- L-21,45353,5º Premio,"6,000","C.C. Alcampo R.Tamarguillo S/N- L-21, Sevilla, Sevilla",37.3703357,-5.9666383,6000
+0.1,LA GUANCHA,1,67560,"AVENIDA HIPOLITO SINFORIANO, 23",STA.CRUZ.TFE,922828457,"Avenida Hipolito Sinforiano, 23",45353,5º Premio,"6,000","Avenida Hipolito Sinforiano, 23, La Guancha, Sta.Cruz.Tfe",28.3743048,-16.65195,6000
+0.1,ANDORRA,1,76565,"SAN JORGE, 43",TERUEL,978842834,"San Jorge, 43",45353,5º Premio,"6,000","San Jorge, 43, Andorra, Teruel",40.9772888,-0.4459806,6000
+0.1,TOLEDO,12,78825,"COMERCIO, 27",TOLEDO,925223379,"Comercio, 27",45353,5º Premio,"6,000","Comercio, 27, Toledo, Toledo",39.8628296,-4.0273067,6000
+0.1,ALDAIA,3,80155,"C.C. BONAIRE,LOC B- 346, CTRA NAC. III, KM 345",VALENCIA,961921378,"C.C. Bonaire,Loc B- 346, Ctra Nac. Iii, Km 345",45353,5º Premio,"6,000","C.C. Bonaire,Loc B- 346, Ctra Nac. Iii, Km 345, Aldaia, Valencia",39.5494559,-1.3015884,6000
+0.1,ALFARA DEL PATRIARCA,1,81495,"DOCTOR NAVARRO, 19",VALENCIA,961391662,"Doctor Navarro, 19",45353,5º Premio,"6,000","Doctor Navarro, 19, Alfara Del Patriarca, Valencia",39.5447712,-0.3852599,6000
+0.1,BENIFAIRO DE VALLDIGNA,1,80420,"MESTRE LUIS BLANES, 4",VALENCIA,962811160,"Mestre Luis Blanes, 4",45353,5º Premio,"6,000","Mestre Luis Blanes, 4, Benifairo De Valldigna, Valencia",39.0547984,-0.3031019,6000
+0.1,BÉTERA,1,80940,"JOSE SAEZ, 20",VALENCIA,961602447,"Jose Saez, 20",45353,5º Premio,"6,000","Jose Saez, 20, Bétera, Valencia",39.5911226,-0.4580011,6000
+0.1,BURJASSOT,4,81940,"C.C. P. ALBAN-CRTA.ADEMUZ KM.2,9",VALENCIA,963904810,"C.C. P. Alban-Crta.Ademuz Km.2,9",45353,5º Premio,"6,000","C.C. P. Alban-Crta.Ademuz Km.2,9, Burjassot, Valencia",39.5046534,-0.4171714,6000
+0.1,GANDIA,2,79190,"DUC ALFONS EL VELL, 16",VALENCIA,962873784,"Duc Alfons El Vell, 16",45353,5º Premio,"6,000","Duc Alfons El Vell, 16, Gandia, Valencia",38.9656165,-0.18053,6000
+0.1,MISLATA,4,82010,"AVDA. DEL SUR, 10 BAJO",VALENCIA,963795724,"Avda. Del Sur, 10 Bajo",45353,5º Premio,"6,000","Avda. Del Sur, 10 Bajo, Mislata, Valencia",39.4721369,-0.4189684,6000
+0.1,MISLATA,2,82130,"POETA MIGUEL HERNANDEZ, 9",VALENCIA,963595564,"Poeta Miguel Hernandez, 9",45353,5º Premio,"6,000","Poeta Miguel Hernandez, 9, Mislata, Valencia",39.4740994,-0.4163964,6000
+0.1,MONCADA,1,81505,"VEINTICINCO DE ABRIL, 4",VALENCIA,961394602,"Veinticinco De Abril, 4",45353,5º Premio,"6,000","Veinticinco De Abril, 4, Moncada, Valencia",39.5448715,-0.3942637,6000
+0.1,QUART DE POBLET,2,80980,"PARET DE PILES, 16-BAJO",VALENCIA,961533846,"Paret De Piles, 16-Bajo",45353,5º Premio,"6,000","Paret De Piles, 16-Bajo, Quart De Poblet, Valencia",39.4824352,-0.4414004,6000
+0.1,SAGUNTO,1,80570,"PZA CRONISTA CHABRET, 8",VALENCIA,962661576,"Pza Cronista Chabret, 8",45353,5º Premio,"6,000","Pza Cronista Chabret, 8, Sagunto, Valencia",39.6808121,-0.277723,6000
+0.1,SEDAVÍ,1,81730,"VALENCIA, 54",VALENCIA,963760853,"Valencia, 54",45353,5º Premio,"6,000","Valencia, 54, Sedaví, Valencia",39.4245468,-0.3829931,6000
+0.1,VALENCIA,85,83820,"CALIXTO III,22, BJ DCHA 2",VALENCIA,963857137,"Calixto Iii,22, Bj Dcha 2",45353,5º Premio,"6,000","Calixto Iii,22, Bj Dcha 2, Valencia, Valencia",39.4710108,-0.3901213,6000
+0.1,VALENCIA,79,83785,"ENRIQUE NAVARRO,30 BAJO D2",VALENCIA,963932089,"Enrique Navarro,30 Bajo D2",45353,5º Premio,"6,000","Enrique Navarro,30 Bajo D2, Valencia, Valencia",39.4846232,-0.3579377,6000
+0.1,XÀTIVA,6,79620,"C.C. PLAZA MAYOR C/ LLOSA DE RANES, S/N",VALENCIA,962259023,"C.C. Plaza Mayor C/ Llosa De Ranes, S/N",45353,5º Premio,"6,000","C.C. Plaza Mayor C/ Llosa De Ranes, S/N, Xàtiva, Valencia",39.0037631,-0.5272592,6000
+0.1,XÀTIVA,3,79680,"PASAJE DEL LLEO, 4",VALENCIA,962273597,"Pasaje Del Lleo, 4",45353,5º Premio,"6,000","Pasaje Del Lleo, 4, Xàtiva, Valencia",39.4579283,-0.3713229,6000
+0.1,ARROYO DE LA ENCOMIENDA,2,85385,C.C. RÍO SHOPPING L-B70ME FALTA UN,VALLADOLID,983399860,C.C. Río Shopping L-B70Me Falta Un,45353,5º Premio,"6,000","C.C. Río Shopping L-B70Me Falta Un, Arroyo De La Encomienda, Valladolid",41.6280639,-4.7865539,6000
+0.1,VALLADOLID,7,85935,"LENCERIA, 1 LOCAL 5",VALLADOLID,983354743,"Lenceria, 1 Local 5",45353,5º Premio,"6,000","Lenceria, 1 Local 5, Valladolid, Valladolid",41.652251,-4.7245321,6000
+0.1,ZARAGOZA,57,92125,"MONASTERIO DE PIEDRA,1",ZARAGOZA,976338876,"Monasterio De Piedra,1",45353,5º Premio,"6,000","Monasterio De Piedra,1, Zaragoza, Zaragoza",41.652084,-0.921469,6000
+45,DOS HERMANAS,4,71430,"VIRGEN LOS DESAMPARADOS, 17",SEVILLA,955668328,"Virgen Los Desamparados, 17",88979,5º Premio,"6,000","Virgen Los Desamparados, 17, Dos Hermanas, Sevilla",37.2865803,-5.9242391,2700000
+16.4,TEROR,,44115,"AVDA. DE VENEZUELA, 14",LAS PALMAS,928634739,"Avda. De Venezuela, 14",88979,5º Premio,"6,000","Avda. De Venezuela, 14, Teror, Las Palmas",28.0616461,-15.5459718,984000
+15,ATECA,1,93385,"GOYA, 10",ZARAGOZA,976872288,"Goya, 10",88979,5º Premio,"6,000","Goya, 10, Ateca, Zaragoza",41.3300034,-1.7920215,900000
+2.8,ALMERÍA,,5145,"PEREZ GALDOS, 14",ALMERÍA,950227400,"Perez Galdos, 14",88979,5º Premio,"6,000","Perez Galdos, 14, Almería, Almería",36.8420724,-2.4484257,168000
+2.8,MADRID,,105,WWW.LOTERIASYAPUESTAS.ES,MADRID,,Www.Loteriasyapuestas.Es,88979,5º Premio,"6,000","Www.Loteriasyapuestas.Es, Madrid, Madrid",40.4167754,-3.7037902,168000
+2.7,GRANADA,,37060,"AVDA. DE AMERICA, 46",GRANADA,958127103,"Avda. De America, 46",88979,5º Premio,"6,000","Avda. De America, 46, Granada, Granada",37.160217,-3.5947561,162000
+2.4,GRANADILLA DE ABONA,,68515,AUTOPISTA DEL SUR KM. 54,STA.CRUZ.TFE,922394396,Autopista Del Sur Km. 54,88979,5º Premio,"6,000","Autopista Del Sur Km. 54, Granadilla De Abona, Sta.Cruz.Tfe",28.2115523,-16.424025,144000
+2,MADRID,150,97245,"ARENAL, 16",MADRID,914093383,"Arenal, 16",88979,5º Premio,"6,000","Arenal, 16, Madrid, Madrid",40.4173467,-3.7064284,120000
+1.8,MANISES,3,81980,"MAESTRO GUILLEM, 5",VALENCIA,960661000,"Maestro Guillem, 5",88979,5º Premio,"6,000","Maestro Guillem, 5, Manises, Valencia",39.4909139,-0.4572508,108000
+1.3,ALMERÍA,,5075,"PL.ANTONIO TORRES, 8",ALMERÍA,950291801,"Pl.Antonio Torres, 8",88979,5º Premio,"6,000","Pl.Antonio Torres, 8, Almería, Almería",36.8408366,-2.4078314,78000
+1.2,FIRGAS,,44100,"EL MOLINO,2",LAS PALMAS,928625335,"El Molino,2",88979,5º Premio,"6,000","El Molino,2, Firgas, Las Palmas",28.1068916,-15.5634091,72000
+1.1,ALCORCÓN,,99405,"OSLO, 29",MADRID,916419367,"Oslo, 29",88979,5º Premio,"6,000","Oslo, 29, Alcorcón, Madrid",40.3459212,-3.8411117,66000
+1,BARCELONA,298,9050,"CONCILIO DE TRENTO, 116",BARCELONA,933033745,"Concilio De Trento, 116",88979,5º Premio,"6,000","Concilio De Trento, 116, Barcelona, Barcelona",41.4144468,2.19653,60000
+1,LINARES,8,41990,C.C. ALCAMPO-AV SAN CRISTOBAL,JAÉN,953656950,C.C. Alcampo-Av San Cristobal,88979,5º Premio,"6,000","C.C. Alcampo-Av San Cristobal, Linares, Jaén",38.0889856,-3.6468055,60000
+1,CERVERA DEL RÍO ALHAMA,1,48270,"ANDRES MARTINEZ, 27",LA RIOJA,941391194,"Andres Martinez, 27",88979,5º Premio,"6,000","Andres Martinez, 27, Cervera Del Río Alhama, La Rioja",42.0045157,-1.9559705,60000
+1,ARRECIFE,5,44805,"RUPERTO GLEZ NEGRIN, 18",LAS PALMAS,928813921,"Ruperto Glez Negrin, 18",88979,5º Premio,"6,000","Ruperto Glez Negrin, 18, Arrecife, Las Palmas",28.9584706,-13.5516085,60000
+1,PUERTO DEL ROSARIO,2,44940,"VIRGEN DE LA PEÑA, 13",LAS PALMAS,928855323,"Virgen De La Peña, 13",88979,5º Premio,"6,000","Virgen De La Peña, 13, Puerto Del Rosario, Las Palmas",28.5000925,-13.8659662,60000
+1,MADRID,67,97310,"CARMEN, 22",MADRID,915214694,"Carmen, 22",88979,5º Premio,"6,000","Carmen, 22, Madrid, Madrid",40.4189689,-3.7047011,60000
+1,MADRID,326,95055,"AVDA. DE LA ALBUFERA, 300",MADRID,913031173,"Avda. De La Albufera, 300",88979,5º Premio,"6,000","Avda. De La Albufera, 300, Madrid, Madrid",40.3861007,-3.6377075,60000
+1,MADRID,162,95470,"CARRERA DE SAN JERONIMO, 5",MADRID,915225953,"Carrera De San Jeronimo, 5",88979,5º Premio,"6,000","Carrera De San Jeronimo, 5, Madrid, Madrid",40.4168066,-3.7012452,60000
+1,MADRID,404,96780,"AVDA. CIUDAD DE BARCELONA, 57",MADRID,915512065,"Avda. Ciudad De Barcelona, 57",88979,5º Premio,"6,000","Avda. Ciudad De Barcelona, 57, Madrid, Madrid",40.4024213,-3.6767247,60000
+1,VILLANUEVA DEL PARDILLO,1,97915,"REAL, 1",MADRID,918107166,"Real, 1",88979,5º Premio,"6,000","Real, 1, Villanueva Del Pardillo, Madrid",40.45211,-4.00707,60000
+1,MÁLAGA,5,51590,"GRANADA, 5",MÁLAGA,952212960,"Granada, 5",88979,5º Premio,"6,000","Granada, 5, Málaga, Málaga",36.721261,-4.4212655,60000
+1,SAN PEDRO DEL PINATAR,2,53945,"GABRIEL CAÑADAS, 17",MURCIA,968187588,"Gabriel Cañadas, 17",88979,5º Premio,"6,000","Gabriel Cañadas, 17, San Pedro Del Pinatar, Murcia",37.8337936,-0.7922442,60000
+1,SALCEDA DE CASELAS,1,86080,"PONTEVEDRA, 15",PONTEVEDRA,986347175,"Pontevedra, 15",88979,5º Premio,"6,000","Pontevedra, 15, Salceda De Caselas, Pontevedra",42.1022472,-8.5567797,60000
+1,BORJA,1,93270,"JOAQUÍN COSTA, 22-24",ZARAGOZA,976867056,"Joaquín Costa, 22-24",88979,5º Premio,"6,000","Joaquín Costa, 22-24, Borja, Zaragoza",41.8332939,-1.5335898,60000
+0.6,FALCES,,62055,"PLAZA DE LA CRUZ,1",NAVARRA,948714888,"Plaza De La Cruz,1",88979,5º Premio,"6,000","Plaza De La Cruz,1, Falces, Navarra",42.8116084,-1.6412504,36000
+0.5,MENGÍBAR,,41425,"CTRA. BAILEN-MOTRIL, 10",JAÉN,953374004,"Ctra. Bailen-Motril, 10",88979,5º Premio,"6,000","Ctra. Bailen-Motril, 10, Mengíbar, Jaén",37.9812488,-3.798133,30000
+0.5,VIGO,,87790,"PORTA DO SOL, 12",PONTEVEDRA,986220289,"Porta Do Sol, 12",88979,5º Premio,"6,000","Porta Do Sol, 12, Vigo, Pontevedra",42.2379551,-8.7258126,30000
+0.5,ILLESCAS,,77180,"PUERTA DEL SOL, 1",TOLEDO,925541017,"Puerta Del Sol, 1",88979,5º Premio,"6,000","Puerta Del Sol, 1, Illescas, Toledo",40.1237556,-3.8486516,30000
+0.4,SARRIÀ DE TER,,33615,"AVINGUDA DE FRANÇA, 242",GIRONA,972171282,"Avinguda De França, 242",88979,5º Premio,"6,000","Avinguda De França, 242, Sarrià De Ter, Girona",42.019627,2.8231823,24000
+0.4,GRANADA,,37070,PLAZA NUEVA- KIOSKO No 71,GRANADA,958224290,Plaza Nueva- Kiosko No 71,88979,5º Premio,"6,000","Plaza Nueva- Kiosko No 71, Granada, Granada",37.1767291,-3.5959164,24000
+0.4,LAS PALMAS GC,,43305,"MESA DE LEON, 3",LAS PALMAS,928317638,"Mesa De Leon, 3",88979,5º Premio,"6,000","Mesa De Leon, 3, Las Palmas Gc, Las Palmas",28.1018083,-15.4152889,24000
+0.4,CUBAS DE LA SAGRA,,97975,"SAN SEBASTIAN, 20",MADRID,918143350,"San Sebastian, 20",88979,5º Premio,"6,000","San Sebastian, 20, Cubas De La Sagra, Madrid",40.1899381,-3.8378009,24000
+0.4,SAN ISIDRO,,67905,"CTRA. GRANADILLA - EL MÉDANO KM. 7,7",STA.CRUZ.TFE,922179420,"Ctra. Granadilla - El Médano Km. 7,7",88979,5º Premio,"6,000","Ctra. Granadilla - El Médano Km. 7,7, San Isidro, Sta.Cruz.Tfe",-34.470829,-58.5286102,24000
+0.3,ELDA,,3610,"AVDA. JOSE MARTÍNEZ GONZALEZ, 80",ALICANTE,965383452,"Avda. Jose Martínez Gonzalez, 80",88979,5º Premio,"6,000","Avda. Jose Martínez Gonzalez, 80, Elda, Alicante",38.4774166,-0.7858292,18000
+0.3,CARBONERAS,,5910,"PLAZA DEL CASTILLO, 22",ALMERÍA,950136327,"Plaza Del Castillo, 22",88979,5º Premio,"6,000","Plaza Del Castillo, 22, Carboneras, Almería",36.9967054,-1.8947372,18000
+0.3,GIJÓN,,35555,"JOSE LAS CLOTAS, 1",ASTURIAS,985176162,"Jose Las Clotas, 1",88979,5º Premio,"6,000","Jose Las Clotas, 1, Gijón, Asturias",43.53899,-5.6632999,18000
+0.3,BARCELONA,336,11335,"C.C. ARENAS-GRAN VIA CORTS CATALANES, 373-385 LS28",BARCELONA,934247349,"C.C. Arenas-Gran Via Corts Catalanes, 373-385 Ls28",88979,5º Premio,"6,000","C.C. Arenas-Gran Via Corts Catalanes, 373-385 Ls28, Barcelona, Barcelona",41.3763271,2.1493096,18000
+0.3,PALLEJÀ,,15855,"JOAN MOLINS PARERA, 52",BARCELONA,936631030,"Joan Molins Parera, 52",88979,5º Premio,"6,000","Joan Molins Parera, 52, Pallejà, Barcelona",41.4193428,1.9972808,18000
+0.3,CIUTADELLA DE MENORCA,,60600,"CARNICERIA, 5 - MENORCA",ILLES BALEARS,971381195,"Carniceria, 5 - Menorca",88979,5º Premio,"6,000","Carniceria, 5 - Menorca, Ciutadella De Menorca, Illes Balears",39.9991163,3.8389047,18000
+0.3,PALMA DE MALLORCA,,61290,"C/ ARAGÓN, 228 (ES VIVERO)",ILLES BALEARS,971470442,"C/ Aragón, 228 (Es Vivero)",88979,5º Premio,"6,000","C/ Aragón, 228 (Es Vivero), Palma De Mallorca, Illes Balears",39.5890009,2.677209,18000
+0.3,VECINDARIO,,44515,"BLAS PASCAL, 4 LOCAL-3",LAS PALMAS,928758148,"Blas Pascal, 4 Local-3",88979,5º Premio,"6,000","Blas Pascal, 4 Local-3, Vecindario, Las Palmas",27.85161,-15.4411792,18000
+0.3,COLLADO VILLALBA,,99385,"AZUELA, 29",MADRID,918406859,"Azuela, 29",88979,5º Premio,"6,000","Azuela, 29, Collado Villalba, Madrid",40.6266874,-4.0195447,18000
+0.3,MADRID,304,94905,"CAMINO VIEJO DE LEGANES, 174",MADRID,914624513,"Camino Viejo De Leganes, 174",88979,5º Premio,"6,000","Camino Viejo De Leganes, 174, Madrid, Madrid",40.3788841,-3.7330667,18000
+0.3,MADRID,,96245,"C/.STA.VIRGILIA, 7",MADRID,917645486,"C/.Sta.Virgilia, 7",88979,5º Premio,"6,000","C/.Sta.Virgilia, 7, Madrid, Madrid",40.4776271,-3.6427767,18000
+0.3,PARACUELLOS DEL JARAMA,,98415,"REAL, 35",MADRID,916581330,"Real, 35",88979,5º Premio,"6,000","Real, 35, Paracuellos Del Jarama, Madrid",40.5056034,-3.5302108,18000
+0.3,ALCAYNA (LA),,53770,"AVDA. PICOS DE EUROPA, 21",MURCIA,968404356,"Avda. Picos De Europa, 21",88979,5º Premio,"6,000","Avda. Picos De Europa, 21, Alcayna (La), Murcia",38.08935,-1.16671,18000
+0.3,EL ALBUJON,,54695,"CL GENERAL MOSCARDO, 32",MURCIA,968160428,"Cl General Moscardo, 32",88979,5º Premio,"6,000","Cl General Moscardo, 32, El Albujon, Murcia",37.7185286,-1.0479921,18000
+0.3,SAN JAVIER,2,54460,C.C. DOS MARES CTRA. NAC. 332 KM32 L-B13-A,MURCIA,968547110,C.C. Dos Mares Ctra. Nac. 332 Km32 L-B13-A,88979,5º Premio,"6,000","C.C. Dos Mares Ctra. Nac. 332 Km32 L-B13-A, San Javier, Murcia",37.8054749,-0.8379313,18000
+0.3,OURENSE,,55040,"PROGRESO, 89 L-3  GALERIAS PROYFLEM",OURENSE,988074435,"Progreso, 89 L-3  Galerias Proyflem",88979,5º Premio,"6,000","Progreso, 89 L-3  Galerias Proyflem, Ourense, Ourense",42.3387779,-7.8663342,18000
+0.3,O PORRIÑO,,86205,"RAMON GONZALEZ, 7",PONTEVEDRA,986330368,"Ramon Gonzalez, 7",88979,5º Premio,"6,000","Ramon Gonzalez, 7, O Porriño, Pontevedra",42.1622871,-8.6212507,18000
+0.3,LLÍRIA,,80870,"JUAN IZQUIERDO, 31",VALENCIA,962781974,"Juan Izquierdo, 31",88979,5º Premio,"6,000","Juan Izquierdo, 31, Llíria, Valencia",39.6241628,-0.593714,18000
+0.2,MADRIGUERAS,,1695,"ALCALDE LUIS FUENTES, 11",ALBACETE,967485080,"Alcalde Luis Fuentes, 11",88979,5º Premio,"6,000","Alcalde Luis Fuentes, 11, Madrigueras, Albacete",39.237108,-1.8009176,12000
+0.2,SAN VICENTE DEL RASPEIG,,3040,"LA HUERTA, 31  L-3",ALICANTE,966144112,"La Huerta, 31  L-3",88979,5º Premio,"6,000","La Huerta, 31  L-3, San Vicente Del Raspeig, Alicante",38.4101441,-0.5352356,12000
+0.2,ROQUETAS DE MAR,,5575,"AVDA PLAYA SERENA, 126 (URB. ROQ. DE MAR)",ALMERÍA,950334310,"Avda Playa Serena, 126 (Urb. Roq. De Mar)",88979,5º Premio,"6,000","Avda Playa Serena, 126 (Urb. Roq. De Mar), Roquetas De Mar, Almería",36.7237229,-2.627156,12000
+0.2,BARCELONA,124,11465,"GIRONA, 154",BARCELONA,934576706,"Girona, 154",88979,5º Premio,"6,000","Girona, 154, Barcelona, Barcelona",41.3992284,2.1660924,12000
+0.2,SANTURTZI,2,17110,"LAS VIÑAS, 7",BIZKAIA,944830840,"Las Viñas, 7",88979,5º Premio,"6,000","Las Viñas, 7, Santurtzi, Bizkaia",43.328857,-3.0367224,12000
+0.2,BARBATE,,21485,"PIO XII, No 34",CÁDIZ,956432171,"Pio Xii, No 34",88979,5º Premio,"6,000","Pio Xii, No 34, Barbate, Cádiz",36.1915776,-5.9239729,12000
+0.2,CABEZÓN DE LA SAL,,69460,"AVDA. CANTABRIA, 3",CANTABRIA,635481025,"Avda. Cantabria, 3",88979,5º Premio,"6,000","Avda. Cantabria, 3, Cabezón De La Sal, Cantabria",43.3080765,-4.2356004,12000
+0.2,SOCUÉLLAMOS,,26530,"PROFESOR TIERNO GALVÁN, 1",CIUDAD REAL,926532990,"Profesor Tierno Galván, 1",88979,5º Premio,"6,000","Profesor Tierno Galván, 1, Socuéllamos, Ciudad Real",39.2826113,-2.7952118,12000
+0.2,MONTILLA,,28295,"AVDA. DE ANDALUCIA, 16B",CÓRDOBA,957727159,"Avda. De Andalucia, 16B",88979,5º Premio,"6,000","Avda. De Andalucia, 16B, Montilla, Córdoba",37.5835465,-4.6431465,12000
+0.2,VILLAVICIOSA DE CÓRDOBA,,27535,"PLAZA DE ANDALUCIA, 9",CÓRDOBA,957360399,"Plaza De Andalucia, 9",88979,5º Premio,"6,000","Plaza De Andalucia, 9, Villaviciosa De Córdoba, Córdoba",38.0762036,-5.0145285,12000
+0.2,SAN SEBASTIAN,,65135,"JOSE MARIA SALAVERRIA, 39",GIPUZKOA,943457053,"Jose Maria Salaverria, 39",88979,5º Premio,"6,000","Jose Maria Salaverria, 39, San Sebastian, Gipuzkoa",43.3038924,-1.9799944,12000
+0.2,ZUMARRAGA,,66215,"LEGAZPI,10",GIPUZKOA,943720470,"Legazpi,10",88979,5º Premio,"6,000","Legazpi,10, Zumarraga, Gipuzkoa",43.0896062,-2.3158845,12000
+0.2,AINSA,,40005,"AVDA.CENTRAL,2",HUESCA,974500043,"Avda.Central,2",88979,5º Premio,"6,000","Avda.Central,2, Ainsa, Huesca",42.4145782,0.1406426,12000
+0.2,SABIÑÁNIGO,,40610,AVDA. EJERCITO 4,HUESCA,974480711,Avda. Ejercito 4,88979,5º Premio,"6,000","Avda. Ejercito 4, Sabiñánigo, Huesca",42.5094946,-0.3565675,12000
+0.2,PALMA DE MALLORCA,,61300,"RAFAEL RODRÍGUEZ MÉNDEZ, 16",ILLES BALEARS,628446453,"Rafael Rodríguez Méndez, 16",88979,5º Premio,"6,000","Rafael Rodríguez Méndez, 16, Palma De Mallorca, Illes Balears",39.5772502,2.6414247,12000
+0.2,LAS PALMAS GC,49,43865,C.C. CORTE INGLES-AV. JOSE MESA Y LOPEZ 15 PT BAJA,LAS PALMAS,928241197,C.C. Corte Ingles-Av. Jose Mesa Y Lopez 15 Pt Baja,88979,5º Premio,"6,000","C.C. Corte Ingles-Av. Jose Mesa Y Lopez 15 Pt Baja, Las Palmas Gc, Las Palmas",28.134365,-15.4323435,12000
+0.2,SAN FERNANDO,,43905,"PARTERA LEONORITA, 6 L-2 Y 3",LAS PALMAS,696280583,"Partera Leonorita, 6 L-2 Y 3",88979,5º Premio,"6,000","Partera Leonorita, 6 L-2 Y 3, San Fernando, Las Palmas",28.0967364,-15.5893347,12000
+0.2,TAMARACEITE,,43040,"C.C. LOS ALISIOS, HERMANOS DOMÍNGUEZ, S/N L-B72",LAS PALMAS,658656042,"C.C. Los Alisios, Hermanos Domínguez, S/N L-B72",88979,5º Premio,"6,000","C.C. Los Alisios, Hermanos Domínguez, S/N L-B72, Tamaraceite, Las Palmas",28.0993744,-15.4745869,12000
+0.2,TELDE,,44710,"ROTONDA EL CUBILLO,1",LAS PALMAS,928698234,"Rotonda El Cubillo,1",88979,5º Premio,"6,000","Rotonda El Cubillo,1, Telde, Las Palmas",28.0059471,-15.4135045,12000
+0.2,LEÓN,,45725,"AVDA. JOSE Ma.FERNANDEZ, 40",LEÓN,987254637,"Avda. Jose Ma.Fernandez, 40",88979,5º Premio,"6,000","Avda. Jose Ma.Fernandez, 40, León, León",21.1250077,-101.6859605,12000
+0.2,CERVERA,3,46260,"AVDA. CATALUÑA, 49",LLEIDA,973531836,"Avda. Cataluña, 49",88979,5º Premio,"6,000","Avda. Cataluña, 49, Cervera, Lleida",41.671412,1.2725251,12000
+0.2,GETAFE,,99645,"TRAVESIA de Carabanchel, lc1, acc. c/Madrid, 119,",MADRID,615329166,"Travesia De Carabanchel, Lc1, Acc. C/Madrid, 119,",88979,5º Premio,"6,000","Travesia De Carabanchel, Lc1, Acc. C/Madrid, 119,, Getafe, Madrid",40.3135004,-3.7276013,12000
+0.2,MADRID,,94385,"LA DEL MANOJO DE ROSAS, 64",MADRID,913179091,"La Del Manojo De Rosas, 64",88979,5º Premio,"6,000","La Del Manojo De Rosas, 64, Madrid, Madrid",40.356032,-3.6976002,12000
+0.2,EL PALMAR,,54360,"PZA. DE LA CONSTITUCIÓN, 5",MURCIA,968882137,"Pza. De La Constitución, 5",88979,5º Premio,"6,000","Pza. De La Constitución, 5, El Palmar, Murcia",37.940447,-1.1720289,12000
+0.2,SAN ADRIÁN,,62575,"PELAYO SOLA, 7",NAVARRA,948670506,"Pelayo Sola, 7",88979,5º Premio,"6,000","Pelayo Sola, 7, San Adrián, Navarra",42.3350823,-1.9325418,12000
+0.2,OURENSE,1,56000,"RUA DO PASEO, 30 (GALERÍAS VICAMBRE LOC 6)",OURENSE,988214311,"Rua Do Paseo, 30 (Galerías Vicambre Loc 6)",88979,5º Premio,"6,000","Rua Do Paseo, 30 (Galerías Vicambre Loc 6), Ourense, Ourense",42.3404743,-7.8644225,12000
+0.2,O GROVE,,86970,"RUA CASTELAO, 116",PONTEVEDRA,986731086,"Rua Castelao, 116",88979,5º Premio,"6,000","Rua Castelao, 116, O Grove, Pontevedra",42.4911153,-8.859171,12000
+0.2,DOS HERMANAS,,72240,"TAJO, BLOQUE 4 (EDIFICIO VISTAZUL)",SEVILLA,955666928,"Tajo, Bloque 4 (Edificio Vistazul)",88979,5º Premio,"6,000","Tajo, Bloque 4 (Edificio Vistazul), Dos Hermanas, Sevilla",37.2857458,-5.9112779,12000
+0.2,MAIRENA DEL ALJARAFE,,72200,"AV. DE LOS DESCUBRIMIENTOS, 19 B",SEVILLA,954181355,"Av. De Los Descubrimientos, 19 B",88979,5º Premio,"6,000","Av. De Los Descubrimientos, 19 B, Mairena Del Aljarafe, Sevilla",37.349037,-6.052605,12000
+0.2,LA VICTORIA DE ACENTEJO,,67505,"CRTA. GRAL. DEL NORTE, 92 L-2",STA.CRUZ.TFE,922581694,"Crta. Gral. Del Norte, 92 L-2",88979,5º Premio,"6,000","Crta. Gral. Del Norte, 92 L-2, La Victoria De Acentejo, Sta.Cruz.Tfe",28.4349713,-16.4717527,12000
+0.2,LLANO DEL MORO,,68290,"SAN FRANCISCO DE PAULA, 2",STA.CRUZ.TFE,922611945,"San Francisco De Paula, 2",88979,5º Premio,"6,000","San Francisco De Paula, 2, Llano Del Moro, Sta.Cruz.Tfe",28.4425654,-16.3342796,12000
+0.2,TARRAGONA,16,75700,C.C. PARK CENTRAL.VIDAL BARRAQUER-15-17-KIOSCO 7,TARRAGONA,977245765,C.C. Park Central.Vidal Barraquer-15-17-Kiosco 7,88979,5º Premio,"6,000","C.C. Park Central.Vidal Barraquer-15-17-Kiosco 7, Tarragona, Tarragona",41.1188827,1.2444909,12000
+0.2,TOLEDO,7,78630,"ANDALUCIA, 6",TOLEDO,925250337,"Andalucia, 6",88979,5º Premio,"6,000","Andalucia, 6, Toledo, Toledo",39.8628296,-4.0273067,12000
+0.2,VALENCIA,,83125,"AVDA. DEL PUERTO, 330 BAJO",VALENCIA,667448161,"Avda. Del Puerto, 330 Bajo",88979,5º Premio,"6,000","Avda. Del Puerto, 330 Bajo, Valencia, Valencia",39.4600848,-0.3337346,12000
+0.2,VALENCIA,99,83915,"EXPLORADOR ANDRES, 34",VALENCIA,963720189,"Explorador Andres, 34",88979,5º Premio,"6,000","Explorador Andres, 34, Valencia, Valencia",39.4713697,-0.3454161,12000
+0.2,VALENCIA,47,83565,"C.C. NUEVO CENTRO AV. PIO XII, 2-4-6 LOCAL 102",VALENCIA,963470369,"C.C. Nuevo Centro Av. Pio Xii, 2-4-6 Local 102",88979,5º Premio,"6,000","C.C. Nuevo Centro Av. Pio Xii, 2-4-6 Local 102, Valencia, Valencia",39.481068,-0.390529,12000
+0.1,ALBACETE,15,1120,"FERIA, 57",ALBACETE,967507129,"Feria, 57",88979,5º Premio,"6,000","Feria, 57, Albacete, Albacete",38.9961051,-1.8627151,6000
+0.1,ALBACETE,,1035,"AVENIDA DE ESPAÑA, 41",ALBACETE,967222945,"Avenida De España, 41",88979,5º Premio,"6,000","Avenida De España, 41, Albacete, Albacete",38.9845433,-1.853363,6000
+0.1,ALBACETE,,1065,"FERIA,  78",ALBACETE,967504835,"Feria,  78",88979,5º Premio,"6,000","Feria,  78, Albacete, Albacete",38.9977219,-1.8661143,6000
+0.1,LA RODA,2,1680,"RAMON Y CAJAL, 3",ALBACETE,967443094,"Ramon Y Cajal, 3",88979,5º Premio,"6,000","Ramon Y Cajal, 3, La Roda, Albacete",39.2054013,-2.1580577,6000
+0.1,VALDEGANGA,,1770,"ALBACETE, 21",ALBACETE,967400073,"Albacete, 21",88979,5º Premio,"6,000","Albacete, 21, Valdeganga, Albacete",38.9942576,-1.860173,6000
+0.1,ALCOY,,2130,"OLIVER, 37",ALICANTE,645838887,"Oliver, 37",88979,5º Premio,"6,000","Oliver, 37, Alcoy, Alicante",38.6942086,-0.4828147,6000
+0.1,ALFAZ DEL PI,,3310,"AV. EL ALBIR, 49",ALICANTE,966865718,"Av. El Albir, 49",88979,5º Premio,"6,000","Av. El Albir, 49, Alfaz Del Pi, Alicante",38.5521379,-0.1012415,6000
+0.1,ALICANTE,32,4305,"C.C.EL CORTE INGLES-AVDA MAISONNAVE, 53",ALICANTE,965928657,"C.C.El Corte Ingles-Avda Maisonnave, 53",88979,5º Premio,"6,000","C.C.El Corte Ingles-Avda Maisonnave, 53, Alicante, Alicante",38.34315,-0.4932131,6000
+0.1,ALICANTE,,4275,"STA. MARIA MAZZARELLO, 19 (ENTDA GRAL BONANZA) L-9",ALICANTE,965286003,"Sta. Maria Mazzarello, 19 (Entda Gral Bonanza) L-9",88979,5º Premio,"6,000","Sta. Maria Mazzarello, 19 (Entda Gral Bonanza) L-9, Alicante, Alicante",38.3406918,-0.5022049,6000
+0.1,ALTEA,1,3460,"AV. L'ALT REI EN JAUME I, 30 BAJO A",ALICANTE,965840275,"Av. L'Alt Rei En Jaume I, 30 Bajo A",88979,5º Premio,"6,000","Av. L'Alt Rei En Jaume I, 30 Bajo A, Altea, Alicante",38.6024059,-0.046733,6000
+0.1,BENIDORM,,3405,"RUZAFA, 33 L-1",ALICANTE,965854031,"Ruzafa, 33 L-1",88979,5º Premio,"6,000","Ruzafa, 33 L-1, Benidorm, Alicante",38.5382543,-0.1299144,6000
+0.1,DÉNIA,,3510,"BELLA VISTA, 8",ALICANTE,965781096,"Bella Vista, 8",88979,5º Premio,"6,000","Bella Vista, 8, Dénia, Alicante",38.84457,0.10972,6000
+0.1,EL CAMPELLO,1,3360,"DR. FLEMING, 41",ALICANTE,965631459,"Dr. Fleming, 41",88979,5º Premio,"6,000","Dr. Fleming, 41, El Campello, Alicante",38.428478,-0.3994443,6000
+0.1,JAVEA,,3340,"SANTISIMO CRISTO DEL MAR, 16",ALICANTE,965790460,"Santisimo Cristo Del Mar, 16",88979,5º Premio,"6,000","Santisimo Cristo Del Mar, 16, Javea, Alicante",38.7954708,0.1810823,6000
+0.1,JIJONA,,3215,"CAPITAN JOSEP HERNANDEZ MIRA, 1",ALICANTE,965613115,"Capitan Josep Hernandez Mira, 1",88979,5º Premio,"6,000","Capitan Josep Hernandez Mira, 1, Jijona, Alicante",38.5390047,-0.5075652,6000
+0.1,LA FOIA,,32615,"AVDA. SAN ANTONIO, 9",ALICANTE,965454093,"Avda. San Antonio, 9",88979,5º Premio,"6,000","Avda. San Antonio, 9, La Foia, Alicante",38.2124091,-0.6838282,6000
+0.1,MARINA-OASIS,,32285,"AMSTERDAM, S/N",ALICANTE,661619973,"Amsterdam, S/N",88979,5º Premio,"6,000","Amsterdam, S/N, Marina-Oasis, Alicante",38.3459963,-0.4906855,6000
+0.1,MONOVAR,,3680,"ZURBARAN, 5",ALICANTE,665888141,"Zurbaran, 5",88979,5º Premio,"6,000","Zurbaran, 5, Monovar, Alicante",38.4345189,-0.8426133,6000
+0.1,ORIHUELA,10,32780,"C.C. ZENIA BOULEVARD C/ JADE, 2 L-900",ALICANTE,965355820,"C.C. Zenia Boulevard C/ Jade, 2 L-900",88979,5º Premio,"6,000","C.C. Zenia Boulevard C/ Jade, 2 L-900, Orihuela, Alicante",37.9305065,-0.7363415,6000
+0.1,ORIHUELA,,32640,CTRA. TORREVIEJA-CARTA.KM. 6,ALICANTE,966730267,Ctra. Torrevieja-Carta.Km. 6,88979,5º Premio,"6,000","Ctra. Torrevieja-Carta.Km. 6, Orihuela, Alicante",38.0753357,-0.7383312,6000
+0.1,ORIHUELA,3,32565,"OBISPO ROCAMORA, 36",ALICANTE,965303219,"Obispo Rocamora, 36",88979,5º Premio,"6,000","Obispo Rocamora, 36, Orihuela, Alicante",38.0827369,-0.9411981,6000
+0.1,PILAR DE LA HORADADA,1,32675,"MAYOR, 62",ALICANTE,966766667,"Mayor, 62",88979,5º Premio,"6,000","Mayor, 62, Pilar De La Horadada, Alicante",37.8631809,-0.7901334,6000
+0.1,SAN VICENTE DEL RASPEIG,,3060,"ECHEGARAY, 2",ALICANTE,965660588,"Echegaray, 2",88979,5º Premio,"6,000","Echegaray, 2, San Vicente Del Raspeig, Alicante",38.3956617,-0.5250876,6000
+0.1,TORREVIEJA,3,32300,"JOAQUÍN CHAPARRIETA,ESQ UNIÓN MUSICALTORREVEJENSE",ALICANTE,966843606,"Joaquín Chaparrieta,Esq Unión Musicaltorrevejense",88979,5º Premio,"6,000","Joaquín Chaparrieta,Esq Unión Musicaltorrevejense, Torrevieja, Alicante",37.9847003,-0.6808233,6000
+0.1,ALMERÍA,17,5260,"C.C. CARREFOUR-AVDA. MEDITERRANEO, 244",ALMERÍA,950227425,"C.C. Carrefour-Avda. Mediterraneo, 244",88979,5º Premio,"6,000","C.C. Carrefour-Avda. Mediterraneo, 244, Almería, Almería",36.8411848,-2.4443906,6000
+0.1,EL EJIDO,6,5490,"CRTRA. DE LA MOJONERA, 152 C (LAS NORIAS)",ALMERÍA,950587427,"Crtra. De La Mojonera, 152 C (Las Norias)",88979,5º Premio,"6,000","Crtra. De La Mojonera, 152 C (Las Norias), El Ejido, Almería",36.7575985,-2.751558,6000
+0.1,EL EJIDO,3,5420,"ALMERIA, 59",ALMERÍA,950481517,"Almeria, 59",88979,5º Premio,"6,000","Almeria, 59, El Ejido, Almería",36.7735501,-2.816576,6000
+0.1,ROQUETAS DE MAR,6,5340,"AVDA. JUAN CARLOS I, 44",ALMERÍA,950338091,"Avda. Juan Carlos I, 44",88979,5º Premio,"6,000","Avda. Juan Carlos I, 44, Roquetas De Mar, Almería",36.7655352,-2.6115767,6000
+0.1,ROQUETAS DE MAR,1,5455,"GRAVINA, 15",ALMERÍA,950322257,"Gravina, 15",88979,5º Premio,"6,000","Gravina, 15, Roquetas De Mar, Almería",36.7633171,-2.6172854,6000
+0.1,VÍCAR,2,5545,"PLAZA GARCIA LORCA, 5 (LAS CABAÑUELAS)",ALMERÍA,950555789,"Plaza Garcia Lorca, 5 (Las Cabañuelas)",88979,5º Premio,"6,000","Plaza Garcia Lorca, 5 (Las Cabañuelas), Vícar, Almería",36.8039835,-2.6310625,6000
+0.1,AVILÉS,,57725,"DEL PRADO, 20",ASTURIAS,985520913,"Del Prado, 20",88979,5º Premio,"6,000","Del Prado, 20, Avilés, Asturias",43.5579523,-5.9246653,6000
+0.1,CANGAS DE NARCEA,,58925,"AVDA. DE OVIEDO, S/N",ASTURIAS,985810075,"Avda. De Oviedo, S/N",88979,5º Premio,"6,000","Avda. De Oviedo, S/N, Cangas De Narcea, Asturias",43.1840846,-6.5441463,6000
+0.1,CANGAS DE NARCEA,,58915,"ALCALDE DIAZ PENEDELA, 12",ASTURIAS,984051132,"Alcalde Diaz Penedela, 12",88979,5º Premio,"6,000","Alcalde Diaz Penedela, 12, Cangas De Narcea, Asturias",43.1783392,-6.5507786,6000
+0.1,CASTROPOL,1,58520,"PENZOL LAVANDERA, 16",ASTURIAS,985635377,"Penzol Lavandera, 16",88979,5º Premio,"6,000","Penzol Lavandera, 16, Castropol, Asturias",43.4289777,-6.9541293,6000
+0.1,GIJÓN,,35515,"AVENIDA SCHULTZ,141",ASTURIAS,984196042,"Avenida Schultz,141",88979,5º Premio,"6,000","Avenida Schultz,141, Gijón, Asturias",43.5279128,-5.6668512,6000
+0.1,GIJÓN,5,35705,"PALACIO VALDES, 9",ASTURIAS,985340547,"Palacio Valdes, 9",88979,5º Premio,"6,000","Palacio Valdes, 9, Gijón, Asturias",43.5392039,-5.6657349,6000
+0.1,GIJÓN,33,35645,C.C.LOS FRESNOS-RIO DE ORO-LOCAL B-67- 2 (B 89),ASTURIAS,985145009,C.C.Los Fresnos-Rio De Oro-Local B-67- 2 (B 89),88979,5º Premio,"6,000","C.C.Los Fresnos-Rio De Oro-Local B-67- 2 (B 89), Gijón, Asturias",43.5326246,-5.6617924,6000
+0.1,GIJÓN,,35805,"VELAZQUEZ, 17",ASTURIAS,985380431,"Velazquez, 17",88979,5º Premio,"6,000","Velazquez, 17, Gijón, Asturias",43.5212697,-5.6754463,6000
+0.1,GIJÓN,,35585,"GRAL. SUAREZ VALDES, 23",ASTURIAS,985369116,"Gral. Suarez Valdes, 23",88979,5º Premio,"6,000","Gral. Suarez Valdes, 23, Gijón, Asturias",43.531834,-5.6484953,6000
+0.1,OVIEDO,,57050,"JOVELLANOS, 8",ASTURIAS,985227703,"Jovellanos, 8",88979,5º Premio,"6,000","Jovellanos, 8, Oviedo, Asturias",43.363462,-5.8443679,6000
+0.1,OVIEDO,,57195,"AMSTERDAM, 10",ASTURIAS,985116117,"Amsterdam, 10",88979,5º Premio,"6,000","Amsterdam, 10, Oviedo, Asturias",43.3728822,-5.8313345,6000
+0.1,POLA DE LAVIANA,1,58210,"LIBERTAD, 48",ASTURIAS,985602654,"Libertad, 48",88979,5º Premio,"6,000","Libertad, 48, Pola De Laviana, Asturias",43.2450108,-5.5616573,6000
+0.1,NAVALUENGA,,6330,"C/ HOSPITAL,1",ÁVILA,920286104,"C/ Hospital,1",88979,5º Premio,"6,000","C/ Hospital,1, Navaluenga, Ávila",40.4097658,-4.7080057,6000
+0.1,BADAJOZ,,8790,"LA JARA, 3",BADAJOZ,924250955,"La Jara, 3",88979,5º Premio,"6,000","La Jara, 3, Badajoz, Badajoz",38.8794495,-6.9706535,6000
+0.1,LLERENA,2,8090,"LA CARCEL, 1",BADAJOZ,924870103,"La Carcel, 1",88979,5º Premio,"6,000","La Carcel, 1, Llerena, Badajoz",38.2376876,-6.0163146,6000
+0.1,VILLAFRANCA DE LOS BARROS,,7835,"PLAZA DE ESPAÑA, 14",BADAJOZ,924524489,"Plaza De España, 14",88979,5º Premio,"6,000","Plaza De España, 14, Villafranca De Los Barros, Badajoz",38.5610216,-6.3390576,6000
+0.1,VILLANUEVA DEL FRESNO,,8455,"PLAZA DE ESPAÑA, 25",BADAJOZ,924427279,"Plaza De España, 25",88979,5º Premio,"6,000","Plaza De España, 25, Villanueva Del Fresno, Badajoz",38.3750537,-7.1669046,6000
+0.1,BARCELONA,56,11115,"BALUARTE, 46",BARCELONA,932214267,"Baluarte, 46",88979,5º Premio,"6,000","Baluarte, 46, Barcelona, Barcelona",41.3873974,2.168568,6000
+0.1,BARCELONA,,9340,"JOAQIUIN COSTA, 35",BARCELONA,662074151,"Joaqiuin Costa, 35",88979,5º Premio,"6,000","Joaqiuin Costa, 35, Barcelona, Barcelona",41.3823931,2.1657076,6000
+0.1,BARCELONA,302,10885,"TAMARIT, 163 (TIENDA 2)",BARCELONA,934230382,"Tamarit, 163 (Tienda 2)",88979,5º Premio,"6,000","Tamarit, 163 (Tienda 2), Barcelona, Barcelona",41.3786169,2.1605846,6000
+0.1,CALELLA,2,14600,"FRANCESC MATAS I RODES, 13",BARCELONA,937695068,"Francesc Matas I Rodes, 13",88979,5º Premio,"6,000","Francesc Matas I Rodes, 13, Calella, Barcelona",41.6146368,2.6625183,6000
+0.1,CASTELLDEFELS,,12425,"POMPEU FABRA, 5",BARCELONA,936655511,"Pompeu Fabra, 5",88979,5º Premio,"6,000","Pompeu Fabra, 5, Castelldefels, Barcelona",41.2795007,1.9773848,6000
+0.1,CASTELLTERÇOL,,13020,"CRTA. BARCELONA, 6",BARCELONA,938668184,"Crta. Barcelona, 6",88979,5º Premio,"6,000","Crta. Barcelona, 6, Castellterçol, Barcelona",41.7498986,2.1234488,6000
+0.1,CORNELLÀ DE LLOBREGAT,13,15695,C.C. HIPERCOR-SALVADOR DALI 15-19,BARCELONA,933777075,C.C. Hipercor-Salvador Dali 15-19,88979,5º Premio,"6,000","C.C. Hipercor-Salvador Dali 15-19, Cornellà De Llobregat, Barcelona",41.3544343,2.0885902,6000
+0.1,CORNELLÀ DE LLOBREGAT,6,15955,"DOCTOR ARUS, 11",BARCELONA,933761346,"Doctor Arus, 11",88979,5º Premio,"6,000","Doctor Arus, 11, Cornellà De Llobregat, Barcelona",41.3612278,2.0838085,6000
+0.1,FLORIDA (LA),,12665,"NUEVE, 22",BARCELONA,617228815,"Nueve, 22",88979,5º Premio,"6,000","Nueve, 22, Florida (La), Barcelona",27.6648274,-81.5157535,6000
+0.1,IGUALADA,3,12060,Po  MOSSEN JACINT VERDAGUER 169,BARCELONA,938042701,Po  Mossen Jacint Verdaguer 169,88979,5º Premio,"6,000","Po  Mossen Jacint Verdaguer 169, Igualada, Barcelona",41.5784544,1.6295001,6000
+0.1,MOLINS DE REI,4,15800,"CARRIL, 27",BARCELONA,936801272,"Carril, 27",88979,5º Premio,"6,000","Carril, 27, Molins De Rei, Barcelona",41.4134488,2.0182425,6000
+0.1,MONTGAT,1,9600,"C.C. MERCAT DE MONTGAT, EI 03 PZA. DE LA MARE, S/N",BARCELONA,933221173,"C.C. Mercat De Montgat, Ei 03 Pza. De La Mare, S/N",88979,5º Premio,"6,000","C.C. Mercat De Montgat, Ei 03 Pza. De La Mare, S/N, Montgat, Barcelona",41.4716845,2.2845067,6000
+0.1,SANT ANDREU DE LA BARCA,,12150,"DE LA FONT, 4",BARCELONA,936822274,"De La Font, 4",88979,5º Premio,"6,000","De La Font, 4, Sant Andreu De La Barca, Barcelona",41.4470241,1.9728327,6000
+0.1,TERRASSA,13,12795,"C.C. CARREFOUR, L-12  AUTOPISTA C-58, KM 17,8",BARCELONA,937310066,"C.C. Carrefour, L-12  Autopista C-58, Km 17,8",88979,5º Premio,"6,000","C.C. Carrefour, L-12  Autopista C-58, Km 17,8, Terrassa, Barcelona",41.528903,2.0895049,6000
+0.1,TERRASSA,,14385,"PLACETA SARAGOSSA, 3",BARCELONA,675586252,"Placeta Saragossa, 3",88979,5º Premio,"6,000","Placeta Saragossa, 3, Terrassa, Barcelona",41.5650143,2.0123407,6000
+0.1,TORRETA (LA),,13040,"COSTA BRAVA, 97",BARCELONA,938793007,"Costa Brava, 97",88979,5º Premio,"6,000","Costa Brava, 97, Torreta (La), Barcelona",41.3873974,2.168568,6000
+0.1,VILAFRANCA DEL PENEDÈS,,11890,"TARRAGONA, 7",BARCELONA,938900561,"Tarragona, 7",88979,5º Premio,"6,000","Tarragona, 7, Vilafranca Del Penedès, Barcelona",41.3438701,1.6982626,6000
+0.1,VILAFRANCA DEL PENEDÈS,1,11940,"LA PARELLADA, 28-30",BARCELONA,938920895,"La Parellada, 28-30",88979,5º Premio,"6,000","La Parellada, 28-30, Vilafranca Del Penedès, Barcelona",41.3463498,1.6997374,6000
+0.1,VILANOVA I LA GELTRÚ,6,11785,"RAMBLA JOSEP TOMAS  VENTOSA,  21",BARCELONA,938151345,"Rambla Josep Tomas  Ventosa,  21",88979,5º Premio,"6,000","Rambla Josep Tomas  Ventosa,  21, Vilanova I La Geltrú, Barcelona",41.2211232,1.727593,6000
+0.1,AGIRRE-APERRIBAI,,16260,APERRIBAI 4 - A,BIZKAIA,946009544,Aperribai 4 - A,88979,5º Premio,"6,000","Aperribai 4 - A, Agirre-Aperribai, Bizkaia",43.24033,-2.8734651,6000
+0.1,AMOREBIETA,,16180,"IBAIZABAL,S/N",BIZKAIA,946733955,"Ibaizabal,S/N",88979,5º Premio,"6,000","Ibaizabal,S/N, Amorebieta, Bizkaia",43.2196681,-2.7348028,6000
+0.1,BILBAO,8,17715,"ARENAL, 1",BIZKAIA,944152036,"Arenal, 1",88979,5º Premio,"6,000","Arenal, 1, Bilbao, Bizkaia",43.2620013,-2.9226868,6000
+0.1,DERIO,,16785,"HERRIKO PLAZA, 2",BIZKAIA,944542014,"Herriko Plaza, 2",88979,5º Premio,"6,000","Herriko Plaza, 2, Derio, Bizkaia",43.291115,-2.8867858,6000
+0.1,LEIOA,4,16810,"C.C. ARTEA, BARRIO PERURI, 33 L- B-74 B",BIZKAIA,944913960,"C.C. Artea, Barrio Peruri, 33 L- B-74 B",88979,5º Premio,"6,000","C.C. Artea, Barrio Peruri, 33 L- B-74 B, Leioa, Bizkaia",43.3366037,-2.9882918,6000
+0.1,LEIOA,3,16610,"C.C. EROSKI LEIOA-AVDA.IPARRAGUIRRE, 110",BIZKAIA,944806865,"C.C. Eroski Leioa-Avda.Iparraguirre, 110",88979,5º Premio,"6,000","C.C. Eroski Leioa-Avda.Iparraguirre, 110, Leioa, Bizkaia",43.3177767,-2.9742196,6000
+0.1,ONDARROA,,16245,"ALAMEDA NAFARROA ZUMARDIA, S/N",BIZKAIA,946831319,"Alameda Nafarroa Zumardia, S/N",88979,5º Premio,"6,000","Alameda Nafarroa Zumardia, S/N, Ondarroa, Bizkaia",43.323022,-2.422308,6000
+0.1,URDULIZ,,16665,"NAPARROA, 6",BIZKAIA,946760765,"Naparroa, 6",88979,5º Premio,"6,000","Naparroa, 6, Urduliz, Bizkaia",43.3783008,-2.9582638,6000
+0.1,ARANDA DE DUERO,,18325,"JUAN DE PADILLA, 1",BURGOS,947508665,"Juan De Padilla, 1",88979,5º Premio,"6,000","Juan De Padilla, 1, Aranda De Duero, Burgos",41.6819147,-3.682608,6000
+0.1,BURGOS,,18165,"CONDESA MENCIA, 143",BURGOS,947229412,"Condesa Mencia, 143",88979,5º Premio,"6,000","Condesa Mencia, 143, Burgos, Burgos",42.3604171,-3.6786607,6000
+0.1,CÁCERES,8,19005,"CATEDRATICO ANTONIO SILVA,2",CÁCERES,927211042,"Catedratico Antonio Silva,2",88979,5º Premio,"6,000","Catedratico Antonio Silva,2, Cáceres, Cáceres",39.469722,-6.3775036,6000
+0.1,MALPARTIDA DE PLASENCIA,,19930,"AUTOVÍA A 66, KM 494. ÁREA DE SERVICIO EL CALDERO",CÁCERES,927453398,"Autovía A 66, Km 494. Área De Servicio El Caldero",88979,5º Premio,"6,000","Autovía A 66, Km 494. Área De Servicio El Caldero, Malpartida De Plasencia, Cáceres",39.8830958,-6.2760118,6000
+0.1,NAVALMORAL DE LA MATA,2,20580,"ZARAGOZA, 9",CÁCERES,927532323,"Zaragoza, 9",88979,5º Premio,"6,000","Zaragoza, 9, Navalmoral De La Mata, Cáceres",39.8916181,-5.5399303,6000
+0.1,PLASENCIA,5,20545,"C.C. CARREFOUR PLASENCIA JULIAN BESTEIRO, S/N L-5",CÁCERES,927044316,"C.C. Carrefour Plasencia Julian Besteiro, S/N L-5",88979,5º Premio,"6,000","C.C. Carrefour Plasencia Julian Besteiro, S/N L-5, Plasencia, Cáceres",40.038481,-6.0786109,6000
+0.1,TRUJILLO,,19615,"AVDA. MIAJADAS, 1",CÁCERES,927320338,"Avda. Miajadas, 1",88979,5º Premio,"6,000","Avda. Miajadas, 1, Trujillo, Cáceres",39.45679,-5.88159,6000
+0.1,ÁNGELES (LOS),,22760,"LOS ANGELES, 13",CÁDIZ,956640168,"Los Angeles, 13",88979,5º Premio,"6,000","Los Angeles, 13, Ángeles (Los), Cádiz",36.421278,-5.435833,6000
+0.1,CÁDIZ,,21060,"AVENIDA DEL PERU, No 12",CÁDIZ,956258758,"Avenida Del Peru, No 12",88979,5º Premio,"6,000","Avenida Del Peru, No 12, Cádiz, Cádiz",36.5181577,-6.2768733,6000
+0.1,CHICLANA DE LA FRONTERA,,21600,"C.C. EROSKI CTRA. NACIONAL 340- KM 3,6 L-12",CÁDIZ,956532684,"C.C. Eroski Ctra. Nacional 340- Km 3,6 L-12",88979,5º Premio,"6,000","C.C. Eroski Ctra. Nacional 340- Km 3,6 L-12, Chiclana De La Frontera, Cádiz",36.3823586,-6.1156289,6000
+0.1,CHICLANA DE LA FRONTERA,,21610,"CUESTA DEL MATADERO, 88",CÁDIZ,956403359,"Cuesta Del Matadero, 88",88979,5º Premio,"6,000","Cuesta Del Matadero, 88, Chiclana De La Frontera, Cádiz",36.4135356,-6.1436065,6000
+0.1,EL PUERTO DE SANTAMARIA,,21900,"VALDÉS, 43",CÁDIZ,956852656,"Valdés, 43",88979,5º Premio,"6,000","Valdés, 43, El Puerto De Santamaria, Cádiz",36.5981484,-6.2368405,6000
+0.1,JEREZ DE LA FRONTERA,,42175,"AVDA. SAN JUAN BOSCO, 27 L- A",CÁDIZ,956355768,"Avda. San Juan Bosco, 27 L- A",88979,5º Premio,"6,000","Avda. San Juan Bosco, 27 L- A, Jerez De La Frontera, Cádiz",36.6938346,-6.144387,6000
+0.1,JEREZ DE LA FRONTERA,16,42200,"ENRIQUE DOMINGUEZ RODIÑO, EDIF HUELVA II LOC 12",CÁDIZ,956320438,"Enrique Dominguez Rodiño, Edif Huelva Ii Loc 12",88979,5º Premio,"6,000","Enrique Dominguez Rodiño, Edif Huelva Ii Loc 12, Jerez De La Frontera, Cádiz",36.6921746,-6.1290005,6000
+0.1,LA LINEA DE LA CONCEPCION,,22565,PADRE PANDELO S/N (ESQUINA RIO ROSAS),CÁDIZ,956762020,Padre Pandelo S/N (Esquina Rio Rosas),88979,5º Premio,"6,000","Padre Pandelo S/N (Esquina Rio Rosas), La Linea De La Concepcion, Cádiz",36.1700723,-5.3460052,6000
+0.1,LOS BARRIOS,3,22730,C.C. CARREFOUR -CRTA. CADIZ MALAGA 112,CÁDIZ,956678049,C.C. Carrefour -Crta. Cadiz Malaga 112,88979,5º Premio,"6,000","C.C. Carrefour -Crta. Cadiz Malaga 112, Los Barrios, Cádiz",36.1803298,-5.4416827,6000
+0.1,PUERTO REAL,,21815,"CONCEPCION, 61",CÁDIZ,856134653,"Concepcion, 61",88979,5º Premio,"6,000","Concepcion, 61, Puerto Real, Cádiz",36.5293171,-6.1856256,6000
+0.1,BOO,,69980,"URB. RIA DEL PAS, S/N",CANTABRIA,942746906,"Urb. Ria Del Pas, S/N",88979,5º Premio,"6,000","Urb. Ria Del Pas, S/N, Boo, Cantabria",43.423662,-3.9491577,6000
+0.1,LOS CORRALES DE BUELNA,,69600,"AVDA. CANTABRIA, 23",CANTABRIA,942841778,"Avda. Cantabria, 23",88979,5º Premio,"6,000","Avda. Cantabria, 23, Los Corrales De Buelna, Cantabria",43.2607047,-4.0691508,6000
+0.1,BENICASIM,,24145,"SANTO TOMÁS, 119",CASTELLÓN,964303929,"Santo Tomás, 119",88979,5º Premio,"6,000","Santo Tomás, 119, Benicasim, Castellón",40.05642,0.06585,6000
+0.1,BURRIANA,,24040,"GENERALITAT VALENCIANA, 8",CASTELLÓN,964511328,"Generalitat Valenciana, 8",88979,5º Premio,"6,000","Generalitat Valenciana, 8, Burriana, Castellón",39.8894,-0.08531,6000
+0.1,CASTELLON DE LA PLANA,,23105,"AVDA. ALCORA,98",CASTELLÓN,964240243,"Avda. Alcora,98",88979,5º Premio,"6,000","Avda. Alcora,98, Castellon De La Plana, Castellón",39.9869488,-0.0583608,6000
+0.1,MONCOFA,1,24315,"CAMI LA VALL, 5",CASTELLÓN,964580188,"Cami La Vall, 5",88979,5º Premio,"6,000","Cami La Vall, 5, Moncofa, Castellón",39.8076652,-0.1465269,6000
+0.1,MORELLA,1,24350,"JUAN GINER, 16",CASTELLÓN,964160021,"Juan Giner, 16",88979,5º Premio,"6,000","Juan Giner, 16, Morella, Castellón",40.6208484,-0.0992208,6000
+0.1,SAN MATEO,,24025,"PLAZA MAYOR, 11",CASTELLÓN,964416054,"Plaza Mayor, 11",88979,5º Premio,"6,000","Plaza Mayor, 11, San Mateo, Castellón",40.4655072,0.1796532,6000
+0.1,CEUTA,,25010,"MARINA ESPAÑOLA, 72",CEUTA,956510641,"Marina Española, 72",88979,5º Premio,"6,000","Marina Española, 72, Ceuta, Ceuta",35.8907173,-5.3042129,6000
+0.1,ALCÁZAR DE SAN JUAN,4,26845,"C.C. CARREFOUR, CRRTA. HERENCIA S/N LOC.10",CIUDAD REAL,926682712,"C.C. Carrefour, Crrta. Herencia S/N Loc.10",88979,5º Premio,"6,000","C.C. Carrefour, Crrta. Herencia S/N Loc.10, Alcázar De San Juan, Ciudad Real",39.3858342,-3.2364784,6000
+0.1,PORZUNA,,26420,"CARRETERA TOLEDO, 36",CIUDAD REAL,926780137,"Carretera Toledo, 36",88979,5º Premio,"6,000","Carretera Toledo, 36, Porzuna, Ciudad Real",39.1500585,-4.1565545,6000
+0.1,RUTE,2,27820,"JUAN CARLOS I, 17",CÓRDOBA,957532474,"Juan Carlos I, 17",88979,5º Premio,"6,000","Juan Carlos I, 17, Rute, Córdoba",37.3660404,-4.3770704,6000
+0.1,CASTRELOS,,30725,"LUGAR DE CASTRELOS, 51 (LEIRA)",CORUÑA (A),981680917,"Lugar De Castrelos, 51 (Leira)",88979,5º Premio,"6,000","Lugar De Castrelos, 51 (Leira), Castrelos, Coruña (A)",42.210304,-8.7246069,6000
+0.1,CORUÑA (A),,29940,"AVDA. DE OZA, 84",CORUÑA (A),981291532,"Avda. De Oza, 84",88979,5º Premio,"6,000","Avda. De Oza, 84, Coruña (A), Coruña (A)",43.3545371,-8.3981781,6000
+0.1,CORUÑA (A),5,29975,"CONCEPCION ARENAL, 17",CORUÑA (A),981291317,"Concepcion Arenal, 17",88979,5º Premio,"6,000","Concepcion Arenal, 17, Coruña (A), Coruña (A)",43.3568026,-8.403924,6000
+0.1,CORUÑA (A),,29750,"RONDA DE NELLE, 113",CORUÑA (A),981273333,"Ronda De Nelle, 113",88979,5º Premio,"6,000","Ronda De Nelle, 113, Coruña (A), Coruña (A)",43.3627743,-8.417204,6000
+0.1,CORUÑA (A),,29910,"CAPITÁN JUAN VARELA, 6",CORUÑA (A),981237507,"Capitán Juan Varela, 6",88979,5º Premio,"6,000","Capitán Juan Varela, 6, Coruña (A), Coruña (A)",43.3559735,-8.4072006,6000
+0.1,FERROL,,30435,"TIERRA, 102",CORUÑA (A),981350149,"Tierra, 102",88979,5º Premio,"6,000","Tierra, 102, Ferrol, Coruña (A)",43.489646,-8.2193451,6000
+0.1,MIÑO,,29135,"RUA CARREIRA, 16",CORUÑA (A),981782024,"Rua Carreira, 16",88979,5º Premio,"6,000","Rua Carreira, 16, Miño, Coruña (A)",43.3463461,-8.2066244,6000
+0.1,PONTECESO,1,29555,"AVDA. EDUARDO PONDAL, 47",CORUÑA (A),981714046,"Avda. Eduardo Pondal, 47",88979,5º Premio,"6,000","Avda. Eduardo Pondal, 47, Ponteceso, Coruña (A)",43.2426848,-8.8962328,6000
+0.1,VIAÑO PEQUENO,,29010,"CAMPO, 3",CORUÑA (A),981689045,"Campo, 3",88979,5º Premio,"6,000","Campo, 3, Viaño Pequeno, Coruña (A)",43.0255486,-8.5179965,6000
+0.1,CUENCA,,31680,"HERMANOS BECERRIL, 11",CUENCA,969213543,"Hermanos Becerril, 11",88979,5º Premio,"6,000","Hermanos Becerril, 11, Cuenca, Cuenca",40.0640516,-2.1327874,6000
+0.1,CUENCA,9,31645,"HERMANOS BECERRIL, 5",CUENCA,969214136,"Hermanos Becerril, 5",88979,5º Premio,"6,000","Hermanos Becerril, 5, Cuenca, Cuenca",40.0657723,-2.1339701,6000
+0.1,VILLANUEVA DE LA JARA,,31400,"SANTA ANA, 1",CUENCA,967498023,"Santa Ana, 1",88979,5º Premio,"6,000","Santa Ana, 1, Villanueva De La Jara, Cuenca",39.4392177,-1.953824,6000
+0.1,SAN SEBASTIAN,8,65070,"NARRICA, 21",GIPUZKOA,943424906,"Narrica, 21",88979,5º Premio,"6,000","Narrica, 21, San Sebastian, Gipuzkoa",43.318334,-1.9812313,6000
+0.1,FIGUERES,,33005,"NOU, 186",GIRONA,972511572,"Nou, 186",88979,5º Premio,"6,000","Nou, 186, Figueres, Girona",42.2586122,2.9672224,6000
+0.1,ATARFE,2,36515,"AVDA. ANDALUCIA, 31",GRANADA,958434674,"Avda. Andalucia, 31",88979,5º Premio,"6,000","Avda. Andalucia, 31, Atarfe, Granada",37.2230469,-3.6880598,6000
+0.1,VENTAS DE ZAFARRAYA,,36255,"GENERAL FAJARDO, 10",GRANADA,958362327,"General Fajardo, 10",88979,5º Premio,"6,000","General Fajardo, 10, Ventas De Zafarraya, Granada",36.9573743,-4.1200354,6000
+0.1,AYAMONTE,,39005,"RAMON Y CAJAL , 19",HUELVA,959320849,"Ramon Y Cajal , 19",88979,5º Premio,"6,000","Ramon Y Cajal , 19, Ayamonte, Huelva",37.2115266,-7.4032023,6000
+0.1,BONARES,,39075,HUERTO7,HUELVA,959366199,Huerto7,88979,5º Premio,"6,000","Huerto7, Bonares, Huelva",37.3203304,-6.68412,6000
+0.1,EL CAMPILLO,,39370,"SEVILLA,72",HUELVA,959588287,"Sevilla,72",88979,5º Premio,"6,000","Sevilla,72, El Campillo, Huelva",37.6937128,-6.628621,6000
+0.1,HUELVA,,39795,"CUESTA DE LAS TRES CAIDAS, 8",HUELVA,959280515,"Cuesta De Las Tres Caidas, 8",88979,5º Premio,"6,000","Cuesta De Las Tres Caidas, 8, Huelva, Huelva",37.2582909,-6.9494418,6000
+0.1,HUELVA,2,39905,"BOCAS, 21",HUELVA,959284567,"Bocas, 21",88979,5º Premio,"6,000","Bocas, 21, Huelva, Huelva",37.257221,-6.9544879,6000
+0.1,CALADOR-SANTANY,,60275,"AVDA. DE CALONGE, 15 L-11",ILLES BALEARS,971643047,"Avda. De Calonge, 15 L-11",88979,5º Premio,"6,000","Avda. De Calonge, 15 L-11, Calador-Santany, Illes Balears",39.3746252,3.2267063,6000
+0.1,CALES PIQUES,,60625,"AVDA. CALAN BRUNCH, ZONA COMERCIAL 2 S/N",ILLES BALEARS,971388482,"Avda. Calan Brunch, Zona Comercial 2 S/N",88979,5º Premio,"6,000","Avda. Calan Brunch, Zona Comercial 2 S/N, Cales Piques, Illes Balears",40.0056439,3.8013056,6000
+0.1,IBIZA,,60805,"AVDA. BARTOLOMÉ ROSELLÓ, 16",ILLES BALEARS,971310468,"Avda. Bartolomé Roselló, 16",88979,5º Premio,"6,000","Avda. Bartolomé Roselló, 16, Ibiza, Illes Balears",39.0200099,1.4821482,6000
+0.1,PALMA DE MALLORCA,,61015,"ANTONIO FRONTERA, 1",ILLES BALEARS,971757002,"Antonio Frontera, 1",88979,5º Premio,"6,000","Antonio Frontera, 1, Palma De Mallorca, Illes Balears",39.5800936,2.6539651,6000
+0.1,PALMA DE MALLORCA,,61060,"SINDICATO,25",ILLES BALEARS,971716768,"Sindicato,25",88979,5º Premio,"6,000","Sindicato,25, Palma De Mallorca, Illes Balears",39.571424,2.6537349,6000
+0.1,PALMA DE MALLORCA,33,61405,"BLANQUERNA, 9",ILLES BALEARS,971724752,"Blanquerna, 9",88979,5º Premio,"6,000","Blanquerna, 9, Palma De Mallorca, Illes Balears",39.5786945,2.6505004,6000
+0.1,ALCAUDETE,,41335,"AVDA. DE LA FUENSANTA, 4",JAÉN,953560503,"Avda. De La Fuensanta, 4",88979,5º Premio,"6,000","Avda. De La Fuensanta, 4, Alcaudete, Jaén",37.5923393,-4.0789875,6000
+0.1,ANDÚJAR,,41055,"VEINTIDOS DE JULIO, 17",JAÉN,953504405,"Veintidos De Julio, 17",88979,5º Premio,"6,000","Veintidos De Julio, 17, Andújar, Jaén",38.0372377,-4.0521439,6000
+0.1,BAILÉN,2,41135,"POETA MIGUEL HERNANDEZ, 7",JAÉN,953671371,"Poeta Miguel Hernandez, 7",88979,5º Premio,"6,000","Poeta Miguel Hernandez, 7, Bailén, Jaén",38.0962948,-3.7787477,6000
+0.1,JAÉN,16,41535,"VIRGEN DE LA CAPILLA, 9",JAÉN,953889612,"Virgen De La Capilla, 9",88979,5º Premio,"6,000","Virgen De La Capilla, 9, Jaén, Jaén",37.7685631,-3.7870745,6000
+0.1,JAÉN,8,41595,"ALAMOS,1",JAÉN,953237194,"Alamos,1",88979,5º Premio,"6,000","Alamos,1, Jaén, Jaén",37.7660997,-3.7902353,6000
+0.1,ÚBEDA,3,41775,"ZURBARÁN, 3 ESQ. RAMÓN Y CAJAL",JAÉN,953756603,"Zurbarán, 3 Esq. Ramón Y Cajal",88979,5º Premio,"6,000","Zurbarán, 3 Esq. Ramón Y Cajal, Úbeda, Jaén",38.0144504,-3.3747165,6000
+0.1,LOGROÑO,,48440,"PEPE BLANCO, 1",LA RIOJA,941225492,"Pepe Blanco, 1",88979,5º Premio,"6,000","Pepe Blanco, 1, Logroño, La Rioja",42.4612107,-2.4587515,6000
+0.1,AGUIMES,,44020,"AVDA. POLIZON, 92",LAS PALMAS,928182270,"Avda. Polizon, 92",88979,5º Premio,"6,000","Avda. Polizon, 92, Aguimes, Las Palmas",27.8582134,-15.3967611,6000
+0.1,CRUCE DE ARINAGA,,44025,"C.C. LA ZAFRA, ANSITE, 115 L-2",LAS PALMAS,928183284,"C.C. La Zafra, Ansite, 115 L-2",88979,5º Premio,"6,000","C.C. La Zafra, Ansite, 115 L-2, Cruce De Arinaga, Las Palmas",27.8768797,-15.4262135,6000
+0.1,GRAN TARAJAL,1,44935,"TINDAYA, 7",LAS PALMAS,928870837,"Tindaya, 7",88979,5º Premio,"6,000","Tindaya, 7, Gran Tarajal, Las Palmas",28.2131477,-14.0196691,6000
+0.1,LA OLIVA,,44920,"GENERAL FRANCO, S/N LOC. LA PALMERA",LAS PALMAS,928867472,"General Franco, S/N Loc. La Palmera",88979,5º Premio,"6,000","General Franco, S/N Loc. La Palmera, La Oliva, Las Palmas",28.6125678,-13.9266647,6000
+0.1,LA PAREDILLA,,44580,"AV. CANARIAS, 468 - ESQ.TESEGUITE Y BENTAGUAYRE",LAS PALMAS,928122020,"Av. Canarias, 468 - Esq.Teseguite Y Bentaguayre",88979,5º Premio,"6,000","Av. Canarias, 468 - Esq.Teseguite Y Bentaguayre, La Paredilla, Las Palmas",27.8793321,-15.4239118,6000
+0.1,LAS PALMAS GC,,44155,"LUIS DORESTE SILVA, 117",LAS PALMAS,676848909,"Luis Doreste Silva, 117",88979,5º Premio,"6,000","Luis Doreste Silva, 117, Las Palmas Gc, Las Palmas",28.1209672,-15.4258917,6000
+0.1,LAS PALMAS GC,,43385,"LUIS MOROTE, 4 L-3",LAS PALMAS,928228945,"Luis Morote, 4 L-3",88979,5º Premio,"6,000","Luis Morote, 4 L-3, Las Palmas Gc, Las Palmas",28.1415803,-15.4302181,6000
+0.1,LAS PALMAS GC,,43210,"C.C. LA MINILLA. PINTOR JUAN GUILLERMO, S/N",LAS PALMAS,928284061,"C.C. La Minilla. Pintor Juan Guillermo, S/N",88979,5º Premio,"6,000","C.C. La Minilla. Pintor Juan Guillermo, S/N, Las Palmas Gc, Las Palmas",28.125963,-15.438026,6000
+0.1,LAS PALMAS GC,,43010,"FERNANDO GUANARTEME, 61",LAS PALMAS,928273300,"Fernando Guanarteme, 61",88979,5º Premio,"6,000","Fernando Guanarteme, 61, Las Palmas Gc, Las Palmas",28.1363659,-15.436041,6000
+0.1,PÁJARA,,44980,"AVDA. SALADAR, 15 LOCAL 18 -JANDIA",LAS PALMAS,928540961,"Avda. Saladar, 15 Local 18 -Jandia",88979,5º Premio,"6,000","Avda. Saladar, 15 Local 18 -Jandia, Pájara, Las Palmas",28.0488679,-14.3350361,6000
+0.1,PUERTO DEL CARMEN,,44830,"C.C. COSTA DE LA LUZ-AVDA. LAS PLAYAS, S/N L.7",LAS PALMAS,928513255,"C.C. Costa De La Luz-Avda. Las Playas, S/N L.7",88979,5º Premio,"6,000","C.C. Costa De La Luz-Avda. Las Playas, S/N L.7, Puerto Del Carmen, Las Palmas",28.9228023,-13.6681095,6000
+0.1,SAN BARTOLOMÉ,,43230,"CRTA. GRAL.SAN BARTOLOMÉ A TINAJO, 18",LAS PALMAS,674338669,"Crta. Gral.San Bartolomé A Tinajo, 18",88979,5º Premio,"6,000","Crta. Gral.San Bartolomé A Tinajo, 18, San Bartolomé, Las Palmas",29.0654976,-13.6760123,6000
+0.1,SAN BARTOLOMÉ,1,44855,"C.C. DEILAND-CHIMIDA,20-L 0-49",LAS PALMAS,928820849,"C.C. Deiland-Chimida,20-L 0-49",88979,5º Premio,"6,000","C.C. Deiland-Chimida,20-L 0-49, San Bartolomé, Las Palmas",28.9568546,-13.586778,6000
+0.1,TEGUISE,,44875,"AVDA. ISLAS CANARIAS, 1  L-17-18",LAS PALMAS,928591256,"Avda. Islas Canarias, 1  L-17-18",88979,5º Premio,"6,000","Avda. Islas Canarias, 1  L-17-18, Teguise, Las Palmas",28.999342,-13.4910764,6000
+0.1,TELDE,6,44750,"ALONSO QUESADA, 11",LAS PALMAS,928693385,"Alonso Quesada, 11",88979,5º Premio,"6,000","Alonso Quesada, 11, Telde, Las Palmas",27.9984131,-15.4164372,6000
+0.1,VECINDARIO,,44500,"C.C. MERCACENTRO, LA CERRUDA, 9",LAS PALMAS,928795955,"C.C. Mercacentro, La Cerruda, 9",88979,5º Premio,"6,000","C.C. Mercacentro, La Cerruda, 9, Vecindario, Las Palmas",27.8443814,-15.4438769,6000
+0.1,LEÓN,,45710,"AVDA. DE NOCEDO, 80",LEÓN,987260809,"Avda. De Nocedo, 80",88979,5º Premio,"6,000","Avda. De Nocedo, 80, León, León",42.60902,-5.56778,6000
+0.1,AITONA,,46145,"AVINGUDA 27 DE GENER, No 108",LLEIDA,973794184,"Avinguda 27 De Gener, No 108",88979,5º Premio,"6,000","Avinguda 27 De Gener, No 108, Aitona, Lleida",41.49686,0.4619,6000
+0.1,LA SEU D'URGELL,,46465,"DR. IGLESIAS NAVARRI, 42",LLEIDA,973350560,"Dr. Iglesias Navarri, 42",88979,5º Premio,"6,000","Dr. Iglesias Navarri, 42, La Seu D'Urgell, Lleida",42.3535048,1.4570065,6000
+0.1,LLEIDA,,47100,"BALMES, 26",LLEIDA,973235578,"Balmes, 26",88979,5º Premio,"6,000","Balmes, 26, Lleida, Lleida",41.6181632,0.6200491,6000
+0.1,LLEIDA,4,47230,"LLUIS COMPANYS, 26",LLEIDA,973282581,"Lluis Companys, 26",88979,5º Premio,"6,000","Lluis Companys, 26, Lleida, Lleida",41.6119751,0.6156424,6000
+0.1,LLEIDA,,47190,"BRUC, 26",LLEIDA,973201544,"Bruc, 26",88979,5º Premio,"6,000","Bruc, 26, Lleida, Lleida",41.6118118,0.629753,6000
+0.1,LLEIDA,,46760,"CRISTOFOL DE BOLEDA, 15",LLEIDA,973274329,"Cristofol De Boleda, 15",88979,5º Premio,"6,000","Cristofol De Boleda, 15, Lleida, Lleida",41.6199449,0.612164,6000
+0.1,SORT,1,46785,"AVDA. GENERALITAT, 13",LLEIDA,973621242,"Avda. Generalitat, 13",88979,5º Premio,"6,000","Avda. Generalitat, 13, Sort, Lleida",42.4134995,1.1323412,6000
+0.1,SORT,,46515,"AVD.COMPTES DE PALLARS, 17",LLEIDA,973620260,"Avd.Comptes De Pallars, 17",88979,5º Premio,"6,000","Avd.Comptes De Pallars, 17, Sort, Lleida",42.4411961,1.1345948,6000
+0.1,CHANTADA,,49700,"PZA. SANTA ANA, 17",LUGO,982440208,"Pza. Santa Ana, 17",88979,5º Premio,"6,000","Pza. Santa Ana, 17, Chantada, Lugo",42.609829,-7.7711496,6000
+0.1,FOZ,,49145,"AVDA. MARIÑA, 32",LUGO,982132807,"Avda. Mariña, 32",88979,5º Premio,"6,000","Avda. Mariña, 32, Foz, Lugo",43.6595274,-7.3535103,6000
+0.1,RÁBADE,,49410,"AVDA. DE VILLALBA, 82",LUGO,982390102,"Avda. De Villalba, 82",88979,5º Premio,"6,000","Avda. De Villalba, 82, Rábade, Lugo",43.1228323,-7.6208715,6000
+0.1,ALCALÁ DE HENARES,,98230,"JOSE Ma PEREDA, 5",MADRID,918026555,"Jose Ma Pereda, 5",88979,5º Premio,"6,000","Jose Ma Pereda, 5, Alcalá De Henares, Madrid",40.4966056,-3.36368,6000
+0.1,ALCOBENDAS,,98200,"PASEO DE LA CHOPERA, 110",MADRID,916623046,"Paseo De La Chopera, 110",88979,5º Premio,"6,000","Paseo De La Chopera, 110, Alcobendas, Madrid",40.5447863,-3.6468526,6000
+0.1,BUITRAGO DE LOZOYA,,98070,"TAHONA, 36",MADRID,918680401,"Tahona, 36",88979,5º Premio,"6,000","Tahona, 36, Buitrago De Lozoya, Madrid",40.9926506,-3.6363206,6000
+0.1,EL ALAMO,,99475,"ESCUELAS, 5",MADRID,918104309,"Escuelas, 5",88979,5º Premio,"6,000","Escuelas, 5, El Alamo, Madrid",40.2312091,-3.9942211,6000
+0.1,GRIÑÓN,1,99640,"CARLOS RUÍZ JIMÉNEZ, 7",MADRID,918104748,"Carlos Ruíz Jiménez, 7",88979,5º Premio,"6,000","Carlos Ruíz Jiménez, 7, Griñón, Madrid",40.2145742,-3.8569771,6000
+0.1,LEGANÉS,,99680,"PZ.ESPAÑA, 2",MADRID,916930553,"Pz.España, 2",88979,5º Premio,"6,000","Pz.España, 2, Leganés, Madrid",40.3283568,-3.7652808,6000
+0.1,LEGANÉS,,99690,"C/.NTRA.SRA.ANGUSTIAS, 24",MADRID,916934454,"C/.Ntra.Sra.Angustias, 24",88979,5º Premio,"6,000","C/.Ntra.Sra.Angustias, 24, Leganés, Madrid",40.3244815,-3.7736892,6000
+0.1,LEGANÉS,,99695,"JUAN NEGRIN, 8",MADRID,916944131,"Juan Negrin, 8",88979,5º Premio,"6,000","Juan Negrin, 8, Leganés, Madrid",40.3241929,-3.784241,6000
+0.1,LEGANÉS,19,99715,"C.C. PARQUE SUR-AVDA GRAN BRETAÑA, S/N LOC C-17",MADRID,916885321,"C.C. Parque Sur-Avda Gran Bretaña, S/N Loc C-17",88979,5º Premio,"6,000","C.C. Parque Sur-Avda Gran Bretaña, S/N Loc C-17, Leganés, Madrid",40.3401454,-3.7331842,6000
+0.1,MADRID,234,95565,"JUAN J. MARTINEZ SECO, 56",MADRID,917951578,"Juan J. Martinez Seco, 56",88979,5º Premio,"6,000","Juan J. Martinez Seco, 56, Madrid, Madrid",40.35168,-3.689,6000
+0.1,MADRID,,96025,"ABRIEL LOBO, 7",MADRID,915617958,"Abriel Lobo, 7",88979,5º Premio,"6,000","Abriel Lobo, 7, Madrid, Madrid",40.4427283,-3.6811947,6000
+0.1,MADRID,,94040,"PASEO REINA CRISTINA, 15",MADRID,915013429,"Paseo Reina Cristina, 15",88979,5º Premio,"6,000","Paseo Reina Cristina, 15, Madrid, Madrid",40.4072515,-3.6817594,6000
+0.1,MADRID,,94285,"SIERRA MORENA, 25 - LOCALES 15-16",MADRID,917782983,"Sierra Morena, 25 - Locales 15-16",88979,5º Premio,"6,000","Sierra Morena, 25 - Locales 15-16, Madrid, Madrid",40.3785123,-3.62417,6000
+0.1,MADRID,358,96470,"GAZTAMBIDE, 68",MADRID,914414979,"Gaztambide, 68",88979,5º Premio,"6,000","Gaztambide, 68, Madrid, Madrid",40.4395335,-3.715043,6000
+0.1,MADRID,523,94365,"INTER.TRANSP.MONCLOA PRINCESA, 89, L-32",MADRID,915443323,"Inter.Transp.Moncloa Princesa, 89, L-32",88979,5º Premio,"6,000","Inter.Transp.Moncloa Princesa, 89, L-32, Madrid, Madrid",40.4340478,-3.7189602,6000
+0.1,MADRID,512,95810,"C.C. ISLAZUL C/ CALDERILLA, 1 KIOSCO",MADRID,915118560,"C.C. Islazul C/ Calderilla, 1 Kiosco",88979,5º Premio,"6,000","C.C. Islazul C/ Calderilla, 1 Kiosco, Madrid, Madrid",40.3637111,-3.737494,6000
+0.1,MADRID,125,95375,"NARVAEZ, 13 L-DCH",MADRID,914357087,"Narvaez, 13 L-Dch",88979,5º Premio,"6,000","Narvaez, 13 L-Dch, Madrid, Madrid",40.4167754,-3.7037902,6000
+0.1,MADRID,,96010,"MARIO CABRÉ, 31",MADRID,917511767,"Mario Cabré, 31",88979,5º Premio,"6,000","Mario Cabré, 31, Madrid, Madrid",40.4061368,-3.6331015,6000
+0.1,MADRID,213,95415,"DE LA PUEBLANUEVA, 36",MADRID,910577339,"De La Pueblanueva, 36",88979,5º Premio,"6,000","De La Pueblanueva, 36, Madrid, Madrid",40.3712844,-3.6105011,6000
+0.1,MÓSTOLES,10,99365,CAMINO DE HUMANES 19,MADRID,916181112,Camino De Humanes 19,88979,5º Premio,"6,000","Camino De Humanes 19, Móstoles, Madrid",40.3192105,-3.8624418,6000
+0.1,PARLA,1,99615,"PINTO, 37",MADRID,916991783,"Pinto, 37",88979,5º Premio,"6,000","Pinto, 37, Parla, Madrid",40.2393204,-3.7675092,6000
+0.1,PERALES DEL RIO,,98710,"C.C. EL CARMEN L-1.06 GROENLANDIA, 4",MADRID,916847658,"C.C. El Carmen L-1.06 Groenlandia, 4",88979,5º Premio,"6,000","C.C. El Carmen L-1.06 Groenlandia, 4, Perales Del Rio, Madrid",40.3235112,-3.6617298,6000
+0.1,POZUELO DE ALARCÓN,,97985,"AVDA. DE EUROPA, 7 L-6",MADRID,917154155,"Avda. De Europa, 7 L-6",88979,5º Premio,"6,000","Avda. De Europa, 7 L-6, Pozuelo De Alarcón, Madrid",40.4370079,-3.7966614,6000
+0.1,SAN LORENZO DEL ESCORIAL,1,99240,"DEL REY, 22",MADRID,918904331,"Del Rey, 22",88979,5º Premio,"6,000","Del Rey, 22, San Lorenzo Del Escorial, Madrid",40.5932386,-4.1475748,6000
+0.1,FUENGIROLA,1,50020,"AVDA. CONDE SAN ISIDRO, 33 A BAJO 2",MÁLAGA,952476290,"Avda. Conde San Isidro, 33 A Bajo 2",88979,5º Premio,"6,000","Avda. Conde San Isidro, 33 A Bajo 2, Fuengirola, Málaga",36.5383251,-4.6250408,6000
+0.1,MÁLAGA,52,51595,"ALCALDE JOAQUIN QUILES, 5",MÁLAGA,952257242,"Alcalde Joaquin Quiles, 5",88979,5º Premio,"6,000","Alcalde Joaquin Quiles, 5, Málaga, Málaga",36.7497386,-4.4211428,6000
+0.1,MÁLAGA,36,51710,"CAMINO DE SUAREZ, 21",MÁLAGA,952396087,"Camino De Suarez, 21",88979,5º Premio,"6,000","Camino De Suarez, 21, Málaga, Málaga",36.7269938,-4.4357862,6000
+0.1,MÁLAGA,51,51580,"CATAPILCO, 3",MÁLAGA,952244260,"Catapilco, 3",88979,5º Premio,"6,000","Catapilco, 3, Málaga, Málaga",36.6904311,-4.45331,6000
+0.1,MÁLAGA,32,51885,"LA VICTORIA, 58",MÁLAGA,952263446,"La Victoria, 58",88979,5º Premio,"6,000","La Victoria, 58, Málaga, Málaga",36.726336,-4.4130161,6000
+0.1,MÁLAGA,27,51860,"MAURICIO MORO PARETO, S/N KIOSCO (FRENTE AL No 2 )",MÁLAGA,952192113,"Mauricio Moro Pareto, S/N Kiosco (Frente Al No 2 )",88979,5º Premio,"6,000","Mauricio Moro Pareto, S/N Kiosco (Frente Al No 2 ), Málaga, Málaga",36.7144771,-4.4350544,6000
+0.1,MÁLAGA,59,51290,"MARMOLES, 41",MÁLAGA,952307886,"Marmoles, 41",88979,5º Premio,"6,000","Marmoles, 41, Málaga, Málaga",36.7214403,-4.4304345,6000
+0.1,RONDA,,50245,"AVDA. DE MALAGA, 52 LOC 1",MÁLAGA,952872671,"Avda. De Malaga, 52 Loc 1",88979,5º Premio,"6,000","Avda. De Malaga, 52 Loc 1, Ronda, Málaga",36.746209,-5.1612251,6000
+0.1,SAN LUIS DE SABINILLAS,,50240,"BOLIVIA, 1-A",MÁLAGA,952890974,"Bolivia, 1-A",88979,5º Premio,"6,000","Bolivia, 1-A, San Luis De Sabinillas, Málaga",36.3663064,-5.2273201,6000
+0.1,SAN PEDRO ALCANTARA,,50210,"CORDOBA, 19",MÁLAGA,952780039,"Cordoba, 19",88979,5º Premio,"6,000","Cordoba, 19, San Pedro Alcantara, Málaga",36.486704,-4.9920468,6000
+0.1,TORREMOLINOS,72,51980,"PZA.DEL LIDO, CONJ.LOS JAZMINES",MÁLAGA,952386675,"Pza.Del Lido, Conj.Los Jazmines",88979,5º Premio,"6,000","Pza.Del Lido, Conj.Los Jazmines, Torremolinos, Málaga",36.6265566,-4.5160396,6000
+0.1,MELILLA,7,52065,"LA LEGION, 35",MELILLA,952670982,"La Legion, 35",88979,5º Premio,"6,000","La Legion, 35, Melilla, Melilla",35.2922775,-2.9380973,6000
+0.1,ALCANTARILLA,3,53635,"AVDA. REYES CATOLICOS, 27",MURCIA,968827202,"Avda. Reyes Catolicos, 27",88979,5º Premio,"6,000","Avda. Reyes Catolicos, 27, Alcantarilla, Murcia",37.9695869,-1.2190419,6000
+0.1,CEHEGÍN,,53725,"CARMEN CONDE, 3",MURCIA,968740196,"Carmen Conde, 3",88979,5º Premio,"6,000","Carmen Conde, 3, Cehegín, Murcia",38.0926898,-1.7962669,6000
+0.1,LA ALGAIDA,,53805,"PRINCIPAL, 34",MURCIA,968672425,"Principal, 34",88979,5º Premio,"6,000","Principal, 34, La Algaida, Murcia",38.1075072,-1.2869031,6000
+0.1,LA PALMA,,54790,"ANTONIO SERRANO, 1",MURCIA,968165116,"Antonio Serrano, 1",88979,5º Premio,"6,000","Antonio Serrano, 1, La Palma, Murcia",37.6895605,-0.9616273,6000
+0.1,MOLINA DE SEGURA,3,53840,"SEVERO OCHOA, 11",MURCIA,968643558,"Severo Ochoa, 11",88979,5º Premio,"6,000","Severo Ochoa, 11, Molina De Segura, Murcia",38.0575523,-1.2129316,6000
+0.1,MULA,,53905,"TRASHOSPITAL, 2",MURCIA,968661054,"Trashospital, 2",88979,5º Premio,"6,000","Trashospital, 2, Mula, Murcia",38.0405211,-1.4912376,6000
+0.1,MURCIA,17,53250,"TRAPERIA, 1",MURCIA,968216843,"Traperia, 1",88979,5º Premio,"6,000","Traperia, 1, Murcia, Murcia",37.9847083,-1.1289634,6000
+0.1,SANTO ANGEL,,54305,"AVDA. JUAN CARLOS I, 38",MURCIA,968843098,"Avda. Juan Carlos I, 38",88979,5º Premio,"6,000","Avda. Juan Carlos I, 38, Santo Angel, Murcia",37.9436074,-1.1290527,6000
+0.1,SANTOMERA,1,54160,"AMOR HERMOSO, 9",MURCIA,968865231,"Amor Hermoso, 9",88979,5º Premio,"6,000","Amor Hermoso, 9, Santomera, Murcia",38.0611385,-1.0483772,6000
+0.1,PAMPLONA,13,63650,"TUDELA, 3",NAVARRA,948222562,"Tudela, 3",88979,5º Premio,"6,000","Tudela, 3, Pamplona, Navarra",42.8134399,-1.6444596,6000
+0.1,PAMPLONA,11,63640,"C.C. HIPER EROSKI-IRUÑA, L-3,4,5",NAVARRA,948302328,"C.C. Hiper Eroski-Iruña, L-3,4,5",88979,5º Premio,"6,000","C.C. Hiper Eroski-Iruña, L-3,4,5, Pamplona, Navarra",42.8134873,-1.6435063,6000
+0.1,BARCO DE VALDEORRAS,1,56070,"LAURO OLMO, 2 BAJO",OURENSE,988320965,"Lauro Olmo, 2 Bajo",88979,5º Premio,"6,000","Lauro Olmo, 2 Bajo, Barco De Valdeorras, Ourense",42.4158841,-6.9837305,6000
+0.1,CORTEGADA DE BAÑOS,,55590,"BOUZA BREI, 69",OURENSE,988483008,"Bouza Brei, 69",88979,5º Premio,"6,000","Bouza Brei, 69, Cortegada De Baños, Ourense",42.2073223,-8.17012,6000
+0.1,OURENSE,2,56005,"RÚA DO PASEO, 10",OURENSE,988235123,"Rúa Do Paseo, 10",88979,5º Premio,"6,000","Rúa Do Paseo, 10, Ourense, Ourense",42.3387914,-7.864645,6000
+0.1,OURENSE,,55005,"GRECO, 2",OURENSE,988253757,"Greco, 2",88979,5º Premio,"6,000","Greco, 2, Ourense, Ourense",42.3357893,-7.863881,6000
+0.1,OURENSE,4,56015,"ERVEDELO, 20",OURENSE,988225440,"Ervedelo, 20",88979,5º Premio,"6,000","Ervedelo, 20, Ourense, Ourense",42.3396441,-7.8690762,6000
+0.1,XINZO DE LIMIA,1,56085,"AVDA. DE MADRID, 4",OURENSE,988462394,"Avda. De Madrid, 4",88979,5º Premio,"6,000","Avda. De Madrid, 4, Xinzo De Limia, Ourense",42.0627464,-7.7253028,6000
+0.1,SALDAÑA,,59285,"PZA. DE ESPAÑA, 3",PALENCIA,979890031,"Pza. De España, 3",88979,5º Premio,"6,000","Pza. De España, 3, Saldaña, Palencia",42.5180071,-4.7419825,6000
+0.1,ILLA DE AROUSA (A),1,86875,"RUA TRAVESIA CRUCEIRO,2",PONTEVEDRA,986527647,"Rua Travesia Cruceiro,2",88979,5º Premio,"6,000","Rua Travesia Cruceiro,2, Illa De Arousa (A), Pontevedra",42.5621564,-8.8704166,6000
+0.1,MEIS,,86720,"VILANOVIÑA, 10 - PARADELA",PONTEVEDRA,986715154,"Vilanoviña, 10 - Paradela",88979,5º Premio,"6,000","Vilanoviña, 10 - Paradela, Meis, Pontevedra",42.5484341,-8.71134,6000
+0.1,NIGRÁN,,86125,"ROSALIA DE CASTRO, 2",PONTEVEDRA,986366121,"Rosalia De Castro, 2",88979,5º Premio,"6,000","Rosalia De Castro, 2, Nigrán, Pontevedra",42.13882,-8.80606,6000
+0.1,SALVATERRA DE MIÑO,,86005,"FONTE DA VILA, 7",PONTEVEDRA,986658107,"Fonte Da Vila, 7",88979,5º Premio,"6,000","Fonte Da Vila, 7, Salvaterra De Miño, Pontevedra",42.0813329,-8.4979971,6000
+0.1,TOMIÑO,,86160,"RUA GONDOMAR, 30",PONTEVEDRA,986622052,"Rua Gondomar, 30",88979,5º Premio,"6,000","Rua Gondomar, 30, Tomiño, Pontevedra",41.992221,-8.7435135,6000
+0.1,VIGO,,87980,"AVDA. ATLANTIDA, 74",PONTEVEDRA,986240700,"Avda. Atlantida, 74",88979,5º Premio,"6,000","Avda. Atlantida, 74, Vigo, Pontevedra",42.2217313,-8.7591396,6000
+0.1,VIGO,27,88575,"AVDA. CAMELIAS, 110",PONTEVEDRA,986239091,"Avda. Camelias, 110",88979,5º Premio,"6,000","Avda. Camelias, 110, Vigo, Pontevedra",42.2255115,-8.7296894,6000
+0.1,ALCALÁ DE GUADAIRA,,71080,"SANTA LUCIA, 40",SEVILLA,955684243,"Santa Lucia, 40",88979,5º Premio,"6,000","Santa Lucia, 40, Alcalá De Guadaira, Sevilla",37.3321371,-5.8344743,6000
+0.1,GINES,,71665,"JUAN DE DIOS SOTO, 25",SEVILLA,654715687,"Juan De Dios Soto, 25",88979,5º Premio,"6,000","Juan De Dios Soto, 25, Gines, Sevilla",37.3863446,-6.0749893,6000
+0.1,LA PUEBLA DE CAZALLA,2,71490,"LUCHADOR, 5  LOC.",SEVILLA,954847280,"Luchador, 5  Loc.",88979,5º Premio,"6,000","Luchador, 5  Loc., La Puebla De Cazalla, Sevilla",37.2217344,-5.3159657,6000
+0.1,LEBRIJA,,71880,"CURRO MALENA, 3-BAJO- A",SEVILLA,955971556,"Curro Malena, 3-Bajo- A",88979,5º Premio,"6,000","Curro Malena, 3-Bajo- A, Lebrija, Sevilla",36.9191158,-6.0640516,6000
+0.1,SEVILLA,,73120,"BUSTOS TAVERA, 43",SEVILLA,954212813,"Bustos Tavera, 43",88979,5º Premio,"6,000","Bustos Tavera, 43, Sevilla, Sevilla",37.3960498,-5.9879338,6000
+0.1,SORIA,,74045,"C.C. E,LECRERC-KIOSCO- C/J PARCELA 290",SORIA,975224181,"C.C. E,Lecrerc-Kiosco- C/J Parcela 290",88979,5º Premio,"6,000","C.C. E,Lecrerc-Kiosco- C/J Parcela 290, Soria, Soria",41.7720614,-2.4854662,6000
+0.1,CANDELARIA,,67615,"AVDA. MARÍTIMA, 1-EDF.BATAYOLA, L- 1",STA.CRUZ.TFE,922500002,"Avda. Marítima, 1-Edf.Batayola, L- 1",88979,5º Premio,"6,000","Avda. Marítima, 1-Edf.Batayola, L- 1, Candelaria, Sta.Cruz.Tfe",28.3584899,-16.3688609,6000
+0.1,CHO II,,68470,"CAÑADA BLANCA,10, BLOQUE Ñ ,P 2B",STA.CRUZ.TFE,922739018,"Cañada Blanca,10, Bloque Ñ ,P 2B",88979,5º Premio,"6,000","Cañada Blanca,10, Bloque Ñ ,P 2B, Cho Ii, Sta.Cruz.Tfe",28.0492566,-16.6600215,6000
+0.1,GALLETAS (LAS),,68440,"CTRA. GRAL. LAS GALLETAS, 2 (CEPSA C. SILENCIO)",STA.CRUZ.TFE,922731106,"Ctra. Gral. Las Galletas, 2 (Cepsa C. Silencio)",88979,5º Premio,"6,000","Ctra. Gral. Las Galletas, 2 (Cepsa C. Silencio), Galletas (Las), Sta.Cruz.Tfe",28.4636296,-16.2518467,6000
+0.1,GRANADILLA DE ABONA,,68070,AEROPUERTO TENERIFE SUR(LOC.)LLEGADAS TIERRA P10,STA.CRUZ.TFE,607701008,Aeropuerto Tenerife Sur(Loc.)Llegadas Tierra P10,88979,5º Premio,"6,000","Aeropuerto Tenerife Sur(Loc.)Llegadas Tierra P10, Granadilla De Abona, Sta.Cruz.Tfe",28.0467575,-16.5725303,6000
+0.1,ICOD DE LOS VINOS,,67320,"PASEO DE LA CENTINELA, 9",STA.CRUZ.TFE,922816162,"Paseo De La Centinela, 9",88979,5º Premio,"6,000","Paseo De La Centinela, 9, Icod De Los Vinos, Sta.Cruz.Tfe",28.3735613,-16.7103225,6000
+0.1,ICOD DE LOS VINOS,,67400,"PRINCIPES DE ESPAÑA, 77",STA.CRUZ.TFE,922811940,"Principes De España, 77",88979,5º Premio,"6,000","Principes De España, 77, Icod De Los Vinos, Sta.Cruz.Tfe",28.3749976,-16.7054562,6000
+0.1,LA OROTAVA,,67160,CARRETERA GRAL. 74 LA PERDOMA,STA.CRUZ.TFE,922331306,Carretera Gral. 74 La Perdoma,88979,5º Premio,"6,000","Carretera Gral. 74 La Perdoma, La Orotava, Sta.Cruz.Tfe",28.3772901,-16.5503049,6000
+0.1,LOS REALEJOS,1,67540,"SAN AGUSTIN, 65 - EDIFICIO YAIZA",STA.CRUZ.TFE,922342960,"San Agustin, 65 - Edificio Yaiza",88979,5º Premio,"6,000","San Agustin, 65 - Edificio Yaiza, Los Realejos, Sta.Cruz.Tfe",28.3854734,-16.5841956,6000
+0.1,OROTIANDA BAJA,,67670,"AVDA EUGENIO DOMINGUEZ SIERRA, 48",STA.CRUZ.TFE,922767359,"Avda Eugenio Dominguez Sierra, 48",88979,5º Premio,"6,000","Avda Eugenio Dominguez Sierra, 48, Orotianda Baja, Sta.Cruz.Tfe",28.045603,-16.6333998,6000
+0.1,PORIS DE ABONA,,68550,"LG TF-1 MARGEN IZQUIERDO, S/N",STA.CRUZ.TFE,606432637,"Lg Tf-1 Margen Izquierdo, S/N",88979,5º Premio,"6,000","Lg Tf-1 Margen Izquierdo, S/N, Poris De Abona, Sta.Cruz.Tfe",28.2108608,-16.4244023,6000
+0.1,SAN CRISTÓBAL DE LA LAGUNA,,67840,"AVDA. DE LOS MAJUELOS, 108",STA.CRUZ.TFE,922958689,"Avda. De Los Majuelos, 108",88979,5º Premio,"6,000","Avda. De Los Majuelos, 108, San Cristóbal De La Laguna, Sta.Cruz.Tfe",28.4474987,-16.3072569,6000
+0.1,SAN CRISTÓBAL DE LA LAGUNA,,67625,"AVDA. LIBERTAD, 20",STA.CRUZ.TFE,922172790,"Avda. Libertad, 20",88979,5º Premio,"6,000","Avda. Libertad, 20, San Cristóbal De La Laguna, Sta.Cruz.Tfe",28.4544141,-16.2970565,6000
+0.1,SAN CRISTÓBAL DE LA LAGUNA,,68330,C.C. ALCAMPO L-401 CTRA. GUAJARA-LA LAGUNA,STA.CRUZ.TFE,922311477,C.C. Alcampo L-401 Ctra. Guajara-La Laguna,88979,5º Premio,"6,000","C.C. Alcampo L-401 Ctra. Guajara-La Laguna, San Cristóbal De La Laguna, Sta.Cruz.Tfe",28.4650045,-16.3056416,6000
+0.1,SAN CRISTÓBAL DE LA LAGUNA,,67330,"Co S.BARTOLOME GENETO,128(OTRO LOC)",STA.CRUZ.TFE,922823458,"Co S.Bartolome Geneto,128(Otro Loc)",88979,5º Premio,"6,000","Co S.Bartolome Geneto,128(Otro Loc), San Cristóbal De La Laguna, Sta.Cruz.Tfe",28.4665044,-16.3109611,6000
+0.1,SANTA CRUZ DE TENERIFE,,68065,"C.C. MERIDIANO. AV. M. HERMOSO ROJAS, 8 BAJO L-B6",STA.CRUZ.TFE,822612217,"C.C. Meridiano. Av. M. Hermoso Rojas, 8 Bajo L-B6",88979,5º Premio,"6,000","C.C. Meridiano. Av. M. Hermoso Rojas, 8 Bajo L-B6, Santa Cruz De Tenerife, Sta.Cruz.Tfe",28.4558067,-16.2567742,6000
+0.1,ALCANAR,,75185,"PASAJE ESPAÑOL, 7",TARRAGONA,977732228,"Pasaje Español, 7",88979,5º Premio,"6,000","Pasaje Español, 7, Alcanar, Tarragona",40.5426842,0.4815676,6000
+0.1,ANDORRA,1,76565,"SAN JORGE, 43",TERUEL,978842834,"San Jorge, 43",88979,5º Premio,"6,000","San Jorge, 43, Andorra, Teruel",40.9772888,-0.4459806,6000
+0.1,AJOFRÍN,,77170,"MATIANZAS, 7",TOLEDO,925390781,"Matianzas, 7",88979,5º Premio,"6,000","Matianzas, 7, Ajofrín, Toledo",39.7117293,-3.9811861,6000
+0.1,TOLEDO,1,78625,"TOLEDO OHIO, 11",TOLEDO,925220662,"Toledo Ohio, 11",88979,5º Premio,"6,000","Toledo Ohio, 11, Toledo, Toledo",41.6528052,-83.5378674,6000
+0.1,TOLEDO,12,78825,"COMERCIO, 27",TOLEDO,925223379,"Comercio, 27",88979,5º Premio,"6,000","Comercio, 27, Toledo, Toledo",39.8628296,-4.0273067,6000
+0.1,ALAQUÀS,1,82155,"AVDA. BLASCO IBAÑEZ, 6",VALENCIA,961511717,"Avda. Blasco Ibañez, 6",88979,5º Premio,"6,000","Avda. Blasco Ibañez, 6, Alaquàs, Valencia",39.4562993,-0.4545303,6000
+0.1,ALDAIA,3,80155,"C.C. BONAIRE,LOC B- 346, CTRA NAC. III, KM 345",VALENCIA,961921378,"C.C. Bonaire,Loc B- 346, Ctra Nac. Iii, Km 345",88979,5º Premio,"6,000","C.C. Bonaire,Loc B- 346, Ctra Nac. Iii, Km 345, Aldaia, Valencia",39.5494559,-1.3015884,6000
+0.1,ALFARA DEL PATRIARCA,1,81495,"DOCTOR NAVARRO, 19",VALENCIA,961391662,"Doctor Navarro, 19",88979,5º Premio,"6,000","Doctor Navarro, 19, Alfara Del Patriarca, Valencia",39.5447712,-0.3852599,6000
+0.1,BENIFAIRO DE VALLDIGNA,1,80420,"MESTRE LUIS BLANES, 4",VALENCIA,962811160,"Mestre Luis Blanes, 4",88979,5º Premio,"6,000","Mestre Luis Blanes, 4, Benifairo De Valldigna, Valencia",39.0547984,-0.3031019,6000
+0.1,BURJASSOT,4,81940,"C.C. P. ALBAN-CRTA.ADEMUZ KM.2,9",VALENCIA,963904810,"C.C. P. Alban-Crta.Ademuz Km.2,9",88979,5º Premio,"6,000","C.C. P. Alban-Crta.Ademuz Km.2,9, Burjassot, Valencia",39.5046534,-0.4171714,6000
+0.1,CANALS,1,79740,"MAESTRO SERRANO, 1",VALENCIA,962241527,"Maestro Serrano, 1",88979,5º Premio,"6,000","Maestro Serrano, 1, Canals, Valencia",38.963107,-0.5844956,6000
+0.1,CARLET,,81080,"AVDA. DEL SUR, 4",VALENCIA,962530056,"Avda. Del Sur, 4",88979,5º Premio,"6,000","Avda. Del Sur, 4, Carlet, Valencia",39.4728018,-0.4185528,6000
+0.1,ELIANA (L'),3,80880,C.C. OSITO- LOCAL 19D TUEJAR S/N AUT.LIRIA KM 16,VALENCIA,962750919,C.C. Osito- Local 19D Tuejar S/N Aut.Liria Km 16,88979,5º Premio,"6,000","C.C. Osito- Local 19D Tuejar S/N Aut.Liria Km 16, Eliana (L'), Valencia",39.7663977,-1.0412584,6000
+0.1,GANDIA,,79010,"PASEO GERMANIAS, 57",VALENCIA,962950589,"Paseo Germanias, 57",88979,5º Premio,"6,000","Paseo Germanias, 57, Gandia, Valencia",38.9659072,-0.1853142,6000
+0.1,GANDIA,,79150,"ABAD SOLA, 41",VALENCIA,962861172,"Abad Sola, 41",88979,5º Premio,"6,000","Abad Sola, 41, Gandia, Valencia",38.9678307,-0.1824718,6000
+0.1,GANDIA,7,79240,"VIRGEN, 3",VALENCIA,962840087,"Virgen, 3",88979,5º Premio,"6,000","Virgen, 3, Gandia, Valencia",39.4693656,-0.3827079,6000
+0.1,GANDIA,8,79225,"MADRID, 35",VALENCIA,962876632,"Madrid, 35",88979,5º Premio,"6,000","Madrid, 35, Gandia, Valencia",40.4167754,-3.7037902,6000
+0.1,MISLATA,4,82010,"AVDA. DEL SUR, 10 BAJO",VALENCIA,963795724,"Avda. Del Sur, 10 Bajo",88979,5º Premio,"6,000","Avda. Del Sur, 10 Bajo, Mislata, Valencia",39.4721369,-0.4189684,6000
+0.1,MISLATA,2,82130,"POETA MIGUEL HERNANDEZ, 9",VALENCIA,963595564,"Poeta Miguel Hernandez, 9",88979,5º Premio,"6,000","Poeta Miguel Hernandez, 9, Mislata, Valencia",39.4740994,-0.4163964,6000
+0.1,PATERNA,4,82105,C.C.CARREFOUR-URBANIZACION POLIGONO NORTE,VALENCIA,961371135,C.C.Carrefour-Urbanizacion Poligono Norte,88979,5º Premio,"6,000","C.C.Carrefour-Urbanizacion Poligono Norte, Paterna, Valencia",39.5037093,-0.4431618,6000
+0.1,PILES,,79130,"STA. BARBARA,36",VALENCIA,962831389,"Sta. Barbara,36",88979,5º Premio,"6,000","Sta. Barbara,36, Piles, Valencia",38.9419105,-0.1332263,6000
+0.1,SAGUNTO,7,80750,"C.C. L'EPICENTRE-AVDA. FAUSTO CARUANA, 37 (KIOSKO)",VALENCIA,661804611,"C.C. L'Epicentre-Avda. Fausto Caruana, 37 (Kiosko)",88979,5º Premio,"6,000","C.C. L'Epicentre-Avda. Fausto Caruana, 37 (Kiosko), Sagunto, Valencia",39.6717085,-0.2486565,6000
+0.1,VALENCIA,,83155,"SAN JUAN BOSCO, 69",VALENCIA,963665404,"San Juan Bosco, 69",88979,5º Premio,"6,000","San Juan Bosco, 69, Valencia, Valencia",39.49519,-0.3709735,6000
+0.1,VALENCIA,4,83370,"REINA, 171",VALENCIA,963550150,"Reina, 171",88979,5º Premio,"6,000","Reina, 171, Valencia, Valencia",39.4743786,-0.3750928,6000
+0.1,VALENCIA,,83165,"VICENTE BELTRAN GRIMAL, 17",VALENCIA,963660427,"Vicente Beltran Grimal, 17",88979,5º Premio,"6,000","Vicente Beltran Grimal, 17, Valencia, Valencia",39.461786,-0.3484615,6000
+0.1,VALENCIA,44,83615,"BOLSERIA, 2",VALENCIA,963921446,"Bolseria, 2",88979,5º Premio,"6,000","Bolseria, 2, Valencia, Valencia",39.4751317,-0.379814,6000
+0.1,VALENCIA,,83705,"JESUS, 94",VALENCIA,963808555,"Jesus, 94",88979,5º Premio,"6,000","Jesus, 94, Valencia, Valencia",39.4618237,-0.3873796,6000
+0.1,VALENCIA,,82855,"PZA. MANISES, 1",VALENCIA,963917086,"Pza. Manises, 1",88979,5º Premio,"6,000","Pza. Manises, 1, Valencia, Valencia",39.4767035,-0.3769241,6000
+0.1,VALENCIA,95,83895,"MARQUES DE MONTORTAL, 5",VALENCIA,963667091,"Marques De Montortal, 5",88979,5º Premio,"6,000","Marques De Montortal, 5, Valencia, Valencia",39.4922872,-0.3748906,6000
+0.1,XÀTIVA,6,79620,"C.C. PLAZA MAYOR C/ LLOSA DE RANES, S/N",VALENCIA,962259023,"C.C. Plaza Mayor C/ Llosa De Ranes, S/N",88979,5º Premio,"6,000","C.C. Plaza Mayor C/ Llosa De Ranes, S/N, Xàtiva, Valencia",39.0037631,-0.5272592,6000
+0.1,ARROYO DE LA ENCOMIENDA,2,85385,"C.C. RÍO SHOPPING L-B70ME FALTA UN TORNILLO, 3",VALLADOLID,983399860,"C.C. Río Shopping L-B70Me Falta Un Tornillo, 3",88979,5º Premio,"6,000","C.C. Río Shopping L-B70Me Falta Un Tornillo, 3, Arroyo De La Encomienda, Valladolid",41.6280639,-4.7865539,6000
+0.1,ÍSCAR,,84930,"REAL, 79",VALLADOLID,983152888,"Real, 79",88979,5º Premio,"6,000","Real, 79, Íscar, Valladolid",41.3609714,-4.5327917,6000
+0.1,VALLADOLID,,85795,"VILLABAÑEZ,27BIS",VALLADOLID,983208935,"Villabañez,27Bis",88979,5º Premio,"6,000","Villabañez,27Bis, Valladolid, Valladolid",41.6491771,-4.7089201,6000
+0.1,VALLADOLID,7,85935,"LENCERIA, 1 LOCAL 5",VALLADOLID,983354743,"Lenceria, 1 Local 5",88979,5º Premio,"6,000","Lenceria, 1 Local 5, Valladolid, Valladolid",41.652251,-4.7245321,6000
+0.1,ZAMORA,,91460,"AVDA. FEDERICO CANTERO VILLAMIL, 17",ZAMORA,980513167,"Avda. Federico Cantero Villamil, 17",88979,5º Premio,"6,000","Avda. Federico Cantero Villamil, 17, Zamora, Zamora",41.5145896,-5.7395882,6000
+0.1,ZAMORA,,91300,"PRINCIPE DE ASTURIAS, 29",ZAMORA,980521060,"Principe De Asturias, 29",88979,5º Premio,"6,000","Principe De Asturias, 29, Zamora, Zamora",41.5103897,-5.7383333,6000
