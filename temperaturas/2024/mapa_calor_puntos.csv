@@ -1,0 +1,225 @@
+indicativo,tmed,tmax,calor,anomalia_tmax,tmin,frio,anomalia_tmin,fecha,hora,nombre,nombre_clean,provincia_clean,latitud,longitud
+0016A,13.450000000000001,17.6,hace calor,"+0,3",9.3,anormalmente cálida,"+2,1",2024-03-19,10:10:00,REUS AEROPUERTO,Reus Aeropuerto,Tarragona,41.145,1.163611111111111
+0076,14.2,16.3,no hace calor,"-0,4",12.1,extremadamente cálida,"+3,9",2024-03-19,10:10:00,BARCELONA AEROPUERTO,Barcelona Aeropuerto,Barcelona,41.29277777777778,2.0700000000000003
+0149X,11.35,14.1,no hace calor,"-3,8",8.6,extremadamente cálida,+4,2024-03-19,10:10:00,MANRESA,Manresa,Barcelona,41.72,1.840277777777778
+0201D,15.25,17,hace calor,"+1,1",13.5,extremadamente cálida,"+3,2",2024-03-19,10:10:00,BARCELONA,Barcelona,Barcelona,41.39055555555556,2.2
+0252D,16.8,20.8,el calor es extremo,"+4,4",12.8,extremadamente cálida,"+5,2",2024-03-19,10:10:00,ARENYS DE MAR,Arenys de Mar,Barcelona,41.587500000000006,2.54
+0324A,9.55,12.9,no hace calor,"-4,6",6.2,extremadamente cálida,"+5,2",2024-03-19,10:10:00,RIPOLL,Ripoll,Girona,42.19138888888889,2.196111111111111
+0367,14.25,18.8,el calor es normal,"-0,1",9.7,extremadamente cálida,+6,2024-03-19,10:10:00,GIRONA AEROPUERTO,Girona Aeropuerto,Girona,41.91166666666666,2.763333333333333
+0372C,15.2,20.2,hace mucho calor,"+4,1",10.2,extremadamente cálida,"+5,4",2024-03-19,10:10:00,PORQUERES,Porqueres,Girona,42.10444444444445,2.763611111111111
+1002Y,11.600000000000001,15.3,no hace calor,"-1,2",7.9,anormalmente cálida,"+4,4",2024-03-19,10:10:00,"BAZTAN, IRURITA","Baztan, Irurita",Navarra,43.13583333333333,-1.5430555555555554
+1014A,15.15,16.6,hace mucho calor,"+1,7",13.7,extremadamente cálida,"+5,2",2024-03-19,10:10:00,DONOSTIA / SAN SEBASTIÁN AEROPUERTO,Donostia / San Sebastián Aeropuerto,Gipuzkoa,43.35694444444445,-1.7922222222222222
+1037Y,13.350000000000001,14.9,hace calor,"+3,4",11.8,extremadamente cálida,"+6,9",2024-03-19,10:10:00,ZUMARRAGA,Zumarraga,Gipuzkoa,43.080000000000005,-2.3175
+1041A,14.95,15.7,hace calor,"+1,8",14.2,anormalmente cálida,"+6,2",2024-03-19,10:10:00,ZUMAIA,Zumaia,Gipuzkoa,43.30222222222222,-2.2511111111111113
+1050J,14.55,16.3,hace calor,"+2,2",12.8,extremadamente cálida,"+6,3",2024-03-19,10:10:00,ELGOIBAR,Elgoibar,Gipuzkoa,43.20944444444445,-2.413333333333333
+1057B,14,15.1,el calor es extremo,+3,12.9,extremadamente cálida,"+4,5",2024-03-19,10:00:00,MATXITXAKO,Matxitxako,Bizkaia,43.45388888888889,-2.7527777777777778
+1059X,14.85,15.6,hace calor,"+2,3",14.1,anormalmente cálida,+6,2024-03-19,10:10:00,PUNTA GALEA,Punta Galea,Bizkaia,43.375,-3.0216666666666665
+1078I,13.45,14.4,el calor es normal,"-0,5",12.5,extremadamente cálida,"+7,2",2024-03-19,10:10:00,GÜEÑES,Güeñes,Bizkaia,43.20333333333333,-3.104722222222222
+1082,14.5,15.4,no hace calor,"-1,3",13.6,anormalmente cálida,+6,2024-03-19,10:10:00,BILBAO AEROPUERTO,Bilbao Aeropuerto,Bizkaia,43.29805555555556,-2.906388888888889
+1083L,14.7,15.7,el calor es extremo,"+2,4",13.7,extremadamente cálida,+5,2024-03-19,10:10:00,CASTRO URDIALES,Castro Urdiales,Cantabria,43.39472222222222,-3.233888888888889
+1109,14.8,15.7,el calor es normal,"-0,2",13.9,extremadamente cálida,"+6,3",2024-03-19,10:10:00,SANTANDER AEROPUERTO,Santander Aeropuerto,Cantabria,43.42388888888889,-3.8255555555555554
+1111,13.55,13.8,no hace calor,"-0,2",13.3,anormalmente cálida,+4,2024-03-19,10:10:00,SANTANDER,Santander,Cantabria,43.49111111111111,-3.800555555555555
+1111X,13.55,13.8,hace mucho calor,"+0,8",13.3,extremadamente cálida,"+4,3",2024-03-19,10:10:00,SANTANDER,Santander,Cantabria,43.49111111111111,-3.800555555555555
+1159,14,14.3,hace calor,"+0,9",13.7,extremadamente cálida,+7,2024-03-19,10:10:00,SAN VICENTE DE LA BARQUERA,San Vicente de la Barquera,Cantabria,43.39333333333333,-4.392222222222222
+1183X,14.2,14.5,el calor es normal,"+0,1",13.9,extremadamente cálida,"+5,1",2024-03-19,10:10:00,LLANES,Llanes,Asturias,43.42027777777778,-4.748055555555555
+1207U,14.05,14.5,hace calor,"+0,7",13.6,extremadamente cálida,"+4,9",2024-03-19,10:10:00,"GIJÓN, CAMPUS","Gijón, Campus",Asturias,43.52305555555555,-5.621111111111111
+1212E,13,13.3,no hace calor,"-1,5",12.7,extremadamente cálida,"+4,3",2024-03-19,10:10:00,ASTURIAS AEROPUERTO,Asturias Aeropuerto,Asturias,43.566944444444445,-6.0441666666666665
+1221D,6.5,8.4,el calor es normal,"+0,5",4.6,más cálida de lo normal,"+4,3",2024-03-19,10:00:00,PAJARES-VALGRANDE,Pajares-Valgrande,Asturias,42.978611111111114,-5.776388888888889
+1249I,12.6,13.2,no hace calor,"-2,5",12,anormalmente cálida,"+4,8",2024-03-19,10:10:00,OVIEDO,Oviedo,Asturias,43.35333333333333,-5.874166666666667
+1249X,12.6,13.2,hace calor,+1,12,extremadamente cálida,"+6,2",2024-03-19,10:10:00,OVIEDO,Oviedo,Asturias,43.35333333333333,-5.874166666666667
+1283U,13.95,14.5,hace calor,"+0,6",13.4,extremadamente cálida,+4,2024-03-19,10:10:00,CABO BUSTO,Cabo Busto,Asturias,43.56916666666667,-6.47
+1331A,12.850000000000001,13.3,no hace calor,"-1,3",12.4,extremadamente cálida,"+3,6",2024-03-19,10:10:00,CASTROPOL,Castropol,Asturias,43.52472222222222,-7.0313888888888885
+1351,11.350000000000001,12.3,no hace calor,"-1,2",10.4,más cálida de lo normal,"+0,5",2024-03-19,10:10:00,ESTACA DE BARES,Estaca de Bares,A Coruña,43.78611111111111,-7.685
+1387,10.6,12,no hace calor,-4,9.2,hace frío,"-0,8",2024-03-19,10:10:00,A CORUÑA,A Coruña,A Coruña,43.365833333333335,-8.421388888888888
+1387E,9.1,11,no hace calor,"-5,4",7.2,hace frío,"-0,9",2024-03-19,10:10:00,A CORUÑA AEROPUERTO,A Coruña Aeropuerto,A Coruña,43.30694444444444,-8.371944444444445
+1393,9.75,10.9,no hace calor,-2,8.6,hace frío,"-0,8",2024-03-19,10:10:00,CABO VILÁN,Cabo Vilán,A Coruña,43.160555555555554,-9.210833333333332
+1400,10.05,12,no hace calor,-1,8.1,hace frío,"-0,8",2024-03-19,10:10:00,FISTERRA,Fisterra,A Coruña,42.92472222222222,-9.29138888888889
+1428,9.5,10.2,no hace calor,"-5,3",8.8,más cálida de lo normal,"+2,6",2024-03-19,10:10:00,SANTIAGO DE COMPOSTELA AEROPUERTO,Santiago de Compostela Aeropuerto,A Coruña,42.88805555555555,-8.410555555555556
+1437O,16.2,23.3,el calor es extremo,"+12,1",9.1,anormalmente cálida,"+3,6",2024-03-19,10:00:00,MONTE IROITE,Monte Iroite,A Coruña,42.72055555555555,-8.923333333333332
+1473A,9.7,11,no hace calor,"-6,1",8.4,más cálida de lo normal,"+1,9",2024-03-19,10:10:00,PADRÓN,Padrón,A Coruña,42.73833333333334,-8.627222222222223
+1475X,10.55,11.8,no hace calor,"-3,6",9.3,anormalmente cálida,+2,2024-03-19,10:10:00,SANTIAGO DE COMPOSTELA,Santiago de Compostela,A Coruña,42.876111111111115,-8.555833333333334
+1484C,10.15,12.6,no hace calor,"-5,4",7.7,hace frío,"-1,5",2024-03-19,10:10:00,PONTEVEDRA,Pontevedra,Pontevedra,42.43833333333333,-8.615833333333333
+1495,10.3,12.1,no hace calor,"-6,1",8.5,más cálida de lo normal,"+0,3",2024-03-19,10:10:00,VIGO AEROPUERTO,Vigo Aeropuerto,Pontevedra,42.23861111111111,-8.623888888888889
+1505,11.45,12.1,no hace calor,"-3,1",10.8,extremadamente cálida,"+6,2",2024-03-19,10:10:00,LUGO AEROPUERTO,Lugo Aeropuerto,Lugo,43.11138888888889,-7.4575
+1542,8.399999999999999,12.2,hace mucho calor,+3,4.6,anormalmente cálida,"+4,2",2024-03-19,10:10:00,PUERTO DE LEITARIEGOS,Puerto de Leitariegos,Asturias,42.994166666666665,-6.4141666666666675
+1549,10.7,12.2,no hace calor,"-6,2",9.2,anormalmente cálida,"+5,2",2024-03-19,10:10:00,PONFERRADA,Ponferrada,León,42.56388888888888,-6.6
+1631E,8.3,10.9,no hace calor,"-2,7",5.7,anormalmente cálida,"+2,1",2024-03-19,10:10:00,A POBRA DE TRIVES,A Pobra de Trives,Ourense,42.339444444444446,-7.2825
+1690A,11.85,14.6,no hace calor,"-5,5",9.1,anormalmente cálida,"+4,1",2024-03-19,10:10:00,OURENSE,Ourense,Ourense,42.32527777777778,-7.859722222222222
+1700X,9.85,12.5,no hace calor,-4,7.2,anormalmente cálida,"+5,3",2024-03-19,10:10:00,O CARBALLIÑO,O Carballiño,Ourense,42.421388888888885,-8.092500000000001
+1735X,6.95,10.8,no hace calor,"-4,3",3.1,más cálida de lo normal,"+1,6",2024-03-19,10:10:00,XINZO DE LIMIA,Xinzo de Limia,Ourense,42.07916666666667,-7.733611111111111
+2030,9.65,13.6,no hace calor,"-0,8",5.7,extremadamente cálida,"+3,8",2024-03-19,10:10:00,SORIA,Soria,Soria,41.775,-2.4830555555555556
+2117D,9.95,14.2,hace calor,"+1,8",5.7,anormalmente cálida,+6,2024-03-19,10:10:00,ARANDA DE DUERO,Aranda de Duero,Burgos,41.66583333333333,-3.742777777777778
+2150H,8.45,10.3,hace mucho calor,"+3,5",6.6,extremadamente cálida,"+6,2",2024-03-19,10:10:00,"LA PINILLA, ESTACIÓN DE ESQUÍ","La Pinilla, Estación de Esquí",Segovia,41.19194444444444,-3.475277777777778
+2235U,10.3,13.7,el calor es normal,"+0,4",6.9,extremadamente cálida,+5,2024-03-19,10:10:00,CERVERA DE PISUERGA,Cervera de Pisuerga,Palencia,42.870555555555555,-4.52
+2298,8.75,13.7,hace calor,"+3,8",3.8,extremadamente cálida,"+4,9",2024-03-19,10:10:00,PALACIOS DE LA SIERRA,Palacios de la Sierra,Burgos,41.959722222222226,-3.131666666666667
+2331,8.95,14.9,el calor es normal,"+1,1",3,más cálida de lo normal,"+1,5",2024-03-19,10:10:00,BURGOS AEROPUERTO,Burgos Aeropuerto,Burgos,42.35694444444445,-3.6213888888888888
+2374X,9.35,13.1,no hace calor,"-1,6",5.6,anormalmente cálida,"+4,3",2024-03-19,10:10:00,CARRIÓN DE LOS CONDES,Carrión de los Condes,Palencia,42.350833333333334,-4.617222222222223
+2400E,10.55,14.3,hace calor,"+0,3",6.8,anormalmente cálida,"+3,8",2024-03-19,10:10:00,AUTILLA DEL PINO,Autilla del Pino,Palencia,41.995555555555555,-4.602777777777778
+2422,10.25,13.2,no hace calor,"-3,2",7.3,anormalmente cálida,"+3,1",2024-03-19,10:10:00,VALLADOLID,Valladolid,Valladolid,41.64083333333333,-4.754444444444444
+2444,10.25,14.4,el calor es normal,"-0,8",6.1,anormalmente cálida,"+3,9",2024-03-19,10:10:00,ÁVILA,Ávila,Ávila,40.659166666666664,-4.679722222222223
+2462,9.1,10.9,hace calor,"+1,9",7.3,extremadamente cálida,"+6,5",2024-03-19,10:10:00,PUERTO DE NAVACERRADA,Puerto de Navacerrada,Madrid,40.793055555555554,-4.010555555555555
+2465,13.05,16.5,hace calor,"+1,7",9.6,extremadamente cálida,"+5,2",2024-03-19,10:10:00,SEGOVIA,Segovia,Segovia,40.945277777777775,-4.126388888888888
+2491C,9.4,10.8,hace calor,"+6,2",8,extremadamente cálida,"+9,1",2024-03-19,10:10:00,"LA COVATILLA, ESTACIÓN DE ESQUÍ","La Covatilla, Estación de Esquí",Salamanca,40.355,-5.69
+2614,10.3,13.2,no hace calor,"-3,7",7.4,anormalmente cálida,"+3,5",2024-03-19,10:10:00,ZAMORA,Zamora,Zamora,41.51555555555556,-5.735277777777778
+2630X,6.75,11,hace calor,"+2,4",2.5,anormalmente cálida,"+2,8",2024-03-19,10:10:00,PUERTO DE SAN ISIDRO,Puerto de San Isidro,León,43.06222222222222,-5.376944444444444
+2661,10.45,13.2,no hace calor,"-2,4",7.7,extremadamente cálida,"+4,1",2024-03-19,10:10:00,"LEÓN, VIRGEN DEL CAMINO","León, Virgen del Camino",León,42.58833333333334,-5.651111111111112
+2755X,9.9,12.6,no hace calor,"-3,7",7.2,anormalmente cálida,"+3,6",2024-03-19,10:10:00,BENAVENTE,Benavente,Zamora,42.01083333333333,-5.666666666666667
+2775X,9.05,13.2,no hace calor,"-1,9",4.9,extremadamente cálida,"+4,9",2024-03-19,10:10:00,VILLARDECIERVOS,Villardeciervos,Zamora,41.94138888888889,-6.279722222222222
+2867,8.95,14.5,no hace calor,"-1,9",3.4,más cálida de lo normal,"+1,4",2024-03-19,10:10:00,SALAMANCA AEROPUERTO,Salamanca Aeropuerto,Salamanca,40.95944444444445,-5.498333333333333
+2870,10.3,13.9,no hace calor,"-2,7",6.7,anormalmente cálida,"+4,6",2024-03-19,10:10:00,SALAMANCA,Salamanca,Salamanca,40.9575,-5.662222222222223
+2916A,11.35,15,no hace calor,"-0,9",7.7,extremadamente cálida,"+4,4",2024-03-19,10:10:00,VITIGUDINO,Vitigudino,Salamanca,41.01138888888889,-6.437777777777778
+2946X,9.95,13.7,no hace calor,"-2,6",6.2,anormalmente cálida,"+3,1",2024-03-19,10:10:00,SAELICES EL CHICO,Saelices El Chico,Salamanca,40.635,-6.6
+3013,7.6,10.9,no hace calor,"-6,4",4.3,anormalmente cálida,"+6,5",2024-03-19,10:10:00,MOLINA DE ARAGÓN,Molina de Aragón,Guadalajara,40.84166666666667,-1.8788888888888888
+3094B,14.3,15.7,hace calor,"+1,5",12.9,extremadamente cálida,"+7,5",2024-03-19,10:10:00,TARANCÓN,Tarancón,Cuenca,40.01138888888889,-3.0213888888888887
+3100B,12.15,13.9,no hace calor,"-4,4",10.4,extremadamente cálida,"+6,1",2024-03-19,10:10:00,ARANJUEZ,Aranjuez,Madrid,40.06722222222223,-3.546111111111111
+3110C,9.8,14.2,el calor es normal,"-0,3",5.4,extremadamente cálida,"+3,1",2024-03-19,10:10:00,BUITRAGO DEL LOZOYA,Buitrago del Lozoya,Madrid,41.00694444444444,-3.613611111111111
+3111D,9.15,11.6,hace calor,"+4,2",6.7,extremadamente cálida,"+6,3",2024-03-19,10:10:00,SOMOSIERRA,Somosierra,Madrid,41.135555555555555,-3.5802777777777774
+3129,11.1,13.5,no hace calor,"-4,6",8.7,extremadamente cálida,"+4,3",2024-03-19,10:10:00,MADRID AEROPUERTO,Madrid Aeropuerto,Madrid,40.46666666666667,-3.5555555555555554
+3130C,8.65,13,no hace calor,"-3,4",4.3,anormalmente cálida,"+4,3",2024-03-19,10:10:00,SIGÜENZA,Sigüenza,Guadalajara,41.08638888888889,-2.618055555555556
+3168D,12.2,15,hace calor,+2,9.4,extremadamente cálida,"+5,2",2024-03-19,10:10:00,GUADALAJARA,Guadalajara,Guadalajara,40.63027777777778,-3.15
+3191E,13.6,16.4,el calor es normal,+1,10.8,extremadamente cálida,"+4,3",2024-03-19,10:10:00,COLMENAR VIEJO,Colmenar Viejo,Madrid,40.69611111111111,-3.765
+3194U,13.1,16.9,hace calor,"+1,7",9.3,extremadamente cálida,"+5,3",2024-03-19,10:10:00,"MADRID, CIUDAD UNIVERSITARIA","Madrid, Ciudad Universitaria",Madrid,40.45166666666667,-3.724166666666666
+3195,14.350000000000001,16.1,no hace calor,"-1,7",12.6,extremadamente cálida,"+5,3",2024-03-19,10:10:00,"MADRID, RETIRO","Madrid, Retiro",Madrid,40.41194444444445,-3.6780555555555554
+3260B,12.8,15.5,no hace calor,"-5,5",10.1,extremadamente cálida,"+3,2",2024-03-19,10:10:00,TOLEDO,Toledo,Toledo,39.88472222222222,-4.045277777777778
+3266A,10.3,12.5,hace mucho calor,"+4,7",8.1,extremadamente cálida,"+7,8",2024-03-19,10:10:00,PUERTO ALTO DEL LEÓN,Puerto Alto del León,Madrid,40.70638888888889,-4.141944444444444
+3298X,17,19,hace mucho calor,"+5,7",15,extremadamente cálida,"+12,2",2024-03-19,10:10:00,SAN PABLO DE LOS MONTES,San Pablo de los Montes,Toledo,39.54694444444444,-4.350555555555555
+3365A,11.85,14.1,no hace calor,"-6,1",9.6,anormalmente cálida,"+4,6",2024-03-19,10:10:00,TALAVERA DE LA REINA,Talavera de la Reina,Toledo,39.95861111111111,-4.863611111111111
+3434X,12.65,15.3,no hace calor,"-2,7",10,anormalmente cálida,"+3,8",2024-03-19,10:10:00,NAVALMORAL DE LA MATA,Navalmoral de la Mata,Cáceres,39.94583333333333,-5.5825
+3463X,16.450000000000003,18.6,hace calor,"+3,7",14.3,extremadamente cálida,"+8,5",2024-03-19,10:10:00,TRUJILLO,Trujillo,Cáceres,39.4825,-5.854166666666666
+3469A,13.2,15.5,no hace calor,"-4,3",10.9,anormalmente cálida,"+3,5",2024-03-19,10:10:00,CÁCERES,Cáceres,Cáceres,39.47138888888889,-6.338888888888889
+3519X,14.5,16.9,no hace calor,"-0,8",12.1,extremadamente cálida,"+3,8",2024-03-19,10:10:00,PLASENCIA,Plasencia,Cáceres,40.043055555555554,-6.085833333333333
+3526X,12.35,15.2,no hace calor,"-5,1",9.5,anormalmente cálida,"+2,2",2024-03-19,10:10:00,CORIA,Coria,Cáceres,40.00361111111111,-6.5575
+3576X,13.7,17.8,el calor es normal,"-0,1",9.6,anormalmente cálida,"+3,3",2024-03-19,10:10:00,VALENCIA DE ALCÁNTARA,Valencia de Alcántara,Cáceres,39.414722222222224,-7.231111111111111
+4061X,15.1,17.2,hace mucho calor,"+3,1",13,extremadamente cálida,"+9,8",2024-03-19,10:10:00,QUINTANAR DE LA ORDEN,Quintanar de la Orden,Toledo,39.59722222222222,-3.0483333333333333
+4067,13.65,16.3,no hace calor,-3,11,extremadamente cálida,"+7,8",2024-03-19,10:10:00,MADRIDEJOS,Madridejos,Toledo,39.49194444444444,-3.5283333333333333
+4090Y,12,15.4,no hace calor,-1,8.6,extremadamente cálida,"+7,6",2024-03-19,10:10:00,SAN CLEMENTE,San Clemente,Cuenca,39.416666666666664,-2.4205555555555556
+4103X,13.3,16.1,no hace calor,"-0,5",10.5,extremadamente cálida,"+7,6",2024-03-19,10:10:00,TOMELLOSO,Tomelloso,Ciudad Real,39.16916666666666,-3.0075
+4121,13.799999999999999,16.4,no hace calor,"-4,2",11.2,extremadamente cálida,"+5,6",2024-03-19,10:10:00,CIUDAD REAL,Ciudad Real,Ciudad Real,38.98916666666667,-3.9202777777777778
+4147X,15.9,20.1,hace mucho calor,"+4,9",11.7,extremadamente cálida,"+8,6",2024-03-19,10:10:00,VALDEPEÑAS,Valdepeñas,Ciudad Real,38.75055555555556,-3.391388888888889
+4148,17.15,20.9,hace mucho calor,"+6,3",13.4,extremadamente cálida,"+9,4",2024-03-19,10:10:00,VISO DEL MARQUÉS,Viso del Marqués,Ciudad Real,38.51805555555555,-3.5666666666666664
+4220X,12.149999999999999,15.1,no hace calor,"-1,1",9.2,extremadamente cálida,"+6,3",2024-03-19,10:10:00,PUEBLA DE DON RODRIGO,Puebla de Don Rodrigo,Ciudad Real,39.08361111111111,-4.621944444444445
+4244X,12.7,15.2,no hace calor,"-1,8",10.2,anormalmente cálida,"+4,7",2024-03-19,10:10:00,HERRERA DEL DUQUE,Herrera del Duque,Badajoz,39.16944444444445,-5.062222222222222
+4267X,14.15,17.8,el calor es normal,"+0,8",10.5,extremadamente cálida,"+5,8",2024-03-19,10:10:00,HINOJOSA DEL DUQUE,Hinojosa del Duque,Córdoba,38.49861111111111,-5.1211111111111105
+4358X,13.8,16.1,no hace calor,"-4,7",11.5,anormalmente cálida,"+4,6",2024-03-19,10:10:00,DON BENITO,Don Benito,Badajoz,38.95555555555555,-5.880555555555556
+4386B,17.85,19,hace calor,"+2,1",16.7,extremadamente cálida,"+10,5",2024-03-19,10:10:00,LLERENA,Llerena,Badajoz,38.23166666666667,-6.016944444444444
+4410X,13.65,16.6,no hace calor,"-6,2",10.7,anormalmente cálida,"+3,8",2024-03-19,10:10:00,MÉRIDA,Mérida,Badajoz,38.91583333333333,-6.385555555555556
+4452,12.85,15.7,no hace calor,"-7,1",10,anormalmente cálida,"+3,2",2024-03-19,10:10:00,BADAJOZ AEROPUERTO,Badajoz Aeropuerto,Badajoz,38.88333333333333,-6.813888888888889
+4511C,13.25,16.2,no hace calor,"-3,1",10.3,anormalmente cálida,"+4,9",2024-03-19,10:10:00,JEREZ DE LOS CABALLEROS,Jerez de los Caballeros,Badajoz,38.29861111111111,-6.765
+4549Y,15.45,16.8,no hace calor,"-2,6",14.1,extremadamente cálida,"+4,5",2024-03-19,10:10:00,AYAMONTE,Ayamonte,Huelva,37.19472222222222,-7.395
+4560Y,15.9,18.5,no hace calor,"-0,5",13.3,extremadamente cálida,"+3,4",2024-03-19,10:00:00,ALAJAR,Alajar,Huelva,37.868611111111115,-6.675000000000001
+4642E,14.3,16.5,no hace calor,"-5,3",12.1,anormalmente cálida,"+2,5",2024-03-19,10:10:00,"HUELVA, RONDA ESTE","Huelva, Ronda Este",Huelva,37.27833333333333,-6.911666666666667
+5000C,16.15,17.1,no hace calor,"-0,7",15.2,extremadamente cálida,"+2,5",2024-03-19,10:10:00,CEUTA,Ceuta,Ceuta,35.88861111111111,-5.3469444444444445
+5038X,18.75,19.8,hace calor,"+3,5",17.7,extremadamente cálida,"+11,2",2024-03-19,10:00:00,CAZORLA,Cazorla,Jaén,37.91583333333333,-3.003888888888889
+5047E,11.45,14.4,no hace calor,"-2,4",8.5,extremadamente cálida,"+4,1",2024-03-19,10:10:00,BAZA,Baza,Granada,37.505833333333335,-2.735
+5181D,13.6,16.2,no hace calor,-3,11,extremadamente cálida,+4,2024-03-19,10:10:00,ARROYO DEL OJANCO,Arroyo del Ojanco,Jaén,38.31472222222222,-2.8897222222222223
+5192,18.3,21.5,hace mucho calor,"+6,7",15.1,extremadamente cálida,"+8,8",2024-03-19,10:10:00,VILLARRODRIGO,Villarrodrigo,Jaén,38.48916666666667,-2.6375
+5270B,18.15,19.7,no hace calor,"-0,6",16.6,extremadamente cálida,"+6,3",2024-03-19,10:10:00,JAÉN,Jaén,Jaén,37.7775,-3.8091666666666666
+5298X,14.25,18,no hace calor,"-4,1",10.5,anormalmente cálida,"+4,4",2024-03-19,10:10:00,ANDÚJAR,Andújar,Jaén,38.02305555555555,-4.0633333333333335
+5390Y,16.95,19.4,hace calor,"+2,1",14.5,extremadamente cálida,"+8,1",2024-03-19,10:10:00,VILLANUEVA DE CÓRDOBA,Villanueva de Córdoba,Córdoba,38.33305555555556,-4.608888888888888
+5402,15.3,18.5,no hace calor,"-4,5",12.1,anormalmente cálida,"+4,3",2024-03-19,10:10:00,CÓRDOBA AEROPUERTO,Córdoba Aeropuerto,Córdoba,37.848888888888894,-4.846666666666667
+5530E,13.25,17,no hace calor,"-4,6",9.5,extremadamente cálida,"+5,5",2024-03-19,10:10:00,GRANADA AEROPUERTO,Granada Aeropuerto,Granada,37.19027777777777,-3.789722222222222
+5582A,16.4,19.8,hace calor,"+2,1",13,extremadamente cálida,+6,2024-03-19,10:10:00,LOJA,Loja,Granada,37.16111111111111,-4.152777777777779
+5612B,17.2,22.4,hace mucho calor,"+4,3",12,extremadamente cálida,"+6,2",2024-03-19,10:10:00,LA RODA DE ANDALUCÍA,La Roda de Andalucía,Sevilla,37.19444444444444,-4.77
+5641X,15.5,18.4,no hace calor,-2,12.6,extremadamente cálida,"+5,2",2024-03-19,10:10:00,ÉCIJA,Écija,Sevilla,37.51611111111111,-5.085
+5704B,14.25,19.4,no hace calor,"-0,2",9.1,anormalmente cálida,"+3,7",2024-03-19,10:10:00,CAZALLA DE LA SIERRA,Cazalla de la Sierra,Sevilla,37.92638888888889,-5.769722222222222
+5783,14.4,17.3,no hace calor,"-6,4",11.5,más cálida de lo normal,"+1,3",2024-03-19,10:10:00,SEVILLA AEROPUERTO,Sevilla Aeropuerto,Sevilla,37.416666666666664,-5.879166666666667
+5796,16.25,19.6,no hace calor,"-3,8",12.9,extremadamente cálida,"+4,7",2024-03-19,10:10:00,MORÓN DE LA FRONTERA,Morón de la Frontera,Sevilla,37.16444444444444,-5.6113888888888885
+5860E,14.850000000000001,18.6,no hace calor,"-1,4",11.1,anormalmente cálida,"+1,9",2024-03-19,10:10:00,"MOGUER, EL ARENOSILLO","Moguer, El Arenosillo",Huelva,37.09805555555556,-6.7380555555555555
+5910,16.9,18.1,no hace calor,"-2,9",15.7,extremadamente cálida,"+5,4",2024-03-19,09:00:00,"ROTA, BASE NAVAL","Rota, Base Naval",Cádiz,36.638888888888886,-6.3325
+5911A,17.65,21.5,el calor es extremo,"+6,6",13.8,extremadamente cálida,"+8,5",2024-03-19,10:10:00,GRAZALEMA,Grazalema,Cádiz,36.760555555555555,-5.3741666666666665
+5960,15.850000000000001,19.3,no hace calor,"-3,2",12.4,anormalmente cálida,"+3,1",2024-03-19,10:10:00,JEREZ DE LA FRONTERA AEROPUERTO,Jerez de la Frontera Aeropuerto,Cádiz,36.75055555555556,-6.055833333333333
+5972X,17.75,19.6,hace calor,"+0,4",15.9,extremadamente cálida,"+3,7",2024-03-19,10:10:00,SAN FERNANDO,San Fernando,Cádiz,36.46555555555556,-6.205555555555556
+5973,18.35,19.6,el calor es normal,"+0,5",17.1,extremadamente cálida,"+4,3",2024-03-19,10:10:00,CÁDIZ,Cádiz,Cádiz,36.499722222222225,-6.257777777777778
+5995B,19.25,22.1,hace mucho calor,"+2,9",16.4,extremadamente cálida,+5,2024-03-19,10:10:00,VEJER DE LA FRONTERA,Vejer de La Frontera,Cádiz,36.245555555555555,-5.965
+6000A,18.2,20.2,hace calor,"+1,2",16.2,extremadamente cálida,"+4,2",2024-03-19,10:10:00,MELILLA,Melilla,Melilla,35.27638888888889,-2.956388888888889
+6001,17.299999999999997,18.9,hace mucho calor,"+1,3",15.7,extremadamente cálida,"+2,8",2024-03-19,10:00:00,TARIFA,Tarifa,Cádiz,36.013888888888886,-5.598888888888888
+6058I,17,19.2,no hace calor,"-0,8",14.8,extremadamente cálida,"+2,6",2024-03-19,10:10:00,ESTEPONA,Estepona,Málaga,36.41694444444444,-5.155
+6106X,16.15,19.2,hace mucho calor,+2,13.1,extremadamente cálida,"+6,4",2024-03-19,10:10:00,ANTEQUERA,Antequera,Málaga,37.02944444444445,-4.748333333333333
+6155A,17.7,19.9,hace calor,"+0,6",15.5,extremadamente cálida,"+4,9",2024-03-19,10:10:00,MÁLAGA AEROPUERTO,Málaga Aeropuerto,Málaga,36.66611111111111,-4.482222222222222
+6156X,18.75,21.6,hace calor,"+2,4",15.9,extremadamente cálida,"+4,3",2024-03-19,10:10:00,"MÁLAGA, CENTRO METEOROLÓGICO","Málaga, Centro Meteorológico",Málaga,36.717777777777776,-4.4816666666666665
+6172O,18.3,21.8,hace calor,"+3,7",14.8,extremadamente cálida,"+1,7",2024-03-19,10:10:00,"MÁLAGA, PUERTO","Málaga, Puerto",Málaga,36.71666666666667,-4.419722222222222
+6293X,16.85,19,hace calor,"+0,3",14.7,anormalmente cálida,+2,2024-03-19,10:10:00,ROQUETAS DE MAR,Roquetas de Mar,Almería,36.68694444444444,-2.7016666666666667
+6302A,17.7,20.9,hace mucho calor,"+3,7",14.5,extremadamente cálida,"+8,4",2024-03-19,10:10:00,ABLA,Abla,Almería,37.14138888888889,-2.78
+6325O,18.7,21.4,hace mucho calor,"+1,4",16,extremadamente cálida,+5,2024-03-19,10:10:00,ALMERÍA AEROPUERTO,Almería Aeropuerto,Almería,36.84638888888889,-2.3569444444444447
+6332X,17.2,18.4,no hace calor,"-1,2",16,extremadamente cálida,"+4,8",2024-03-19,10:10:00,CARBONERAS,Carboneras,Almería,36.98027777777778,-1.903611111111111
+6367B,15.95,18.5,no hace calor,"-0,6",13.4,extremadamente cálida,"+5,4",2024-03-19,10:10:00,HUÉRCAL-OVERA,Huércal-Overa,Almería,37.39055555555556,-1.9436111111111112
+7002Y,17.3,19,no hace calor,"-0,2",15.6,extremadamente cálida,+5,2024-03-19,10:10:00,ÁGUILAS,Águilas,Murcia,37.41722222222222,-1.5869444444444445
+7031,14.450000000000001,16.1,no hace calor,"-1,9",12.8,extremadamente cálida,"+4,1",2024-03-19,10:10:00,SAN JAVIER AEROPUERTO,San Javier Aeropuerto,Murcia,37.78888888888888,-0.8033333333333333
+7031X,14.450000000000001,16.1,no hace calor,"-2,7",12.8,anormalmente cálida,"+4,5",2024-03-19,10:10:00,SAN JAVIER AEROPUERTO,San Javier Aeropuerto,Murcia,37.77833333333333,-0.8058333333333334
+7096B,14.8,17.6,no hace calor,"-1,2",12,extremadamente cálida,"+4,2",2024-03-19,10:10:00,HELLÍN,Hellín,Albacete,38.54194444444444,-1.7030555555555555
+7119B,16.35,21.5,hace mucho calor,+4,11.2,extremadamente cálida,"+5,7",2024-03-19,10:10:00,CARAVACA DE LA CRUZ,Caravaca de la Cruz,Murcia,38.1025,-1.8772222222222223
+7145D,15.75,19,no hace calor,"-0,6",12.5,extremadamente cálida,"+5,2",2024-03-19,10:10:00,CIEZA,Cieza,Murcia,38.23277777777778,-1.3805555555555555
+7178I,16.7,19.7,no hace calor,"-1,7",13.7,extremadamente cálida,"+5,3",2024-03-19,10:10:00,MURCIA,Murcia,Murcia,38.00194444444445,-1.1708333333333334
+7209,15.600000000000001,18.8,no hace calor,"-1,8",12.4,extremadamente cálida,"+5,8",2024-03-19,10:10:00,LORCA,Lorca,Murcia,37.65472222222222,-1.6872222222222222
+7247X,15.15,20.1,hace mucho calor,"+2,3",10.2,extremadamente cálida,"+6,2",2024-03-19,10:10:00,EL PINÓS/PINOSO,El Pinós/Pinoso,Alicante,38.39972222222222,-1.0380555555555555
+7275C,14.700000000000001,19.6,hace calor,"+5,8",9.8,extremadamente cálida,"+4,2",2024-03-19,10:10:00,YECLA,Yecla,Murcia,38.60166666666667,-1.159722222222222
+8019,13.8,14.7,no hace calor,"-4,4",12.9,extremadamente cálida,"+3,7",2024-03-19,10:10:00,ALICANTE-ELCHE AEROPUERTO,Alicante-Elche Aeropuerto,Alicante,38.282777777777774,-0.5708333333333333
+8025,15.399999999999999,17.7,no hace calor,"-1,9",13.1,extremadamente cálida,"+4,3",2024-03-19,10:10:00,ALACANT/ALICANTE,Alacant/Alicante,Alicante,38.3725,-0.49416666666666664
+8050X,13.5,17,no hace calor,"-1,7",10,anormalmente cálida,"+2,2",2024-03-19,10:10:00,JÁVEA/ XÀBIA,Jávea/Xàbia,Alicante,38.78361111111111,0.16777777777777778
+8096,10.55,13.2,no hace calor,"-3,7",7.9,extremadamente cálida,"+4,7",2024-03-19,10:10:00,CUENCA,Cuenca,Cuenca,40.06722222222223,-2.1319444444444446
+8175,13.3,17.8,el calor es normal,"+0,2",8.8,extremadamente cálida,"+5,5",2024-03-19,10:10:00,ALBACETE BASE AÉREA,Albacete Base Aérea,Albacete,38.95416666666667,-1.856388888888889
+8177A,16.299999999999997,19.9,el calor es extremo,"+7,8",12.7,extremadamente cálida,"+8,1",2024-03-19,10:10:00,CHINCHILLA,Chinchilla,Albacete,38.93583333333333,-1.66
+8178D,12.5,14.9,no hace calor,"-3,5",10.1,extremadamente cálida,"+5,9",2024-03-19,10:10:00,ALBACETE,Albacete,Albacete,39.005833333333335,-1.862777777777778
+8293X,13.9,17.5,no hace calor,"-4,9",10.3,anormalmente cálida,"+3,9",2024-03-19,10:10:00,XÀTIVA,Xàtiva,Valencia,39.001666666666665,-0.5236111111111111
+8309X,12.25,17.4,no hace calor,"-0,7",7.1,extremadamente cálida,"+4,1",2024-03-19,10:10:00,UTIEL,Utiel,Valencia,39.57555555555556,-1.2447222222222225
+8325X,12.5,15.9,no hace calor,"-3,2",9.1,más cálida de lo normal,"+1,7",2024-03-19,10:10:00,POLINYÀ DE XÚQUER,Polinyà de Xúquer,Valencia,39.18472222222222,-0.3719444444444444
+8368U,10.2,12.8,no hace calor,"-4,7",7.6,extremadamente cálida,"+7,2",2024-03-19,10:10:00,TERUEL,Teruel,Teruel,40.35055555555556,-1.1241666666666668
+8414A,13.35,15.5,no hace calor,"-3,5",11.2,anormalmente cálida,"+3,8",2024-03-19,10:10:00,VALENCIA AEROPUERTO,Valencia Aeropuerto,Valencia,39.485,-0.4747222222222222
+8416Y,14.3,15.5,no hace calor,"-2,1",13.1,extremadamente cálida,"+3,3",2024-03-19,10:10:00,"VALÈNCIA, VIVEROS","València, Viveros",Valencia,39.480555555555554,-0.3663888888888889
+8500A,12.85,14.1,no hace calor,"-4,5",11.6,anormalmente cálida,"+2,6",2024-03-19,10:10:00,CASTELLÓ - ALMASSORA,Castelló - Almassora,Castellón,39.95722222222223,-0.07194444444444445
+9001D,8.55,13.5,hace calor,"+2,8",3.6,anormalmente cálida,"+2,8",2024-03-19,10:10:00,REINOSA,Reinosa,Cantabria,42.99194444444444,-4.160555555555556
+9019B,9.25,11.3,no hace calor,"-1,2",7.2,extremadamente cálida,+6,2024-03-19,10:00:00,"VALDERREDIBLE, POLIENTES","Valderredible, Polientes",Cantabria,42.80638888888888,-3.933888888888889
+9051,10.6,14.2,no hace calor,"-1,3",7,anormalmente cálida,"+5,2",2024-03-19,10:10:00,MEDINA DE POMAR,Medina de Pomar,Burgos,42.919999999999995,-3.4827777777777778
+9091R,10.2,13.4,hace calor,"+0,6",7,extremadamente cálida,"+3,5",2024-03-19,10:10:00,VITORIA-GASTEIZ AEROPUERTO,Vitoria-Gasteiz Aeropuerto,Araba/Álava,42.871944444444445,-2.7327777777777778
+9111,11.399999999999999,14.7,hace calor,"+0,7",8.1,extremadamente cálida,"+5,2",2024-03-19,10:10:00,BELORADO,Belorado,Burgos,42.42111111111111,-3.1702777777777778
+9170,12.350000000000001,16.1,no hace calor,"-1,4",8.6,extremadamente cálida,"+3,2",2024-03-19,10:10:00,"LOGROÑO, AEROPUERTO","Logroño, Aeropuerto",La Rioja,42.452222222222225,-2.331111111111111
+9201K,11.4,14.5,el calor es normal,"+0,2",8.3,extremadamente cálida,"+5,7",2024-03-19,10:10:00,JACA,Jaca,Huesca,42.57888888888889,-0.5469444444444445
+9208E,13.5,17.6,hace mucho calor,"+4,3",9.4,extremadamente cálida,"+7,5",2024-03-19,10:10:00,ARAGÜÉS DEL PUERTO,Aragüés del Puerto,Huesca,42.70861111111111,-0.6727777777777777
+9244X,11.55,15.1,el calor es normal,"-0,4",8,extremadamente cálida,+4,2024-03-19,10:10:00,SOS DEL REY CATÓLICO,Sos del Rey Católico,Zaragoza,42.490833333333335,-1.213611111111111
+9263D,11.7,15.6,no hace calor,"-1,4",7.8,anormalmente cálida,"+4,1",2024-03-19,10:10:00,"PAMPLONA, AEROPUERTO","Pamplona, Aeropuerto",Navarra,42.776944444444446,-1.65
+9263X,11.05,14,hace calor,"+2,9",8.1,extremadamente cálida,+5,2024-03-19,10:10:00,"ARANGUREN, ILUNDAIN","Aranguren, Ilundain",Navarra,42.77611111111111,-1.5325
+9294E,11.7,15.8,el calor es normal,"-0,4",7.6,anormalmente cálida,"+2,3",2024-03-19,10:10:00,"BARDENAS REALES, BASE AÉREA","Bardenas Reales, Base Aérea",Navarra,42.198611111111106,-1.475277777777778
+9381I,8.75,12.6,no hace calor,"-4,2",4.9,anormalmente cálida,"+5,5",2024-03-19,10:10:00,CALAMOCHA,Calamocha,Teruel,40.92611111111111,-1.2933333333333332
+9390,9.2,11.9,no hace calor,-6,6.5,anormalmente cálida,"+4,5",2024-03-19,10:00:00,DAROCA,Daroca,Zaragoza,41.114444444444445,-1.41
+9394X,10.9,13.5,no hace calor,"-2,8",8.3,anormalmente cálida,"+4,7",2024-03-19,10:10:00,CALATAYUD,Calatayud,Zaragoza,41.33111111111111,-1.6452777777777778
+9434,13.7,16.3,no hace calor,"-1,6",11.1,extremadamente cálida,"+4,6",2024-03-19,10:10:00,"ZARAGOZA, AEROPUERTO","Zaragoza, Aeropuerto",Zaragoza,41.660555555555554,-1.0041666666666669
+9434P,13.55,15.9,el calor es normal,"-0,1",11.2,extremadamente cálida,"+4,2",2024-03-19,10:10:00,"ZARAGOZA, VALDESPARTERA","Zaragoza, Valdespartera",Zaragoza,41.62111111111111,-0.9347222222222222
+9563X,15.4,18.1,hace mucho calor,"+6,2",12.7,extremadamente cálida,"+9,6",2024-03-19,10:10:00,CASTELLFORT,Castellfort,Castellón,40.49861111111111,-0.18666666666666665
+9569A,15.75,18.1,el calor es normal,"+0,4",13.4,extremadamente cálida,"+6,4",2024-03-19,10:10:00,CALANDA,Calanda,Teruel,40.946666666666665,-0.23777777777777775
+9573X,13.899999999999999,17.2,el calor es normal,"+0,2",10.6,extremadamente cálida,"+5,8",2024-03-19,10:10:00,ALCAÑIZ,Alcañiz,Teruel,41.058055555555555,-0.14166666666666666
+9585,8.15,11.8,el calor es normal,"+0,4",4.5,extremadamente cálida,"+4,6",2024-03-19,10:10:00,LA MOLINA,La Molina,Girona,42.3325,1.9394444444444443
+9619,9.8,14.9,no hace calor,"-2,7",4.7,anormalmente cálida,"+3,1",2024-03-19,10:10:00,LA SEU D'URGELL,La Seu d'Urgell,Lleida,42.35472222222222,1.4630555555555556
+9698U,11.350000000000001,14.4,no hace calor,"-2,3",8.3,extremadamente cálida,"+3,3",2024-03-19,10:10:00,TALARN,Talarn,Lleida,42.20527777777778,0.8652777777777777
+9771C,13,15.8,no hace calor,"-4,2",10.2,extremadamente cálida,"+5,3",2024-03-19,10:10:00,LLEIDA,Lleida,Lleida,41.626111111111115,0.5980555555555556
+9784P,8.45,12.5,el calor es normal,"-1,1",4.4,extremadamente cálida,"+1,9",2024-03-19,10:10:00,BIELSA,Bielsa,Huesca,42.63,0.22472222222222224
+9898,13.350000000000001,16.8,no hace calor,"-1,6",9.9,extremadamente cálida,"+4,3",2024-03-19,10:10:00,"HUESCA, AEROPUERTO","Huesca, Aeropuerto",Huesca,42.08444444444444,-0.32555555555555554
+9981A,13.5,16.5,no hace calor,-4,10.5,más cálida de lo normal,"+2,1",2024-03-19,10:10:00,ESTACIÓN DE TORTOSA (ROQUETES),Estación de Tortosa (Roquetes),Tarragona,40.82027777777778,0.49333333333333335
+9990X,8.85,13.2,hace calor,"+1,2",4.5,extremadamente cálida,"+3,4",2024-03-19,10:10:00,"NAUT ARAN, ARTIES","Naut Aran, Arties",Lleida,42.70027777777778,0.8769444444444445
+B013X,13.149999999999999,19.7,hace mucho calor,"+3,9",6.6,anormalmente cálida,"+4,1",2024-03-19,10:10:00,"ESCORCA, LLUC","Escorca, Lluc",Baleares,39.82333333333334,2.8858333333333333
+B228,15.899999999999999,19.7,hace mucho calor,"+1,7",12.1,anormalmente cálida,"+2,1",2024-03-19,10:10:00,"PALMA, PUERTO","Palma, Puerto",Baleares,39.555277777777775,2.625277777777778
+B248,14.6,16.4,hace mucho calor,"+3,7",12.8,anormalmente cálida,"+6,6",2024-03-19,10:10:00,"SIERRA DE ALFABIA, BUNYOLA","Sierra de Alfabia, Bunyola",Baleares,39.735,2.7130555555555556
+B278,14.05,20,hace mucho calor,"+1,6",8.1,más cálida de lo normal,"+2,5",2024-03-19,10:10:00,"PALMA DE MALLORCA, AEROPUERTO","Palma de Mallorca, Aeropuerto",Baleares,39.56083333333333,2.736666666666667
+B346X,15.7,19.8,el calor es normal,"+0,7",11.6,extremadamente cálida,+5,2024-03-19,10:00:00,PORRERES,Porreres,Baleares,39.52166666666667,3.0191666666666666
+B434X,14.5,17.6,no hace calor,"-0,5",11.4,anormalmente cálida,"+1,6",2024-03-19,10:10:00,PORTOCOLOM,Portocolom,Baleares,39.41444444444444,3.2716666666666665
+B569X,17.1,19.7,hace mucho calor,+2,14.5,extremadamente cálida,"+3,1",2024-03-19,10:10:00,CAPDEPERA,Capdepera,Baleares,39.71666666666667,3.4780555555555557
+B691Y,13.25,18.3,no hace calor,"-0,3",8.2,más cálida de lo normal,"+0,4",2024-03-19,10:10:00,SA POBLA,Sa Pobla,Baleares,39.74916666666667,3.0166666666666666
+B893,14.5,19,hace mucho calor,"+2,2",10,más cálida de lo normal,"+0,8",2024-03-19,10:10:00,"MENORCA, AEROPUERTO","Menorca, Aeropuerto",Baleares,39.85472222222222,4.2155555555555555
+B954,13.649999999999999,16.7,no hace calor,"-1,4",10.6,más cálida de lo normal,"+0,9",2024-03-19,10:00:00,"IBIZA, AEROPUERTO","Ibiza, Aeropuerto",Baleares,38.87638888888889,1.3844444444444444
+C029O,19.1,20.6,no hace calor,"-2,6",17.6,anormalmente cálida,+2,2024-03-19,09:10:00,LANZAROTE AEROPUERTO,Lanzarote Aeropuerto,Las Palmas,36.10194444444444,-9.250277777777777
+C129Z,18.45,19.5,no hace calor,"-4,7",17.4,anormalmente cálida,"+1,5",2024-03-19,09:10:00,TAZACORTE,Tazacorte,Sta. Cruz de Tenerife,35.74583333333333,-13.565277777777778
+C139E,19.450000000000003,20.3,no hace calor,"-0,9",18.6,extremadamente cálida,"+2,5",2024-03-19,09:10:00,LA PALMA AEROPUERTO,La Palma Aeropuerto,Sta. Cruz de Tenerife,35.78305555555556,-13.405
+C229J,20.35,21.3,no hace calor,"-0,7",19.4,extremadamente cálida,"+3,2",2024-03-19,09:10:00,PÁJARA,Pájara,Las Palmas,35.19916666666667,-10.008055555555556
+C249I,18.700000000000003,19.8,no hace calor,"-2,6",17.6,anormalmente cálida,"+1,9",2024-03-19,09:10:00,FUERTEVENTURA AEROPUERTO,Fuerteventura Aeropuerto,Las Palmas,35.594722222222224,-9.513055555555557
+C429I,19.5,21.5,no hace calor,"-2,1",17.5,anormalmente cálida,"+2,3",2024-03-19,09:10:00,TENERIFE SUR AEROPUERTO,Tenerife Sur Aeropuerto,Sta. Cruz de Tenerife,35.19694444444445,-12.211111111111114
+C430E,9.7,11.5,hace calor,"+0,9",7.9,anormalmente cálida,"+4,5",2024-03-19,09:10:00,IZAÑA,Izaña,Sta. Cruz de Tenerife,35.45888888888889,-12.149444444444446
+C439J,18.55,20.8,no hace calor,"-1,4",16.3,extremadamente cálida,"+2,1",2024-03-19,09:10:00,GÜÍMAR,Güímar,Sta. Cruz de Tenerife,35.468333333333334,-12.032222222222222
+C447A,14.2,14.5,no hace calor,"-3,3",13.9,anormalmente cálida,"+2,7",2024-03-19,09:10:00,TENERIFE NORTE AEROPUERTO,Tenerife Norte Aeropuerto,Sta. Cruz de Tenerife,35.6275,-11.979444444444445
+C449C,19.8,21.8,no hace calor,"-0,6",17.8,anormalmente cálida,"+1,4",2024-03-19,09:10:00,STA.CRUZ DE TENERIFE,Sta. Cruz de Tenerife,Sta. Cruz de Tenerife,35.61333333333333,-11.905277777777778
+C459Z,19.25,19.9,no hace calor,"-1,9",18.6,extremadamente cálida,+3,2024-03-19,09:10:00,PUERTO DE LA CRUZ,Puerto de la Cruz,Sta. Cruz de Tenerife,35.56805555555556,-12.198055555555557
+C619I,19.9,20.7,no hace calor,"-1,2",19.1,extremadamente cálida,+4,2024-03-19,09:10:00,LA ALDEA DE SAN NICOLÁS,La Aldea de San Nicolás,Las Palmas,35.15083333333333,-11.46388888888889
+C629X,19.15,21.3,no hace calor,"-3,1",17,más cálida de lo normal,+1,2024-03-19,09:10:00,"MOGÁN, PUERTO","Mogán, Puerto",Las Palmas,34.96638888888889,-11.414166666666667
+C649I,19.8,20.8,no hace calor,"-1,5",18.8,anormalmente cálida,"+2,5",2024-03-19,09:10:00,GRAN CANARIA AEROPUERTO,Gran Canaria Aeropuerto,Las Palmas,35.06777777777778,-11.045277777777777
+C659H,18.65,19.6,no hace calor,"-0,9",17.7,anormalmente cálida,+1,2024-03-19,09:10:00,"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL","Las Palmas de Gran Canaria, San Cristobal",Las Palmas,35.23972222222222,-11.066111111111113
+C659M,19.700000000000003,20.1,no hace calor,"-0,8",19.3,extremadamente cálida,"+1,9",2024-03-19,09:10:00,"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA","Las Palmas de Gran Canaria, Pl. de la Feria",Las Palmas,35.26305555555556,-11.071388888888889
+C689E,18.7,20.5,no hace calor,"-2,4",16.9,anormalmente cálida,"+1,4",2024-03-19,09:10:00,MASPALOMAS,Maspalomas,Las Palmas,34.88583333333334,-11.245833333333332
+C929I,20.35,21,no hace calor,"-0,1",19.7,extremadamente cálida,"+2,1",2024-03-19,09:10:00,HIERRO AEROPUERTO,Hierro Aeropuerto,Sta. Cruz de Tenerife,34.96888888888889,-13.53888888888889
