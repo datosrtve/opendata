@@ -1,0 +1,952 @@
+year,cod_ine,nom_mun,nom_prov,poblacion,ganador,ganador_por,color,ganador_bloque,ganador_por_bloque,color_bloque,partido_1,partido_2,partido_3,partido_4,partido_5,partido_6,partido_8,partido_99
+2021,08001,Abrera,Barcelona,9262,PSC,33.61,#da1f35,No nacionalistas,66.78,#fa8c00,33.61,20.04,7.78,11.45,8.41,3.41,3.69,2.33
+2021,08002,Aguilar de Segarra,Barcelona,218,JxCat,39.05,#00c4b2,Nacionalismo/independentismo,89.35,#18a1cd,3.55,16.57,39.05,2.96,1.18,22.49,1.18,11.24
+2021,08003,Alella,Barcelona,7246,JxCat,27.5,#00c4b2,Nacionalismo/independentismo,60.18,#18a1cd,16.42,21.52,27.5,6.97,4.46,5.9,4.59,5.63
+2021,08004,Alpens,Barcelona,212,JxCat,46.59,#00c4b2,Nacionalismo/independentismo,90.34,#18a1cd,3.41,25.57,46.59,0.57,3.98,10.8,0,7.38
+2021,08005,L'Ametlla del Vallès,Barcelona,6576,JxCat,32.47,#00c4b2,Nacionalismo/independentismo,66.76,#18a1cd,12.94,23.25,32.47,7.24,5,6.2,2.79,5.32
+2021,08006,Arenys de Mar,Barcelona,11821,JxCat,32.44,#00c4b2,Nacionalismo/independentismo,66.68,#18a1cd,14.93,22.42,32.44,5.43,5,8.05,3.28,4.24
+2021,08007,Arenys de Munt,Barcelona,6931,JxCat,33.57,#00c4b2,Nacionalismo/independentismo,75.63,#18a1cd,10.66,28.09,33.57,4.42,3.85,10.43,1.76,4.11
+2021,08008,Argençola,Barcelona,177,JxCat,33.62,#00c4b2,Nacionalismo/independentismo,79.31,#18a1cd,4.31,21.55,33.62,6.03,5.17,18.97,1.72,6.03
+2021,08009,Argentona,Barcelona,9652,JxCat,27.38,#00c4b2,Nacionalismo/independentismo,62.17,#18a1cd,15.95,22.76,27.38,6.78,5.75,7.87,3.34,4.6899999999999995
+2021,08010,Artés,Barcelona,4250,JxCat,31.72,#00c4b2,Nacionalismo/independentismo,74.32,#18a1cd,11.91,26.28,31.72,4.67,3.36,12.48,1.15,4.25
+2021,08011,Avià,Barcelona,1745,JxCat,37.82,#00c4b2,Nacionalismo/independentismo,87.82,#18a1cd,6,29.45,37.82,1.09,2.45,13.82,0.64,7.27
+2021,08012,Avinyó,Barcelona,1728,JxCat,39.96,#00c4b2,Nacionalismo/independentismo,84.33,#18a1cd,7.79,27.86,39.96,1.69,2.44,10.98,1.22,5.53
+2021,08013,Avinyonet del Penedès,Barcelona,1297,JxCat,41.22,#00c4b2,Nacionalismo/independentismo,73.97,#18a1cd,11.46,23.79,41.22,4.48,4.48,6.1,1.12,2.9800000000000004
+2021,08014,Aiguafreda,Barcelona,2048,JxCat,32.35,#00c4b2,Nacionalismo/independentismo,74.5,#18a1cd,11.6,28.56,32.35,3.87,4.2,9.47,1.89,4.61
+2021,08015,Badalona,Barcelona,155351,PSC,30.15,#da1f35,No nacionalistas,61.24,#fa8c00,30.15,18.91,12.01,9.73,8.05,5.46,5.73,2.5500000000000003
+2021,08016,Bagà,Barcelona,1789,JxCat,32.19,#00c4b2,Nacionalismo/independentismo,72.12,#18a1cd,16.46,26.98,32.19,2.7,2.79,9.89,1.44,3.4200000000000004
+2021,08017,Balenyà,Barcelona,2824,JxCat,33.75,#00c4b2,Nacionalismo/independentismo,72.3,#18a1cd,13.62,25.86,33.75,4.87,3.36,10,0.99,3.42
+2021,08018,Balsareny,Barcelona,2564,JxCat,27.12,#00c4b2,Nacionalismo/independentismo,64.55,#18a1cd,17.11,25.66,27.12,7.31,4.61,8.33,1.54,4.02
+2021,08019,Barcelona,Barcelona,1099283,PSC,23.56,#da1f35,No nacionalistas,52.06,#fa8c00,23.56,19.08,17.87,7.13,9.18,6.94,5.29,4.04
+2021,08020,Begues,Barcelona,5374,ERC,25.41,#e5ab4b,Nacionalismo/independentismo,58.29,#18a1cd,18.39,25.41,21.68,6.55,6.87,7.02,2.84,4.859999999999999
+2021,08021,Bellprat,Barcelona,64,JxCat,43.59,#00c4b2,Nacionalismo/independentismo,87.18,#18a1cd,7.69,25.64,43.59,5.13,0,10.26,0,7.69
+2021,08022,Berga,Barcelona,12176,JxCat,38.77,#00c4b2,Nacionalismo/independentismo,79.72,#18a1cd,10.7,23.92,38.77,2.64,2.89,12.2,1.22,5.01
+2021,08023,Bigues i Riells,Barcelona,7257,ERC,28.36,#e5ab4b,Nacionalismo/independentismo,59.46,#18a1cd,17.37,28.36,21.63,7.21,5.9,7.21,2.81,3.03
+2021,08024,Borredà,Barcelona,363,JxCat,36.96,#00c4b2,Nacionalismo/independentismo,80,#18a1cd,10.87,31.3,36.96,2.17,2.17,10,1.3,2.17
+2021,08025,El Bruc,Barcelona,1615,ERC,25.49,#e5ab4b,Nacionalismo/independentismo,64.18,#18a1cd,15.5,25.49,12.28,6.08,6.89,10.91,1.72,16.41
+2021,08026,El Brull,Barcelona,201,JxCat,47.37,#00c4b2,Nacionalismo/independentismo,87.5,#18a1cd,2.63,21.71,47.37,4.61,1.32,12.5,1.32,5.92
+2021,08027,Les Cabanyes,Barcelona,745,JxCat,32.92,#00c4b2,Nacionalismo/independentismo,71.77,#18a1cd,13.29,22.29,32.92,5.32,3.89,10.63,2.04,6.95
+2021,08028,Cabrera d'Anoia,Barcelona,1153,ERC,25.78,#e5ab4b,No nacionalistas,55.62,#fa8c00,23.64,25.78,11.63,12.02,7.75,4.07,4.46,2.9
+2021,08029,Cabrera de Mar,Barcelona,3673,JxCat,28.83,#00c4b2,Nacionalismo/independentismo,65.09,#18a1cd,14.37,21.35,28.83,4.69,4.36,7.06,3.91,8.1
+2021,08030,Cabrils,Barcelona,5295,JxCat,32.27,#00c4b2,Nacionalismo/independentismo,67.35,#18a1cd,13.16,23.1,32.27,5.36,4.38,5.75,3.78,6.56
+2021,08031,Calaf,Barcelona,2313,JxCat,36.07,#00c4b2,Nacionalismo/independentismo,69.65,#18a1cd,16.94,22.21,36.07,3.16,3.99,5.87,1.43,5.88
+2021,08032,Caldes d'Estrac,Barcelona,2169,JxCat,27.21,#00c4b2,Nacionalismo/independentismo,60.71,#18a1cd,18.3,24.11,27.21,5.09,6.84,4.69,3.34,5.66
+2021,08033,Caldes de Montbui,Barcelona,13372,ERC,25.05,#e5ab4b,Nacionalismo/independentismo,61.58,#18a1cd,18.74,25.05,23.81,6.13,5.64,9.24,2.51,3.97
+2021,08034,Calders,Barcelona,837,JxCat,36.91,#00c4b2,Nacionalismo/independentismo,86.18,#18a1cd,6,28.55,36.91,2.73,1.45,14,1.45,6.8999999999999995
+2021,08035,Calella,Barcelona,13072,JxCat,26.27,#00c4b2,Nacionalismo/independentismo,60.87,#18a1cd,17.53,24.18,26.27,7.13,5.34,6.62,2.94,4.52
+2021,08036,Calonge de Segarra,Barcelona,159,JxCat,38.46,#00c4b2,Nacionalismo/independentismo,88.03,#18a1cd,7.69,26.5,38.46,0.85,0.85,7.69,0,16.23
+2021,08037,Calldetenes,Barcelona,1948,JxCat,47.73,#00c4b2,Nacionalismo/independentismo,87.81,#18a1cd,4.77,23.98,47.73,2.42,1.8,11.8,0.62,4.46
+2021,08038,Callús,Barcelona,1535,ERC,31.37,#e5ab4b,Nacionalismo/independentismo,75.42,#18a1cd,11.04,31.37,30.05,4.37,4.15,8.31,1.2,6.569999999999999
+2021,08039,Campins,Barcelona,413,JxCat,33.68,#00c4b2,Nacionalismo/independentismo,74.04,#18a1cd,11.23,23.16,33.68,2.11,8.42,14.39,0.7,3.51
+2021,08040,Canet de Mar,Barcelona,11167,JxCat,26.45,#00c4b2,Nacionalismo/independentismo,62.88,#18a1cd,16.74,25.25,26.45,6.68,5.8,8.17,2.8,3.85
+2021,08041,Canovelles,Barcelona,10725,PSC,36.75,#da1f35,No nacionalistas,69.48,#fa8c00,36.75,14.64,10.87,13.28,6.57,2.54,3.96,2.6
+2021,08042,Cànoves i Samalús,Barcelona,2465,ERC,24.47,#e5ab4b,Nacionalismo/independentismo,52.3,#18a1cd,21.2,24.47,18.16,8.81,6.94,6.55,4.44,3.82
+2021,08043,Canyelles,Barcelona,3553,PSC,23.96,#da1f35,No nacionalistas,52.08,#fa8c00,23.96,21.53,15.78,9.79,6.41,4.51,2.55,6
+2021,08044,Capellades,Barcelona,4117,ERC,24.8,#e5ab4b,Nacionalismo/independentismo,62.42,#18a1cd,19.22,24.8,19.7,4.76,4.81,13.79,2.55,5.09
+2021,08045,Capolat,Barcelona,63,JxCat,53.66,#00c4b2,Nacionalismo/independentismo,95.12,#18a1cd,0,17.07,53.66,0,2.44,21.95,0,4.88
+2021,08046,Cardedeu,Barcelona,13749,JxCat,25.24,#00c4b2,Nacionalismo/independentismo,64.25,#18a1cd,16.61,24.15,25.24,4.49,7.48,11.49,1.96,3.93
+2021,08047,Cardona,Barcelona,3668,ERC,29.54,#e5ab4b,Nacionalismo/independentismo,62.99,#18a1cd,21.31,29.54,21.21,4.59,3.04,7.91,3.26,4.86
+2021,08048,Carme,Barcelona,574,JxCat,35.04,#00c4b2,Nacionalismo/independentismo,80.87,#18a1cd,9.7,31.27,35.04,1.89,2.43,8.36,1.08,6.470000000000001
+2021,08049,Casserres,Barcelona,1308,JxCat,38.98,#00c4b2,Nacionalismo/independentismo,86.22,#18a1cd,5.64,27.03,38.98,1.84,1.97,14.44,1.71,6.95
+2021,08050,Castellar del Riu,Barcelona,130,JxCat,51.04,#00c4b2,Nacionalismo/independentismo,94.79,#18a1cd,2.08,20.83,51.04,1.04,0,10.42,0,12.5
+2021,08051,Castellar del Vallès,Barcelona,18928,ERC,24.82,#e5ab4b,Nacionalismo/independentismo,55.93,#18a1cd,21.79,24.82,22.01,6.81,6.61,6.48,2.51,3.46
+2021,08052,Castellar de n'Hug,Barcelona,142,JxCat,48.45,#00c4b2,Nacionalismo/independentismo,87.62,#18a1cd,7.22,21.65,48.45,2.06,2.06,1.03,0,16.49
+2021,08053,Castellbell i el Vilar,Barcelona,2949,ERC,27.05,#e5ab4b,Nacionalismo/independentismo,59.01,#18a1cd,20.19,27.05,22.06,9.69,4.77,5.66,1.79,4.91
+2021,08054,Castellbisbal,Barcelona,9346,PSC,24.25,#da1f35,No nacionalistas,52.65,#fa8c00,24.25,22.24,15.81,9.7,7.83,6.64,2.8,2.93
+2021,08055,Castellcir,Barcelona,542,ERC,33.43,#e5ab4b,Nacionalismo/independentismo,78.51,#18a1cd,5.97,33.43,25.37,5.07,5.07,15.82,0,5.09
+2021,08056,Castelldefels,Barcelona,42966,PSC,28.89,#da1f35,No nacionalistas,65.55,#fa8c00,28.89,17.45,10.28,11.17,7.52,3.19,7.51,3.46
+2021,08057,Castell de l'Areny,Barcelona,62,JxCat,40.91,#00c4b2,Nacionalismo/independentismo,84.09,#18a1cd,2.27,20.45,40.91,0,9.09,13.64,2.27,9.09
+2021,08058,Castellet i la Gornal,Barcelona,1860,ERC,26.32,#e5ab4b,Nacionalismo/independentismo,53.96,#18a1cd,22.58,26.32,17.62,8.26,7.27,6.94,1.43,3.4099999999999997
+2021,08059,Castellfollit del Boix,Barcelona,353,JxCat,36.41,#00c4b2,Nacionalismo/independentismo,85.72,#18a1cd,5.53,24.88,36.41,0.46,2.3,19.82,1.38,5.07
+2021,08060,Castellfollit de Riubregós,Barcelona,138,JxCat,46.08,#00c4b2,Nacionalismo/independentismo,79.41,#18a1cd,9.8,13.73,46.08,1.96,2.94,10.78,3.92,9.8
+2021,08061,Castellgalí,Barcelona,1671,PSC,23.34,#da1f35,Nacionalismo/independentismo,51.22,#18a1cd,23.34,22.85,19.16,9.46,6.76,5.04,3.44,4.92
+2021,08062,Castellnou de Bages,Barcelona,1044,JxCat,28.61,#00c4b2,Nacionalismo/independentismo,68.37,#18a1cd,13.25,26.81,28.61,5.87,3.92,9.19,2.11,4.21
+2021,08063,Castellolí,Barcelona,490,ERC,34.08,#e5ab4b,Nacionalismo/independentismo,83.52,#18a1cd,7.54,34.08,32.4,1.4,2.79,8.1,0.84,10.06
+2021,08064,Castellterçol,Barcelona,1997,JxCat,33.73,#00c4b2,Nacionalismo/independentismo,77.35,#18a1cd,11.5,28.45,33.73,2.81,4.26,9.54,1.19,6.069999999999999
+2021,08065,Castellví de la Marca,Barcelona,1222,JxCat,31.18,#00c4b2,Nacionalismo/independentismo,76.18,#18a1cd,10.39,30.26,31.18,2.5,3.82,9.87,2.63,5.66
+2021,08066,Castellví de Rosanes,Barcelona,1496,ERC,24.1,#e5ab4b,No nacionalistas,50.28,#fa8c00,23.23,24.1,14.94,10.47,7.52,5.34,2.73,5.23
+2021,08067,Centelles,Barcelona,5846,JxCat,36.55,#00c4b2,Nacionalismo/independentismo,75.9,#18a1cd,12.51,23.83,36.55,2.8,3.72,10.96,1.52,4.9799999999999995
+2021,08068,Cervelló,Barcelona,6922,ERC,26.56,#e5ab4b,Nacionalismo/independentismo,50.11,#18a1cd,22.62,26.56,16.29,10.01,6.25,5.46,3.28,2.43
+2021,08069,Collbató,Barcelona,3489,ERC,27.93,#e5ab4b,Nacionalismo/independentismo,60.66,#18a1cd,15.66,27.93,22.73,7.88,5.91,6.11,2.68,4.34
+2021,08070,Collsuspina,Barcelona,289,JxCat,45.83,#00c4b2,Nacionalismo/independentismo,83.34,#18a1cd,6.94,25.93,45.83,0.93,5.56,8.8,0.46,3.24
+2021,08071,Copons,Barcelona,252,JxCat,33.9,#00c4b2,Nacionalismo/independentismo,75.7,#18a1cd,11.86,22.03,33.9,1.69,4.52,12.43,1.69,9.03
+2021,08072,Corbera de Llobregat,Barcelona,10870,ERC,26.63,#e5ab4b,Nacionalismo/independentismo,56.59,#18a1cd,18.36,26.63,20.37,8.14,6.02,6.55,2.42,3.84
+2021,08073,Cornellà de Llobregat,Barcelona,62769,PSC,40.09,#da1f35,No nacionalistas,73.71,#fa8c00,40.09,15.11,5.72,9.24,10.99,3.81,4.37,1.97
+2021,08074,Cubelles,Barcelona,11414,PSC,27.26,#da1f35,No nacionalistas,57.85,#fa8c00,27.26,22.44,12.72,11.71,7.03,4.34,3.41,2.61
+2021,08075,Dosrius,Barcelona,4230,ERC,26.37,#e5ab4b,Nacionalismo/independentismo,56.57,#18a1cd,18.86,26.37,21.93,9.74,5.25,6.29,3.02,2.4
+2021,08076,Esparreguera,Barcelona,16696,PSC,26.3,#da1f35,No nacionalistas,50.74,#fa8c00,26.3,25.4,14.11,7.47,6.98,6.49,3.07,3.1199999999999997
+2021,08077,Esplugues de Llobregat,Barcelona,34396,PSC,34.43,#da1f35,No nacionalistas,67.58,#fa8c00,34.43,15.76,10.08,9.27,8.21,3.57,6.34,3.15
+2021,08078,L'Espunyola,Barcelona,220,JxCat,48.18,#00c4b2,Nacionalismo/independentismo,90.52,#18a1cd,0.73,22.63,48.18,0,2.19,13.14,2.19,6.57
+2021,08079,L'Estany,Barcelona,338,ERC,35.25,#e5ab4b,Nacionalismo/independentismo,85.67,#18a1cd,6.56,35.25,33.2,1.23,2.46,11.07,0.41,6.5600000000000005
+2021,08080,Fígols,Barcelona,38,ERC,37.04,#e5ab4b,Nacionalismo/independentismo,70.37,#18a1cd,3.7,37.04,18.52,3.7,0,14.81,14.81,0
+2021,08081,Fogars de Montclús,Barcelona,354,JxCat,50.62,#00c4b2,Nacionalismo/independentismo,86.01,#18a1cd,4.12,17.28,50.62,1.65,4.12,11.11,0.82,8.23
+2021,08082,Fogars de la Selva,Barcelona,1210,PSC,22.72,#da1f35,No nacionalistas,55.95,#fa8c00,22.72,14.97,21.34,13.6,8.61,4.3,3.1,3.62
+2021,08083,Folgueroles,Barcelona,1712,JxCat,53.34,#00c4b2,Nacionalismo/independentismo,89.7,#18a1cd,5.38,20.29,53.34,0.92,2,11.38,0.69,4.84
+2021,08084,Fonollosa,Barcelona,1197,JxCat,30.3,#00c4b2,Nacionalismo/independentismo,77.98,#18a1cd,10.73,30.16,30.3,4.35,2.31,10.19,1.36,7.470000000000001
+2021,08085,Font-rubí,Barcelona,1012,JxCat,32.97,#00c4b2,Nacionalismo/independentismo,82.42,#18a1cd,8.63,26.69,32.97,3.3,2.83,10.36,0.94,12.56
+2021,08086,Les Franqueses del Vallès,Barcelona,14251,PSC,24.81,#da1f35,No nacionalistas,49.95,#fa8c00,24.81,22.9,18.15,9.11,5.92,5.59,2.27,3.16
+2021,08087,Gallifa,Barcelona,151,JxCat,41.88,#00c4b2,Nacionalismo/independentismo,77.77,#18a1cd,8.55,15.38,41.88,1.71,7.69,8.55,1.71,11.96
+2021,08088,La Garriga,Barcelona,12446,JxCat,31.31,#00c4b2,Nacionalismo/independentismo,69.53,#18a1cd,14.61,23.87,31.31,3.99,5.1,10.75,2.1,4.21
+2021,08089,Gavà,Barcelona,34124,PSC,33.5,#da1f35,No nacionalistas,65.59,#fa8c00,33.5,18.61,10.05,10.59,7.08,2.89,5.05,2.78
+2021,08090,Gaià,Barcelona,138,JxCat,40.82,#00c4b2,Nacionalismo/independentismo,90.81,#18a1cd,5.1,32.65,40.82,0,4.08,7.14,0,10.2
+2021,08091,Gelida,Barcelona,5527,ERC,26.52,#e5ab4b,Nacionalismo/independentismo,55.91,#18a1cd,21.86,26.52,19.76,5.76,8.23,7.43,2.1,3.1
+2021,08092,Gironella,Barcelona,3694,JxCat,32.71,#00c4b2,Nacionalismo/independentismo,81.11,#18a1cd,9.7,26.34,32.71,2.53,2.25,10.4,1.69,12.26
+2021,08093,Gisclareny,Barcelona,25,JxCat,38.1,#00c4b2,Nacionalismo/independentismo,80.96,#18a1cd,0,23.81,38.1,0,14.29,19.05,0,0
+2021,08094,La Granada,Barcelona,1631,Empate,29.08,#ADA9AC,Nacionalismo/independentismo,72.7,#18a1cd,13.65,29.08,29.08,3.69,4.28,9.76,1.39,5.58
+2021,08095,Granera,Barcelona,75,JxCat,37.04,#00c4b2,Nacionalismo/independentismo,88.89,#18a1cd,7.41,31.48,37.04,0,0,14.81,0,5.56
+2021,08096,Granollers,Barcelona,44009,PSC,26.1,#da1f35,Nacionalismo/independentismo,49.87,#18a1cd,26.1,20.8,20.1,6.93,5.87,5.75,3.48,3.97
+2021,08097,Gualba,Barcelona,1118,JxCat,35.79,#00c4b2,Nacionalismo/independentismo,74.52,#18a1cd,12.81,25.49,35.79,3.9,5.29,10.17,1.25,3.21
+2021,08098,Sant Salvador de Guardiola,Barcelona,2495,JxCat,25.6,#00c4b2,Nacionalismo/independentismo,62.33,#18a1cd,14.53,23.07,25.6,8.46,5.42,7.52,2.82,7.22
+2021,08099,Guardiola de Berguedà,Barcelona,762,JxCat,28.01,#00c4b2,Nacionalismo/independentismo,72.66,#18a1cd,16.41,25.6,28.01,2.84,3.06,15.1,0.66,5.49
+2021,08100,Gurb,Barcelona,2111,JxCat,48.21,#00c4b2,Nacionalismo/independentismo,85.37,#18a1cd,6.43,19.36,48.21,2.01,1.17,9.62,2.01,8.43
+2021,08101,L'Hospitalet de Llobregat,Barcelona,173629,PSC,38.93,#da1f35,No nacionalistas,71.83,#fa8c00,38.93,15.72,7.22,9.6,8.96,3.52,5.31,2.09
+2021,08102,Igualada,Barcelona,28984,JxCat,26.99,#00c4b2,Nacionalismo/independentismo,66.87,#18a1cd,16.27,22.31,26.99,4.94,4.05,7.59,2.86,10.45
+2021,08103,Jorba,Barcelona,650,JxCat,29.6,#00c4b2,Nacionalismo/independentismo,73.6,#18a1cd,10.67,27.2,29.6,5.07,3.47,10.4,1.33,6.93
+2021,08104,La Llacuna,Barcelona,675,JxCat,36.38,#00c4b2,Nacionalismo/independentismo,85.2,#18a1cd,4.46,25.35,36.38,1.41,3.05,14.08,2.82,10.09
+2021,08105,La Llagosta,Barcelona,9660,PSC,44.67,#da1f35,No nacionalistas,77.11,#fa8c00,44.67,13.89,5.09,10.95,7.42,2.24,4.72,1.6
+2021,08106,Llinars del Vallès,Barcelona,7600,ERC,27.54,#e5ab4b,Nacionalismo/independentismo,59.29,#18a1cd,19.43,27.54,21.63,6.43,4.86,7.11,2.58,4.16
+2021,08107,Lliçà d'Amunt,Barcelona,12188,PSC,25.68,#da1f35,No nacionalistas,55.21,#fa8c00,25.68,23.56,13.82,10.14,7.75,5.22,3.28,2.39
+2021,08108,Lliçà de Vall,Barcelona,5243,PSC,23.87,#da1f35,No nacionalistas,52.95,#fa8c00,23.87,22.07,17.41,8.51,6.68,4.02,4.52,3.16
+2021,08109,Lluçà,Barcelona,206,JxCat,32.08,#00c4b2,Nacionalismo/independentismo,91.2,#18a1cd,3.14,30.19,32.08,0,2.52,25.79,1.26,3.14
+2021,08110,Malgrat de Mar,Barcelona,13815,PSC,25.22,#da1f35,Nacionalismo/independentismo,51.63,#18a1cd,25.22,23.39,19.11,7.45,5.84,5.66,3.13,4.2
+2021,08111,Malla,Barcelona,220,JxCat,51.34,#00c4b2,Nacionalismo/independentismo,83.95,#18a1cd,6.42,16.04,51.34,1.6,2.14,8.02,2.14,8.55
+2021,08112,Manlleu,Barcelona,12901,JxCat,36.83,#00c4b2,Nacionalismo/independentismo,70.99,#18a1cd,14.88,21.64,36.83,5.67,3.04,8.63,1.27,4.11
+2021,08113,Manresa,Barcelona,51872,JxCat,30,#00c4b2,Nacionalismo/independentismo,67.24,#18a1cd,15.68,23.72,30,5.53,4.68,8.57,2.3,5.48
+2021,08114,Martorell,Barcelona,18961,PSC,30.15,#da1f35,No nacionalistas,57,#fa8c00,30.15,22.63,12.29,8.09,8.25,4.56,3.37,3.57
+2021,08115,Martorelles,Barcelona,3836,ERC,24.65,#e5ab4b,No nacionalistas,49.67,#fa8c00,24.6,24.65,17.54,8.07,7.54,5.13,2.25,2.82
+2021,08116,Les Masies de Roda,Barcelona,555,JxCat,48.55,#00c4b2,Nacionalismo/independentismo,84.96,#18a1cd,3.69,22.96,48.55,3.96,2.37,7.65,2.37,6.0600000000000005
+2021,08117,Les Masies de Voltregà,Barcelona,2517,JxCat,37.02,#00c4b2,Nacionalismo/independentismo,74.93,#18a1cd,13.04,23.4,37.02,4.35,3.32,10.04,1.28,4.66
+2021,08118,El Masnou,Barcelona,17673,ERC,24.34,#e5ab4b,Nacionalismo/independentismo,59,#18a1cd,17.81,24.34,23.18,5.96,7.23,7.88,3.55,4.359999999999999
+2021,08119,Masquefa,Barcelona,7156,PSC,24.46,#da1f35,No nacionalistas,53.1,#fa8c00,24.46,24.25,14.04,11.61,7.16,5.09,2.53,3.56
+2021,08120,Matadepera,Barcelona,7283,JxCat,42.36,#00c4b2,Nacionalismo/independentismo,75.15,#18a1cd,7.59,16.25,42.36,6.27,1.94,5.34,3.9,11.67
+2021,08121,Mataró,Barcelona,87625,PSC,24.74,#da1f35,No nacionalistas,52.07,#fa8c00,24.74,20.15,18.68,10.63,6.67,5.46,3.49,3.46
+2021,08122,Mediona,Barcelona,1772,ERC,31.23,#e5ab4b,Nacionalismo/independentismo,68.3,#18a1cd,14.78,31.23,22.53,5.01,7.27,11.32,0.95,4.17
+2021,08123,Molins de Rei,Barcelona,19609,ERC,25.82,#e5ab4b,Nacionalismo/independentismo,56.1,#18a1cd,22.79,25.82,19.04,5.43,7.24,8.17,2.26,3.8
+2021,08124,Mollet del Vallès,Barcelona,37276,PSC,33.66,#da1f35,No nacionalistas,62.62,#fa8c00,33.66,20.45,11.09,8.38,9.33,3.78,3.22,2.3
+2021,08125,Montcada i Reixac,Barcelona,25735,PSC,31.04,#da1f35,No nacionalistas,62.65,#fa8c00,31.04,21.43,9.69,9.8,10.03,4,3.47,2.52
+2021,08126,Montgat,Barcelona,8926,ERC,23.6,#e5ab4b,No nacionalistas,50.72,#fa8c00,22.73,23.6,16.44,7.99,8.89,5.94,3.17,3.3000000000000003
+2021,08127,Monistrol de Montserrat,Barcelona,2280,ERC,25.35,#e5ab4b,Nacionalismo/independentismo,61.84,#18a1cd,18.25,25.35,23.5,7.56,5.16,9.68,2.76,4.04
+2021,08128,Monistrol de Calders,Barcelona,597,JxCat,33.81,#00c4b2,Nacionalismo/independentismo,82.95,#18a1cd,7.1,30.11,33.81,4.83,2.56,14.2,0.57,5.3999999999999995
+2021,08129,Muntanyola,Barcelona,504,JxCat,35.8,#00c4b2,Nacionalismo/independentismo,84.66,#18a1cd,5.4,33.81,35.8,1.7,3.69,10.51,0.85,4.82
+2021,08130,Montclar,Barcelona,107,JxCat,46.97,#00c4b2,Nacionalismo/independentismo,89.39,#18a1cd,1.52,24.24,46.97,3.03,1.52,15.15,1.52,4.55
+2021,08131,Montesquiu,Barcelona,747,JxCat,39.02,#00c4b2,Nacionalismo/independentismo,80.39,#18a1cd,7.68,29.64,39.02,4.26,1.92,7.68,0.85,4.9
+2021,08132,Montmajor,Barcelona,358,JxCat,55.38,#00c4b2,Nacionalismo/independentismo,82.05,#18a1cd,9.23,12.31,55.38,2.05,3.08,8.21,2.05,6.15
+2021,08133,Montmaneu,Barcelona,129,JxCat,47.67,#00c4b2,Nacionalismo/independentismo,89.53,#18a1cd,4.65,20.93,47.67,3.49,0,6.98,2.33,13.95
+2021,08134,Figaró-Montmany,Barcelona,862,ERC,27.84,#e5ab4b,Nacionalismo/independentismo,68.43,#18a1cd,14.9,27.84,25.88,3.73,5.88,11.96,3.33,3.3400000000000003
+2021,08135,Montmeló,Barcelona,6831,PSC,35.13,#da1f35,No nacionalistas,66.14,#fa8c00,35.13,16.08,9.9,8.25,10.44,5.36,4.77,2.17
+2021,08136,Montornès del Vallès,Barcelona,11839,PSC,34.3,#da1f35,No nacionalistas,68.77,#fa8c00,34.3,16.61,9.42,10.99,9.82,3.22,4.6,2.02
+2021,08137,Montseny,Barcelona,285,JxCat,33.33,#00c4b2,Nacionalismo/independentismo,78.64,#18a1cd,10.42,22.92,33.33,1.56,7.29,13.02,0,10.41
+2021,08138,Moià,Barcelona,4577,ERC,30.28,#e5ab4b,Nacionalismo/independentismo,76.03,#18a1cd,11.5,30.28,28.72,3,4.13,11.18,1.68,6.12
+2021,08139,Mura,Barcelona,184,ERC,29.37,#e5ab4b,Nacionalismo/independentismo,82.51,#18a1cd,12.59,29.37,25.17,0,3.5,18.18,0,9.79
+2021,08140,Navarcles,Barcelona,4832,JxCat,28,#00c4b2,Nacionalismo/independentismo,65.47,#18a1cd,17.66,25.55,28,5.52,5.29,6.51,2.03,5.9399999999999995
+2021,08141,Navàs,Barcelona,4517,JxCat,32.69,#00c4b2,Nacionalismo/independentismo,75.53,#18a1cd,13.24,25.19,32.69,3.23,2.13,13.7,1.56,4.37
+2021,08142,La Nou de Berguedà,Barcelona,143,JxCat,41.44,#00c4b2,Nacionalismo/independentismo,81.08,#18a1cd,11.71,15.32,41.44,0.9,3.6,16.22,0,8.1
+2021,08143,Òdena,Barcelona,2749,PSC,24.24,#da1f35,Nacionalismo/independentismo,56.22,#18a1cd,24.24,21.66,20.37,5.97,5.09,6.86,1.77,8.280000000000001
+2021,08144,Olvan,Barcelona,728,JxCat,34.37,#00c4b2,Nacionalismo/independentismo,80.05,#18a1cd,8.2,26.61,34.37,3.1,1.55,13.75,3.1,5.54
+2021,08145,Olèrdola,Barcelona,2795,JxCat,25.19,#00c4b2,Nacionalismo/independentismo,63.58,#18a1cd,18.09,24.54,25.19,5.67,5.61,9.07,1.91,5.32
+2021,08146,Olesa de Bonesvalls,Barcelona,1436,ERC,24.81,#e5ab4b,No nacionalistas,52.52,#fa8c00,22.04,24.81,14.61,11.34,7.68,5.04,2.52,2.65
+2021,08147,Olesa de Montserrat,Barcelona,17547,ERC,25.43,#e5ab4b,Nacionalismo/independentismo,51.6,#18a1cd,23.25,25.43,17.08,6.96,7.35,7.01,2.04,3.02
+2021,08148,Olivella,Barcelona,2445,PSC,22.52,#da1f35,No nacionalistas,56.63,#fa8c00,22.52,22.1,14.18,14.51,7.34,5.5,2.84,2.33
+2021,08149,Olost,Barcelona,968,JxCat,42.65,#00c4b2,Nacionalismo/independentismo,88.89,#18a1cd,5.91,26.52,42.65,0.9,1.08,13.62,0.72,6.1
+2021,08150,Orís,Barcelona,265,JxCat,44.19,#00c4b2,Nacionalismo/independentismo,81.97,#18a1cd,7.56,18.6,44.19,1.74,4.65,12.21,2.33,6.97
+2021,08151,Oristà,Barcelona,449,JxCat,39.32,#00c4b2,Nacionalismo/independentismo,85.76,#18a1cd,6.44,22.03,39.32,1.36,2.37,10.51,1.69,14.24
+2021,08152,Orpí,Barcelona,115,JxCat,36.9,#00c4b2,Nacionalismo/independentismo,91.66,#18a1cd,4.76,33.33,36.9,2.38,1.19,16.67,0,4.76
+2021,08153,Òrrius,Barcelona,593,JxCat,30.05,#00c4b2,Nacionalismo/independentismo,81.49,#18a1cd,7.45,29.57,30.05,3.12,4.57,15.62,0.48,6.49
+2021,08154,Pacs del Penedès,Barcelona,699,JxCat,27.69,#00c4b2,Nacionalismo/independentismo,67.97,#18a1cd,13.96,23.11,27.69,4.81,5.72,7.55,2.75,9.62
+2021,08155,Palafolls,Barcelona,7180,PSC,24.86,#da1f35,No nacionalistas,50.87,#fa8c00,24.86,24.06,15.85,9.26,7.41,5.54,1.87,3.47
+2021,08156,Palau-solità i Plegamans,Barcelona,11317,ERC,24.86,#e5ab4b,Nacionalismo/independentismo,50.6,#18a1cd,21.85,24.86,18.24,9.55,6.7,4.8,3.14,3.24
+2021,08157,Pallejà,Barcelona,8669,PSC,28.79,#da1f35,No nacionalistas,58.49,#fa8c00,28.79,22.22,12.36,9.54,8.63,4.09,3.08,2.92
+2021,08158,El Papiol,Barcelona,3160,ERC,26.96,#e5ab4b,Nacionalismo/independentismo,55.72,#18a1cd,22.11,26.96,19.51,5.41,5.7,6.77,3.05,3.56
+2021,08159,Parets del Vallès,Barcelona,14302,PSC,28.93,#da1f35,No nacionalistas,54.6,#fa8c00,28.93,23.37,14.32,7.99,8.18,5.29,2.88,2.8
+2021,08160,Perafita,Barcelona,329,JxCat,43.84,#00c4b2,Nacionalismo/independentismo,87.69,#18a1cd,3.45,25.62,43.84,1.97,3.45,12.32,1.48,6.4
+2021,08161,Piera,Barcelona,12118,ERC,25.3,#e5ab4b,Nacionalismo/independentismo,50.22,#18a1cd,22,25.3,15.61,11.17,6.06,6.78,3.15,3.46
+2021,08162,Els Hostalets de Pierola,Barcelona,2163,ERC,29.83,#e5ab4b,Nacionalismo/independentismo,61.79,#18a1cd,16.24,29.83,20.04,7.68,5.21,9.89,3.35,2.8200000000000003
+2021,08163,Pineda de Mar,Barcelona,19992,PSC,26.68,#da1f35,No nacionalistas,52.91,#fa8c00,26.68,25.34,15.19,10.99,5.37,4.27,3.92,2.44
+2021,08164,El Pla del Penedès,Barcelona,933,ERC,32.03,#e5ab4b,Nacionalismo/independentismo,75.92,#18a1cd,10.17,32.03,25.42,3.56,4.58,11.86,1.19,7.119999999999999
+2021,08165,La Pobla de Claramunt,Barcelona,1654,JxCat,27.43,#00c4b2,Nacionalismo/independentismo,63.05,#18a1cd,20.91,21.02,27.43,4.65,4.31,8.41,1.44,6.96
+2021,08166,La Pobla de Lillet,Barcelona,933,JxCat,38.19,#00c4b2,Nacionalismo/independentismo,79.88,#18a1cd,9.78,29.15,38.19,3.69,3.14,8.49,1.48,4.23
+2021,08167,Polinyà,Barcelona,6121,PSC,32.27,#da1f35,No nacionalistas,66.63,#fa8c00,32.27,19.11,8.75,12.27,9.61,3.04,3.11,2.5
+2021,08168,Pontons,Barcelona,382,JxCat,35.12,#00c4b2,Nacionalismo/independentismo,64.87,#18a1cd,7.32,17.07,35.12,5.85,3.41,8.78,15.61,3.9
+2021,08169,El Prat de Llobregat,Barcelona,48657,PSC,35.87,#da1f35,No nacionalistas,69.14,#fa8c00,35.87,17.8,7.43,9.42,10.97,3.34,4.25,2.39
+2021,08170,Els Prats de Rei,Barcelona,443,JxCat,44.79,#00c4b2,Nacionalismo/independentismo,77.23,#18a1cd,11.97,19.31,44.79,2.7,2.7,6.95,1.54,6.959999999999999
+2021,08171,Prats de Lluçanès,Barcelona,2070,JxCat,43.87,#00c4b2,Nacionalismo/independentismo,86.6,#18a1cd,5.72,27.7,43.87,2.37,2.04,10.05,0.98,5.14
+2021,08172,Premià de Mar,Barcelona,20516,ERC,23.26,#e5ab4b,Nacionalismo/independentismo,52.86,#18a1cd,21.39,23.26,19.12,6.92,8.12,7.72,3.02,3.47
+2021,08174,Puigdàlber,Barcelona,403,JxCat,32.73,#00c4b2,Nacionalismo/independentismo,76,#18a1cd,8,26.91,32.73,8.36,3.27,11.27,2.55,5.090000000000001
+2021,08175,Puig-reig,Barcelona,3356,JxCat,33.14,#00c4b2,Nacionalismo/independentismo,78.23,#18a1cd,9.46,28.92,33.14,2.76,3.03,9.24,2.38,7.31
+2021,08176,Pujalt,Barcelona,156,JxCat,49.48,#00c4b2,Nacionalismo/independentismo,76.28,#18a1cd,5.15,24.74,49.48,4.12,4.12,0,6.19,2.06
+2021,08177,La Quar,Barcelona,35,CUP,35,#e5c64b,Nacionalismo/independentismo,95,#18a1cd,5,25,10,0,0,35,0,25
+2021,08178,Rajadell,Barcelona,441,Empate,26.45,#ADA9AC,Nacionalismo/independentismo,77.08,#18a1cd,8.39,26.45,26.45,6.45,4.19,11.61,0.97,12.57
+2021,08179,Rellinars,Barcelona,666,ERC,32.79,#e5ab4b,Nacionalismo/independentismo,65.58,#18a1cd,11.92,32.79,21.41,4.07,8.67,8.4,1.08,3.79
+2021,08180,Ripollet,Barcelona,27367,PSC,33.96,#da1f35,No nacionalistas,67.09,#fa8c00,33.96,17.82,8.14,11.27,10.11,4.71,3.68,2.31
+2021,08181,La Roca del Vallès,Barcelona,8173,PSC,25.93,#da1f35,Nacionalismo/independentismo,53.47,#18a1cd,25.93,23.03,21.34,6.96,5.13,5.96,2.58,3.8
+2021,08182,El Pont de Vilomara i Rocafort,Barcelona,2994,PSC,26.94,#da1f35,No nacionalistas,56,#fa8c00,26.94,22.84,13.76,16.11,5.12,4.69,1.98,2.05
+2021,08183,Roda de Ter,Barcelona,4586,JxCat,40.13,#00c4b2,Nacionalismo/independentismo,78.71,#18a1cd,9.71,24.85,40.13,4.1,3.48,9.4,0.77,4.83
+2021,08184,Rubí,Barcelona,55303,PSC,29.26,#da1f35,No nacionalistas,60.81,#fa8c00,29.26,20.62,11.14,10.96,8.75,4.93,3.55,2.63
+2021,08185,Rubió,Barcelona,197,ERC,27.97,#e5ab4b,Nacionalismo/independentismo,74.58,#18a1cd,5.93,27.97,19.49,6.78,6.78,9.32,0.85,17.8
+2021,08187,Sabadell,Barcelona,153953,PSC,26.98,#da1f35,No nacionalistas,52.75,#fa8c00,26.98,20.09,17.52,7.83,7.8,6.27,3.18,3.4
+2021,08188,Sagàs,Barcelona,117,JxCat,40.91,#00c4b2,Nacionalismo/independentismo,90.9,#18a1cd,3.41,20.45,40.91,0,0,19.32,1.14,10.22
+2021,08189,Sant Pere Sallavinera,Barcelona,123,JxCat,36.63,#00c4b2,Nacionalismo/independentismo,89.1,#18a1cd,2.97,26.73,36.63,0.99,1.98,9.9,1.98,15.84
+2021,08190,Saldes,Barcelona,260,JxCat,34.3,#00c4b2,Nacionalismo/independentismo,84.88,#18a1cd,5.23,30.23,34.3,0,4.65,15.7,0.58,4.65
+2021,08191,Sallent,Barcelona,5245,ERC,28.52,#e5ab4b,Nacionalismo/independentismo,67.21,#18a1cd,18.11,28.52,24.76,3.93,5.08,11.32,1.81,3.06
+2021,08192,Santpedor,Barcelona,5715,ERC,31.19,#e5ab4b,Nacionalismo/independentismo,73.49,#18a1cd,13.54,31.19,28.53,3.81,4.19,9.18,1.39,5.32
+2021,08193,Sant Iscle de Vallalta,Barcelona,1022,JxCat,29.86,#00c4b2,Nacionalismo/independentismo,70.15,#18a1cd,9.89,29.14,29.86,7.01,6.83,8.27,1.62,3.6
+2021,08194,Sant Adrià de Besòs,Barcelona,25594,PSC,34.1,#da1f35,No nacionalistas,68.87,#fa8c00,34.1,17.93,7.72,12.08,8.42,3.71,4.77,2.16
+2021,08195,Sant Agustí de Lluçanès,Barcelona,80,JxCat,50.98,#00c4b2,Nacionalismo/independentismo,86.27,#18a1cd,1.96,15.69,50.98,1.96,3.92,7.84,1.96,11.76
+2021,08196,Sant Andreu de la Barca,Barcelona,19510,PSC,36.71,#da1f35,No nacionalistas,70.49,#fa8c00,36.71,18.38,6.3,13.1,7.31,2.94,3.63,2.12
+2021,08197,Sant Andreu de Llavaneres,Barcelona,8082,JxCat,26.65,#00c4b2,Nacionalismo/independentismo,58.09,#18a1cd,16.01,22.21,26.65,9.05,4.44,4.2,5.65,5.51
+2021,08198,Sant Antoni de Vilamajor,Barcelona,4753,JxCat,30.25,#00c4b2,Nacionalismo/independentismo,68.69,#18a1cd,13.33,25.59,30.25,5.47,4.77,9.51,2.13,4.25
+2021,08199,Sant Bartomeu del Grau,Barcelona,655,JxCat,38.48,#00c4b2,Nacionalismo/independentismo,75.25,#18a1cd,14.22,19.36,38.48,2.7,3.19,9.56,1.23,7.85
+2021,08200,Sant Boi de Llobregat,Barcelona,62107,PSC,35.64,#da1f35,No nacionalistas,67.01,#fa8c00,35.64,19.03,8.09,9.41,9.87,3.58,3.76,2.08
+2021,08201,Sant Boi de Lluçanès,Barcelona,465,JxCat,42.07,#00c4b2,Nacionalismo/independentismo,82.07,#18a1cd,9.31,27.93,42.07,1.03,2.76,6.9,1.38,5.86
+2021,08202,Sant Celoni,Barcelona,13058,JxCat,30.45,#00c4b2,Nacionalismo/independentismo,65.34,#18a1cd,18.47,23.18,30.45,4.59,5.29,8.78,1.91,3.8
+2021,08203,Sant Cebrià de Vallalta,Barcelona,2523,JxCat,27.43,#00c4b2,Nacionalismo/independentismo,66.46,#18a1cd,14.66,27.27,27.43,6.82,4.47,8.31,2.66,4.24
+2021,08204,Sant Climent de Llobregat,Barcelona,3173,PSC,26.52,#da1f35,Nacionalismo/independentismo,52.43,#18a1cd,26.52,25.75,18.52,5.81,6.96,6.03,1.92,3.33
+2021,08205,Sant Cugat del Vallès,Barcelona,63270,JxCat,24.35,#00c4b2,Nacionalismo/independentismo,55.49,#18a1cd,17.38,17.89,24.35,7.41,6.56,6.74,5.43,7.050000000000001
+2021,08206,Sant Cugat Sesgarrigues,Barcelona,741,ERC,30.02,#e5ab4b,Nacionalismo/independentismo,73.99,#18a1cd,17.02,30.02,27.72,2.87,3.44,11.09,0.57,5.7299999999999995
+2021,08207,Sant Esteve de Palautordera,Barcelona,2126,JxCat,42.78,#00c4b2,Nacionalismo/independentismo,85.29,#18a1cd,4.49,23.7,42.78,2,3.52,14.72,1.24,4.51
+2021,08208,Sant Esteve Sesrovires,Barcelona,5870,ERC,25.48,#e5ab4b,No nacionalistas,51.04,#fa8c00,24.96,25.48,15.84,7.6,7.54,4.97,3.24,2.51
+2021,08209,Sant Fost de Campsentelles,Barcelona,7033,PSC,23.91,#da1f35,No nacionalistas,52.86,#fa8c00,23.91,22.01,17.95,10.07,6.83,4.11,4.91,2.66
+2021,08210,Sant Feliu de Codines,Barcelona,4726,JxCat,30.66,#00c4b2,Nacionalismo/independentismo,72.51,#18a1cd,13.91,27.65,30.66,3.85,4.06,9.89,2.2,5.1499999999999995
+2021,08211,Sant Feliu de Llobregat,Barcelona,34114,PSC,31.05,#da1f35,No nacionalistas,61.38,#fa8c00,31.05,19.59,11.47,8.58,9.01,4.69,3.96,3.05
+2021,08212,Sant Feliu Sasserra,Barcelona,481,JxCat,52.69,#00c4b2,Nacionalismo/independentismo,90.71,#18a1cd,4.49,28.44,52.69,0.9,0.9,6.29,1.5,3.29
+2021,08213,Sant Fruitós de Bages,Barcelona,6686,JxCat,32.36,#00c4b2,Nacionalismo/independentismo,69.06,#18a1cd,14.4,23.17,32.36,5.29,4.67,7.55,1.83,6.36
+2021,08214,Vilassar de Dalt,Barcelona,7049,JxCat,28.79,#00c4b2,Nacionalismo/independentismo,67.94,#18a1cd,13.43,27.17,28.79,5.22,5.15,8.04,2.99,4.37
+2021,08215,Sant Hipòlit de Voltregà,Barcelona,2618,JxCat,43.59,#00c4b2,Nacionalismo/independentismo,77.87,#18a1cd,11.56,20.54,43.59,3.76,2.25,9.71,1.85,4.36
+2021,08216,Sant Jaume de Frontanyà,Barcelona,23,ERC,50,#e5ab4b,Nacionalismo/independentismo,58.33,#18a1cd,33.33,50,0,0,8.33,0,0,8.33
+2021,08217,Sant Joan Despí,Barcelona,25442,PSC,34.8,#da1f35,No nacionalistas,65.88,#fa8c00,34.8,17.65,10.17,9.02,9.52,3.39,3.97,3.18
+2021,08218,Sant Joan de Vilatorrada,Barcelona,8032,PSC,23.82,#da1f35,Nacionalismo/independentismo,52.8,#18a1cd,23.82,21.81,21.88,7.65,6.38,6.14,2.45,3.4
+2021,08219,Vilassar de Mar,Barcelona,15803,JxCat,26.73,#00c4b2,Nacionalismo/independentismo,62.27,#18a1cd,16.91,22.53,26.73,5.12,6.95,8.35,3,5.26
+2021,08220,Sant Julià de Vilatorta,Barcelona,2424,JxCat,53.29,#00c4b2,Nacionalismo/independentismo,90.09,#18a1cd,4.32,22.14,53.29,1.44,1.16,9.57,0.66,5.21
+2021,08221,Sant Just Desvern,Barcelona,13386,PSC,22.19,#da1f35,Nacionalismo/independentismo,51.61,#18a1cd,22.19,19.47,20.08,6.92,6.36,6.73,5.15,5.91
+2021,08222,Sant Llorenç d'Hortons,Barcelona,1855,ERC,29.08,#e5ab4b,Nacionalismo/independentismo,65.36,#18a1cd,14.5,29.08,23.61,6.3,6.79,9.36,2.82,3.65
+2021,08223,Sant Llorenç Savall,Barcelona,1957,ERC,29.95,#e5ab4b,Nacionalismo/independentismo,74.26,#18a1cd,12.11,29.95,29.67,5.92,2.82,11.17,0.94,3.66
+2021,08224,Sant Martí de Centelles,Barcelona,884,Empate,30.41,#ADA9AC,Nacionalismo/independentismo,70.17,#18a1cd,11.5,30.41,30.41,6.24,5.85,7.8,1.95,2.13
+2021,08225,Sant Martí d'Albars,Barcelona,97,JxCat,57.97,#00c4b2,Nacionalismo/independentismo,97.1,#18a1cd,0,20.29,57.97,0,1.45,11.59,0,7.25
+2021,08226,Sant Martí de Tous,Barcelona,928,JxCat,33.68,#00c4b2,Nacionalismo/independentismo,84.87,#18a1cd,7.35,32.06,33.68,1.62,1.76,13.24,1.18,6.19
+2021,08227,Sant Martí Sarroca,Barcelona,2424,JxCat,28.7,#00c4b2,Nacionalismo/independentismo,73.52,#18a1cd,12.28,24.85,28.7,3.85,4.96,13.46,1.26,7.109999999999999
+2021,08228,Sant Martí Sesgueioles,Barcelona,287,JxCat,32.29,#00c4b2,Nacionalismo/independentismo,77.6,#18a1cd,6.77,28.12,32.29,4.69,4.17,9.9,3.12,7.81
+2021,08229,Sant Mateu de Bages,Barcelona,513,JxCat,34.97,#00c4b2,Nacionalismo/independentismo,84.69,#18a1cd,8.47,26.5,34.97,1.91,1.91,8.74,0.55,15.3
+2021,08230,Premià de Dalt,Barcelona,7707,JxCat,24.28,#00c4b2,Nacionalismo/independentismo,54.8,#18a1cd,19.72,20.44,24.28,8.39,5.13,5.57,3.68,5.01
+2021,08231,Sant Pere de Ribes,Barcelona,21551,PSC,26.98,#da1f35,No nacionalistas,54.93,#fa8c00,26.98,19.9,15.83,9.61,7.43,7.05,2.97,2.48
+2021,08232,Sant Pere de Riudebitlles,Barcelona,1798,Empate,29.49,#ADA9AC,Nacionalismo/independentismo,76.76,#18a1cd,13.77,29.49,29.49,1.86,3.81,12.5,1.37,5.68
+2021,08233,Sant Pere de Torelló,Barcelona,1876,JxCat,45.77,#00c4b2,Nacionalismo/independentismo,85.81,#18a1cd,8.19,26.57,45.77,2,1.09,10.56,0.27,3.36
+2021,08234,Sant Pere de Vilamajor,Barcelona,3513,ERC,27.33,#e5ab4b,Nacionalismo/independentismo,66.43,#18a1cd,12.85,27.33,24.19,5.91,6.29,11.01,2.39,4.71
+2021,08235,Sant Pol de Mar,Barcelona,3976,JxCat,37.48,#00c4b2,Nacionalismo/independentismo,76.59,#18a1cd,10.81,24.49,37.48,2.95,4.39,9.14,1.79,5.79
+2021,08236,Sant Quintí de Mediona,Barcelona,1609,ERC,32.84,#e5ab4b,Nacionalismo/independentismo,77.68,#18a1cd,10.64,32.84,29.06,2.97,2.97,10.3,1.83,5.71
+2021,08237,Sant Quirze de Besora,Barcelona,1633,JxCat,39.47,#00c4b2,Nacionalismo/independentismo,82.38,#18a1cd,9.99,26.05,39.47,1.96,2.06,11.17,1.37,6.279999999999999
+2021,08238,Sant Quirze del Vallès,Barcelona,14968,JxCat,24.72,#00c4b2,Nacionalismo/independentismo,58.16,#18a1cd,18.42,23.53,24.72,7.49,5.52,5.75,3.27,4.68
+2021,08239,Sant Quirze Safaja,Barcelona,476,JxCat,26.86,#00c4b2,Nacionalismo/independentismo,58.25,#18a1cd,13.27,20.71,26.86,6.8,7.77,4.85,5.5,7.76
+2021,08240,Sant Sadurní d'Anoia,Barcelona,9481,ERC,26.66,#e5ab4b,Nacionalismo/independentismo,65.09,#18a1cd,18.41,26.66,24.38,3.78,7.07,8.87,2.22,5.699999999999999
+2021,08241,Sant Sadurní d'Osormort,Barcelona,66,JxCat,47.06,#00c4b2,Nacionalismo/independentismo,76.47,#18a1cd,11.76,17.65,47.06,3.92,3.92,11.76,0,0
+2021,08242,Marganell,Barcelona,226,JxCat,34.07,#00c4b2,Nacionalismo/independentismo,80.74,#18a1cd,7.41,29.63,34.07,3.7,3.7,9.63,2.22,8.15
+2021,08243,Santa Cecília de Voltregà,Barcelona,152,JxCat,51.89,#00c4b2,Nacionalismo/independentismo,93.41,#18a1cd,2.83,27.36,51.89,0,0,5.66,0.94,8.5
+2021,08244,Santa Coloma de Cervelló,Barcelona,6207,ERC,26.01,#e5ab4b,No nacionalistas,52.52,#fa8c00,25.72,26.01,13.26,6.4,10.07,5.57,2.38,2.59
+2021,08245,Santa Coloma de Gramenet,Barcelona,76747,PSC,41.67,#da1f35,No nacionalistas,75.41,#fa8c00,41.67,14.93,4.77,9.88,9.81,3.4,4.49,1.81
+2021,08246,Santa Eugènia de Berga,Barcelona,1693,JxCat,50.46,#00c4b2,Nacionalismo/independentismo,88.34,#18a1cd,6.28,24.77,50.46,1.76,1.66,9.98,0.92,3.13
+2021,08247,Santa Eulàlia de Riuprimer,Barcelona,1013,JxCat,42.35,#00c4b2,Nacionalismo/independentismo,86.13,#18a1cd,5.58,25.04,42.35,1.72,2.72,13.45,1,6.15
+2021,08248,Santa Eulàlia de Ronçana,Barcelona,5805,ERC,26.78,#e5ab4b,Nacionalismo/independentismo,62.39,#18a1cd,17.05,26.78,25.22,5.33,6.02,8.31,2.25,2.71
+2021,08249,Santa Fe del Penedès,Barcelona,282,JxCat,33.78,#00c4b2,Nacionalismo/independentismo,73.34,#18a1cd,9.78,21.78,33.78,5.33,4.44,12.89,1.33,5.33
+2021,08250,Santa Margarida de Montbui,Barcelona,7194,PSC,34.35,#da1f35,No nacionalistas,63.38,#fa8c00,34.35,18.46,8.98,10.74,7.17,4.54,2.98,4.0200000000000005
+2021,08251,Santa Margarida i els Monjos,Barcelona,5181,PSC,26.96,#da1f35,Nacionalismo/independentismo,49.56,#18a1cd,26.96,24.86,16.96,8.06,5.93,5.38,1.98,3.64
+2021,08252,Barberà del Vallès,Barcelona,24879,PSC,34.32,#da1f35,No nacionalistas,69.33,#fa8c00,34.32,18.08,6.73,10.86,9.86,3.88,4.06,2.36
+2021,08253,Santa Maria de Besora,Barcelona,132,JxCat,43.33,#00c4b2,Nacionalismo/independentismo,85.54,#18a1cd,6.67,24.44,43.33,0,3.33,12.22,0,6.66
+2021,08254,L'Esquirol,Barcelona,1762,JxCat,42.83,#00c4b2,Nacionalismo/independentismo,91.07,#18a1cd,2.98,27.49,42.83,0.86,3.37,16.37,0.16,4.78
+2021,08255,Santa Maria de Merlès,Barcelona,124,JxCat,42.7,#00c4b2,Nacionalismo/independentismo,92.14,#18a1cd,1.12,21.35,42.7,1.12,3.37,20.22,0,7.87
+2021,08256,Santa Maria de Martorelles,Barcelona,692,ERC,27.14,#e5ab4b,Nacionalismo/independentismo,60.94,#18a1cd,12.62,27.14,18.57,6.19,12.14,11.9,1.9,4.52
+2021,08257,Santa Maria de Miralles,Barcelona,106,JxCat,30.67,#00c4b2,Nacionalismo/independentismo,74.67,#18a1cd,9.33,20,30.67,4,6.67,8,1.33,17.33
+2021,08258,Santa Maria d'Oló,Barcelona,839,Empate,34.48,#ADA9AC,Nacionalismo/independentismo,90.34,#18a1cd,3.97,34.48,34.48,0.69,1.38,17.59,1.03,4.3
+2021,08259,Santa Maria de Palautordera,Barcelona,7108,JxCat,29.57,#00c4b2,Nacionalismo/independentismo,68.19,#18a1cd,15.48,25.5,29.57,4.47,5.51,9.79,1.87,4.1499999999999995
+2021,08260,Santa Perpètua de Mogoda,Barcelona,18704,PSC,31.32,#da1f35,No nacionalistas,63.38,#fa8c00,31.32,20.32,10.14,10.83,8.92,3.99,3.58,2.29
+2021,08261,Santa Susanna,Barcelona,2447,ERC,22.76,#e5ab4b,Nacionalismo/independentismo,52.58,#18a1cd,17.89,22.76,19.71,9.45,6.11,7.56,3.05,2.98
+2021,08262,Sant Vicenç de Castellet,Barcelona,6968,ERC,26.29,#e5ab4b,Nacionalismo/independentismo,58.8,#18a1cd,20.22,26.29,22.61,6.59,5.64,6.68,2.11,3.62
+2021,08263,Sant Vicenç dels Horts,Barcelona,21241,PSC,29.53,#da1f35,No nacionalistas,60.47,#fa8c00,29.53,26.5,6.83,11.51,7.34,3.64,3.36,3.16
+2021,08264,Sant Vicenç de Montalt,Barcelona,4693,JxCat,28.68,#00c4b2,Nacionalismo/independentismo,58.3,#18a1cd,14.34,19,28.68,9.86,3.87,4.23,4.98,7.29
+2021,08265,Sant Vicenç de Torelló,Barcelona,1621,JxCat,42.29,#00c4b2,Nacionalismo/independentismo,85.66,#18a1cd,7.17,23.3,42.29,1.79,1.88,15.77,0.72,4.66
+2021,08266,Cerdanyola del Vallès,Barcelona,43468,PSC,29.93,#da1f35,No nacionalistas,59.82,#fa8c00,29.93,18.59,12.39,7.9,9.41,6.1,4.19,3.07
+2021,08267,Sentmenat,Barcelona,6897,ERC,23.66,#e5ab4b,Nacionalismo/independentismo,52.64,#18a1cd,22.68,23.66,19.19,9.57,7.15,8.05,2.48,2.51
+2021,08268,Cercs,Barcelona,979,ERC,33.8,#e5ab4b,Nacionalismo/independentismo,77.05,#18a1cd,13.31,33.8,30.47,2.98,2.28,9.28,1.05,4.2
+2021,08269,Seva,Barcelona,2780,JxCat,41.55,#00c4b2,Nacionalismo/independentismo,82.58,#18a1cd,6.66,25.81,41.55,3.94,2.84,11.05,1.22,4.23
+2021,08270,Sitges,Barcelona,19238,PSC,23.06,#da1f35,No nacionalistas,51.73,#fa8c00,23.06,19.78,19.31,9.58,5.89,4.66,4.86,4.39
+2021,08271,Sobremunt,Barcelona,65,PDeCAT,44.44,#1e4a8e,Nacionalismo/independentismo,75,#18a1cd,11.11,2.78,0,0,8.33,27.78,0,44.44
+2021,08272,Sora,Barcelona,162,JxCat,36.52,#00c4b2,Nacionalismo/independentismo,92.18,#18a1cd,1.74,25.22,36.52,0,2.61,18.26,0,12.18
+2021,08273,Subirats,Barcelona,2423,JxCat,31.59,#00c4b2,Nacionalismo/independentismo,80.15,#18a1cd,9.22,27.23,31.59,3.13,3.38,14.94,1.78,6.57
+2021,08274,Súria,Barcelona,4598,PSC,28.17,#da1f35,Nacionalismo/independentismo,56.24,#18a1cd,28.17,23.84,22.75,4.33,4.49,6.75,1.91,3.37
+2021,08275,Tavèrnoles,Barcelona,249,JxCat,42.13,#00c4b2,Nacionalismo/independentismo,89.31,#18a1cd,5.62,23.03,42.13,0.56,1.69,16.29,0.56,7.86
+2021,08276,Tagamanent,Barcelona,241,JxCat,30.61,#00c4b2,Nacionalismo/independentismo,70.74,#18a1cd,8.16,27.89,30.61,6.8,10.2,7.48,0,4.76
+2021,08277,Talamanca,Barcelona,174,JxCat,35.54,#00c4b2,Nacionalismo/independentismo,84.3,#18a1cd,7.44,33.88,35.54,0,2.48,5.79,4.13,9.09
+2021,08278,Taradell,Barcelona,4999,JxCat,48.36,#00c4b2,Nacionalismo/independentismo,87.68,#18a1cd,5.53,23.63,48.36,2.03,1.97,10.94,1.09,5.13
+2021,08279,Terrassa,Barcelona,156476,PSC,25.81,#da1f35,No nacionalistas,53.31,#fa8c00,25.81,20.94,16.72,9.21,7.54,5.54,3.36,3.49
+2021,08280,Tavertet,Barcelona,92,JxCat,36.76,#00c4b2,Nacionalismo/independentismo,83.82,#18a1cd,2.94,27.94,36.76,0,10.29,14.71,0,4.41
+2021,08281,Teià,Barcelona,4960,JxCat,31.41,#00c4b2,Nacionalismo/independentismo,66.52,#18a1cd,14.18,23.49,31.41,4.66,5.93,7.64,3.51,4.51
+2021,08282,Tiana,Barcelona,6858,JxCat,26.02,#00c4b2,Nacionalismo/independentismo,63.27,#18a1cd,16.56,24.24,26.02,4.7,5.84,8.07,3.71,5.48
+2021,08283,Tona,Barcelona,6216,JxCat,42.49,#00c4b2,Nacionalismo/independentismo,78.76,#18a1cd,10.59,22.13,42.49,4.07,2.39,10.12,1.03,4.52
+2021,08284,Tordera,Barcelona,12824,ERC,25.55,#e5ab4b,Nacionalismo/independentismo,56.92,#18a1cd,19.55,25.55,23.27,9.05,5.22,5.5,2.47,3.14
+2021,08285,Torelló,Barcelona,10309,JxCat,40.1,#00c4b2,Nacionalismo/independentismo,77.68,#18a1cd,11.47,22.96,40.1,3.07,3.05,10.62,0.94,4.37
+2021,08286,La Torre de Claramunt,Barcelona,3000,PSC,25.7,#da1f35,No nacionalistas,50.36,#fa8c00,25.7,21.03,16.57,9.75,4.74,6.41,2.23,5.720000000000001
+2021,08287,Torrelavit,Barcelona,1075,JxCat,35.01,#00c4b2,Nacionalismo/independentismo,82.62,#18a1cd,7.56,32.21,35.01,1.26,4.76,11.06,0.98,4.9
+2021,08288,Torrelles de Foix,Barcelona,1746,ERC,26.16,#e5ab4b,Nacionalismo/independentismo,60.42,#18a1cd,18.33,26.16,15.8,7.3,5.98,7.7,2.39,11.42
+2021,08289,Torrelles de Llobregat,Barcelona,4560,ERC,30.02,#e5ab4b,Nacionalismo/independentismo,63.97,#18a1cd,17.08,30.02,21.26,5.23,7.07,10.57,1.84,2.8
+2021,08290,Ullastrell,Barcelona,1567,ERC,29.97,#e5ab4b,Nacionalismo/independentismo,72.58,#18a1cd,11.21,29.97,29.66,5.5,5.2,11.11,0.82,2.14
+2021,08291,Vacarisses,Barcelona,5240,ERC,27.46,#e5ab4b,Nacionalismo/independentismo,54.12,#18a1cd,18.74,27.46,16.99,9.27,8,7.92,2.19,3.0599999999999996
+2021,08292,Vallbona d'Anoia,Barcelona,1062,JxCat,26.73,#00c4b2,Nacionalismo/independentismo,66.04,#18a1cd,18.55,22.17,26.73,5.03,3.77,15.25,2.52,2.36
+2021,08293,Vallcebre,Barcelona,237,JxCat,33.95,#00c4b2,Nacionalismo/independentismo,85.18,#18a1cd,9.26,27.78,33.95,1.23,1.85,15.43,1.85,8.02
+2021,08294,Vallgorguina,Barcelona,2194,JxCat,32.36,#00c4b2,Nacionalismo/independentismo,71.83,#18a1cd,9.87,27.02,32.36,5.1,6.72,10.11,2.35,3.23
+2021,08295,Vallirana,Barcelona,11512,PSC,26.87,#da1f35,No nacionalistas,56.77,#fa8c00,26.87,24.13,13.27,11.85,6.64,3.8,3.18,2.44
+2021,08296,Vallromanes,Barcelona,1873,JxCat,27.14,#00c4b2,Nacionalismo/independentismo,61.53,#18a1cd,17.03,24.53,27.14,7.33,4.65,4.65,3.18,5.7
+2021,08297,Veciana,Barcelona,135,JxCat,39.77,#00c4b2,Nacionalismo/independentismo,77.26,#18a1cd,3.41,20.45,39.77,3.41,4.55,5.68,2.27,13.64
+2021,08298,Vic,Barcelona,27198,JxCat,42.18,#00c4b2,Nacionalismo/independentismo,77.92,#18a1cd,10.66,20.23,42.18,3.67,3.39,10.07,1.38,5.89
+2021,08299,Vilada,Barcelona,375,JxCat,33.33,#00c4b2,Nacionalismo/independentismo,81.89,#18a1cd,8.64,29.22,33.33,2.47,2.88,15.23,0,4.52
+2021,08300,Viladecavalls,Barcelona,5991,ERC,25.95,#e5ab4b,Nacionalismo/independentismo,52.47,#18a1cd,18.06,25.95,17.98,9.06,8.32,5.97,3.09,3.51
+2021,08301,Viladecans,Barcelona,49304,PSC,38.77,#da1f35,No nacionalistas,73.46,#fa8c00,38.77,15.84,6.25,11.16,8.97,2.52,4.13,2.23
+2021,08302,Vilanova del Camí,Barcelona,9419,PSC,37.38,#da1f35,No nacionalistas,66.9,#fa8c00,37.38,16.77,8.87,10.32,7.11,3.69,3.07,3.5500000000000003
+2021,08303,Vilanova de Sau,Barcelona,263,JxCat,36.51,#00c4b2,Nacionalismo/independentismo,82.02,#18a1cd,6.88,25.93,36.51,2.65,3.7,16.93,0.53,3.18
+2021,08304,Vilobí del Penedès,Barcelona,842,JxCat,39.93,#00c4b2,Nacionalismo/independentismo,80.98,#18a1cd,9.51,27.99,39.93,3.17,2.61,9.51,0.75,3.74
+2021,08305,Vilafranca del Penedès,Barcelona,27696,JxCat,26,#00c4b2,Nacionalismo/independentismo,65.05,#18a1cd,18.14,23.05,26,4.68,5.36,10.89,2.2,5.680000000000001
+2021,08306,Vilalba Sasserra,Barcelona,544,ERC,30.63,#e5ab4b,Nacionalismo/independentismo,64.43,#18a1cd,17.25,30.63,23.24,5.99,4.23,5.99,3.87,5.62
+2021,08307,Vilanova i la Geltrú,Barcelona,49558,PSC,24.77,#da1f35,Nacionalismo/independentismo,51.66,#18a1cd,24.77,23.12,18.49,6.19,7.89,7.66,2.55,3.09
+2021,08308,Viver i Serrateix,Barcelona,139,JxCat,64.08,#00c4b2,Nacionalismo/independentismo,91.27,#18a1cd,4.85,13.59,64.08,0,0,6.8,0,7.77
+2021,08901,Rupit i Pruit,Barcelona,245,JxCat,50.27,#00c4b2,Nacionalismo/independentismo,83.62,#18a1cd,6.01,24.59,50.27,0,3.28,3.83,0,4.93
+2021,08902,Vilanova del Vallès,Barcelona,4043,JxCat,24.93,#00c4b2,Nacionalismo/independentismo,55.13,#18a1cd,18.05,22.39,24.93,8.8,6.57,4.65,2.55,4.18
+2021,08903,Sant Julià de Cerdanyola,Barcelona,205,JxCat,43.1,#00c4b2,Nacionalismo/independentismo,88.5,#18a1cd,3.45,31.61,43.1,0.57,4.6,9.77,1.72,4.0200000000000005
+2021,08904,Badia del Vallès,Barcelona,10396,PSC,40.65,#da1f35,No nacionalistas,80.37,#fa8c00,40.65,12.11,2.9,14.4,10.95,3.57,4.38,1.54
+2021,08905,La Palma de Cervelló,Barcelona,2346,ERC,28.45,#e5ab4b,Nacionalismo/independentismo,61.21,#18a1cd,18.96,28.45,21.59,6.19,6.66,7.33,2.08,4.58
+2021,08998,Residents Absents,Barcelona,197011,JxCat,26.15,#00c4b2,Nacionalismo/independentismo,53.92,#18a1cd,19.43,17.38,26.15,4.9,9.12,7.29,3.56,4.2299999999999995
+2021,17001,Agullana,Girona,596,ERC,28.23,#e5ab4b,Nacionalismo/independentismo,76.52,#18a1cd,8.44,28.23,27.44,4.49,4.22,14.78,0.53,6.86
+2021,17002,Aiguaviva,Girona,600,JxCat,45.45,#00c4b2,Nacionalismo/independentismo,80.46,#18a1cd,7.27,21.14,45.45,4.55,2.73,11.14,1.36,3.19
+2021,17003,Albanyà,Girona,112,JxCat,46.75,#00c4b2,Nacionalismo/independentismo,92.21,#18a1cd,0,22.08,46.75,0,5.19,20.78,0,2.6
+2021,17004,Albons,Girona,558,JxCat,36.93,#00c4b2,Nacionalismo/independentismo,80.86,#18a1cd,9.43,24.53,36.93,0.81,4.31,16.44,1.62,3.23
+2021,17005,El Far d'Empordà,Girona,464,ERC,33.58,#e5ab4b,Nacionalismo/independentismo,76.02,#18a1cd,11.07,33.58,29.89,3.69,2.95,4.43,0.74,9.97
+2021,17006,Alp,Girona,1228,JxCat,32.49,#00c4b2,Nacionalismo/independentismo,75.94,#18a1cd,10.97,23.63,32.49,3.38,2.95,13.64,1.97,7.16
+2021,17007,Amer,Girona,1788,JxCat,61.07,#00c4b2,Nacionalismo/independentismo,88.84,#18a1cd,5.81,16.61,61.07,0.73,2.09,9.71,0.54,1.9
+2021,17008,Anglès,Girona,3561,JxCat,48.76,#00c4b2,Nacionalismo/independentismo,82.07,#18a1cd,8.63,19.6,48.76,2.89,2.54,10.77,1.02,3.64
+2021,17009,Arbúcies,Girona,4109,JxCat,42.06,#00c4b2,Nacionalismo/independentismo,82.75,#18a1cd,7.05,23.89,42.06,2.32,3.98,13.27,1,3.81
+2021,17010,Argelaguer,Girona,330,JxCat,47.12,#00c4b2,Nacionalismo/independentismo,88.46,#18a1cd,1.92,15.87,47.12,0,6.73,20.67,0,4.8
+2021,17011,L'Armentera,Girona,654,JxCat,40.42,#00c4b2,Nacionalismo/independentismo,82.49,#18a1cd,8.54,27.08,40.42,1.67,2.08,9.79,1.46,5.62
+2021,17012,Avinyonet de Puigventós,Girona,1211,JxCat,29.67,#00c4b2,Nacionalismo/independentismo,64.84,#18a1cd,12.76,24.48,29.67,9.64,4.75,4.3,1.78,8.18
+2021,17013,Begur,Girona,2832,JxCat,29.19,#00c4b2,Nacionalismo/independentismo,59.14,#18a1cd,20.55,21.31,29.19,6.62,4.48,5.55,3.09,4.1
+2021,17014,La Vajol,Girona,62,JxCat,47.5,#00c4b2,Nacionalismo/independentismo,80,#18a1cd,12.5,27.5,47.5,2.5,5,0,0,5
+2021,17015,Banyoles,Girona,12937,JxCat,40.69,#00c4b2,Nacionalismo/independentismo,81.93,#18a1cd,8.32,24.34,40.69,2.12,3.45,12.26,1.23,5.19
+2021,17016,Bàscara,Girona,739,JxCat,39.96,#00c4b2,Nacionalismo/independentismo,80.14,#18a1cd,8.86,24.62,39.96,3.46,3.89,12.1,0.65,4.33
+2021,17018,Bellcaire d'Empordà,Girona,501,JxCat,36.69,#00c4b2,Nacionalismo/independentismo,80.77,#18a1cd,10.06,24.26,36.69,2.66,3.55,16.86,0.59,3.26
+2021,17019,Besalú,Girona,1801,JxCat,43.91,#00c4b2,Nacionalismo/independentismo,82,#18a1cd,9.13,24.61,43.91,1.48,2.52,8.09,0.87,6.53
+2021,17020,Bescanó,Girona,3768,JxCat,46.6,#00c4b2,Nacionalismo/independentismo,83.54,#18a1cd,7.4,22.15,46.6,2.98,2.55,11.35,0.85,3.79
+2021,17021,Beuda,Girona,121,JxCat,30.26,#00c4b2,Nacionalismo/independentismo,74.99,#18a1cd,10.53,14.47,30.26,2.63,7.89,21.05,0,10.53
+2021,17022,La Bisbal d'Empordà,Girona,7132,JxCat,31.12,#00c4b2,Nacionalismo/independentismo,74.03,#18a1cd,14.08,26.2,31.12,3.01,4.38,13.82,1.44,3.56
+2021,17023,Blanes,Girona,27772,PSC,26.81,#da1f35,No nacionalistas,54.57,#fa8c00,26.81,20.45,17.18,8.97,8.83,4.47,2.67,3.46
+2021,17024,Bolvir,Girona,335,JxCat,33.48,#00c4b2,Nacionalismo/independentismo,65.63,#18a1cd,10.71,12.05,33.48,11.16,2.23,5.36,5.36,15.64
+2021,17025,Bordils,Girona,1197,JxCat,41.98,#00c4b2,Nacionalismo/independentismo,85.4,#18a1cd,6.39,19.3,41.98,2.65,2.29,20.14,1.21,4.58
+2021,17026,Borrassà,Girona,547,JxCat,50,#00c4b2,Nacionalismo/independentismo,80.69,#18a1cd,7.94,20.11,50,5.03,0.53,7.94,1.85,3.95
+2021,17027,Breda,Girona,2918,JxCat,32.94,#00c4b2,Nacionalismo/independentismo,80.52,#18a1cd,10.59,31.82,32.94,2,2.41,12.88,1.65,3.41
+2021,17028,Brunyola i Sant Martí Sapresa,Girona,293,JxCat,46.11,#00c4b2,Nacionalismo/independentismo,88.89,#18a1cd,2.78,25,46.11,1.11,2.78,12.22,1.67,7.24
+2021,17029,Boadella i les Escaules,Girona,214,JxCat,27.74,#00c4b2,Nacionalismo/independentismo,68.62,#18a1cd,10.95,24.82,27.74,12.41,2.92,12.41,1.46,4.38
+2021,17030,Cabanes,Girona,640,JxCat,35.1,#00c4b2,Nacionalismo/independentismo,67.41,#18a1cd,12.53,18.66,35.1,10.86,2.23,9.47,2.23,5.86
+2021,17031,Cabanelles,Girona,166,JxCat,33.77,#00c4b2,Nacionalismo/independentismo,80.52,#18a1cd,7.79,28.57,33.77,7.79,0,16.88,1.3,1.3
+2021,17032,Cadaqués,Girona,1793,JxCat,37.3,#00c4b2,Nacionalismo/independentismo,72.1,#18a1cd,13.3,24.1,37.3,3.27,6.32,7.31,0.65,3.61
+2021,17033,Caldes de Malavella,Girona,5831,JxCat,31.16,#00c4b2,Nacionalismo/independentismo,66.04,#18a1cd,14.31,23.86,31.16,6.3,5.87,8.05,2.15,3.65
+2021,17034,Calonge i Sant Antoni,Girona,7395,JxCat,32.33,#00c4b2,Nacionalismo/independentismo,64.33,#18a1cd,16.84,22.39,32.33,7.17,4.16,6.64,2.11,3.91
+2021,17035,Camós,Girona,547,JxCat,39.49,#00c4b2,Nacionalismo/independentismo,84.8,#18a1cd,6.08,30.63,39.49,2.78,2.28,9.62,1.27,5.82
+2021,17036,Campdevànol,Girona,2634,JxCat,32.99,#00c4b2,Nacionalismo/independentismo,74.83,#18a1cd,13.28,26.97,32.99,3.39,4.5,10.17,0.97,5.54
+2021,17037,Campelles,Girona,114,JxCat,47.95,#00c4b2,Nacionalismo/independentismo,89.05,#18a1cd,1.37,19.18,47.95,1.37,2.74,8.22,0,13.7
+2021,17038,Campllong,Girona,380,JxCat,44.24,#00c4b2,Nacionalismo/independentismo,84.76,#18a1cd,3.72,21.56,44.24,4.46,2.23,12.27,1.86,8.17
+2021,17039,Camprodon,Girona,1780,JxCat,42.54,#00c4b2,Nacionalismo/independentismo,73.91,#18a1cd,13.96,18.96,42.54,3.37,3.56,6.83,1.73,6.539999999999999
+2021,17040,Canet d'Adri,Girona,567,JxCat,42.39,#00c4b2,Nacionalismo/independentismo,82.6,#18a1cd,7.07,17.66,42.39,1.09,4.08,16.3,1.09,7.0600000000000005
+2021,17041,Cantallops,Girona,213,ERC,44.63,#e5ab4b,Nacionalismo/independentismo,75.2,#18a1cd,11.57,44.63,19.83,0.83,3.31,9.09,4.13,2.48
+2021,17042,Capmany,Girona,422,JxCat,37.5,#00c4b2,Nacionalismo/independentismo,72.35,#18a1cd,9.09,23.48,37.5,4.92,5.68,6.44,1.52,5.6899999999999995
+2021,17043,Queralbs,Girona,160,JxCat,44.26,#00c4b2,Nacionalismo/independentismo,82.79,#18a1cd,9.84,22.95,44.26,3.28,1.64,10.66,1.64,4.92
+2021,17044,Cassà de la Selva,Girona,7041,JxCat,40.54,#00c4b2,Nacionalismo/independentismo,78.35,#18a1cd,11.29,24.72,40.54,3.2,2.68,9.59,1.33,4.359999999999999
+2021,17046,Castellfollit de la Roca,Girona,713,ERC,36.78,#e5ab4b,Nacionalismo/independentismo,85.33,#18a1cd,6.01,36.78,34.13,2.16,2.64,11.54,1.44,3.12
+2021,17047,Castelló d'Empúries,Girona,5051,JxCat,25.91,#00c4b2,Nacionalismo/independentismo,58.13,#18a1cd,14.57,19.87,25.91,12.05,3.65,8.19,3.78,5.21
+2021,17048,Castell-Platja d'Aro,Girona,6600,JxCat,27.87,#00c4b2,Nacionalismo/independentismo,53.16,#18a1cd,22.32,17.58,27.87,9.36,3.48,3.27,3.48,5.58
+2021,17049,Celrà,Girona,3283,JxCat,28.49,#00c4b2,Nacionalismo/independentismo,76.3,#18a1cd,12.25,17.88,28.49,2.96,3.6,27.6,0.74,3.13
+2021,17050,Cervià de Ter,Girona,677,JxCat,43.98,#00c4b2,Nacionalismo/independentismo,85.95,#18a1cd,5.22,22.09,43.98,1,3.82,15.46,1.2,5.82
+2021,17051,Cistella,Girona,207,JxCat,34.46,#00c4b2,Nacionalismo/independentismo,81.08,#18a1cd,9.46,18.92,34.46,4.05,0.68,15.54,1.35,12.84
+2021,17052,Siurana,Girona,136,JxCat,36.46,#00c4b2,Nacionalismo/independentismo,84.38,#18a1cd,2.08,30.21,36.46,4.17,3.12,11.46,3.12,8.33
+2021,17054,Colera,Girona,344,JxCat,34.26,#00c4b2,Nacionalismo/independentismo,69.44,#18a1cd,14.35,22.22,34.26,7.87,3.7,10.65,0.93,2.31
+2021,17055,Colomers,Girona,150,JxCat,39.5,#00c4b2,Nacionalismo/independentismo,83.19,#18a1cd,9.24,29.41,39.5,0.84,6.72,10.92,0,3.36
+2021,17056,Cornellà del Terri,Girona,1782,JxCat,46.94,#00c4b2,Nacionalismo/independentismo,84.29,#18a1cd,6.57,21.03,46.94,2.22,2.48,11.71,2.04,5.59
+2021,17057,Corçà,Girona,979,JxCat,36.19,#00c4b2,Nacionalismo/independentismo,80.93,#18a1cd,11.86,27.78,36.19,1.65,1.8,13.21,0.45,4.95
+2021,17058,Crespià,Girona,185,JxCat,43.9,#00c4b2,Nacionalismo/independentismo,80.48,#18a1cd,4.07,16.26,43.9,0,9.76,17.07,2.44,3.25
+2021,17060,Darnius,Girona,405,JxCat,31.43,#00c4b2,Nacionalismo/independentismo,66.94,#18a1cd,9.39,24.08,31.43,10.61,4.49,8.57,4.08,3.68
+2021,17061,Das,Girona,171,JxCat,41.38,#00c4b2,Nacionalismo/independentismo,81.03,#18a1cd,6.9,28.45,41.38,3.45,0.86,4.31,1.72,6.890000000000001
+2021,17062,L'Escala,Girona,6063,JxCat,32.09,#00c4b2,Nacionalismo/independentismo,66.66,#18a1cd,14.47,21.62,32.09,7.38,4.62,9.3,2.5,4.41
+2021,17063,Espinelves,Girona,182,JxCat,39.74,#00c4b2,Nacionalismo/independentismo,93.38,#18a1cd,3.31,33.77,39.74,0,0.66,17.22,1.32,3.31
+2021,17064,Espolla,Girona,323,JxCat,26.75,#00c4b2,Nacionalismo/independentismo,71.05,#18a1cd,17.54,25.88,26.75,4.39,3.95,12.28,1.32,7.02
+2021,17065,Esponellà,Girona,327,JxCat,47.14,#00c4b2,Nacionalismo/independentismo,92.07,#18a1cd,2.64,23.35,47.14,0.88,3.52,16.74,0,4.84
+2021,17066,Figueres,Girona,27329,JxCat,23.38,#00c4b2,Nacionalismo/independentismo,55.6,#18a1cd,18.21,20.1,23.38,12.13,4.11,5.93,3.4,7.25
+2021,17067,Flaçà,Girona,693,JxCat,38.91,#00c4b2,Nacionalismo/independentismo,80.76,#18a1cd,8.37,21.55,38.91,2.51,2.51,16.74,0.84,4.609999999999999
+2021,17068,Foixà,Girona,252,JxCat,47.09,#00c4b2,Nacionalismo/independentismo,75,#18a1cd,13.95,16.28,47.09,1.74,4.65,8.14,0,4.65
+2021,17069,Fontanals de Cerdanya,Girona,403,JxCat,38.13,#00c4b2,Nacionalismo/independentismo,67.32,#18a1cd,11.28,15.18,38.13,8.95,2.72,7.39,3.5,7.4
+2021,17070,Fontanilles,Girona,115,JxCat,65.12,#00c4b2,Nacionalismo/independentismo,90.7,#18a1cd,4.65,15.12,65.12,0,1.16,4.65,1.16,5.8100000000000005
+2021,17071,Fontcoberta,Girona,1131,JxCat,41.38,#00c4b2,Nacionalismo/independentismo,86.7,#18a1cd,5.79,30.3,41.38,2.09,2.34,9.48,0.74,5.779999999999999
+2021,17073,Fornells de la Selva,Girona,1987,JxCat,43.63,#00c4b2,Nacionalismo/independentismo,79.06,#18a1cd,9.26,18.72,43.63,3.2,2.44,10.44,2.71,6.8999999999999995
+2021,17074,Fortià,Girona,559,JxCat,27.54,#00c4b2,Nacionalismo/independentismo,68.7,#18a1cd,14.2,24.06,27.54,6.67,3.77,11.59,2.32,6.09
+2021,17075,Garrigàs,Girona,340,JxCat,32.86,#00c4b2,Nacionalismo/independentismo,79.81,#18a1cd,4.69,25.35,32.86,7.51,0,11.27,0.94,11.739999999999998
+2021,17076,Garrigoles,Girona,122,JxCat,30.68,#00c4b2,Nacionalismo/independentismo,76.13,#18a1cd,4.55,21.59,30.68,1.14,11.36,21.59,1.14,5.68
+2021,17077,Garriguella,Girona,581,JxCat,34.97,#00c4b2,Nacionalismo/independentismo,73.13,#18a1cd,12.72,21.68,34.97,2.89,6.07,10.12,1.16,6.94
+2021,17078,Ger,Girona,379,JxCat,43.07,#00c4b2,Nacionalismo/independentismo,83.9,#18a1cd,8.61,22.1,43.07,1.12,2.62,11.99,2.25,6.74
+2021,17079,Girona,Girona,65740,JxCat,32.79,#00c4b2,Nacionalismo/independentismo,65.3,#18a1cd,16.59,17.41,32.79,6.11,4.36,10.82,2.42,5.29
+2021,17080,Gombrèn,Girona,145,JxCat,29.89,#00c4b2,Nacionalismo/independentismo,79.32,#18a1cd,8.05,26.44,29.89,3.45,1.15,20.69,3.45,3.4499999999999997
+2021,17081,Gualta,Girona,269,JxCat,46.99,#00c4b2,Nacionalismo/independentismo,80.87,#18a1cd,9.29,19.13,46.99,1.64,3.83,10.93,1.09,3.82
+2021,17082,Guils de Cerdanya,Girona,466,JxCat,36.74,#00c4b2,Nacionalismo/independentismo,76.14,#18a1cd,5.3,17.05,36.74,7.2,1.52,10.23,4.17,12.12
+2021,17083,Hostalric,Girona,2998,JxCat,26.92,#00c4b2,Nacionalismo/independentismo,63.49,#18a1cd,18.38,24.75,26.92,5.12,5.71,8.8,2.3,3.89
+2021,17084,Isòvol,Girona,248,JxCat,35.06,#00c4b2,Nacionalismo/independentismo,75.32,#18a1cd,12.34,20.13,35.06,3.9,5.19,7.79,0.65,12.34
+2021,17085,Jafre,Girona,289,JxCat,35.75,#00c4b2,Nacionalismo/independentismo,84.16,#18a1cd,4.98,26.24,35.75,0.9,4.07,16.74,1.36,5.430000000000001
+2021,17086,La Jonquera,Girona,1740,PSC,23.03,#da1f35,No nacionalistas,50.82,#fa8c00,23.03,22.03,15.89,13.02,2.38,6.63,4.38,5.27
+2021,17087,Juià,Girona,224,JxCat,35.62,#00c4b2,Nacionalismo/independentismo,86.24,#18a1cd,6.25,25,35.62,3.75,0.62,24.38,1.88,1.24
+2021,17088,Lladó,Girona,608,JxCat,34.09,#00c4b2,Nacionalismo/independentismo,80.05,#18a1cd,6.06,28.28,34.09,3.28,6.57,12.63,0.51,6.05
+2021,17089,Llagostera,Girona,5865,JxCat,34.9,#00c4b2,Nacionalismo/independentismo,73.71,#18a1cd,12.86,23.64,34.9,4.46,3.33,8.91,1.63,7
+2021,17090,Llambilles,Girona,560,JxCat,52.44,#00c4b2,Nacionalismo/independentismo,84.88,#18a1cd,6.83,20.98,52.44,1.71,1.71,7.56,1.46,4.140000000000001
+2021,17091,Llanars,Girona,405,JxCat,49.19,#00c4b2,Nacionalismo/independentismo,89.03,#18a1cd,4.88,25.61,49.19,0.81,0.81,12.2,1.22,2.03
+2021,17092,Llançà,Girona,3523,ERC,29.16,#e5ab4b,Nacionalismo/independentismo,68.18,#18a1cd,16.75,29.16,28.76,4.79,3.16,7.39,1.75,4.34
+2021,17093,Llers,Girona,935,JxCat,34.17,#00c4b2,Nacionalismo/independentismo,74.1,#18a1cd,12.41,26.08,34.17,3.42,4.32,8.09,1.44,6.66
+2021,17094,Llívia,Girona,1100,JxCat,38.72,#00c4b2,Nacionalismo/independentismo,71.05,#18a1cd,11.45,18.18,38.72,5.72,3.37,8.25,2.53,6.58
+2021,17095,Lloret de Mar,Girona,20123,PSC,27.91,#da1f35,No nacionalistas,57.23,#fa8c00,27.91,17.03,16.83,12.17,5.39,2.95,3.45,6.43
+2021,17096,Les Llosses,Girona,161,JxCat,34.04,#00c4b2,Nacionalismo/independentismo,84.04,#18a1cd,5.32,24.47,34.04,2.13,3.19,15.96,2.13,9.57
+2021,17097,Madremanya,Girona,203,JxCat,31.76,#00c4b2,Nacionalismo/independentismo,87.17,#18a1cd,4.05,20.95,31.76,0,4.05,28.38,2.03,6.08
+2021,17098,Maià de Montcal,Girona,308,JxCat,31.35,#00c4b2,Nacionalismo/independentismo,76.21,#18a1cd,11.35,28.65,31.35,3.78,3.24,11.89,1.62,6.48
+2021,17099,Meranges,Girona,78,JxCat,48.08,#00c4b2,Nacionalismo/independentismo,76.93,#18a1cd,11.54,13.46,48.08,5.77,0,9.62,1.92,7.69
+2021,17100,Masarac,Girona,197,JxCat,55.04,#00c4b2,Nacionalismo/independentismo,81.4,#18a1cd,10.85,16.28,55.04,4.65,0.78,6.2,0,3.88
+2021,17101,Massanes,Girona,588,JxCat,28.67,#00c4b2,Nacionalismo/independentismo,66.21,#18a1cd,12.29,25.6,28.67,8.19,5.46,11.26,1.02,2.72
+2021,17102,Maçanet de Cabrenys,Girona,571,JxCat,37.8,#00c4b2,Nacionalismo/independentismo,82.84,#18a1cd,10.72,33.78,37.8,2.14,2.14,7.51,0.27,4.5600000000000005
+2021,17103,Maçanet de la Selva,Girona,5237,JxCat,24.26,#00c4b2,Nacionalismo/independentismo,56.65,#18a1cd,19.91,22.32,24.26,8.84,5.82,7.85,2.55,3.17
+2021,17105,Mieres,Girona,269,ERC,26.35,#e5ab4b,Nacionalismo/independentismo,75.46,#18a1cd,3.59,26.35,25.15,2.4,6.59,22.16,1.8,2.4
+2021,17106,Mollet de Peralada,Girona,144,JxCat,38.83,#00c4b2,Nacionalismo/independentismo,74.76,#18a1cd,15.53,21.36,38.83,3.88,0,5.83,0.97,9.71
+2021,17107,Molló,Girona,271,JxCat,55.43,#00c4b2,Nacionalismo/independentismo,79.43,#18a1cd,4.57,15.43,55.43,4,5.14,5.71,3.43,4
+2021,17109,Montagut i Oix,Girona,725,JxCat,41.84,#00c4b2,Nacionalismo/independentismo,87.23,#18a1cd,3.55,21.04,41.84,2.36,2.13,19.86,0,5.68
+2021,17110,Mont-ras,Girona,1347,JxCat,29.09,#00c4b2,Nacionalismo/independentismo,59.88,#18a1cd,20.52,22.47,29.09,7.53,3.51,4.55,3.51,4.03
+2021,17111,Navata,Girona,1007,JxCat,32.81,#00c4b2,Nacionalismo/independentismo,77.49,#18a1cd,6.88,21.09,32.81,5.47,4.06,12.5,1.41,12.5
+2021,17112,Ogassa,Girona,194,JxCat,42.75,#00c4b2,Nacionalismo/independentismo,80.92,#18a1cd,6.11,22.9,42.75,3.82,4.58,10.69,3.05,6.1
+2021,17114,Olot,Girona,23303,JxCat,38.27,#00c4b2,Nacionalismo/independentismo,75.04,#18a1cd,12.6,23.01,38.27,4.27,3.24,9.42,1.29,5.19
+2021,17115,Ordis,Girona,278,ERC,38.34,#e5ab4b,Nacionalismo/independentismo,86.01,#18a1cd,5.18,38.34,32.12,2.59,2.59,11.92,0,4.67
+2021,17116,Osor,Girona,349,JxCat,38.29,#00c4b2,Nacionalismo/independentismo,85.59,#18a1cd,6.31,26.58,38.29,3.6,1.35,19.82,0.45,0.9
+2021,17117,Palafrugell,Girona,14589,JxCat,27.73,#00c4b2,Nacionalismo/independentismo,60.14,#18a1cd,20.99,22.1,27.73,6.7,5.05,6.96,1.92,3.81
+2021,17118,Palamós,Girona,13126,JxCat,29.39,#00c4b2,Nacionalismo/independentismo,64.05,#18a1cd,18.41,25.43,29.39,7.13,3.5,6.42,1.66,3.6
+2021,17119,Palau de Santa Eulàlia,Girona,82,JxCat,26.98,#00c4b2,Nacionalismo/independentismo,69.84,#18a1cd,9.52,19.05,26.98,1.59,7.94,17.46,1.59,6.35
+2021,17120,Palau-saverdera,Girona,836,JxCat,35.12,#00c4b2,Nacionalismo/independentismo,70.44,#18a1cd,9.85,27.19,35.12,8.78,2.78,4.07,3,4.48
+2021,17121,Palau-sator,Girona,223,JxCat,52.9,#00c4b2,Nacionalismo/independentismo,83.87,#18a1cd,10.32,14.84,52.9,1.29,1.94,11.61,0.65,5.819999999999999
+2021,17123,Palol de Revardit,Girona,335,JxCat,57.74,#00c4b2,Nacionalismo/independentismo,92.06,#18a1cd,4.6,19.67,57.74,2.09,0,11.3,0.42,3.77
+2021,17124,Pals,Girona,1638,JxCat,40.22,#00c4b2,Nacionalismo/independentismo,75.38,#18a1cd,14.08,26.04,40.22,3.75,2.53,5.88,1.01,4.35
+2021,17125,Pardines,Girona,132,JxCat,50,#00c4b2,Nacionalismo/independentismo,92.68,#18a1cd,2.44,23.17,50,1.22,1.22,17.07,0,2.44
+2021,17126,Parlavà,Girona,326,JxCat,43.03,#00c4b2,Nacionalismo/independentismo,90.84,#18a1cd,5.98,27.89,43.03,0.4,0,17.13,0.8,2.79
+2021,17128,Pau,Girona,335,JxCat,32.88,#00c4b2,Nacionalismo/independentismo,76.27,#18a1cd,9.59,23.29,32.88,5.48,2.74,15.07,0.91,6.87
+2021,17129,Pedret i Marzà,Girona,138,ERC,26.32,#e5ab4b,Nacionalismo/independentismo,70.53,#18a1cd,6.32,26.32,23.16,9.47,0,11.58,5.26,9.47
+2021,17130,La Pera,Girona,333,JxCat,47.97,#00c4b2,Nacionalismo/independentismo,87,#18a1cd,5.28,19.92,47.97,1.22,1.63,17.48,0,2.04
+2021,17132,Peralada,Girona,1389,JxCat,37.03,#00c4b2,Nacionalismo/independentismo,72.51,#18a1cd,10.2,22.73,37.03,7.21,2.66,7.76,1.88,5.32
+2021,17133,Les Planes d'Hostoles,Girona,1272,JxCat,57.14,#00c4b2,Nacionalismo/independentismo,84.77,#18a1cd,7.32,15.91,57.14,1.74,2.79,7.32,1.16,4.52
+2021,17134,Planoles,Girona,227,JxCat,42.14,#00c4b2,Nacionalismo/independentismo,87.85,#18a1cd,4.29,27.86,42.14,0.71,2.86,17.14,0,1.42
+2021,17135,Pont de Molins,Girona,398,ERC,26.58,#e5ab4b,Nacionalismo/independentismo,64.13,#18a1cd,10.55,26.58,24.05,9.7,4.22,8.86,2.11,5.8999999999999995
+2021,17136,Pontós,Girona,190,JxCat,33.33,#00c4b2,Nacionalismo/independentismo,71.74,#18a1cd,7.25,21.74,33.33,5.07,13.04,7.97,0.72,9.42
+2021,17137,Porqueres,Girona,3547,JxCat,39.15,#00c4b2,Nacionalismo/independentismo,84.6,#18a1cd,7.19,30.53,39.15,1.98,2.19,10.47,1.05,5.17
+2021,17138,Portbou,Girona,833,PSC,29.32,#da1f35,Nacionalismo/independentismo,50.69,#18a1cd,29.32,21.17,15.73,7.57,3.5,5.83,2.14,9.32
+2021,17139,Les Preses,Girona,1431,JxCat,42.97,#00c4b2,Nacionalismo/independentismo,81.87,#18a1cd,10.55,25.27,42.97,1.98,2.31,9.78,0.33,4.95
+2021,17140,El Port de la Selva,Girona,667,JxCat,40.71,#00c4b2,Nacionalismo/independentismo,76.11,#18a1cd,12.39,20.35,40.71,2.65,2.65,9.96,1.77,5.53
+2021,17141,Puigcerdà,Girona,6180,JxCat,25.27,#00c4b2,Nacionalismo/independentismo,60.71,#18a1cd,17.09,20.53,25.27,7.32,3.91,5.89,3.45,9.77
+2021,17142,Quart,Girona,2734,JxCat,34.08,#00c4b2,Nacionalismo/independentismo,67.81,#18a1cd,13.55,21.58,34.08,6.8,3.85,8.87,2.51,4.12
+2021,17143,Rabós,Girona,148,JxCat,29.03,#00c4b2,Nacionalismo/independentismo,78.49,#18a1cd,4.3,27.96,29.03,2.15,5.38,12.9,4.3,10.76
+2021,17144,Regencós,Girona,220,JxCat,41.89,#00c4b2,Nacionalismo/independentismo,76.35,#18a1cd,9.46,24.32,41.89,2.03,4.73,5.41,1.35,5.41
+2021,17145,Ribes de Freser,Girona,1442,JxCat,38.37,#00c4b2,Nacionalismo/independentismo,78.54,#18a1cd,9.47,23.5,38.37,3.48,2.88,11.75,0.72,5.52
+2021,17146,Riells i Viabrea,Girona,3230,ERC,29.83,#e5ab4b,Nacionalismo/independentismo,61.4,#18a1cd,17.23,29.83,22.79,7.84,4.82,6.49,1.48,3.83
+2021,17147,Ripoll,Girona,7904,JxCat,34.44,#00c4b2,Nacionalismo/independentismo,71.28,#18a1cd,14.93,22.54,34.44,4.73,3.68,7.56,1.55,7.66
+2021,17148,Riudarenes,Girona,1595,JxCat,39.35,#00c4b2,Nacionalismo/independentismo,67.29,#18a1cd,14.78,18.39,39.35,6.17,3.49,6.4,1.51,3.74
+2021,17149,Riudaura,Girona,379,JxCat,49.29,#00c4b2,Nacionalismo/independentismo,90.78,#18a1cd,2.84,20.21,49.29,2.13,3.55,20.57,0.35,0.71
+2021,17150,Riudellots de la Selva,Girona,1450,JxCat,45.78,#00c4b2,Nacionalismo/independentismo,80.11,#18a1cd,9.34,24.1,45.78,3.01,3.31,6.22,0.8,4.51
+2021,17151,Riumors,Girona,176,JxCat,34.26,#00c4b2,Nacionalismo/independentismo,79.63,#18a1cd,3.7,24.07,34.26,3.7,4.63,13.89,3.7,9.27
+2021,17152,Roses,Girona,11199,PSC,23.02,#da1f35,No nacionalistas,53.39,#fa8c00,23.02,18.65,21.01,15.59,3.47,3.21,4.1,3.5
+2021,17153,Rupià,Girona,200,JxCat,36,#00c4b2,Nacionalismo/independentismo,85.34,#18a1cd,8.67,24,36,0,5.33,22.67,0,2.67
+2021,17154,Sales de Llierca,Girona,107,CUP,21.21,#e5c64b,Nacionalismo/independentismo,62.13,#18a1cd,15.15,19.7,19.7,0,16.67,21.21,0,3.04
+2021,17155,Salt,Girona,15067,JxCat,25.24,#00c4b2,Nacionalismo/independentismo,56.5,#18a1cd,21.98,19.89,25.24,10.36,4.11,9.11,2.19,3.05
+2021,17157,Sant Andreu Salou,Girona,119,JxCat,47.92,#00c4b2,Nacionalismo/independentismo,76.04,#18a1cd,18.75,11.46,47.92,1.04,2.08,15.62,0,1.04
+2021,17158,Sant Climent Sescebes,Girona,533,ERC,25.21,#e5ab4b,Nacionalismo/independentismo,62.4,#18a1cd,9.09,25.21,24.79,20.25,3.31,8.68,1.24,4.95
+2021,17159,Sant Feliu de Buixalleu,Girona,637,JxCat,41.58,#00c4b2,Nacionalismo/independentismo,79.21,#18a1cd,9.47,24.47,41.58,2.37,4.21,9.74,0.79,4.2
+2021,17160,Sant Feliu de Guíxols,Girona,14851,JxCat,28.5,#00c4b2,Nacionalismo/independentismo,58.24,#18a1cd,21.47,22.54,28.5,6.76,5.25,4.5,2.3,3.58
+2021,17161,Sant Feliu de Pallerols,Girona,1038,JxCat,39.97,#00c4b2,Nacionalismo/independentismo,86.12,#18a1cd,6.32,28.16,39.97,1.24,2.75,14.29,1.24,4.53
+2021,17162,Sant Ferriol,Girona,160,JxCat,34.07,#00c4b2,Nacionalismo/independentismo,73.64,#18a1cd,9.89,14.29,34.07,6.59,8.79,14.29,0,10.99
+2021,17163,Sant Gregori,Girona,2941,JxCat,45.34,#00c4b2,Nacionalismo/independentismo,84.02,#18a1cd,6.9,22.87,45.34,2.37,3.02,12.29,0.91,4.17
+2021,17164,Sant Hilari Sacalm,Girona,3890,JxCat,43.28,#00c4b2,Nacionalismo/independentismo,83.78,#18a1cd,10,24.95,43.28,1.32,1.62,11.47,0.54,4.23
+2021,17165,Sant Jaume de Llierca,Girona,627,JxCat,40.05,#00c4b2,Nacionalismo/independentismo,82.26,#18a1cd,10.22,27.42,40.05,2.42,1.88,12.1,0.81,3.23
+2021,17166,Sant Jordi Desvalls,Girona,547,JxCat,44.91,#00c4b2,Nacionalismo/independentismo,90.82,#18a1cd,4.22,24.32,44.91,1.99,1.49,17.12,0,5.71
+2021,17167,Sant Joan de les Abadesses,Girona,2603,JxCat,40.84,#00c4b2,Nacionalismo/independentismo,80.66,#18a1cd,10.23,25.53,40.84,2.82,2.26,9.66,0.69,5.6899999999999995
+2021,17168,Sant Joan de Mollet,Girona,372,JxCat,37.93,#00c4b2,Nacionalismo/independentismo,75.86,#18a1cd,8.05,22.22,37.93,3.45,4.98,15.33,0,3.07
+2021,17169,Sant Julià de Ramis,Girona,2536,JxCat,31.58,#00c4b2,Nacionalismo/independentismo,66.61,#18a1cd,15.69,21.41,31.58,8.1,3.52,11.3,0.56,3.1999999999999997
+2021,17170,Vallfogona de Ripollès,Girona,179,ERC,38.35,#e5ab4b,Nacionalismo/independentismo,93.98,#18a1cd,1.5,38.35,37.59,0,1.5,13.53,0.75,5.26
+2021,17171,Sant Llorenç de la Muga,Girona,182,JxCat,37.8,#00c4b2,Nacionalismo/independentismo,80.32,#18a1cd,7.87,27.56,37.8,1.57,7.09,11.02,0.79,4.73
+2021,17172,Sant Martí de Llémena,Girona,477,JxCat,35.44,#00c4b2,Nacionalismo/independentismo,81.05,#18a1cd,8.42,24.91,35.44,3.86,3.51,17.54,0.35,4.21
+2021,17173,Sant Martí Vell,Girona,188,JxCat,29.32,#00c4b2,Nacionalismo/independentismo,78.94,#18a1cd,7.52,24.81,29.32,3.01,4.51,24.06,2.26,2.25
+2021,17174,Sant Miquel de Campmajor,Girona,170,JxCat,37.96,#00c4b2,Nacionalismo/independentismo,87.96,#18a1cd,2.78,23.15,37.96,0.93,3.7,24.07,0,2.78
+2021,17175,Sant Miquel de Fluvià,Girona,554,PSC,21.92,#da1f35,No nacionalistas,56.14,#fa8c00,21.92,15,18.85,20,4.23,7.31,4.23,1.91
+2021,17176,Sant Mori,Girona,118,JxCat,22.83,#00c4b2,Nacionalismo/independentismo,58.7,#18a1cd,15.22,20.65,22.83,6.52,4.35,13.04,6.52,3.2700000000000005
+2021,17177,Sant Pau de Segúries,Girona,584,JxCat,42.41,#00c4b2,Nacionalismo/independentismo,81.12,#18a1cd,9.91,24.46,42.41,3.1,0.93,10.84,0.62,3.41
+2021,17178,Sant Pere Pescador,Girona,1073,JxCat,42.38,#00c4b2,Nacionalismo/independentismo,80.07,#18a1cd,8.54,24.29,42.38,3.69,3.18,8.04,1.51,5.7
+2021,17180,Santa Coloma de Farners,Girona,8588,JxCat,42.48,#00c4b2,Nacionalismo/independentismo,77.64,#18a1cd,10.64,22.16,42.48,4.19,3.09,9.54,1.49,3.92
+2021,17181,Santa Cristina d'Aro,Girona,3578,JxCat,30.25,#00c4b2,Nacionalismo/independentismo,61.77,#18a1cd,16.6,23.55,30.25,6.48,5.78,4.18,2.41,4.8
+2021,17182,Santa Llogaia d'Àlguema,Girona,285,PSC,26.71,#da1f35,No nacionalistas,60.95,#fa8c00,26.71,12.33,21.23,16.44,7.53,1.37,6.16,3.42
+2021,17183,Sant Aniol de Finestres,Girona,255,JxCat,49.4,#00c4b2,Nacionalismo/independentismo,81.55,#18a1cd,6.55,16.67,49.4,5.36,1.19,10.71,1.79,4.77
+2021,17184,Santa Pau,Girona,1254,JxCat,44.76,#00c4b2,Nacionalismo/independentismo,83.23,#18a1cd,7.27,23.8,44.76,1.97,2.96,10.48,0.86,5.67
+2021,17185,Sant Joan les Fonts,Girona,2280,JxCat,40.84,#00c4b2,Nacionalismo/independentismo,79.63,#18a1cd,11.96,26.82,40.84,1.98,2.56,7.43,0.91,5.29
+2021,17186,Sarrià de Ter,Girona,3868,JxCat,29.08,#00c4b2,Nacionalismo/independentismo,64.03,#18a1cd,19.11,23.01,29.08,6.25,3.17,9.42,1.61,4.04
+2021,17187,"Saus, Camallera i Llampaies",Girona,649,JxCat,32.46,#00c4b2,Nacionalismo/independentismo,74.35,#18a1cd,12.28,21.93,32.46,3.07,7.68,15.35,0.22,5.71
+2021,17188,La Selva de Mar,Girona,171,JxCat,38.4,#00c4b2,Nacionalismo/independentismo,80.8,#18a1cd,7.2,19.2,38.4,0,7.2,22.4,2.4,1.6
+2021,17189,La Cellera de Ter,Girona,1499,JxCat,55.29,#00c4b2,Nacionalismo/independentismo,88.22,#18a1cd,5.99,18.62,55.29,1.22,2.25,11.88,0.47,2.79
+2021,17190,Serinyà,Girona,847,JxCat,42.18,#00c4b2,Nacionalismo/independentismo,85.75,#18a1cd,6.53,24.95,42.18,1.98,2.18,16.24,0.79,2.98
+2021,17191,Serra de Daró,Girona,171,JxCat,44.52,#00c4b2,Nacionalismo/independentismo,85.62,#18a1cd,6.16,19.18,44.52,0,4.79,13.7,1.37,8.22
+2021,17192,Setcases,Girona,147,JxCat,39.13,#00c4b2,Nacionalismo/independentismo,76.08,#18a1cd,6.52,16.3,39.13,3.26,2.17,5.43,3.26,15.22
+2021,17193,Sils,Girona,4405,JxCat,29.24,#00c4b2,Nacionalismo/independentismo,60.19,#18a1cd,18.29,21.49,29.24,8.23,4.33,6.44,1.55,4.52
+2021,17194,Susqueda,Girona,73,JxCat,38.78,#00c4b2,Nacionalismo/independentismo,79.59,#18a1cd,6.12,30.61,38.78,4.08,0,4.08,4.08,6.12
+2021,17195,La Tallada d'Empordà,Girona,351,JxCat,36.13,#00c4b2,Nacionalismo/independentismo,82.1,#18a1cd,9.85,25.91,36.13,1.09,5.11,16.79,0.36,3.99
+2021,17196,Terrades,Girona,245,JxCat,31.54,#00c4b2,Nacionalismo/independentismo,75.17,#18a1cd,5.37,22.15,31.54,3.36,4.7,15.44,4.03,6.04
+2021,17197,Torrent,Girona,126,JxCat,34.07,#00c4b2,Nacionalismo/independentismo,76.93,#18a1cd,12.09,24.18,34.07,2.2,0,8.79,0,9.89
+2021,17198,Torroella de Fluvià,Girona,447,JxCat,28.85,#00c4b2,Nacionalismo/independentismo,65.01,#18a1cd,14.23,24.62,28.85,9.62,5,8.85,2.31,2.69
+2021,17199,Torroella de Montgrí,Girona,7059,JxCat,32.59,#00c4b2,Nacionalismo/independentismo,71.44,#18a1cd,11.71,23.4,32.59,6.24,3.79,11.07,1.43,5.609999999999999
+2021,17200,Tortellà,Girona,635,JxCat,34.23,#00c4b2,Nacionalismo/independentismo,79.47,#18a1cd,9.29,25.92,34.23,0.49,7.09,17.36,0.73,2.94
+2021,17201,Toses,Girona,146,JxCat,35.05,#00c4b2,Nacionalismo/independentismo,81.45,#18a1cd,3.09,27.84,35.05,8.25,2.06,12.37,1.03,7.220000000000001
+2021,17202,Tossa de Mar,Girona,3923,JxCat,29.3,#00c4b2,Nacionalismo/independentismo,63.03,#18a1cd,18.02,24.47,29.3,5.51,3.79,5.81,2.71,4.3
+2021,17203,Ultramort,Girona,162,JxCat,43.69,#00c4b2,Nacionalismo/independentismo,86.4,#18a1cd,3.88,26.21,43.69,0,3.88,13.59,0,4.85
+2021,17204,Ullà,Girona,624,JxCat,30.49,#00c4b2,Nacionalismo/independentismo,61.52,#18a1cd,19.51,20.05,30.49,5.77,4.12,7.97,4.12,4.1000000000000005
+2021,17205,Ullastret,Girona,194,JxCat,44.68,#00c4b2,Nacionalismo/independentismo,87.94,#18a1cd,5.67,25.53,44.68,0.71,4.96,9.22,0.71,8.51
+2021,17206,Urús,Girona,175,JxCat,36.75,#00c4b2,Nacionalismo/independentismo,81.19,#18a1cd,7.69,18.8,36.75,0.85,2.56,14.53,4.27,11.96
+2021,17207,La Vall d'en Bas,Girona,2444,JxCat,44.96,#00c4b2,Nacionalismo/independentismo,86.45,#18a1cd,4.86,24.06,44.96,1.09,2.86,12.94,1.03,5.1499999999999995
+2021,17208,La Vall de Bianya,Girona,1013,JxCat,45.93,#00c4b2,Nacionalismo/independentismo,84.05,#18a1cd,4.85,21.66,45.93,1.73,3.99,14.04,1.04,3.12
+2021,17209,Vall-llobrega,Girona,639,JxCat,31.19,#00c4b2,Nacionalismo/independentismo,66.19,#18a1cd,12.86,24.76,31.19,9.05,3.1,7.62,2.62,3.0999999999999996
+2021,17210,Ventalló,Girona,602,JxCat,38.89,#00c4b2,Nacionalismo/independentismo,77.51,#18a1cd,9.79,21.43,38.89,2.91,4.23,13.49,2.38,5.28
+2021,17211,Verges,Girona,846,JxCat,44.9,#00c4b2,Nacionalismo/independentismo,86.23,#18a1cd,6.63,18.03,44.9,1.36,2.21,19.56,0.85,4.25
+2021,17212,Vidrà,Girona,148,JxCat,37.27,#00c4b2,Nacionalismo/independentismo,86.37,#18a1cd,4.55,23.64,37.27,2.73,0,12.73,0,13.64
+2021,17213,Vidreres,Girona,5679,JxCat,37.72,#00c4b2,Nacionalismo/independentismo,69.33,#18a1cd,14.22,21.31,37.72,6.31,4.58,7.48,1.37,3.3
+2021,17214,Vilabertran,Girona,710,JxCat,36.49,#00c4b2,Nacionalismo/independentismo,77.96,#18a1cd,8.06,27.25,36.49,5.21,2.84,7.35,3.32,7.59
+2021,17215,Vilablareix,Girona,2426,JxCat,33.74,#00c4b2,Nacionalismo/independentismo,73.92,#18a1cd,12.64,27.91,33.74,4.36,2.7,7.18,1.6,5.7
+2021,17216,Viladasens,Girona,163,JxCat,49.56,#00c4b2,Nacionalismo/independentismo,83.17,#18a1cd,9.73,15.04,49.56,0.88,1.77,16.81,2.65,2.64
+2021,17217,Viladamat,Girona,365,JxCat,33.94,#00c4b2,Nacionalismo/independentismo,83.94,#18a1cd,5.47,16.06,33.94,3.28,2.55,29.93,1.09,4.7299999999999995
+2021,17218,Vilademuls,Girona,578,JxCat,43.72,#00c4b2,Nacionalismo/independentismo,83.57,#18a1cd,5.31,15.7,43.72,0.97,4.83,19.32,1.21,5.3100000000000005
+2021,17220,Viladrau,Girona,832,JxCat,44.12,#00c4b2,Nacionalismo/independentismo,88.58,#18a1cd,4.5,26.47,44.12,1.9,2.08,11.07,0.69,7.09
+2021,17221,Vilafant,Girona,4188,ERC,23.75,#e5ab4b,Nacionalismo/independentismo,55.99,#18a1cd,17.29,23.75,23.07,14.15,3.06,5.14,2.8,4.83
+2021,17222,Vilaür,Girona,108,JxCat,53.41,#00c4b2,Nacionalismo/independentismo,94.32,#18a1cd,1.14,23.86,53.41,1.14,1.14,17.05,0,0
+2021,17223,Vilajuïga,Girona,819,JxCat,29.75,#00c4b2,Nacionalismo/independentismo,65.82,#18a1cd,16.24,21.94,29.75,6.75,5.49,10.97,1.05,4.63
+2021,17224,Vilallonga de Ter,Girona,292,JxCat,52.32,#00c4b2,Nacionalismo/independentismo,86.75,#18a1cd,6.62,17.88,52.32,1.32,1.32,7.95,1.99,8.6
+2021,17225,Vilamacolum,Girona,207,ERC,32.35,#e5ab4b,Nacionalismo/independentismo,78.67,#18a1cd,5.15,32.35,28.68,3.68,2.21,8.82,3.68,8.82
+2021,17226,Vilamalla,Girona,878,VOX,22.52,#69a93b,No nacionalistas,53.87,#fa8c00,14.13,18.76,19.21,22.52,2.21,3.31,4.86,5.29
+2021,17227,Vilamaniscle,Girona,148,ERC,36.84,#e5ab4b,Nacionalismo/independentismo,83.15,#18a1cd,12.63,36.84,27.37,1.05,0,13.68,1.05,5.26
+2021,17228,Vilanant,Girona,287,JxCat,34.95,#00c4b2,Nacionalismo/independentismo,74.21,#18a1cd,9.14,23.66,34.95,7.53,4.3,7.53,0.54,9.69
+2021,17230,Vila-sacra,Girona,501,JxCat,34.34,#00c4b2,Nacionalismo/independentismo,63.97,#18a1cd,16.5,18.52,34.34,9.09,1.01,7.07,2.02,5.4
+2021,17232,Vilopriu,Girona,171,JxCat,31.36,#00c4b2,Nacionalismo/independentismo,68.65,#18a1cd,13.56,21.19,31.36,7.63,5.08,13.56,0.85,2.54
+2021,17233,Vilobí d'Onyar,Girona,2386,JxCat,44.64,#00c4b2,Nacionalismo/independentismo,83.22,#18a1cd,7.08,21.66,44.64,3.78,2.27,9.97,0.83,7.37
+2021,17234,Biure,Girona,183,Empate,26.09,#ADA9AC,Nacionalismo/independentismo,64.35,#18a1cd,11.3,26.09,26.09,8.7,6.96,10.43,1.74,2.61
+2021,17901,"Cruïlles, Monells i Sant Sadurní de l'Heura",Girona,1024,JxCat,32.52,#00c4b2,Nacionalismo/independentismo,77.92,#18a1cd,10.28,26.07,32.52,2.45,3.99,14.26,0.61,5.53
+2021,17902,Forallac,Girona,1310,JxCat,40.47,#00c4b2,Nacionalismo/independentismo,77.78,#18a1cd,10.53,21.17,40.47,3.27,2.46,9.71,1.29,7.14
+2021,17903,Sant Julià del Llor i Bonmatí,Girona,918,JxCat,45.04,#00c4b2,Nacionalismo/independentismo,80.15,#18a1cd,8.64,25,45.04,3.86,3.31,7.72,0.74,2.5700000000000003
+2021,17998,Residents Absents,Girona,21379,JxCat,31.16,#00c4b2,Nacionalismo/independentismo,64.17,#18a1cd,16.26,23.17,31.16,3.8,6.23,7.4,3.12,4.58
+2021,25001,Abella de la Conca,Lleida,134,JxCat,46.77,#00c4b2,Nacionalismo/independentismo,87.1,#18a1cd,4.84,25.81,46.77,0,3.23,14.52,0,0
+2021,25002,Àger,Lleida,457,JxCat,34.58,#00c4b2,Nacionalismo/independentismo,79,#18a1cd,10.51,28.14,34.58,3.05,1.69,11.53,1.36,5.430000000000001
+2021,25003,Agramunt,Lleida,3733,JxCat,37.45,#00c4b2,Nacionalismo/independentismo,74.9,#18a1cd,10.07,29.86,37.45,4.56,2.13,4.81,2.33,4.72
+2021,25004,Els Alamús,Lleida,566,JxCat,31.73,#00c4b2,Nacionalismo/independentismo,75.35,#18a1cd,9.63,30.59,31.73,6.8,3.68,7.08,0.57,7.08
+2021,25005,Alàs i Cerc,Lleida,262,JxCat,31.14,#00c4b2,Nacionalismo/independentismo,68.27,#18a1cd,18.56,22.16,31.14,1.2,2.4,10.78,2.4,5.99
+2021,25006,L'Albagés,Lleida,315,ERC,32.29,#e5ab4b,Nacionalismo/independentismo,63.02,#18a1cd,15.62,32.29,22.4,8.33,3.12,5.73,3.12,4.16
+2021,25007,Albatàrrec,Lleida,1399,ERC,32.36,#e5ab4b,Nacionalismo/independentismo,66.39,#18a1cd,13.33,32.36,25.14,7.5,3.61,6.25,2.78,3.48
+2021,25008,Albesa,Lleida,1089,ERC,36.67,#e5ab4b,Nacionalismo/independentismo,80.3,#18a1cd,8.72,36.67,30.86,1.45,2.1,10.02,3.88,3.23
+2021,25009,L'Albi,Lleida,594,JxCat,37.16,#00c4b2,Nacionalismo/independentismo,76.03,#18a1cd,9.29,30.07,37.16,2.93,2.93,6.85,3.42,2.4299999999999997
+2021,25010,Alcanó,Lleida,194,JxCat,37.21,#00c4b2,Nacionalismo/independentismo,84.49,#18a1cd,8.53,34.88,37.21,0.78,5.43,7.75,0.78,4.65
+2021,25011,Alcarràs,Lleida,5289,ERC,31.41,#e5ab4b,Nacionalismo/independentismo,69.36,#18a1cd,13.04,31.41,25.92,6.62,2.48,6.26,2.97,6.78
+2021,25012,Alcoletge,Lleida,2383,ERC,26.57,#e5ab4b,Nacionalismo/independentismo,61.78,#18a1cd,17.08,26.57,24.25,6.3,4.4,5.78,2.07,7.26
+2021,25013,Alfarràs,Lleida,2072,JxCat,31.2,#00c4b2,Nacionalismo/independentismo,60.33,#18a1cd,22.05,21.68,31.2,5.47,2.26,4.81,4.05,3.3800000000000003
+2021,25014,Alfés,Lleida,250,ERC,36.59,#e5ab4b,Nacionalismo/independentismo,90.86,#18a1cd,4.88,36.59,27.44,0,2.44,9.76,0,17.68
+2021,25015,Algerri,Lleida,347,JxCat,35.41,#00c4b2,Nacionalismo/independentismo,82.3,#18a1cd,7.18,34.93,35.41,2.39,1.91,9.09,3.35,2.87
+2021,25016,Alguaire,Lleida,2074,JxCat,34.6,#00c4b2,Nacionalismo/independentismo,78.95,#18a1cd,11.38,32.61,34.6,1.99,2.35,7.23,2.53,4.87
+2021,25017,Alins,Lleida,231,JxCat,30.72,#00c4b2,Nacionalismo/independentismo,77.77,#18a1cd,13.73,25.49,30.72,0,3.27,7.84,1.96,15.02
+2021,25019,Almacelles,Lleida,4591,ERC,26.77,#e5ab4b,Nacionalismo/independentismo,59.5,#18a1cd,17.77,26.77,23.43,6.3,5.17,5.51,5.02,4.98
+2021,25020,Almatret,Lleida,272,JxCat,37.06,#00c4b2,Nacionalismo/independentismo,78.18,#18a1cd,6.6,26.9,37.06,5.58,2.03,5.08,3.05,10.16
+2021,25021,Almenar,Lleida,2527,ERC,37.81,#e5ab4b,Nacionalismo/independentismo,75.14,#18a1cd,13.99,37.81,25.58,3.52,2.48,6.63,1.52,6.08
+2021,25022,Alòs de Balaguer,Lleida,103,JxCat,38.71,#00c4b2,Nacionalismo/independentismo,79.04,#18a1cd,9.68,30.65,38.71,0,6.45,3.23,1.61,6.45
+2021,25023,Alpicat,Lleida,4642,JxCat,27.84,#00c4b2,Nacionalismo/independentismo,65.89,#18a1cd,14.17,25.51,27.84,7.42,2.75,5.31,3.69,8.14
+2021,25024,Alt Àneu,Lleida,366,JxCat,35.22,#00c4b2,Nacionalismo/independentismo,87.04,#18a1cd,10.12,33.2,35.22,0.4,0.81,12.55,0.81,6.07
+2021,25025,Naut Aran,Lleida,1417,PSC,25.83,#da1f35,No nacionalistas,61.48,#fa8c00,25.83,15.3,13.71,16.31,3.75,4.76,6.2,5.21
+2021,25027,Anglesola,Lleida,971,JxCat,39.61,#00c4b2,Nacionalismo/independentismo,82.95,#18a1cd,2.66,34.46,39.61,4.8,2.84,3.73,2.13,5.6899999999999995
+2021,25029,Arbeca,Lleida,1581,JxCat,33.96,#00c4b2,Nacionalismo/independentismo,78.93,#18a1cd,11.74,32.08,33.96,1.78,2.83,9.54,2.62,3.86
+2021,25030,El Pont de Bar,Lleida,133,JxCat,36.49,#00c4b2,Nacionalismo/independentismo,86.49,#18a1cd,5.41,25.68,36.49,1.35,4.05,20.27,1.35,4.05
+2021,25031,Arres,Lleida,55,PSC,37.93,#da1f35,No nacionalistas,68.97,#fa8c00,37.93,6.9,10.34,17.24,0,3.45,6.9,3.45
+2021,25032,Arsèguel,Lleida,65,ERC,46.51,#e5ab4b,Nacionalismo/independentismo,83.72,#18a1cd,4.65,46.51,20.93,2.33,2.33,13.95,0,6.99
+2021,25033,Artesa de Lleida,Lleida,1129,ERC,34.32,#e5ab4b,Nacionalismo/independentismo,80.9,#18a1cd,8.75,34.32,30.96,2.96,2.02,9.29,1.35,7.67
+2021,25034,Artesa de Segre,Lleida,2272,ERC,34.58,#e5ab4b,Nacionalismo/independentismo,83.22,#18a1cd,7.71,34.58,34.2,2.98,1.45,8.02,1.91,7.03
+2021,25035,La Sentiu de Sió,Lleida,367,JxCat,36.48,#00c4b2,Nacionalismo/independentismo,75.54,#18a1cd,12.02,27.04,36.48,5.15,3.86,6.01,1.29,6.01
+2021,25036,Aspa,Lleida,172,PSC,28.1,#da1f35,Nacionalismo/independentismo,53.72,#18a1cd,28.1,17.36,25.62,6.61,0,10.74,5.79,0
+2021,25037,Les Avellanes i Santa Linya,Lleida,368,ERC,37.56,#e5ab4b,Nacionalismo/independentismo,82.22,#18a1cd,8.63,37.56,28.93,3.55,1.52,9.64,1.02,6.09
+2021,25038,Aitona,Lleida,1416,PDeCAT,32.66,#1e4a8e,Nacionalismo/independentismo,73.56,#18a1cd,8.81,21.81,15.59,3.5,2.03,2.94,8.47,33.669999999999995
+2021,25039,Baix Pallars,Lleida,279,JxCat,29.02,#00c4b2,Nacionalismo/independentismo,75.65,#18a1cd,11.4,24.87,29.02,1.04,7.25,16.58,1.04,6.22
+2021,25040,Balaguer,Lleida,10686,ERC,29.32,#e5ab4b,Nacionalismo/independentismo,67.18,#18a1cd,16.55,29.32,26.61,4.97,2.79,6.5,3.29,5.49
+2021,25041,Barbens,Lleida,523,ERC,34.77,#e5ab4b,Nacionalismo/independentismo,78.87,#18a1cd,9.68,34.77,32.26,2.87,1.43,5.38,1.79,7.539999999999999
+2021,25042,La Baronia de Rialb,Lleida,202,PDeCAT,40.29,#1e4a8e,Nacionalismo/independentismo,89.93,#18a1cd,5.76,24.46,22.3,0.72,1.44,2.88,0.72,40.29
+2021,25043,La Vall de Boí,Lleida,819,ERC,32.92,#e5ab4b,Nacionalismo/independentismo,81.57,#18a1cd,6.83,32.92,29.81,0.83,6,14.08,1.66,6.409999999999999
+2021,25044,Bassella,Lleida,180,JxCat,29.92,#00c4b2,Nacionalismo/independentismo,80.32,#18a1cd,7.87,18.11,29.92,2.36,2.36,10.24,4.72,22.05
+2021,25045,Bausen,Lleida,59,Empate,20.83,#ADA9AC,No nacionalistas,49.99,#fa8c00,20.83,12.5,8.33,0,12.5,20.83,8.33,4.17
+2021,25046,Belianes,Lleida,408,Empate,27.97,#ADA9AC,Nacionalismo/independentismo,75.1,#18a1cd,11.49,27.97,27.97,2.68,0.77,16.48,5.75,3.44
+2021,25047,Bellcaire d'Urgell,Lleida,946,ERC,39.61,#e5ab4b,Nacionalismo/independentismo,82.41,#18a1cd,8.04,39.61,28.38,2.43,1.21,7.59,2.73,6.98
+2021,25048,Bell-lloc d'Urgell,Lleida,1639,ERC,31.25,#e5ab4b,Nacionalismo/independentismo,75.71,#18a1cd,12.09,31.25,30.23,3.38,1.84,5.02,2.15,10.13
+2021,25049,Bellmunt d'Urgell,Lleida,150,PDeCAT,29.29,#1e4a8e,Nacionalismo/independentismo,86.86,#18a1cd,4.04,25.25,24.24,5.05,0,7.07,0,32.32
+2021,25050,Bellpuig,Lleida,3269,JxCat,32.93,#00c4b2,Nacionalismo/independentismo,80.33,#18a1cd,10.03,31.56,32.93,2.03,2.3,9.21,2.03,7.27
+2021,25051,Bellver de Cerdanya,Lleida,1619,JxCat,32.71,#00c4b2,Nacionalismo/independentismo,74.63,#18a1cd,12.84,24.84,32.71,2.38,3.62,12.22,2.28,5.79
+2021,25052,Bellvís,Lleida,1555,ERC,37.76,#e5ab4b,Nacionalismo/independentismo,85.98,#18a1cd,6.8,37.76,36.72,1.57,2.2,8.16,1.26,3.5500000000000003
+2021,25053,Benavent de Segrià,Lleida,1111,ERC,29.08,#e5ab4b,Nacionalismo/independentismo,72.71,#18a1cd,12.76,29.08,26.71,4.75,2.08,6.82,2.82,10.55
+2021,25055,Biosca,Lleida,161,JxCat,48.91,#00c4b2,Nacionalismo/independentismo,73.9,#18a1cd,9.78,13.04,48.91,2.17,3.26,4.35,3.26,9.77
+2021,25056,Bovera,Lleida,207,JxCat,43.1,#00c4b2,Nacionalismo/independentismo,76.72,#18a1cd,10.34,24.14,43.1,2.59,1.72,7.76,0,2.58
+2021,25057,Es Bòrdes,Lleida,222,PSC,20.39,#da1f35,No nacionalistas,57.28,#fa8c00,20.39,18.45,11.65,13.59,9.71,9.71,3.88,3.88
+2021,25058,Les Borges Blanques,Lleida,4375,JxCat,36.88,#00c4b2,Nacionalismo/independentismo,81.19,#18a1cd,8.47,33,36.88,3.46,1.92,8.39,1.29,3.63
+2021,25059,Bossòst,Lleida,822,PSC,37.56,#da1f35,No nacionalistas,76.47,#fa8c00,37.56,10.63,8.14,20.59,3.62,2.49,5.2,2.94
+2021,25060,Cabanabona,Lleida,65,JxCat,30.56,#00c4b2,Nacionalismo/independentismo,80.56,#18a1cd,2.78,27.78,30.56,5.56,0,13.89,2.78,11.11
+2021,25061,Cabó,Lleida,79,JxCat,39.13,#00c4b2,Nacionalismo/independentismo,73.91,#18a1cd,6.52,28.26,39.13,13.04,0,4.35,0,6.52
+2021,25062,Camarasa,Lleida,691,ERC,37.26,#e5ab4b,Nacionalismo/independentismo,81.6,#18a1cd,6.13,37.26,32.31,4.01,2.59,9.43,1.89,3.55
+2021,25063,Canejan,Lleida,76,Empate,28.12,#ADA9AC,No nacionalistas,53.11,#fa8c00,28.12,28.12,15.62,18.75,3.12,3.12,3.12,0
+2021,25064,Castellar de la Ribera,Lleida,94,JxCat,39.73,#00c4b2,Nacionalismo/independentismo,90.42,#18a1cd,5.48,23.29,39.73,0,0,13.7,2.74,13.7
+2021,25067,Castelldans,Lleida,683,JxCat,28.53,#00c4b2,Nacionalismo/independentismo,74.04,#18a1cd,7.97,24.94,28.53,3.86,4.37,9.77,4.11,11.06
+2021,25068,Castellnou de Seana,Lleida,524,JxCat,37.67,#00c4b2,Nacionalismo/independentismo,84.57,#18a1cd,6.16,27.05,37.67,3.08,1.03,4.79,2.4,15.06
+2021,25069,Castelló de Farfanya,Lleida,414,ERC,42.73,#e5ab4b,Nacionalismo/independentismo,88.1,#18a1cd,4.85,42.73,35.68,2.64,1.76,5.73,0.88,3.96
+2021,25070,Castellserà,Lleida,784,JxCat,33.96,#00c4b2,Nacionalismo/independentismo,84.91,#18a1cd,6.5,30.82,33.96,1.26,1.26,13.42,1.26,6.71
+2021,25071,Cava,Lleida,41,JxCat,41.94,#00c4b2,Nacionalismo/independentismo,87.1,#18a1cd,3.23,22.58,41.94,6.45,0,22.58,3.23,0
+2021,25072,Cervera,Lleida,5960,JxCat,29.25,#00c4b2,Nacionalismo/independentismo,68.72,#18a1cd,13.68,26.43,29.25,6.04,3.53,8.45,2.79,5.68
+2021,25073,Cervià de les Garrigues,Lleida,556,ERC,44.41,#e5ab4b,Nacionalismo/independentismo,83.99,#18a1cd,7.85,44.41,31.12,1.51,3.02,7.25,0.3,1.21
+2021,25074,Ciutadilla,Lleida,174,ERC,42.28,#e5ab4b,Nacionalismo/independentismo,78.86,#18a1cd,8.94,42.28,32.52,2.44,2.44,3.25,2.44,0.81
+2021,25075,Clariana de Cardener,Lleida,130,ERC,34.12,#e5ab4b,Nacionalismo/independentismo,85.87,#18a1cd,8.24,34.12,18.82,0,1.18,18.82,0,15.29
+2021,25076,El Cogul,Lleida,132,ERC,35.56,#e5ab4b,Nacionalismo/independentismo,81.11,#18a1cd,11.11,35.56,34.44,4.44,2.22,7.78,0,3.33
+2021,25077,Coll de Nargó,Lleida,433,JxCat,28.63,#00c4b2,Nacionalismo/independentismo,79.01,#18a1cd,11.83,27.86,28.63,1.91,1.91,16.03,0.76,8.02
+2021,25078,Corbins,Lleida,996,ERC,37.5,#e5ab4b,Nacionalismo/independentismo,79.84,#18a1cd,7.66,37.5,31.41,2.97,2.81,7.34,1.41,4.68
+2021,25079,Cubells,Lleida,275,JxCat,41.24,#00c4b2,Nacionalismo/independentismo,88.69,#18a1cd,2.82,36.72,41.24,2.82,0,2.26,2.82,9.03
+2021,25081,L'Espluga Calba,Lleida,270,ERC,34.13,#e5ab4b,Nacionalismo/independentismo,79.03,#18a1cd,11.38,34.13,27.54,1.2,1.2,13.17,2.99,4.19
+2021,25082,Espot,Lleida,301,ERC,38.17,#e5ab4b,Nacionalismo/independentismo,77.96,#18a1cd,10.22,38.17,27.96,1.61,1.61,3.23,2.15,10.22
+2021,25085,Estaràs,Lleida,143,JxCat,43,#00c4b2,Nacionalismo/independentismo,76,#18a1cd,7,22,43,7,3,6,4,7
+2021,25086,Esterri d'Àneu,Lleida,554,JxCat,38.2,#00c4b2,Nacionalismo/independentismo,84.36,#18a1cd,7.96,27.85,38.2,0.27,3.45,13.26,0,6.12
+2021,25087,Esterri de Cardós,Lleida,53,JxCat,53.85,#00c4b2,Nacionalismo/independentismo,82.05,#18a1cd,12.82,12.82,53.85,0,2.56,12.82,0,2.56
+2021,25088,Estamariu,Lleida,97,JxCat,55.74,#00c4b2,Nacionalismo/independentismo,90.17,#18a1cd,4.92,18.03,55.74,0,1.64,4.92,0,11.48
+2021,25089,Farrera,Lleida,91,CUP,34.48,#e5c64b,Nacionalismo/independentismo,89.65,#18a1cd,5.17,24.14,25.86,0,5.17,34.48,0,5.17
+2021,25092,La Floresta,Lleida,126,JxCat,38.95,#00c4b2,Nacionalismo/independentismo,80.01,#18a1cd,5.26,22.11,38.95,3.16,1.05,11.58,4.21,9.47
+2021,25093,Fondarella,Lleida,610,JxCat,36.81,#00c4b2,Nacionalismo/independentismo,72.78,#18a1cd,12.64,21.7,36.81,6.32,1.1,5.77,1.37,9.86
+2021,25094,Foradada,Lleida,130,JxCat,47.67,#00c4b2,Nacionalismo/independentismo,82.55,#18a1cd,6.98,18.6,47.67,1.16,0,13.95,5.81,2.33
+2021,25096,La Fuliola,Lleida,866,JxCat,38.01,#00c4b2,Nacionalismo/independentismo,83.81,#18a1cd,9.07,33.91,38.01,1.94,0.43,8.21,2.81,3.9
+2021,25097,Fulleda,Lleida,94,ERC,57.89,#e5ab4b,Nacionalismo/independentismo,77.19,#18a1cd,7.02,57.89,14.04,1.75,0,5.26,5.26,0
+2021,25098,Gavet de la Conca,Lleida,233,JxCat,36.69,#00c4b2,Nacionalismo/independentismo,85.62,#18a1cd,9.35,30.22,36.69,0,0.72,15.11,0.72,3.6
+2021,25099,Golmés,Lleida,1305,JxCat,41.6,#00c4b2,Nacionalismo/independentismo,83.05,#18a1cd,6.58,25.77,41.6,2.8,1.68,6.58,2.52,9.38
+2021,25100,Gósol,Lleida,187,JxCat,33.85,#00c4b2,Nacionalismo/independentismo,81.55,#18a1cd,10.77,32.31,33.85,1.54,3.08,11.54,0,4.62
+2021,25101,La Granadella,Lleida,521,JxCat,36.77,#00c4b2,Nacionalismo/independentismo,87.2,#18a1cd,4.18,33.15,36.77,3.06,1.39,11.98,1.11,6.140000000000001
+2021,25102,La Granja d'Escarp,Lleida,628,ERC,25.19,#e5ab4b,Nacionalismo/independentismo,67.79,#18a1cd,14.55,25.19,24.16,3.9,2.34,0.78,3.38,18.44
+2021,25103,Granyanella,Lleida,131,JxCat,33.33,#00c4b2,Nacionalismo/independentismo,73.61,#18a1cd,8.33,30.56,33.33,4.17,8.33,9.72,0,0
+2021,25104,Granyena de Segarra,Lleida,130,JxCat,36.71,#00c4b2,Nacionalismo/independentismo,73.43,#18a1cd,12.66,18.99,36.71,5.06,5.06,11.39,3.8,6.34
+2021,25105,Granyena de les Garrigues,Lleida,112,JxCat,38.37,#00c4b2,Nacionalismo/independentismo,79.07,#18a1cd,9.3,32.56,38.37,4.65,2.33,8.14,1.16,0
+2021,25109,Guimerà,Lleida,208,JxCat,42.55,#00c4b2,Nacionalismo/independentismo,82.98,#18a1cd,2.84,25.53,42.55,2.84,0,3.55,2.84,15.61
+2021,25110,Guissona,Lleida,2742,JxCat,32.34,#00c4b2,Nacionalismo/independentismo,73.7,#18a1cd,15.37,26.71,32.34,1.59,2.98,8.88,1.59,6.64
+2021,25111,Guixers,Lleida,110,JxCat,34.29,#00c4b2,Nacionalismo/independentismo,85.72,#18a1cd,5.71,15.71,34.29,2.86,1.43,8.57,1.43,27.15
+2021,25112,Ivars de Noguera,Lleida,265,PDeCAT,20.93,#1e4a8e,Nacionalismo/independentismo,79.07,#18a1cd,7.56,20.35,19.77,5.81,0.58,15.12,2.33,24.99
+2021,25113,Ivars d'Urgell,Lleida,1116,ERC,35.81,#e5ab4b,Nacionalismo/independentismo,77.03,#18a1cd,13.12,35.81,27.67,1.71,2.14,6.7,2,7.42
+2021,25114,Ivorra,Lleida,105,JxCat,62.2,#00c4b2,Nacionalismo/independentismo,92.69,#18a1cd,0,17.07,62.2,1.22,3.66,2.44,0,10.98
+2021,25115,Isona i Conca Dellà,Lleida,817,JxCat,44.77,#00c4b2,Nacionalismo/independentismo,81.2,#18a1cd,12.98,26.55,44.77,1.55,0.97,4.07,1.36,6.199999999999999
+2021,25118,Juncosa,Lleida,316,JxCat,42.24,#00c4b2,Nacionalismo/independentismo,77.02,#18a1cd,11.18,26.09,42.24,1.86,1.86,8.07,1.86,1.86
+2021,25119,Juneda,Lleida,2267,ERC,33.23,#e5ab4b,Nacionalismo/independentismo,81.71,#18a1cd,10.11,33.23,30.86,1.41,1.56,8.7,1.93,9.21
+2021,25120,Lleida,Lleida,92388,ERC,21.9,#e5ab4b,Nacionalismo/independentismo,52.59,#18a1cd,20.8,21.9,21.13,9.04,4.36,6.13,5.63,4.6899999999999995
+2021,25121,Les,Lleida,656,PSC,37.41,#da1f35,No nacionalistas,63.93,#fa8c00,37.41,19.05,9.86,8.5,6.8,3.74,3.74,3.4
+2021,25122,Linyola,Lleida,1934,JxCat,38.33,#00c4b2,Nacionalismo/independentismo,81.07,#18a1cd,6.72,30.45,38.33,1.54,1.73,7.68,2.4,6.25
+2021,25123,Lladorre,Lleida,195,JxCat,40,#00c4b2,Nacionalismo/independentismo,82.22,#18a1cd,7.41,30.37,40,2.22,2.22,9.63,0,3.7
+2021,25124,Lladurs,Lleida,157,JxCat,29.47,#00c4b2,Nacionalismo/independentismo,86.31,#18a1cd,4.21,21.05,29.47,2.11,1.05,12.63,4.21,23.16
+2021,25125,Llardecans,Lleida,373,JxCat,34.6,#00c4b2,Nacionalismo/independentismo,80.59,#18a1cd,5.49,32.91,34.6,2.95,3.38,9.7,4.22,3.38
+2021,25126,Llavorsí,Lleida,282,ERC,38.3,#e5ab4b,Nacionalismo/independentismo,84.58,#18a1cd,10.64,38.3,24.47,0,1.06,18.09,1.06,4.25
+2021,25127,Lles de Cerdanya,Lleida,229,JxCat,36.69,#00c4b2,Nacionalismo/independentismo,86.34,#18a1cd,5.76,25.9,36.69,0,5.04,16.55,0.72,7.92
+2021,25128,Llimiana,Lleida,131,JxCat,32.91,#00c4b2,Nacionalismo/independentismo,81.01,#18a1cd,8.86,24.05,32.91,2.53,6.33,12.66,0,11.39
+2021,25129,Llobera,Lleida,157,ERC,35.11,#e5ab4b,Nacionalismo/independentismo,84.05,#18a1cd,4.26,35.11,32.98,1.06,3.19,13.83,0,5.32
+2021,25130,Maldà,Lleida,195,JxCat,40.8,#00c4b2,Nacionalismo/independentismo,85.6,#18a1cd,8.8,20.8,40.8,3.2,0.8,20,0.8,4
+2021,25131,Massalcoreig,Lleida,390,ERC,35.27,#e5ab4b,Nacionalismo/independentismo,73.22,#18a1cd,15.18,35.27,22.77,5.8,2.23,8.93,1.34,6.25
+2021,25132,Massoteres,Lleida,133,JxCat,36.59,#00c4b2,Nacionalismo/independentismo,73.18,#18a1cd,12.2,30.49,36.59,3.66,2.44,4.88,0,3.66
+2021,25133,Maials,Lleida,669,JxCat,32.14,#00c4b2,Nacionalismo/independentismo,79.58,#18a1cd,9.18,22.7,32.14,3.06,1.79,6.12,2.81,19.39
+2021,25134,Menàrguens,Lleida,598,JxCat,34.14,#00c4b2,Nacionalismo/independentismo,77.15,#18a1cd,14.25,33.6,34.14,1.88,2.42,5.11,1.88,5.92
+2021,25135,Miralcamp,Lleida,990,JxCat,34.64,#00c4b2,Nacionalismo/independentismo,75.42,#18a1cd,13.04,29.05,34.64,3.91,1.3,4.1,1.68,8.75
+2021,25136,La Molsosa,Lleida,95,JxCat,57.14,#00c4b2,Nacionalismo/independentismo,84.13,#18a1cd,7.94,14.29,57.14,0,0,11.11,7.94,1.59
+2021,25137,Mollerussa,Lleida,8648,JxCat,30.66,#00c4b2,Nacionalismo/independentismo,70.38,#18a1cd,14.51,24.41,30.66,5.16,2.85,6.15,3.11,9.96
+2021,25138,Montgai,Lleida,572,ERC,34.46,#e5ab4b,Nacionalismo/independentismo,76.55,#18a1cd,11.86,34.46,25.71,2.26,0,8.76,3.95,7.9
+2021,25139,Montellà i Martinet,Lleida,487,JxCat,32.32,#00c4b2,Nacionalismo/independentismo,80.13,#18a1cd,9.09,30.64,32.32,0.67,2.36,15.15,2.02,2.69
+2021,25140,Montferrer i Castellbò,Lleida,798,JxCat,29.98,#00c4b2,Nacionalismo/independentismo,77.12,#18a1cd,9.84,27.46,29.98,1.83,4.12,9.84,3.2,10.76
+2021,25141,Montoliu de Segarra,Lleida,155,JxCat,44.71,#00c4b2,Nacionalismo/independentismo,83.54,#18a1cd,5.88,17.65,44.71,0,2.35,11.76,3.53,9.42
+2021,25142,Montoliu de Lleida,Lleida,364,JxCat,31.97,#00c4b2,Nacionalismo/independentismo,77.06,#18a1cd,6.97,29.51,31.97,4.1,3.28,10.66,3.69,6.1499999999999995
+2021,25143,Montornès de Segarra,Lleida,80,JxCat,35.85,#00c4b2,Nacionalismo/independentismo,73.59,#18a1cd,18.87,24.53,35.85,1.89,1.89,7.55,0,7.55
+2021,25145,Nalec,Lleida,74,JxCat,46.67,#00c4b2,Nacionalismo/independentismo,86.67,#18a1cd,11.67,33.33,46.67,0,1.67,0,0,6.67
+2021,25146,Navès,Lleida,222,JxCat,46.46,#00c4b2,Nacionalismo/independentismo,80.32,#18a1cd,6.3,13.39,46.46,2.36,2.36,9.45,3.94,11.81
+2021,25148,Odèn,Lleida,216,JxCat,34.04,#00c4b2,Nacionalismo/independentismo,88.65,#18a1cd,3.55,24.11,34.04,0.71,0,7.8,4.26,22.700000000000003
+2021,25149,Oliana,Lleida,1373,JxCat,36.75,#00c4b2,Nacionalismo/independentismo,78.14,#18a1cd,13.06,31.99,36.75,1.59,2.08,5.25,3.17,4.390000000000001
+2021,25150,Oliola,Lleida,166,JxCat,45.61,#00c4b2,Nacionalismo/independentismo,84.21,#18a1cd,4.39,22.81,45.61,7.02,0.88,11.4,1.75,4.39
+2021,25151,Olius,Lleida,730,JxCat,44.67,#00c4b2,Nacionalismo/independentismo,82.44,#18a1cd,8,23.78,44.67,2.44,1.56,7.33,3.11,6.66
+2021,25152,Les Oluges,Lleida,148,JxCat,46.74,#00c4b2,Nacionalismo/independentismo,81.52,#18a1cd,8.7,23.91,46.74,2.17,2.17,6.52,1.09,5.44
+2021,25153,Els Omellons,Lleida,181,ERC,35.71,#e5ab4b,Nacionalismo/independentismo,62.24,#18a1cd,7.14,35.71,19.39,9.18,6.12,4.08,4.08,7.140000000000001
+2021,25154,Els Omells de na Gaia,Lleida,115,JxCat,58.33,#00c4b2,Nacionalismo/independentismo,91.66,#18a1cd,5.56,22.22,58.33,0,2.78,8.33,0,2.78
+2021,25155,Organyà,Lleida,596,JxCat,37.64,#00c4b2,Nacionalismo/independentismo,76.12,#18a1cd,12.08,26.69,37.64,3.09,2.81,6.74,2.53,5.61
+2021,25156,Os de Balaguer,Lleida,783,JxCat,30.35,#00c4b2,Nacionalismo/independentismo,75.56,#18a1cd,11,30.14,30.35,2.85,4.07,10.79,2.65,4.89
+2021,25157,Ossó de Sió,Lleida,159,JxCat,35.24,#00c4b2,Nacionalismo/independentismo,73.34,#18a1cd,7.62,24.76,35.24,6.67,0.95,2.86,0.95,14.29
+2021,25158,El Palau d'Anglesola,Lleida,1613,JxCat,36.58,#00c4b2,Nacionalismo/independentismo,82.77,#18a1cd,7.19,31.41,36.58,3.34,1.82,6.28,1.62,8.7
+2021,25161,Conca de Dalt,Lleida,338,JxCat,30.62,#00c4b2,Nacionalismo/independentismo,78.95,#18a1cd,12.44,27.75,30.62,0.48,2.39,18.18,3.83,2.88
+2021,25163,La Coma i la Pedra,Lleida,241,JxCat,43.8,#00c4b2,Nacionalismo/independentismo,84.68,#18a1cd,1.46,20.44,43.8,5.84,2.92,10.95,2.92,10.22
+2021,25164,Penelles,Lleida,355,JxCat,41.63,#00c4b2,Nacionalismo/independentismo,86.61,#18a1cd,5.26,32.06,41.63,1.91,0.96,5.74,2.87,7.66
+2021,25165,Peramola,Lleida,273,JxCat,35.96,#00c4b2,Nacionalismo/independentismo,83.15,#18a1cd,6.74,32.58,35.96,1.69,1.69,9.55,2.25,6.18
+2021,25166,Pinell de Solsonès,Lleida,167,JxCat,46.67,#00c4b2,Nacionalismo/independentismo,86.67,#18a1cd,2.22,27.78,46.67,2.22,0,8.89,5.56,3.33
+2021,25167,Pinós,Lleida,231,JxCat,27.52,#00c4b2,Nacionalismo/independentismo,75.84,#18a1cd,4.7,8.72,27.52,4.7,4.03,18.12,6.71,21.48
+2021,25168,El Poal,Lleida,497,JxCat,38.49,#00c4b2,Nacionalismo/independentismo,81.09,#18a1cd,4.42,28.71,38.49,6.31,1.26,7.57,3.47,6.64
+2021,25169,La Pobla de Cérvoles,Lleida,175,ERC,28.3,#e5ab4b,Nacionalismo/independentismo,66.03,#18a1cd,14.15,28.3,24.53,2.83,0.94,9.43,2.83,5.66
+2021,25170,Bellaguarda,Lleida,257,JxCat,39.78,#00c4b2,Nacionalismo/independentismo,82.8,#18a1cd,9.68,29.57,39.78,2.15,2.15,7.53,2.15,6.46
+2021,25171,La Pobla de Segur,Lleida,2157,JxCat,32.87,#00c4b2,Nacionalismo/independentismo,71.99,#18a1cd,16.9,24.92,32.87,1.93,3.94,9.88,1.62,5.02
+2021,25172,Ponts,Lleida,1749,ERC,34.02,#e5ab4b,Nacionalismo/independentismo,79.64,#18a1cd,8.65,34.02,33.53,3.15,1.77,7.37,4.13,5.51
+2021,25173,El Pont de Suert,Lleida,1667,PSC,28.29,#da1f35,Nacionalismo/independentismo,53.17,#18a1cd,28.29,20.39,17.76,4.61,6.8,7.89,3.62,7.68
+2021,25174,La Portella,Lleida,384,JxCat,36.15,#00c4b2,Nacionalismo/independentismo,77.69,#18a1cd,13.08,29.62,36.15,3.46,1.92,7.69,0,4.23
+2021,25175,Prats i Sansor,Lleida,197,JxCat,35.34,#00c4b2,Nacionalismo/independentismo,70.68,#18a1cd,6.77,18.8,35.34,8.27,3.76,7.52,6.02,9.02
+2021,25176,Preixana,Lleida,323,JxCat,33.17,#00c4b2,Nacionalismo/independentismo,80.77,#18a1cd,2.88,23.08,33.17,2.88,2.88,6.73,5.77,18.27
+2021,25177,Preixens,Lleida,350,PDeCAT,24.88,#1e4a8e,Nacionalismo/independentismo,74.64,#18a1cd,8.61,23.44,19.62,6.7,3.83,5.26,1.91,27.76
+2021,25179,Prullans,Lleida,184,JxCat,30.83,#00c4b2,Nacionalismo/independentismo,86.66,#18a1cd,5,25.83,30.83,5,2.5,17.5,0,12.5
+2021,25180,Puiggròs,Lleida,218,JxCat,50.75,#00c4b2,Nacionalismo/independentismo,83.6,#18a1cd,11.19,26.87,50.75,0,1.49,2.99,0.75,3.74
+2021,25181,Puigverd d'Agramunt,Lleida,154,JxCat,30.85,#00c4b2,Nacionalismo/independentismo,67.02,#18a1cd,13.83,27.66,30.85,6.38,0,6.38,5.32,5.32
+2021,25182,Puigverd de Lleida,Lleida,1059,JxCat,27.18,#00c4b2,Nacionalismo/independentismo,64.9,#18a1cd,14.66,26.69,27.18,6.26,4.61,8.57,3.62,3.44
+2021,25183,Rialp,Lleida,522,JxCat,25.7,#00c4b2,Nacionalismo/independentismo,77.4,#18a1cd,9.6,21.36,25.7,2.79,4.64,12.07,1.86,19.82
+2021,25185,Ribera d'Urgellet,Lleida,674,JxCat,37.91,#00c4b2,Nacionalismo/independentismo,78.02,#18a1cd,12.64,28.85,37.91,0.82,3.02,7.14,0.27,4.93
+2021,25186,Riner,Lleida,214,JxCat,41.45,#00c4b2,Nacionalismo/independentismo,80.27,#18a1cd,7.24,18.42,41.45,7.24,0.66,14.47,1.32,6.590000000000001
+2021,25189,Rosselló,Lleida,2228,JxCat,28.89,#00c4b2,Nacionalismo/independentismo,69.03,#18a1cd,14.31,27.72,28.89,6.84,2.88,6.75,1.8,6.66
+2021,25190,Salàs de Pallars,Lleida,265,ERC,28.4,#e5ab4b,Nacionalismo/independentismo,73.37,#18a1cd,20.12,28.4,23.08,1.78,2.37,16.57,0.59,5.91
+2021,25191,Sanaüja,Lleida,335,JxCat,43.85,#00c4b2,Nacionalismo/independentismo,80.75,#18a1cd,5.35,21.93,43.85,5.88,0,11.23,4.81,4.2700000000000005
+2021,25192,Sant Guim de Freixenet,Lleida,741,ERC,34.27,#e5ab4b,Nacionalismo/independentismo,75.82,#18a1cd,8.45,34.27,31.22,5.4,3.52,6.34,2.35,4.45
+2021,25193,Sant Llorenç de Morunys,Lleida,794,JxCat,43.58,#00c4b2,Nacionalismo/independentismo,87.36,#18a1cd,6.11,24.84,43.58,1.26,0.84,13.05,2.53,5.89
+2021,25194,Sant Ramon,Lleida,403,JxCat,36.17,#00c4b2,Nacionalismo/independentismo,80.01,#18a1cd,6.81,26.81,36.17,3.83,2.55,7.66,3.83,11.5
+2021,25196,Sant Esteve de la Sarga,Lleida,105,JxCat,27.27,#00c4b2,Nacionalismo/independentismo,69.7,#18a1cd,12.12,22.73,27.27,1.52,10.61,9.09,3.03,12.13
+2021,25197,Sant Guim de la Plana,Lleida,140,ERC,38.46,#e5ab4b,Nacionalismo/independentismo,86.53,#18a1cd,7.69,38.46,29.81,0.96,0,15.38,0,3.84
+2021,25200,Sarroca de Lleida,Lleida,311,ERC,41.03,#e5ab4b,Nacionalismo/independentismo,85.14,#18a1cd,10.77,41.03,29.23,0.51,0,6.67,1.54,9.24
+2021,25201,Sarroca de Bellera,Lleida,106,Empate,26.23,#ADA9AC,Nacionalismo/independentismo,62.29,#18a1cd,26.23,26.23,19.67,4.92,1.64,3.28,1.64,14.75
+2021,25202,Senterada,Lleida,104,ERC,29.82,#e5ab4b,Nacionalismo/independentismo,70.17,#18a1cd,17.54,29.82,22.81,0,8.77,17.54,3.51,0
+2021,25203,La Seu d'Urgell,Lleida,8840,ERC,26.29,#e5ab4b,Nacionalismo/independentismo,62.56,#18a1cd,19.46,26.29,24.44,4.52,4.82,8.6,3.16,3.85
+2021,25204,Seròs,Lleida,1144,ERC,30.47,#e5ab4b,Nacionalismo/independentismo,81.26,#18a1cd,9.06,30.47,24.22,3.75,1.25,4.84,2.03,22.67
+2021,25205,Sidamon,Lleida,571,JxCat,30.99,#00c4b2,Nacionalismo/independentismo,70.46,#18a1cd,12.28,29.24,30.99,6.43,4.97,4.39,2.92,6.42
+2021,25206,El Soleràs,Lleida,254,JxCat,46.74,#00c4b2,Nacionalismo/independentismo,90.22,#18a1cd,5.43,34.24,46.74,0.54,0.54,4.35,0.54,5.43
+2021,25207,Solsona,Lleida,6458,JxCat,34.94,#00c4b2,Nacionalismo/independentismo,77.52,#18a1cd,12.05,26.58,34.94,2.98,2.75,11.73,1.29,5.069999999999999
+2021,25208,Soriguera,Lleida,342,ERC,28.97,#e5ab4b,Nacionalismo/independentismo,82.25,#18a1cd,11.21,28.97,21.03,0.47,3.27,28.04,1.4,5.15
+2021,25209,Sort,Lleida,1614,JxCat,29.46,#00c4b2,Nacionalismo/independentismo,76.31,#18a1cd,9.82,27.64,29.46,2.03,4.59,15.15,2.03,5.13
+2021,25210,Soses,Lleida,1063,JxCat,34.5,#00c4b2,Nacionalismo/independentismo,77.55,#18a1cd,15.42,33.74,34.5,2.14,0.92,4.27,1.98,5.340000000000001
+2021,25211,Sudanell,Lleida,652,ERC,38.77,#e5ab4b,Nacionalismo/independentismo,79.96,#18a1cd,8.56,38.77,25.4,2.94,2.14,9.63,5.08,6.16
+2021,25212,Sunyer,Lleida,221,JxCat,31.65,#00c4b2,Nacionalismo/independentismo,70.51,#18a1cd,12.95,28.06,31.65,2.16,2.16,4.32,2.88,7.199999999999999
+2021,25215,Talarn,Lleida,420,JxCat,27,#00c4b2,Nacionalismo/independentismo,61,#18a1cd,17.5,21,27,9,3,11,1,4
+2021,25216,Talavera,Lleida,241,ERC,28.05,#e5ab4b,Nacionalismo/independentismo,82.32,#18a1cd,6.71,28.05,26.83,3.66,0.61,13.41,2.44,15.25
+2021,25217,Tàrrega,Lleida,11044,JxCat,34.41,#00c4b2,Nacionalismo/independentismo,74.11,#18a1cd,12.76,25.85,34.41,4.01,3.12,9.08,1.79,5.38
+2021,25218,Tarrés,Lleida,84,ERC,39.06,#e5ab4b,Nacionalismo/independentismo,89.06,#18a1cd,3.12,39.06,35.94,1.56,3.12,7.81,0,6.25
+2021,25219,Tarroja de Segarra,Lleida,148,JxCat,30.95,#00c4b2,Nacionalismo/independentismo,84.52,#18a1cd,1.19,23.81,30.95,1.19,1.19,25,1.19,4.76
+2021,25220,Térmens,Lleida,976,JxCat,32.81,#00c4b2,Nacionalismo/independentismo,82.58,#18a1cd,7.13,31.7,32.81,3.8,1.58,6.66,2.69,12.05
+2021,25221,Tírvia,Lleida,118,JxCat,33.75,#00c4b2,Nacionalismo/independentismo,80,#18a1cd,12.5,30,33.75,1.25,3.75,15,0,2.5
+2021,25222,Tiurana,Lleida,67,JxCat,38.46,#00c4b2,Nacionalismo/independentismo,75,#18a1cd,5.77,17.31,38.46,1.92,0,3.85,15.38,15.38
+2021,25223,Torà,Lleida,905,JxCat,34.79,#00c4b2,Nacionalismo/independentismo,84.6,#18a1cd,7.98,32.51,34.79,1.9,2.09,11.98,0.57,5.89
+2021,25224,Els Torms,Lleida,121,ERC,48.28,#e5ab4b,Nacionalismo/independentismo,89.66,#18a1cd,6.9,48.28,25.29,0,0,10.34,0,6.9
+2021,25225,Tornabous,Lleida,521,JxCat,40.32,#00c4b2,Nacionalismo/independentismo,85.71,#18a1cd,5.71,34.6,40.32,3.17,0.32,7.3,2.54,4.13
+2021,25226,Torrebesses,Lleida,239,ERC,37.32,#e5ab4b,Nacionalismo/independentismo,80.99,#18a1cd,8.45,37.32,29.58,0,6.34,9.86,0.7,4.23
+2021,25227,La Torre de Cabdella,Lleida,658,JxCat,41.94,#00c4b2,Nacionalismo/independentismo,83.64,#18a1cd,8.29,24.65,41.94,1.84,2.53,14.29,0.69,3.22
+2021,25228,Torrefarrera,Lleida,3215,ERC,27.18,#e5ab4b,Nacionalismo/independentismo,67.73,#18a1cd,14.16,27.18,25.52,6.77,1.83,5.62,2.87,10.39
+2021,25230,Torregrossa,Lleida,1518,ERC,39.35,#e5ab4b,Nacionalismo/independentismo,70.46,#18a1cd,15.78,39.35,21.76,5.07,0.68,4.17,3.83,5.63
+2021,25231,Torrelameu,Lleida,483,ERC,44.25,#e5ab4b,Nacionalismo/independentismo,81.32,#18a1cd,6.9,44.25,22.41,4.89,1.44,5.75,3.45,9.78
+2021,25232,Torres de Segre,Lleida,1340,JxCat,33.25,#00c4b2,Nacionalismo/independentismo,74.16,#18a1cd,16.23,27.27,33.25,3.25,2.08,8.96,1.82,5.46
+2021,25233,Torre-serona,Lleida,275,ERC,32.8,#e5ab4b,Nacionalismo/independentismo,64.52,#18a1cd,19.35,32.8,22.04,4.3,2.69,4.3,4.84,6.46
+2021,25234,Tremp,Lleida,4187,JxCat,33.36,#00c4b2,Nacionalismo/independentismo,65.09,#18a1cd,19.27,21.4,33.36,4.08,3.99,7.07,2.22,4.75
+2021,25238,Vallbona de les Monges,Lleida,212,JxCat,41.79,#00c4b2,Nacionalismo/independentismo,84.32,#18a1cd,7.46,29.1,41.79,2.24,3.73,8.21,0,6.72
+2021,25239,Les Valls de Valira,Lleida,579,ERC,31.2,#e5ab4b,Nacionalismo/independentismo,73.08,#18a1cd,13.25,31.2,28.63,5.56,3.42,8.55,2.14,5.56
+2021,25240,Vallfogona de Balaguer,Lleida,1361,JxCat,30.1,#00c4b2,Nacionalismo/independentismo,69.56,#18a1cd,13.55,29.38,30.1,5.16,2.52,6,4.44,4.92
+2021,25242,Verdú,Lleida,703,JxCat,36.62,#00c4b2,Nacionalismo/independentismo,77.28,#18a1cd,9.34,27.78,36.62,2.78,3.79,8.59,3.54,4.8
+2021,25243,Vielha e Mijaran,Lleida,3754,PSC,30.9,#da1f35,No nacionalistas,64.77,#fa8c00,30.9,15.03,10.99,12.95,5.05,3.09,7.01,6.36
+2021,25244,Vilagrassa,Lleida,385,JxCat,31.82,#00c4b2,Nacionalismo/independentismo,70.67,#18a1cd,14.05,26.45,31.82,4.55,2.89,5.79,3.72,7.43
+2021,25245,Vilaller,Lleida,433,PDeCAT,23.05,#1e4a8e,Nacionalismo/independentismo,62.97,#18a1cd,20.99,15.23,18.52,3.29,3.7,6.17,2.47,23.46
+2021,25247,Vilamòs,Lleida,147,PSC,32.39,#da1f35,No nacionalistas,77.46,#fa8c00,32.39,12.68,1.41,25.35,7.04,2.82,2.82,2.82
+2021,25248,Vilanova de Bellpuig,Lleida,874,JxCat,41.88,#00c4b2,Nacionalismo/independentismo,85.87,#18a1cd,5.52,29.87,41.88,2.11,0.97,8.12,1.46,6.800000000000001
+2021,25249,Vilanova de l'Aguda,Lleida,172,ERC,33,#e5ab4b,Nacionalismo/independentismo,79,#18a1cd,11,33,25,5,0,13,3,8
+2021,25250,Vilanova de Meià,Lleida,324,JxCat,41.87,#00c4b2,Nacionalismo/independentismo,81.77,#18a1cd,10.84,30.54,41.87,1.48,0.99,7.39,2.46,2.95
+2021,25251,Vilanova de Segrià,Lleida,714,ERC,31.8,#e5ab4b,Nacionalismo/independentismo,73.28,#18a1cd,9.68,31.8,30.88,5.53,1.84,5.99,3.46,4.84
+2021,25252,Vila-sana,Lleida,570,JxCat,33.66,#00c4b2,Nacionalismo/independentismo,78.87,#18a1cd,6.93,28.71,33.66,2.31,2.97,8.58,2.31,8.58
+2021,25253,El Vilosell,Lleida,154,ERC,34.48,#e5ab4b,Nacionalismo/independentismo,75.86,#18a1cd,7.76,34.48,23.28,3.45,7.76,13.79,1.72,4.3100000000000005
+2021,25254,Vilanova de la Barca,Lleida,709,JxCat,31.03,#00c4b2,Nacionalismo/independentismo,68.72,#18a1cd,15.02,26.6,31.03,4.68,3.45,5.17,4.19,6.66
+2021,25255,Vinaixa,Lleida,383,ERC,35.66,#e5ab4b,Nacionalismo/independentismo,74.41,#18a1cd,11.24,35.66,25.19,5.04,1.55,8.91,2.71,5.43
+2021,25901,Vall de Cardós,Lleida,303,JxCat,33.82,#00c4b2,Nacionalismo/independentismo,78.91,#18a1cd,6.37,32.84,33.82,3.43,3.43,8.82,4.41,4.9
+2021,25902,Sant Martí de Riucorb,Lleida,534,ERC,34.38,#e5ab4b,Nacionalismo/independentismo,79.18,#18a1cd,7.57,34.38,32.81,6.62,1.89,9.15,2.52,3.48
+2021,25903,La Guingueta d'Àneu,Lleida,226,JxCat,32.7,#00c4b2,Nacionalismo/independentismo,89.94,#18a1cd,5.66,26.42,32.7,0,1.26,18.24,0.63,12.58
+2021,25904,Castell de Mur,Lleida,150,JxCat,41.51,#00c4b2,Nacionalismo/independentismo,76.41,#18a1cd,17.92,19.81,41.51,0,2.83,9.43,0,5.66
+2021,25905,Ribera d'Ondara,Lleida,369,JxCat,34.42,#00c4b2,Nacionalismo/independentismo,76.74,#18a1cd,3.26,30.23,34.42,4.65,2.79,5.58,4.65,11.64
+2021,25906,Les Valls d'Aguilar,Lleida,211,ERC,39.67,#e5ab4b,Nacionalismo/independentismo,71.9,#18a1cd,15.7,39.67,24.79,2.48,1.65,5.79,1.65,4.13
+2021,25907,Torrefeta i Florejacs,Lleida,491,ERC,40.97,#e5ab4b,Nacionalismo/independentismo,84.38,#18a1cd,5.21,40.97,29.17,2.43,2.78,9.38,0.35,5.21
+2021,25908,Fígols i Alinyà,Lleida,218,JxCat,38.71,#00c4b2,Nacionalismo/independentismo,79.85,#18a1cd,8.87,25.81,38.71,5.65,3.23,12.1,0.81,4.04
+2021,25909,La Vansa i Fórnols,Lleida,131,JxCat,32.56,#00c4b2,Nacionalismo/independentismo,84.89,#18a1cd,6.98,27.91,32.56,0,2.33,11.63,1.16,13.95
+2021,25910,Josa i Tuixén,Lleida,93,JxCat,38.33,#00c4b2,Nacionalismo/independentismo,85,#18a1cd,5,31.67,38.33,0,10,6.67,0,8.33
+2021,25911,Els Plans de Sió,Lleida,419,JxCat,39.62,#00c4b2,Nacionalismo/independentismo,78.49,#18a1cd,7.55,24.53,39.62,4.91,3.4,10.94,0,3.78
+2021,25912,Gimenells i el Pla de la Font,Lleida,835,PP,24.86,#0393d3,No nacionalistas,55.42,#fa8c00,18.6,17.46,16.13,4.93,3.42,5.88,24.86,4.18
+2021,25913,Riu de Cerdanya,Lleida,88,JxCat,37.5,#00c4b2,Nacionalismo/independentismo,91.67,#18a1cd,2.78,34.72,37.5,1.39,2.78,11.11,0,8.34
+2021,25998,Residents Absents,Lleida,17363,JxCat,31.98,#00c4b2,Nacionalismo/independentismo,68.02,#18a1cd,15.64,25.56,31.98,2.65,3.77,6.01,3.63,6.43
+2021,43001,Aiguamúrcia,Tarragona,739,ERC,26.7,#e5ab4b,Nacionalismo/independentismo,67.77,#18a1cd,16.12,26.7,24.94,4.03,6.3,12.85,1.26,3.53
+2021,43002,Albinyana,Tarragona,1933,PSC,26.36,#da1f35,No nacionalistas,56.58,#fa8c00,26.36,19.23,11.97,12.45,5.32,3.75,3.99,8.940000000000001
+2021,43003,L'Albiol,Tarragona,357,ERC,25.53,#e5ab4b,Nacionalismo/independentismo,55.32,#18a1cd,19.68,25.53,18.09,5.32,6.91,7.98,3.72,4.25
+2021,43004,Alcanar,Tarragona,6381,ERC,40.17,#e5ab4b,Nacionalismo/independentismo,70.16,#18a1cd,11.38,40.17,18.83,5.83,3.95,9.16,2.5,4.87
+2021,43005,Alcover,Tarragona,3681,ERC,27.52,#e5ab4b,Nacionalismo/independentismo,67.57,#18a1cd,14.65,27.52,25.96,6.57,3.9,11.81,3.12,2.73
+2021,43006,Aldover,Tarragona,686,ERC,44.25,#e5ab4b,Nacionalismo/independentismo,72.41,#18a1cd,12.93,44.25,20.69,4.31,5.46,5.17,0.57,5.46
+2021,43007,L'Aleixar,Tarragona,665,JxCat,31.71,#00c4b2,Nacionalismo/independentismo,79.03,#18a1cd,6.59,29.76,31.71,4.63,2.44,13.9,2.93,4.39
+2021,43008,Alfara de Carles,Tarragona,314,ERC,29.66,#e5ab4b,Nacionalismo/independentismo,58.47,#18a1cd,16.1,29.66,16.1,12.71,1.69,10.17,8.47,2.54
+2021,43009,Alforja,Tarragona,1417,ERC,27.41,#e5ab4b,Nacionalismo/independentismo,71.19,#18a1cd,14.85,27.41,23.35,3.43,4.82,13.83,1.52,6.98
+2021,43010,Alió,Tarragona,349,JxCat,33.33,#00c4b2,Nacionalismo/independentismo,73.63,#18a1cd,10.95,25.37,33.33,5.47,4.98,9.95,1.49,5.98
+2021,43011,Almoster,Tarragona,1094,JxCat,36.08,#00c4b2,Nacionalismo/independentismo,75.17,#18a1cd,8.64,25.24,36.08,5.08,3.57,9.05,3.43,5.34
+2021,43012,Altafulla,Tarragona,3810,ERC,22.48,#e5ab4b,Nacionalismo/independentismo,53.5,#18a1cd,21,22.48,20.55,7.67,6.93,7.1,3.53,4.56
+2021,43013,L'Ametlla de Mar,Tarragona,4532,ERC,32.49,#e5ab4b,Nacionalismo/independentismo,68.4,#18a1cd,13.6,32.49,27.76,6.27,3.8,5.63,2.73,3.93
+2021,43014,Amposta,Tarragona,14467,ERC,36.93,#e5ab4b,Nacionalismo/independentismo,65.44,#18a1cd,15.18,36.93,18.99,5.19,4.57,6.89,2.34,6.090000000000001
+2021,43015,Arbolí,Tarragona,111,ERC,44.83,#e5ab4b,Nacionalismo/independentismo,87.36,#18a1cd,0,44.83,25.29,0,9.2,11.49,0,8.049999999999999
+2021,43016,L'Arboç,Tarragona,3457,PSC,31.5,#da1f35,No nacionalistas,52.93,#fa8c00,31.5,21.44,15.5,7.26,5.22,6.76,2.64,3.28
+2021,43017,L'Argentera,Tarragona,116,Empate,37.11,#ADA9AC,Nacionalismo/independentismo,85.56,#18a1cd,7.22,37.11,37.11,0,2.06,8.25,3.09,5.15
+2021,43018,Arnes,Tarragona,376,JxCat,45.36,#00c4b2,Nacionalismo/independentismo,83.16,#18a1cd,7.22,29.21,45.36,2.06,2.41,6.53,1.03,2.06
+2021,43019,Ascó,Tarragona,1297,ERC,37.21,#e5ab4b,Nacionalismo/independentismo,68.75,#18a1cd,14.53,37.21,20.35,3.49,2.76,6.69,4.07,5.37
+2021,43020,Banyeres del Penedès,Tarragona,2347,PSC,26.27,#da1f35,No nacionalistas,52.02,#fa8c00,26.27,21.44,17.2,9.41,5.25,6.02,2.8,3.71
+2021,43021,Barberà de la Conca,Tarragona,334,JxCat,27.23,#00c4b2,Nacionalismo/independentismo,75.75,#18a1cd,7.43,24.75,27.23,5.94,4.95,13.37,2.48,11.4
+2021,43022,Batea,Tarragona,1430,PSC,34.55,#da1f35,No nacionalistas,51.59,#fa8c00,34.55,26.02,15.34,8.18,2.16,4.2,4.77,2.04
+2021,43023,Bellmunt del Priorat,Tarragona,209,ERC,36.73,#e5ab4b,Nacionalismo/independentismo,75.51,#18a1cd,13.61,36.73,17.01,0.68,2.72,17.01,0,8.84
+2021,43024,Bellvei,Tarragona,1616,PSC,22.64,#da1f35,No nacionalistas,54.16,#fa8c00,22.64,22.37,12.13,14.02,6.06,6.06,3.77,4.83
+2021,43025,Benifallet,Tarragona,577,ERC,32.97,#e5ab4b,Nacionalismo/independentismo,55.94,#18a1cd,30.27,32.97,14.86,3.24,5.14,5.14,2.97,3.78
+2021,43026,Benissanet,Tarragona,764,ERC,33.6,#e5ab4b,Nacionalismo/independentismo,78.74,#18a1cd,9.51,33.6,31.58,4.05,1.62,10.53,2.23,4.23
+2021,43027,La Bisbal de Falset,Tarragona,169,JxCat,46.88,#00c4b2,Nacionalismo/independentismo,87.5,#18a1cd,6.25,29.69,46.88,3.91,2.34,2.34,0,8.59
+2021,43028,La Bisbal del Penedès,Tarragona,2906,ERC,22.59,#e5ab4b,Nacionalismo/independentismo,57.61,#18a1cd,21.2,22.59,19.72,9.04,5.13,7.04,1.74,9.22
+2021,43029,Blancafort,Tarragona,311,ERC,52.58,#e5ab4b,Nacionalismo/independentismo,84.51,#18a1cd,5.63,52.58,17.37,0,6.1,10.8,0.94,3.76
+2021,43030,Bonastre,Tarragona,505,ERC,30.17,#e5ab4b,Nacionalismo/independentismo,61.7,#18a1cd,13.56,30.17,24.41,7.12,8.14,4.75,2.03,5.09
+2021,43031,Les Borges del Camp,Tarragona,1464,JxCat,40.09,#00c4b2,Nacionalismo/independentismo,79.39,#18a1cd,7.55,28.38,40.09,5.41,2.93,8.56,1.58,2.93
+2021,43032,Bot,Tarragona,454,JxCat,28.44,#00c4b2,Nacionalismo/independentismo,67.51,#18a1cd,16.88,27.81,28.44,5.62,3.12,6.88,2.81,6.56
+2021,43033,Botarell,Tarragona,793,ERC,38.38,#e5ab4b,Nacionalismo/independentismo,69.71,#18a1cd,13.69,38.38,20.12,7.05,4.56,8.51,1.87,3.52
+2021,43034,Bràfim,Tarragona,477,ERC,36.24,#e5ab4b,Nacionalismo/independentismo,73.48,#18a1cd,12.75,36.24,26.17,4.36,2.01,8.05,1.34,4.03
+2021,43035,Cabacés,Tarragona,238,ERC,38.71,#e5ab4b,Nacionalismo/independentismo,77.43,#18a1cd,11.61,38.71,22.58,1.94,1.29,8.39,2.58,8.4
+2021,43036,Cabra del Camp,Tarragona,901,JxCat,25.87,#00c4b2,Nacionalismo/independentismo,61.07,#18a1cd,15.47,21.6,25.87,10.93,2.93,9.33,3.2,4.8100000000000005
+2021,43037,Calafell,Tarragona,18877,PSC,25.91,#da1f35,No nacionalistas,57.29,#fa8c00,25.91,21.08,14.46,12.5,6.56,4.12,4.39,3.21
+2021,43038,Cambrils,Tarragona,22514,PSC,22,#da1f35,No nacionalistas,55.23,#fa8c00,22,18.9,17.81,13.16,5.44,4.6,5.47,3.5900000000000003
+2021,43039,Capafonts,Tarragona,103,Empate,28.57,#ADA9AC,Nacionalismo/independentismo,88.57,#18a1cd,7.14,27.14,28.57,0,0,28.57,1.43,4.29
+2021,43040,Capçanes,Tarragona,326,ERC,32.66,#e5ab4b,Nacionalismo/independentismo,84.68,#18a1cd,4.84,32.66,26.21,1.61,4.84,23.79,1.21,2.42
+2021,43041,Caseres,Tarragona,204,ERC,45.28,#e5ab4b,Nacionalismo/independentismo,66.03,#18a1cd,12.26,45.28,15.09,10.38,0.94,4.72,7.55,0.94
+2021,43042,Castellvell del Camp,Tarragona,2228,JxCat,27.42,#00c4b2,Nacionalismo/independentismo,66.11,#18a1cd,11.63,26.85,27.42,8.11,4.81,7.68,3.52,4.59
+2021,43043,El Catllar,Tarragona,3466,ERC,23.03,#e5ab4b,Nacionalismo/independentismo,50.87,#18a1cd,20.21,23.03,17.79,10.05,6.05,8.05,4.56,3.28
+2021,43044,La Sénia,Tarragona,3924,ERC,27.87,#e5ab4b,No nacionalistas,51.21,#fa8c00,20.62,27.87,11.52,10.95,6.43,6.79,5.91,3.28
+2021,43045,Colldejou,Tarragona,142,JxCat,53,#00c4b2,Nacionalismo/independentismo,90,#18a1cd,4,32,53,1,3,5,0,0
+2021,43046,Conesa,Tarragona,89,ERC,40,#e5ab4b,Nacionalismo/independentismo,80,#18a1cd,8.33,40,23.33,1.67,5,8.33,0,8.34
+2021,43047,Constantí,Tarragona,4254,PSC,30.26,#da1f35,No nacionalistas,60.63,#fa8c00,30.26,20.25,13.16,13.84,3.78,3.2,5.72,2.63
+2021,43048,Corbera d'Ebre,Tarragona,753,ERC,31.82,#e5ab4b,Nacionalismo/independentismo,62.28,#18a1cd,12.05,31.82,15.23,3.18,9.09,8.64,7.73,7.5
+2021,43049,Cornudella de Montsant,Tarragona,737,ERC,35.08,#e5ab4b,Nacionalismo/independentismo,82.26,#18a1cd,7.86,35.08,28.83,1.81,4.03,12.3,1.01,7.0600000000000005
+2021,43050,Creixell,Tarragona,2779,PSC,24.61,#da1f35,No nacionalistas,54.6,#fa8c00,24.61,22.66,16.14,13.53,6.19,3.34,4.16,3.25
+2021,43051,Cunit,Tarragona,9595,PSC,31.42,#da1f35,No nacionalistas,67.25,#fa8c00,31.42,18.65,8.91,13.54,7.49,2.79,4.63,2.9
+2021,43052,Xerta,Tarragona,917,ERC,38.37,#e5ab4b,Nacionalismo/independentismo,75.36,#18a1cd,12.13,38.37,23.66,4.77,2.19,8.55,0.8,7.57
+2021,43053,Duesaigües,Tarragona,179,ERC,31.45,#e5ab4b,Nacionalismo/independentismo,78.21,#18a1cd,12.1,31.45,26.61,0.81,5.65,10.48,1.61,9.67
+2021,43054,L'Espluga de Francolí,Tarragona,2799,ERC,34.29,#e5ab4b,Nacionalismo/independentismo,83.79,#18a1cd,9.07,34.29,31.89,1.87,1.8,12.54,0.87,5.74
+2021,43055,Falset,Tarragona,1953,ERC,33.98,#e5ab4b,Nacionalismo/independentismo,77.44,#18a1cd,13.16,33.98,28.12,2.26,2.63,12.63,1.5,3.32
+2021,43056,La Fatarella,Tarragona,791,ERC,40.2,#e5ab4b,Nacionalismo/independentismo,81.83,#18a1cd,6.33,40.2,23.06,2.24,1.22,14.08,4.49,4.9
+2021,43057,La Febró,Tarragona,39,JxCat,42.86,#00c4b2,Nacionalismo/independentismo,85.71,#18a1cd,7.14,28.57,42.86,3.57,0,7.14,0,7.14
+2021,43058,La Figuera,Tarragona,99,ERC,32.47,#e5ab4b,Nacionalismo/independentismo,74.03,#18a1cd,12.99,32.47,22.08,1.3,3.9,12.99,2.6,7.79
+2021,43059,Figuerola del Camp,Tarragona,263,JxCat,41.88,#00c4b2,Nacionalismo/independentismo,85.63,#18a1cd,7.5,26.25,41.88,0.62,3.12,11.88,0.62,5.62
+2021,43060,Flix,Tarragona,2650,ERC,35.43,#e5ab4b,Nacionalismo/independentismo,75.55,#18a1cd,12.16,35.43,26.23,1.98,3.89,12.35,2.22,2.53
+2021,43061,Forès,Tarragona,40,PDeCAT,40,#1e4a8e,Nacionalismo/independentismo,80,#18a1cd,4,4,32,8,0,0,0,48
+2021,43062,Freginals,Tarragona,264,JxCat,23.16,#00c4b2,Nacionalismo/independentismo,50.27,#18a1cd,19.21,18.64,23.16,5.65,6.21,6.21,7.34,6.77
+2021,43063,La Galera,Tarragona,531,ERC,25.87,#e5ab4b,Nacionalismo/independentismo,57.91,#18a1cd,16.99,25.87,11.2,12.74,5.41,8.49,4.25,14.67
+2021,43064,Gandesa,Tarragona,2052,ERC,30.55,#e5ab4b,Nacionalismo/independentismo,75.15,#18a1cd,9.66,30.55,21.72,3.8,3.22,8.18,4.46,15.86
+2021,43065,Garcia,Tarragona,382,JxCat,37.55,#00c4b2,Nacionalismo/independentismo,80,#18a1cd,9.39,31.02,37.55,3.27,1.22,9.8,1.63,2.04
+2021,43066,Els Garidells,Tarragona,164,ERC,49.07,#e5ab4b,Nacionalismo/independentismo,76.84,#18a1cd,12.04,49.07,19.44,3.7,2.78,8.33,2.78,0
+2021,43067,Ginestar,Tarragona,534,ERC,42.44,#e5ab4b,Nacionalismo/independentismo,84.1,#18a1cd,8.22,42.44,28.65,1.86,3.18,9.02,0.27,4.79
+2021,43068,Godall,Tarragona,493,ERC,30.17,#e5ab4b,No nacionalistas,53.01,#fa8c00,21.98,30.17,8.62,14.22,4.74,5.6,7.76,2.59
+2021,43069,Gratallops,Tarragona,192,ERC,40.31,#e5ab4b,Nacionalismo/independentismo,72.87,#18a1cd,11.63,40.31,24.03,3.1,4.65,7.75,3.88,0.78
+2021,43070,Els Guiamets,Tarragona,247,ERC,32.2,#e5ab4b,Nacionalismo/independentismo,77.96,#18a1cd,10.73,32.2,17.51,1.13,2.26,27.12,2.82,3.38
+2021,43071,Horta de Sant Joan,Tarragona,877,JxCat,30.02,#00c4b2,Nacionalismo/independentismo,71.25,#18a1cd,13.32,25.37,30.02,3.17,3.38,13.11,5.71,3.17
+2021,43072,El Lloar,Tarragona,91,ERC,38.81,#e5ab4b,Nacionalismo/independentismo,68.66,#18a1cd,14.93,38.81,17.91,7.46,0,10.45,4.48,1.49
+2021,43073,Llorac,Tarragona,80,JxCat,40,#00c4b2,Nacionalismo/independentismo,85.45,#18a1cd,3.64,25.45,40,1.82,3.64,5.45,1.82,16.37
+2021,43074,Llorenç del Penedès,Tarragona,1870,ERC,30.16,#e5ab4b,Nacionalismo/independentismo,74.27,#18a1cd,12.16,30.16,26.48,4.81,2.73,11.31,1.23,8.02
+2021,43075,Margalef,Tarragona,85,JxCat,39.62,#00c4b2,Nacionalismo/independentismo,83.02,#18a1cd,9.43,28.3,39.62,3.77,1.89,7.55,0,7.55
+2021,43076,Marçà,Tarragona,460,Empate,31.73,#ADA9AC,Nacionalismo/independentismo,82.05,#18a1cd,11.54,31.73,31.73,2.24,0.96,16.67,0.32,2.24
+2021,43077,Mas de Barberans,Tarragona,440,PSC,38.74,#da1f35,No nacionalistas,60.81,#fa8c00,38.74,27.93,6.31,9.91,2.7,3.6,5.86,1.35
+2021,43078,Masdenverge,Tarragona,858,JxCat,31.71,#00c4b2,Nacionalismo/independentismo,66.17,#18a1cd,15.86,26.22,31.71,3.81,2.33,6.34,4.23,5.91
+2021,43079,Masllorenç,Tarragona,373,JxCat,31.45,#00c4b2,Nacionalismo/independentismo,73.79,#18a1cd,14.11,29.44,31.45,6.05,3.63,8.87,0.4,4.03
+2021,43080,La Masó,Tarragona,233,JxCat,34.97,#00c4b2,Nacionalismo/independentismo,73.62,#18a1cd,9.82,24.54,34.97,3.68,4.91,11.04,3.68,4.29
+2021,43081,Maspujols,Tarragona,634,ERC,34.63,#e5ab4b,Nacionalismo/independentismo,76.58,#18a1cd,11.46,34.63,24.88,4.63,2.44,13.41,0.98,4.15
+2021,43082,El Masroig,Tarragona,345,JxCat,34.45,#00c4b2,Nacionalismo/independentismo,78.99,#18a1cd,9.66,26.05,34.45,5.46,1.26,13.87,3.36,5.04
+2021,43083,El Milà,Tarragona,149,JxCat,22.22,#00c4b2,Nacionalismo/independentismo,53.33,#18a1cd,13.33,21.11,22.22,12.22,3.33,5.56,10,5.550000000000001
+2021,43084,Miravet,Tarragona,512,ERC,43.16,#e5ab4b,Nacionalismo/independentismo,78.12,#18a1cd,11.25,43.16,24.62,1.52,3.04,8.51,0,3.95
+2021,43085,El Molar,Tarragona,230,ERC,37.58,#e5ab4b,Nacionalismo/independentismo,80.25,#18a1cd,8.28,37.58,29.3,3.82,3.18,8.28,1.27,5.09
+2021,43086,Montblanc,Tarragona,5290,JxCat,30.49,#00c4b2,Nacionalismo/independentismo,74.52,#18a1cd,13.86,28.89,30.49,3.79,3.76,9.25,0.74,6.53
+2021,43088,Montbrió del Camp,Tarragona,2041,ERC,34.31,#e5ab4b,Nacionalismo/independentismo,73.21,#18a1cd,10.09,34.31,26.97,6.88,3.39,8.17,2.48,4.7700000000000005
+2021,43089,Montferri,Tarragona,289,JxCat,23.61,#00c4b2,Nacionalismo/independentismo,61.8,#18a1cd,21.53,22.92,23.61,6.25,5.56,14.58,0.69,2.7699999999999996
+2021,43090,El Montmell,Tarragona,1306,PSC,25.55,#da1f35,No nacionalistas,58.47,#fa8c00,25.55,20.15,14.74,16.46,7.37,5.9,2.21,2.71
+2021,43091,Mont-ral,Tarragona,128,ERC,31.58,#e5ab4b,Nacionalismo/independentismo,72.37,#18a1cd,7.89,31.58,18.42,0,17.11,22.37,1.32,1.32
+2021,43092,Mont-roig del Camp,Tarragona,7648,ERC,21.57,#e5ab4b,No nacionalistas,53.52,#fa8c00,21,21.57,17.36,14.08,4.1,4.3,5.16,4.0200000000000005
+2021,43093,Móra d'Ebre,Tarragona,3833,ERC,29.02,#e5ab4b,Nacionalismo/independentismo,67.71,#18a1cd,16.43,29.02,28.2,4.35,3.99,7.63,2.51,4.14
+2021,43094,Móra la Nova,Tarragona,2146,ERC,33.77,#e5ab4b,Nacionalismo/independentismo,70.88,#18a1cd,13.16,33.77,28.42,4.65,2.89,6.58,2.54,4.3100000000000005
+2021,43095,El Morell,Tarragona,2600,ERC,25.71,#e5ab4b,Nacionalismo/independentismo,56.7,#18a1cd,17.81,25.71,20.42,9.05,4.13,7.89,3.19,4.55
+2021,43096,La Morera de Montsant,Tarragona,102,ERC,35.71,#e5ab4b,Nacionalismo/independentismo,87.15,#18a1cd,4.29,35.71,30,0,5.71,12.86,0,10.01
+2021,43097,La Nou de Gaià,Tarragona,409,ERC,30.5,#e5ab4b,Nacionalismo/independentismo,68.79,#18a1cd,13.12,30.5,23.4,4.96,7.45,10.64,2.48,4.95
+2021,43098,Nulles,Tarragona,355,JxCat,36.29,#00c4b2,Nacionalismo/independentismo,75.53,#18a1cd,3.8,24.05,36.29,6.75,3.38,12.24,3.38,5.05
+2021,43099,La Palma d'Ebre,Tarragona,274,JxCat,41.97,#00c4b2,Nacionalismo/independentismo,85.5,#18a1cd,11.92,29.02,41.97,1.04,0.52,4.15,0,10.36
+2021,43100,Els Pallaresos,Tarragona,3597,Empate,23.75,#ADA9AC,No nacionalistas,53.47,#fa8c00,23.75,23.75,15.1,11.33,6.35,5.61,3.93,2.65
+2021,43101,Passanant i Belltall,Tarragona,143,JxCat,41.76,#00c4b2,Nacionalismo/independentismo,80.22,#18a1cd,7.69,16.48,41.76,2.2,3.3,18.68,2.2,4.4
+2021,43102,Paüls,Tarragona,448,ERC,47.41,#e5ab4b,Nacionalismo/independentismo,72.5,#18a1cd,18.73,47.41,16.33,3.19,1.59,3.98,1.59,5.18
+2021,43103,Perafort,Tarragona,934,ERC,27.42,#e5ab4b,Nacionalismo/independentismo,53.62,#18a1cd,15.52,27.42,17.34,11.09,4.44,5.44,4.64,6.83
+2021,43104,El Perelló,Tarragona,1774,ERC,36.42,#e5ab4b,Nacionalismo/independentismo,78.3,#18a1cd,11.98,36.42,27.56,2.14,2.92,11.1,0.49,5.36
+2021,43105,Les Piles,Tarragona,160,JxCat,34.82,#00c4b2,Nacionalismo/independentismo,75.89,#18a1cd,7.14,25,34.82,1.79,5.36,13.39,1.79,3.5700000000000003
+2021,43106,El Pinell de Brai,Tarragona,784,ERC,34.85,#e5ab4b,Nacionalismo/independentismo,66.97,#18a1cd,13.21,34.85,21.41,5.47,10.93,6.61,1.14,5.47
+2021,43107,Pira,Tarragona,380,ERC,45.83,#e5ab4b,Nacionalismo/independentismo,76.38,#18a1cd,8.8,45.83,18.98,1.85,6.94,9.72,0.93,2.78
+2021,43108,El Pla de Santa Maria,Tarragona,1803,JxCat,34.84,#00c4b2,Nacionalismo/independentismo,73.37,#18a1cd,10.11,23.16,34.84,7.37,2.95,10.84,2.11,5.39
+2021,43109,La Pobla de Mafumet,Tarragona,2757,VOX,21.32,#69a93b,No nacionalistas,61.39,#fa8c00,21.23,19.78,9.25,21.32,5.99,4.02,3.85,4.9
+2021,43110,La Pobla de Massaluca,Tarragona,251,ERC,36.73,#e5ab4b,Nacionalismo/independentismo,69.38,#18a1cd,16.33,36.73,26.53,2.72,3.4,4.08,3.4,4.760000000000001
+2021,43111,La Pobla de Montornès,Tarragona,2217,ERC,28.66,#e5ab4b,No nacionalistas,49.67,#fa8c00,21.03,28.66,14.54,10.67,5.96,4.08,4.29,2.8000000000000003
+2021,43112,Poboleda,Tarragona,258,JxCat,36.78,#00c4b2,Nacionalismo/independentismo,84.47,#18a1cd,7.47,23.56,36.78,0,2.3,20.69,1.15,6.31
+2021,43113,El Pont d'Armentera,Tarragona,390,JxCat,40.87,#00c4b2,Nacionalismo/independentismo,74.35,#18a1cd,8.7,23.48,40.87,7.39,1.74,8.26,3.04,4.34
+2021,43114,Porrera,Tarragona,372,ERC,37.08,#e5ab4b,Nacionalismo/independentismo,83.52,#18a1cd,7.87,37.08,23.22,0.75,5.24,20.6,0.37,3.73
+2021,43115,Pradell de la Teixeta,Tarragona,134,JxCat,34.78,#00c4b2,Nacionalismo/independentismo,86.95,#18a1cd,7.61,21.74,34.78,2.17,1.09,9.78,1.09,20.65
+2021,43116,Prades,Tarragona,467,Empate,34.92,#ADA9AC,Nacionalismo/independentismo,83.17,#18a1cd,8.25,34.92,34.92,1.59,4.13,9.84,0.95,4.45
+2021,43117,Prat de Comte,Tarragona,147,JxCat,35.71,#00c4b2,Nacionalismo/independentismo,80.61,#18a1cd,6.12,24.49,35.71,0,2.04,6.12,6.12,14.29
+2021,43118,Pratdip,Tarragona,426,JxCat,29.18,#00c4b2,Nacionalismo/independentismo,75.09,#18a1cd,9.96,26.69,29.18,3.56,2.85,6.76,1.42,13.53
+2021,43119,Puigpelat,Tarragona,877,ERC,27.48,#e5ab4b,Nacionalismo/independentismo,63.75,#18a1cd,19.37,27.48,19.37,5.18,2.25,10.14,3.15,7.45
+2021,43120,Querol,Tarragona,426,JxCat,21.18,#00c4b2,No nacionalistas,50.74,#fa8c00,18.72,16.75,21.18,16.26,5.91,8.37,1.97,4.93
+2021,43121,Rasquera,Tarragona,602,ERC,42.69,#e5ab4b,Nacionalismo/independentismo,85.37,#18a1cd,7.89,42.69,29.53,1.75,1.17,9.06,0.29,6.72
+2021,43122,Renau,Tarragona,114,Empate,24,#ADA9AC,Nacionalismo/independentismo,68,#18a1cd,13.33,24,24,1.33,9.33,14.67,2.67,5.33
+2021,43123,Reus,Tarragona,71730,ERC,21.1,#e5ab4b,Nacionalismo/independentismo,52.31,#18a1cd,20.82,21.1,20,10.16,4.5,7.45,4.48,4.9
+2021,43124,La Riba,Tarragona,461,ERC,28.96,#e5ab4b,Nacionalismo/independentismo,69.5,#18a1cd,13.51,28.96,27.41,4.63,2.7,8.88,4.63,5.41
+2021,43125,Riba-roja d'Ebre,Tarragona,876,ERC,30,#e5ab4b,Nacionalismo/independentismo,54.91,#18a1cd,24.51,30,14.51,3.14,3.14,8.24,7.25,4.7
+2021,43126,La Riera de Gaià,Tarragona,1222,ERC,28.85,#e5ab4b,Nacionalismo/independentismo,67.36,#18a1cd,14.43,28.85,26.33,5.6,6.16,8.68,2.24,4.62
+2021,43127,Riudecanyes,Tarragona,823,ERC,33.73,#e5ab4b,Nacionalismo/independentismo,77.79,#18a1cd,6.94,33.73,30.36,3.97,3.17,10.52,2.58,4.78
+2021,43128,Riudecols,Tarragona,915,ERC,34.71,#e5ab4b,Nacionalismo/independentismo,68.39,#18a1cd,20.66,34.71,21.28,2.89,4.13,10.12,0.83,3.11
+2021,43129,Riudoms,Tarragona,4676,JxCat,33.17,#00c4b2,Nacionalismo/independentismo,73.29,#18a1cd,11.42,28.23,33.17,6.59,2.29,8.52,2.09,4.25
+2021,43130,Rocafort de Queralt,Tarragona,177,ERC,40.83,#e5ab4b,Nacionalismo/independentismo,84.16,#18a1cd,5,40.83,32.5,2.5,1.67,8.33,3.33,2.5
+2021,43131,Roda de Berà,Tarragona,5099,PSC,27.84,#da1f35,No nacionalistas,63.29,#fa8c00,27.84,19.78,11.49,15.84,5.84,2.96,5.6,2.8
+2021,43132,Rodonyà,Tarragona,386,JxCat,28.22,#00c4b2,Nacionalismo/independentismo,76.35,#18a1cd,7.05,26.56,28.22,6.64,2.9,9.96,0.83,12.44
+2021,43133,Roquetes,Tarragona,5650,ERC,34.1,#e5ab4b,Nacionalismo/independentismo,65.58,#18a1cd,14.46,34.1,20.16,6.61,6.02,8.53,2.27,4.430000000000001
+2021,43134,El Rourell,Tarragona,293,Empate,22.41,#ADA9AC,Nacionalismo/independentismo,61.49,#18a1cd,14.94,22.41,22.41,9.2,2.3,9.2,2.3,9.75
+2021,43135,Salomó,Tarragona,333,JxCat,39.82,#00c4b2,Nacionalismo/independentismo,80.09,#18a1cd,8.14,26.24,39.82,1.81,2.26,10.41,1.81,4.07
+2021,43136,Sant Carles de la Ràpita,Tarragona,10594,ERC,33.27,#e5ab4b,Nacionalismo/independentismo,66.94,#18a1cd,13.6,33.27,23.44,4.55,4.85,7.87,1.79,7.65
+2021,43137,Sant Jaume dels Domenys,Tarragona,1930,ERC,25,#e5ab4b,Nacionalismo/independentismo,60.92,#18a1cd,18.06,25,23.88,9.29,2.86,9.49,2.35,4.07
+2021,43138,Santa Bàrbara,Tarragona,2644,ERC,27.56,#e5ab4b,Nacionalismo/independentismo,60,#18a1cd,15.2,27.56,20.44,9.16,3.02,6.13,5.33,9.35
+2021,43139,Santa Coloma de Queralt,Tarragona,2013,JxCat,36.39,#00c4b2,Nacionalismo/independentismo,83.88,#18a1cd,7.05,30.31,36.39,2.91,1.94,11.19,2.11,6.26
+2021,43140,Santa Oliva,Tarragona,2486,PSC,27.95,#da1f35,No nacionalistas,58.28,#fa8c00,27.95,20.19,15.08,14.73,3.7,4.5,4.06,1.67
+2021,43141,Pontils,Tarragona,113,Empate,25,#ADA9AC,Nacionalismo/independentismo,64.7,#18a1cd,19.12,25,25,2.94,7.35,7.35,2.94,8.82
+2021,43142,Sarral,Tarragona,1077,JxCat,34.69,#00c4b2,Nacionalismo/independentismo,81.28,#18a1cd,7.99,31.29,34.69,3.74,2.21,7.31,2.04,8.5
+2021,43143,Savallà del Comtat,Tarragona,51,JxCat,33.33,#00c4b2,Nacionalismo/independentismo,77.78,#18a1cd,11.11,30.56,33.33,0,5.56,2.78,0,11.11
+2021,43144,La Secuita,Tarragona,1248,JxCat,25.34,#00c4b2,Nacionalismo/independentismo,62.59,#18a1cd,16.03,24.79,25.34,9.86,3.7,9.86,2.88,3.4299999999999997
+2021,43145,La Selva del Camp,Tarragona,4280,JxCat,25.13,#00c4b2,Nacionalismo/independentismo,66.36,#18a1cd,17.64,24.38,25.13,4.99,4.12,13.24,1.9,4.57
+2021,43146,Senan,Tarragona,37,ERC,37.93,#e5ab4b,Nacionalismo/independentismo,82.76,#18a1cd,6.9,37.93,24.14,3.45,6.9,20.69,0,0
+2021,43147,Solivella,Tarragona,529,JxCat,40.11,#00c4b2,Nacionalismo/independentismo,85.44,#18a1cd,3.3,31.32,40.11,1.92,2.2,8.79,4.4,5.49
+2021,43148,Tarragona,Tarragona,91026,PSC,24.49,#da1f35,No nacionalistas,58.36,#fa8c00,24.49,18.92,14.29,12.01,5.88,5.58,7.69,3.24
+2021,43149,Tivenys,Tarragona,681,ERC,34.14,#e5ab4b,Nacionalismo/independentismo,58.84,#18a1cd,26.15,34.14,16.71,6.54,2.66,5.57,1.21,3.14
+2021,43150,Tivissa,Tarragona,1219,ERC,31.89,#e5ab4b,Nacionalismo/independentismo,76.77,#18a1cd,6.43,31.89,25.96,3.46,6.06,11.99,4.33,8.04
+2021,43151,La Torre de Fontaubella,Tarragona,106,JxCat,34.15,#00c4b2,Nacionalismo/independentismo,71.95,#18a1cd,10.98,15.85,34.15,4.88,3.66,21.95,7.32,0
+2021,43152,La Torre de l'Espanyol,Tarragona,427,ERC,38.35,#e5ab4b,Nacionalismo/independentismo,78.49,#18a1cd,17.92,38.35,29.03,1.08,0,6.09,0.36,6.1
+2021,43153,Torredembarra,Tarragona,11525,ERC,24.83,#e5ab4b,Nacionalismo/independentismo,52.01,#18a1cd,20.97,24.83,18.32,9.83,5.5,6.34,3.54,3.5599999999999996
+2021,43154,Torroja del Priorat,Tarragona,121,ERC,46.94,#e5ab4b,Nacionalismo/independentismo,84.7,#18a1cd,5.1,46.94,17.35,2.04,4.08,19.39,2.04,1.02
+2021,43155,Tortosa,Tarragona,22578,ERC,27.7,#e5ab4b,Nacionalismo/independentismo,61.34,#18a1cd,16.96,27.7,19.67,5.78,6.7,7.02,2.83,8.81
+2021,43156,Ulldecona,Tarragona,3993,ERC,27.94,#e5ab4b,Nacionalismo/independentismo,55.62,#18a1cd,19.15,27.94,18.9,8.53,4.34,6.64,5.87,4.29
+2021,43157,Ulldemolins,Tarragona,349,JxCat,39.47,#00c4b2,Nacionalismo/independentismo,84.96,#18a1cd,7.14,34.96,39.47,1.13,1.5,8.27,2.63,2.6399999999999997
+2021,43158,Vallclara,Tarragona,74,JxCat,48,#00c4b2,Nacionalismo/independentismo,88,#18a1cd,8,16,48,0,2,14,2,10
+2021,43159,Vallfogona de Riucorb,Tarragona,76,JxCat,45.61,#00c4b2,Nacionalismo/independentismo,80.69,#18a1cd,8.77,24.56,45.61,3.51,1.75,5.26,1.75,5.26
+2021,43160,Vallmoll,Tarragona,1331,ERC,23.33,#e5ab4b,Nacionalismo/independentismo,54.92,#18a1cd,22.93,23.33,22.93,9.47,3.47,6.93,2.27,1.86
+2021,43161,Valls,Tarragona,17096,JxCat,30.4,#00c4b2,Nacionalismo/independentismo,69.78,#18a1cd,15.23,25.26,30.4,5.11,3.12,11.04,2.3,3.76
+2021,43162,Vandellòs i l'Hospitalet de l'Infant,Tarragona,4476,PSC,22.55,#da1f35,No nacionalistas,51.01,#fa8c00,22.55,22.19,18.07,10.4,4.89,4.73,4.49,4.1000000000000005
+2021,43163,El Vendrell,Tarragona,26565,PSC,25.36,#da1f35,No nacionalistas,53.93,#fa8c00,25.36,22.21,15.41,11.09,5.96,4.94,4.32,3.66
+2021,43164,Vespella de Gaià,Tarragona,319,PSC,33.33,#da1f35,No nacionalistas,63.82,#fa8c00,33.33,21.47,10.17,11.3,9.6,3.95,3.39,2.81
+2021,43165,Vilabella,Tarragona,557,ERC,33.59,#e5ab4b,Nacionalismo/independentismo,81.94,#18a1cd,7.38,33.59,30.28,1.02,4.83,11.2,1.53,6.869999999999999
+2021,43166,Vilallonga del Camp,Tarragona,1628,ERC,28.47,#e5ab4b,Nacionalismo/independentismo,56.71,#18a1cd,19.26,28.47,18.18,8.61,5.62,7.06,3.71,5.04
+2021,43167,Vilanova d'Escornalbou,Tarragona,417,ERC,34.3,#e5ab4b,Nacionalismo/independentismo,81.95,#18a1cd,5.78,34.3,29.24,3.97,3.25,10.11,2.17,8.66
+2021,43168,Vilanova de Prades,Tarragona,82,ERC,40,#e5ab4b,Nacionalismo/independentismo,84,#18a1cd,8,40,30,2,4,12,0,2
+2021,43169,Vilaplana,Tarragona,434,ERC,35.31,#e5ab4b,Nacionalismo/independentismo,81.92,#18a1cd,8.76,35.31,29.38,2.26,4.24,14.69,0,3.67
+2021,43170,Vila-rodona,Tarragona,899,ERC,30.54,#e5ab4b,Nacionalismo/independentismo,73.58,#18a1cd,15.54,30.54,28.57,3.21,3.04,10.36,1.79,4.47
+2021,43171,Vila-seca,Tarragona,15025,PSC,28.78,#da1f35,No nacionalistas,70.6,#fa8c00,28.78,14.13,7.97,19.33,5.98,3.14,5.23,4.390000000000001
+2021,43172,Vilaverd,Tarragona,341,ERC,39.05,#e5ab4b,Nacionalismo/independentismo,76.32,#18a1cd,11.83,39.05,24.85,2.96,2.96,7.69,0.59,5.319999999999999
+2021,43173,La Vilella Alta,Tarragona,97,CUP,32.35,#e5c64b,Nacionalismo/independentismo,94.11,#18a1cd,1.47,30.88,27.94,0,0,32.35,1.47,2.94
+2021,43174,La Vilella Baixa,Tarragona,147,ERC,30.77,#e5ab4b,Nacionalismo/independentismo,82.91,#18a1cd,5.98,30.77,24.79,0.85,5.13,24.79,0.85,4.26
+2021,43175,Vilalba dels Arcs,Tarragona,531,ERC,27.07,#e5ab4b,Nacionalismo/independentismo,66.88,#18a1cd,14.01,27.07,24.2,4.14,0.32,9.24,6.69,7.96
+2021,43176,Vimbodí i Poblet,Tarragona,735,ERC,35.65,#e5ab4b,Nacionalismo/independentismo,77.83,#18a1cd,9.57,35.65,30.65,3.04,3.91,7.83,2.17,4.36
+2021,43177,Vinebre,Tarragona,287,ERC,32.56,#e5ab4b,Nacionalismo/independentismo,74.42,#18a1cd,10.7,32.56,24.65,7.91,1.4,12.56,1.86,5.59
+2021,43178,Vinyols i els Arcs,Tarragona,1495,ERC,29.78,#e5ab4b,Nacionalismo/independentismo,62.88,#18a1cd,17.18,29.78,23.48,6.3,3.44,5.96,4.12,4.45
+2021,43901,Deltebre,Tarragona,8813,ERC,41.71,#e5ab4b,Nacionalismo/independentismo,72.73,#18a1cd,12.18,41.71,17.2,5.75,3.24,6.27,2.2,9.5
+2021,43902,Sant Jaume d'Enveja,Tarragona,2769,ERC,33.72,#e5ab4b,Nacionalismo/independentismo,57.38,#18a1cd,23.65,33.72,16.86,5.12,3.88,5.56,1.77,5.75
+2021,43903,Camarles,Tarragona,2327,ERC,44.69,#e5ab4b,Nacionalismo/independentismo,74.41,#18a1cd,12.44,44.69,23.05,2.43,2.33,4.65,1.62,6.16
+2021,43904,L'Aldea,Tarragona,2851,ERC,39.01,#e5ab4b,Nacionalismo/independentismo,67.3,#18a1cd,14.83,39.01,22.43,5.58,3.84,3.32,2.44,5.59
+2021,43905,Salou,Tarragona,15413,PSC,25.97,#da1f35,No nacionalistas,66.64,#fa8c00,25.97,15.15,11.84,18.24,4.96,2.38,7.14,3.93
+2021,43906,L'Ampolla,Tarragona,2181,JxCat,36.55,#00c4b2,Nacionalismo/independentismo,68.23,#18a1cd,13.53,21.76,36.55,6.22,3.61,5.97,2.94,5.53
+2021,43907,La Canonja,Tarragona,4425,PSC,37.41,#da1f35,No nacionalistas,71.57,#fa8c00,37.41,14.38,8.49,14.73,5.99,3.53,4.81,2.89
+2021,43998,Residents Absents,Tarragona,19411,JxCat,22,#00c4b2,Nacionalismo/independentismo,50.67,#18a1cd,20.44,19.92,22,5.63,6.05,6.15,5.42,5.51

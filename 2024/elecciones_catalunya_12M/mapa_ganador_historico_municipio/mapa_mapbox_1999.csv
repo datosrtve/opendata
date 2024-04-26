@@ -1,0 +1,951 @@
+year,cod_ine,nom_mun,nom_prov,poblacion,ganador,ganador_por,color,ganador_bloque,ganador_por_bloque,color_bloque,partido_1,partido_2,partido_3,partido_4,partido_5,partido_6,partido_7,partido_8,partido_99
+1999,08001,Abrera,Barcelona,6369,PSC-CpC,49.15,#da1f35,No nacionalistas,68.03,#fa8c00,49.15,26.37,10.76,5.02,3.47,NA,NA,NA,4.68
+1999,08002,Aguilar de Segarra,Barcelona,183,CiU,74.19,#1e4a8e,Nacionalismo/independentismo,84.67,#18a1cd,6.45,74.19,1.61,10.48,6.45,NA,NA,NA,0.81
+1999,08003,Alella,Barcelona,6470,CiU,50.02,#1e4a8e,Nacionalismo/independentismo,61.46,#18a1cd,22.36,50.02,10.67,11.37,2.4,NA,NA,NA,2.01
+1999,08004,Alpens,Barcelona,218,CiU,59.3,#1e4a8e,Nacionalismo/independentismo,84.88,#18a1cd,9.3,59.3,0.58,25,2.91,NA,NA,NA,2.32
+1999,08005,L'Ametlla del Vallès,Barcelona,4167,CiU,50.11,#1e4a8e,Nacionalismo/independentismo,62.69,#18a1cd,24.35,50.11,8.08,12.32,2.16,NA,NA,NA,1.98
+1999,08006,Arenys de Mar,Barcelona,10087,CiU,47.05,#1e4a8e,Nacionalismo/independentismo,59.28,#18a1cd,27.08,47.05,9.18,12.15,2.2,NA,NA,NA,1.66
+1999,08007,Arenys de Munt,Barcelona,5067,CiU,52.29,#1e4a8e,Nacionalismo/independentismo,68.75,#18a1cd,22.77,52.29,4.78,16.43,1.85,NA,NA,NA,1.15
+1999,08008,Argençola,Barcelona,185,CiU,62.7,#1e4a8e,Nacionalismo/independentismo,78.57,#18a1cd,10.32,62.7,3.17,15.87,2.38,NA,NA,NA,1.58
+1999,08009,Argentona,Barcelona,7602,CiU,48.59,#1e4a8e,Nacionalismo/independentismo,59.31,#18a1cd,27.22,48.59,7.61,10.72,2.83,NA,NA,NA,2.34
+1999,08010,Artés,Barcelona,3580,CiU,50.52,#1e4a8e,Nacionalismo/independentismo,66,#18a1cd,26.53,50.52,3.38,15.44,1.29,NA,NA,NA,1.95
+1999,08011,Avià,Barcelona,1558,CiU,60.26,#1e4a8e,Nacionalismo/independentismo,79.99,#18a1cd,12.66,60.26,3.34,19.63,1.47,NA,NA,NA,1.58
+1999,08012,Avinyó,Barcelona,1665,CiU,66.22,#1e4a8e,Nacionalismo/independentismo,82.44,#18a1cd,14.79,66.22,1.91,16.14,0.48,NA,NA,NA,0.4
+1999,08013,Avinyonet del Penedès,Barcelona,1040,CiU,62.55,#1e4a8e,Nacionalismo/independentismo,75.18,#18a1cd,18.14,62.55,4.06,12.63,1.45,NA,NA,NA,1.03
+1999,08014,Aiguafreda,Barcelona,1823,CiU,57.95,#1e4a8e,Nacionalismo/independentismo,70.04,#18a1cd,20.23,57.95,4.94,11.79,2.59,NA,NA,NA,1.53
+1999,08015,Badalona,Barcelona,176505,PSC-CpC,47.22,#da1f35,No nacionalistas,64.57,#fa8c00,47.22,29.43,9.71,5.11,3.67,NA,NA,NA,4.02
+1999,08016,Bagà,Barcelona,1762,CiU,46.38,#1e4a8e,Nacionalismo/independentismo,56.86,#18a1cd,36.07,46.38,3.93,10.31,1.57,NA,NA,NA,1.13
+1999,08017,Balenyà,Barcelona,2467,CiU,57.07,#1e4a8e,Nacionalismo/independentismo,66.75,#18a1cd,25.12,57.07,3.56,9.56,2.43,NA,NA,NA,1.85
+1999,08018,Balsareny,Barcelona,2757,CiU,47.04,#1e4a8e,Nacionalismo/independentismo,57.33,#18a1cd,36.86,47.04,2.8,10.29,1.4,NA,NA,NA,0.95
+1999,08019,Barcelona,Barcelona,1305069,PSC-CpC,37.58,#da1f35,No nacionalistas,55.99,#fa8c00,37.58,34.62,12.76,8.23,3.22,NA,NA,NA,2.49
+1999,08020,Begues,Barcelona,3110,CiU,49.6,#1e4a8e,Nacionalismo/independentismo,61.05,#18a1cd,24.99,49.6,7.24,11.4,2.85,NA,NA,NA,2.48
+1999,08021,Bellprat,Barcelona,84,CiU,72.55,#1e4a8e,Nacionalismo/independentismo,90.2,#18a1cd,5.88,72.55,1.96,17.65,0,NA,NA,NA,1.96
+1999,08022,Berga,Barcelona,12235,CiU,45.72,#1e4a8e,Nacionalismo/independentismo,63.31,#18a1cd,28.05,45.72,5.06,17.5,1.72,NA,NA,NA,0.87
+1999,08023,Bigues i Riells,Barcelona,4207,CiU,51.08,#1e4a8e,Nacionalismo/independentismo,60.21,#18a1cd,26.4,51.08,8.02,9.05,2.46,NA,NA,NA,1.95
+1999,08024,Borredà,Barcelona,406,CiU,54.55,#1e4a8e,Nacionalismo/independentismo,62.91,#18a1cd,29.09,54.55,4.36,8,0.36,NA,NA,NA,2.1799999999999997
+1999,08025,El Bruc,Barcelona,761,CiU,50.38,#1e4a8e,Nacionalismo/independentismo,60.99,#18a1cd,25.57,50.38,6.06,10.61,4.17,NA,NA,NA,2.66
+1999,08026,El Brull,Barcelona,174,CiU,62.7,#1e4a8e,Nacionalismo/independentismo,82.54,#18a1cd,7.94,62.7,5.56,19.84,0.79,NA,NA,NA,0.79
+1999,08027,Les Cabanyes,Barcelona,450,CiU,55.95,#1e4a8e,Nacionalismo/independentismo,69.64,#18a1cd,22.32,55.95,3.87,13.39,2.68,NA,NA,NA,1.49
+1999,08028,Cabrera d'Anoia,Barcelona,408,PSC-CpC,50.21,#da1f35,No nacionalistas,64.21,#fa8c00,50.21,29.63,9.88,5.35,2.06,NA,NA,NA,2.06
+1999,08029,Cabrera de Mar,Barcelona,2813,CiU,58.81,#1e4a8e,Nacionalismo/independentismo,71.73,#18a1cd,17.14,58.81,7.84,12.92,1.57,NA,NA,NA,0.98
+1999,08030,Cabrils,Barcelona,3479,CiU,54.81,#1e4a8e,Nacionalismo/independentismo,66.75,#18a1cd,19.42,54.81,9.49,11.9,1.66,NA,NA,NA,1.51
+1999,08031,Calaf,Barcelona,2538,CiU,52.45,#1e4a8e,Nacionalismo/independentismo,64.69,#18a1cd,25,52.45,5.69,12.13,1.37,NA,NA,NA,2.16
+1999,08032,Caldes d'Estrac,Barcelona,1615,CiU,53.13,#1e4a8e,Nacionalismo/independentismo,61.33,#18a1cd,27.77,53.13,6.85,8.1,2.03,NA,NA,NA,1.45
+1999,08033,Caldes de Montbui,Barcelona,10786,CiU,43.89,#1e4a8e,Nacionalismo/independentismo,53.59,#18a1cd,34.35,43.89,6.31,9.61,3.13,NA,NA,NA,2.02
+1999,08034,Calders,Barcelona,582,CiU,58.55,#1e4a8e,Nacionalismo/independentismo,80.56,#18a1cd,13.58,58.55,3.04,22.01,1.87,NA,NA,NA,0.7
+1999,08035,Calella,Barcelona,10219,CiU,51.6,#1e4a8e,Nacionalismo/independentismo,66.92,#18a1cd,21.76,51.6,8.19,15.14,1.35,NA,NA,NA,1.39
+1999,08036,Calonge de Segarra,Barcelona,158,CiU,67.46,#1e4a8e,Nacionalismo/independentismo,87.3,#18a1cd,2.38,67.46,4.76,19.84,0.79,NA,NA,NA,1.59
+1999,08037,Calldetenes,Barcelona,1558,CiU,60.64,#1e4a8e,Nacionalismo/independentismo,86.62,#18a1cd,7.8,60.64,2.66,25.8,1.42,NA,NA,NA,0.89
+1999,08038,Callús,Barcelona,1132,CiU,57.56,#1e4a8e,Nacionalismo/independentismo,71.28,#18a1cd,23.85,57.56,1.67,13.72,1.79,NA,NA,NA,0.9
+1999,08039,Campins,Barcelona,237,CiU,60.36,#1e4a8e,Nacionalismo/independentismo,94.68,#18a1cd,0,60.36,1.18,13.61,2.96,NA,NA,NA,21.89
+1999,08040,Canet de Mar,Barcelona,8273,CiU,47.63,#1e4a8e,Nacionalismo/independentismo,60.01,#18a1cd,28.07,47.63,7.78,12.32,2.3,NA,NA,NA,1.29
+1999,08041,Canovelles,Barcelona,10694,PSC-CpC,55.5,#da1f35,No nacionalistas,67.71,#fa8c00,55.5,28.29,7.71,3.33,1.88,NA,NA,NA,2.64
+1999,08042,Cànoves i Samalús,Barcelona,1492,CiU,41.68,#1e4a8e,No nacionalistas,51.98,#fa8c00,35.86,41.68,13.31,6.13,1.25,NA,NA,NA,1.56
+1999,08043,Canyelles,Barcelona,1483,PSC-CpC,41.72,#da1f35,No nacionalistas,55.1,#fa8c00,41.72,37.69,7.64,6.79,4.14,NA,NA,NA,1.71
+1999,08044,Capellades,Barcelona,4052,CiU,48.19,#1e4a8e,Nacionalismo/independentismo,58.55,#18a1cd,31.41,48.19,6.47,10.28,1.89,NA,NA,NA,1.36
+1999,08045,Capolat,Barcelona,60,CiU,59.38,#1e4a8e,Nacionalismo/independentismo,71.88,#18a1cd,25,59.38,0,12.5,0,NA,NA,NA,0
+1999,08046,Cardedeu,Barcelona,9394,CiU,45.2,#1e4a8e,Nacionalismo/independentismo,54.4,#18a1cd,33.44,45.2,6.2,9.1,3.11,NA,NA,NA,1.85
+1999,08047,Cardona,Barcelona,4999,CiU,51.09,#1e4a8e,Nacionalismo/independentismo,59.58,#18a1cd,32.35,51.09,4.11,8.46,1.47,NA,NA,NA,1.77
+1999,08048,Carme,Barcelona,591,CiU,66,#1e4a8e,Nacionalismo/independentismo,74.89,#18a1cd,18.67,66,4.67,8.67,1.33,NA,NA,NA,0.22
+1999,08049,Casserres,Barcelona,1424,CiU,66.48,#1e4a8e,Nacionalismo/independentismo,80.02,#18a1cd,13.21,66.48,4.48,13.43,1.2,NA,NA,NA,0.88
+1999,08050,Castellar del Riu,Barcelona,101,CiU,67.14,#1e4a8e,Nacionalismo/independentismo,78.57,#18a1cd,11.43,67.14,7.14,11.43,2.86,NA,NA,NA,0
+1999,08051,Castellar del Vallès,Barcelona,13835,CiU,44.86,#1e4a8e,Nacionalismo/independentismo,56.18,#18a1cd,33.13,44.86,5.45,11.26,2.97,NA,NA,NA,1.8
+1999,08052,Castellar de n'Hug,Barcelona,168,CiU,76.34,#1e4a8e,Nacionalismo/independentismo,87.79,#18a1cd,7.63,76.34,3.05,10.69,0.76,NA,NA,NA,1.52
+1999,08053,Castellbell i el Vilar,Barcelona,2584,CiU,44.72,#1e4a8e,Nacionalismo/independentismo,53.14,#18a1cd,40.77,44.72,3.39,8.29,1.26,NA,NA,NA,1.07
+1999,08054,Castellbisbal,Barcelona,5897,PSC-CpC,39.79,#da1f35,No nacionalistas,54.6,#fa8c00,39.79,35.95,9.3,8.68,3.14,NA,NA,NA,2.37
+1999,08055,Castellcir,Barcelona,302,CiU,57.6,#1e4a8e,Nacionalismo/independentismo,73.73,#18a1cd,14.75,57.6,4.61,14.75,3.69,NA,NA,NA,1.84
+1999,08056,Castelldefels,Barcelona,34606,PSC-CpC,43.24,#da1f35,No nacionalistas,64.65,#fa8c00,43.24,29.71,14.92,4.55,2.67,NA,NA,NA,3.88
+1999,08057,Castell de l'Areny,Barcelona,43,CiU,69.7,#1e4a8e,Nacionalismo/independentismo,72.73,#18a1cd,15.15,69.7,12.12,3.03,0,NA,NA,NA,0
+1999,08058,Castellet i la Gornal,Barcelona,1202,PSC-CpC,42.19,#da1f35,No nacionalistas,50.55,#fa8c00,42.19,41.78,4.93,7.12,1.78,NA,NA,NA,1.79
+1999,08059,Castellfollit del Boix,Barcelona,299,CiU,52.97,#1e4a8e,Nacionalismo/independentismo,69.73,#18a1cd,17.84,52.97,5.95,16.22,2.16,NA,NA,NA,2.16
+1999,08060,Castellfollit de Riubregós,Barcelona,204,CiU,61.9,#1e4a8e,Nacionalismo/independentismo,76.87,#18a1cd,14.97,61.9,5.44,14.97,2.04,NA,NA,NA,0
+1999,08061,Castellgalí,Barcelona,770,CiU,52.99,#1e4a8e,Nacionalismo/independentismo,64.97,#18a1cd,26.32,52.99,3.63,11.8,1.09,NA,NA,NA,3.44
+1999,08062,Castellnou de Bages,Barcelona,407,CiU,46.07,#1e4a8e,Nacionalismo/independentismo,58.8,#18a1cd,28.84,46.07,4.12,12.73,4.49,NA,NA,NA,2.99
+1999,08063,Castellolí,Barcelona,356,CiU,59.46,#1e4a8e,Nacionalismo/independentismo,77.22,#18a1cd,14.29,59.46,2.7,17.76,2.32,NA,NA,NA,1.5499999999999998
+1999,08064,Castellterçol,Barcelona,1711,CiU,53.14,#1e4a8e,Nacionalismo/independentismo,67.35,#18a1cd,24.25,53.14,4.32,14.21,1.73,NA,NA,NA,1.65
+1999,08065,Castellví de la Marca,Barcelona,1227,CiU,66.05,#1e4a8e,Nacionalismo/independentismo,74.57,#18a1cd,17.71,66.05,3.99,8.39,1.33,NA,NA,NA,1.99
+1999,08066,Castellví de Rosanes,Barcelona,887,PSC-CpC,35.74,#da1f35,No nacionalistas,53.6,#fa8c00,35.74,33.7,11.13,12.23,4.23,NA,NA,NA,2.5
+1999,08067,Centelles,Barcelona,4833,CiU,57.55,#1e4a8e,Nacionalismo/independentismo,68.19,#18a1cd,22.78,57.55,4.62,10.64,2.45,NA,NA,NA,1.4
+1999,08068,Cervelló,Barcelona,4760,CiU,41.92,#1e4a8e,Nacionalismo/independentismo,51.89,#18a1cd,34.77,41.92,7.94,9.97,2.65,NA,NA,NA,1.71
+1999,08069,Collbató,Barcelona,1591,CiU,39.77,#1e4a8e,Nacionalismo/independentismo,53.51,#18a1cd,34.31,39.77,7.7,13.74,2.34,NA,NA,NA,1.36
+1999,08070,Collsuspina,Barcelona,214,CiU,69.54,#1e4a8e,Nacionalismo/independentismo,87.36,#18a1cd,9.2,69.54,2.3,17.82,0.57,NA,NA,NA,0
+1999,08071,Copons,Barcelona,248,CiU,47.7,#1e4a8e,Nacionalismo/independentismo,55.74,#18a1cd,35.06,47.7,1.15,7.47,2.3,NA,NA,NA,2.28
+1999,08072,Corbera de Llobregat,Barcelona,6989,CiU,46.05,#1e4a8e,Nacionalismo/independentismo,56.2,#18a1cd,30.48,46.05,7.5,10.1,2.4,NA,NA,NA,2.49
+1999,08073,Cornellà de Llobregat,Barcelona,68042,PSC-CpC,55.69,#da1f35,No nacionalistas,76.51,#fa8c00,55.69,18.65,9.9,3.92,4.71,NA,NA,NA,6.33
+1999,08074,Cubelles,Barcelona,4910,PSC-CpC,37.54,#da1f35,No nacionalistas,56.26,#fa8c00,37.54,36.53,10.16,6.36,5.99,NA,NA,NA,2.76
+1999,08075,Dosrius,Barcelona,2281,CiU,50.77,#1e4a8e,Nacionalismo/independentismo,58.99,#18a1cd,26.65,50.77,8.14,8.22,2.92,NA,NA,NA,2.31
+1999,08076,Esparreguera,Barcelona,13339,PSC-CpC,40.05,#da1f35,No nacionalistas,54.36,#fa8c00,40.05,35.84,7.89,9.04,3.51,NA,NA,NA,2.98
+1999,08077,Esplugues de Llobregat,Barcelona,38739,PSC-CpC,50.21,#da1f35,No nacionalistas,70.32,#fa8c00,50.21,23.59,13.06,4.94,3.93,NA,NA,NA,3.18
+1999,08078,L'Espunyola,Barcelona,269,CiU,73.68,#1e4a8e,Nacionalismo/independentismo,83.45,#18a1cd,8.27,73.68,7.52,9.77,0,NA,NA,NA,0.75
+1999,08079,L'Estany,Barcelona,355,CiU,61.72,#1e4a8e,Nacionalismo/independentismo,83.79,#18a1cd,10.34,61.72,3.45,21.38,1.38,NA,NA,NA,0.69
+1999,08080,Fígols,Barcelona,51,ERC,38.89,#e5ab4b,Nacionalismo/independentismo,72.22,#18a1cd,16.67,33.33,5.56,38.89,0,NA,NA,NA,2.78
+1999,08081,Fogars de Montclús,Barcelona,290,CiU,59.44,#1e4a8e,Nacionalismo/independentismo,79.44,#18a1cd,8.89,59.44,4.44,20,2.78,NA,NA,NA,2.2300000000000004
+1999,08082,Fogars de la Selva,Barcelona,594,CiU,43.77,#1e4a8e,Nacionalismo/independentismo,50.16,#18a1cd,36.17,43.77,9.12,5.78,2.74,NA,NA,NA,2.42
+1999,08083,Folgueroles,Barcelona,1296,CiU,59.67,#1e4a8e,Nacionalismo/independentismo,80.46,#18a1cd,14.14,59.67,1.04,20.58,1.98,NA,NA,NA,1.45
+1999,08084,Fonollosa,Barcelona,731,CiU,64.73,#1e4a8e,Nacionalismo/independentismo,81.5,#18a1cd,12.47,64.73,4.3,16.77,0.43,NA,NA,NA,0
+1999,08085,Font-rubí,Barcelona,1001,CiU,65.84,#1e4a8e,Nacionalismo/independentismo,76.45,#18a1cd,15.43,65.84,4.27,10.47,1.93,NA,NA,NA,1.66
+1999,08086,Les Franqueses del Vallès,Barcelona,9738,CiU,42.95,#1e4a8e,Nacionalismo/independentismo,50.01,#18a1cd,35.96,42.95,5.98,7.01,2.33,NA,NA,NA,5.2
+1999,08087,Gallifa,Barcelona,129,CiU,51.14,#1e4a8e,Nacionalismo/independentismo,63.64,#18a1cd,25,51.14,7.95,12.5,2.27,NA,NA,NA,1.14
+1999,08088,La Garriga,Barcelona,9048,CiU,49.84,#1e4a8e,Nacionalismo/independentismo,62.65,#18a1cd,25.47,49.84,6.67,12.65,2.77,NA,NA,NA,1.56
+1999,08089,Gavà,Barcelona,32841,PSC-CpC,51.38,#da1f35,No nacionalistas,67.91,#fa8c00,51.38,26.74,10.66,4.67,2.4,NA,NA,NA,3.5199999999999996
+1999,08090,Gaià,Barcelona,139,CiU,67.65,#1e4a8e,Nacionalismo/independentismo,79.41,#18a1cd,11.76,67.65,0.98,11.76,2.94,NA,NA,NA,0.98
+1999,08091,Gelida,Barcelona,3701,CiU,43.55,#1e4a8e,Nacionalismo/independentismo,54.58,#18a1cd,35.26,43.55,6.2,10.99,1.54,NA,NA,NA,2.03
+1999,08092,Gironella,Barcelona,4282,CiU,47.07,#1e4a8e,Nacionalismo/independentismo,61.33,#18a1cd,30,47.07,4.24,14.13,2.26,NA,NA,NA,1.1800000000000002
+1999,08093,Gisclareny,Barcelona,25,CiU,66.67,#1e4a8e,Nacionalismo/independentismo,66.67,#18a1cd,22.22,66.67,0,0,11.11,NA,NA,NA,0
+1999,08094,La Granada,Barcelona,1095,CiU,58.41,#1e4a8e,Nacionalismo/independentismo,70.52,#18a1cd,20.46,58.41,3.23,11.98,3.63,NA,NA,NA,1.87
+1999,08095,Granera,Barcelona,56,CiU,67.44,#1e4a8e,Nacionalismo/independentismo,74.42,#18a1cd,20.93,67.44,4.65,6.98,0,NA,NA,NA,0
+1999,08096,Granollers,Barcelona,42299,CiU,41.19,#1e4a8e,No nacionalistas,50.45,#fa8c00,38.47,41.19,7.67,7.38,2.11,NA,NA,NA,2.27
+1999,08097,Gualba,Barcelona,672,CiU,57.76,#1e4a8e,Nacionalismo/independentismo,74.79,#18a1cd,18.97,57.76,3.02,17.03,1.94,NA,NA,NA,0.66
+1999,08098,Sant Salvador de Guardiola,Barcelona,1621,CiU,51.81,#1e4a8e,Nacionalismo/independentismo,65.86,#18a1cd,22.77,51.81,7.66,13.94,1.28,NA,NA,NA,1.49
+1999,08099,Guardiola de Berguedà,Barcelona,823,CiU,45.2,#1e4a8e,Nacionalismo/independentismo,56.02,#18a1cd,39.79,45.2,2.97,10.65,0.7,NA,NA,NA,0.51
+1999,08100,Gurb,Barcelona,1521,CiU,68.5,#1e4a8e,Nacionalismo/independentismo,86.72,#18a1cd,6.59,68.5,3.57,18.13,1.65,NA,NA,NA,0.73
+1999,08101,L'Hospitalet de Llobregat,Barcelona,208951,PSC-CpC,53.32,#da1f35,No nacionalistas,72.97,#fa8c00,53.32,22.37,11.87,3.8,3.53,NA,NA,NA,4.3
+1999,08102,Igualada,Barcelona,27638,CiU,49.34,#1e4a8e,Nacionalismo/independentismo,59.69,#18a1cd,28.46,49.34,6.99,10.29,2.38,NA,NA,NA,1.48
+1999,08103,Jorba,Barcelona,483,CiU,67.71,#1e4a8e,Nacionalismo/independentismo,76.39,#18a1cd,13.54,67.71,5.56,8.68,2.43,NA,NA,NA,1.0499999999999998
+1999,08104,La Llacuna,Barcelona,711,CiU,51.09,#1e4a8e,Nacionalismo/independentismo,70.89,#18a1cd,18.61,51.09,7.33,19.8,0.99,NA,NA,NA,0.6000000000000001
+1999,08105,La Llagosta,Barcelona,9924,PSC-CpC,57.69,#da1f35,No nacionalistas,73.22,#fa8c00,57.69,23.37,8.37,2.52,3.13,NA,NA,NA,4.03
+1999,08106,Llinars del Vallès,Barcelona,5555,CiU,44.52,#1e4a8e,Nacionalismo/independentismo,52.84,#18a1cd,34.8,44.52,7.73,8.29,2.09,NA,NA,NA,2.07
+1999,08107,Lliçà d'Amunt,Barcelona,7393,CiU,38.07,#1e4a8e,No nacionalistas,52.43,#fa8c00,36.72,38.07,9.75,8.81,2.99,NA,NA,NA,3.02
+1999,08108,Lliçà de Vall,Barcelona,4074,CiU,42.36,#1e4a8e,No nacionalistas,51.23,#fa8c00,36.49,42.36,9.24,6.12,2.87,NA,NA,NA,2.63
+1999,08109,Lluçà,Barcelona,230,CiU,74.16,#1e4a8e,Nacionalismo/independentismo,89.33,#18a1cd,4.49,74.16,4.49,15.17,0.56,NA,NA,NA,1.12
+1999,08110,Malgrat de Mar,Barcelona,10970,CiU,43.21,#1e4a8e,Nacionalismo/independentismo,51.66,#18a1cd,37.49,43.21,6.68,8.42,1.96,NA,NA,NA,1.64
+1999,08111,Malla,Barcelona,215,CiU,62.35,#1e4a8e,Nacionalismo/independentismo,82.35,#18a1cd,10,62.35,3.53,19.41,0.59,NA,NA,NA,2.36
+1999,08112,Manlleu,Barcelona,13568,CiU,53.15,#1e4a8e,Nacionalismo/independentismo,66.03,#18a1cd,25.61,53.15,3.48,12.8,2.79,NA,NA,NA,1.48
+1999,08113,Manresa,Barcelona,54307,CiU,46.33,#1e4a8e,Nacionalismo/independentismo,58.86,#18a1cd,29.41,46.33,6.21,12.46,2.69,NA,NA,NA,1.92
+1999,08114,Martorell,Barcelona,16868,PSC-CpC,41.02,#da1f35,No nacionalistas,54.79,#fa8c00,41.02,35.71,7.65,8.65,3.58,NA,NA,NA,2.66
+1999,08115,Martorelles,Barcelona,4055,CiU,43.71,#1e4a8e,Nacionalismo/independentismo,49.73,#18a1cd,37.81,43.71,6.02,5.98,3.45,NA,NA,NA,2.47
+1999,08116,Les Masies de Roda,Barcelona,519,CiU,59.6,#1e4a8e,Nacionalismo/independentismo,80.56,#18a1cd,13.38,59.6,4.04,20.71,0.76,NA,NA,NA,1.01
+1999,08117,Les Masies de Voltregà,Barcelona,2179,CiU,61.69,#1e4a8e,Nacionalismo/independentismo,74.94,#18a1cd,18.65,61.69,3.4,13.12,1.27,NA,NA,NA,1.26
+1999,08118,El Masnou,Barcelona,17368,CiU,42.82,#1e4a8e,Nacionalismo/independentismo,54.06,#18a1cd,30.3,42.82,9.7,11.17,2.9,NA,NA,NA,2.22
+1999,08119,Masquefa,Barcelona,3545,CiU,43.29,#1e4a8e,Nacionalismo/independentismo,50.5,#18a1cd,36.51,43.29,6.88,7.16,2.32,NA,NA,NA,3.24
+1999,08120,Matadepera,Barcelona,5347,CiU,66.27,#1e4a8e,Nacionalismo/independentismo,77.97,#18a1cd,7.96,66.27,10.84,11.67,1.13,NA,NA,NA,1.22
+1999,08121,Mataró,Barcelona,83731,PSC-CpC,40.79,#da1f35,No nacionalistas,56.78,#fa8c00,40.79,36.21,9.73,6.21,3.6,NA,NA,NA,2.72
+1999,08122,Mediona,Barcelona,1211,CiU,46.44,#1e4a8e,Nacionalismo/independentismo,56.21,#18a1cd,36.55,46.44,3.22,9.77,1.72,NA,NA,NA,2.17
+1999,08123,Molins de Rei,Barcelona,16893,CiU,40.59,#1e4a8e,Nacionalismo/independentismo,51.2,#18a1cd,36.43,40.59,5.06,10.57,4.44,NA,NA,NA,2.17
+1999,08124,Mollet del Vallès,Barcelona,38816,PSC-CpC,48.62,#da1f35,No nacionalistas,64.17,#fa8c00,48.62,30.25,8.05,4.81,3.29,NA,NA,NA,4.25
+1999,08125,Montcada i Reixac,Barcelona,22846,PSC-CpC,50.68,#da1f35,No nacionalistas,66.4,#fa8c00,50.68,27.79,8.72,4.96,3.1,NA,NA,NA,3.97
+1999,08126,Montgat,Barcelona,6859,PSC-CpC,39.18,#da1f35,No nacionalistas,52.94,#fa8c00,39.18,39.13,7.8,7.15,2.47,NA,NA,NA,3.58
+1999,08127,Monistrol de Montserrat,Barcelona,2129,CiU,49.67,#1e4a8e,Nacionalismo/independentismo,62.72,#18a1cd,27.77,49.67,6.45,13.05,1.23,NA,NA,NA,0.65
+1999,08128,Monistrol de Calders,Barcelona,490,CiU,57.06,#1e4a8e,Nacionalismo/independentismo,72.68,#18a1cd,22.82,57.06,0.9,15.32,0.6,NA,NA,NA,0.6
+1999,08129,Muntanyola,Barcelona,240,CiU,48.95,#1e4a8e,Nacionalismo/independentismo,70.63,#18a1cd,18.18,48.95,3.5,21.68,4.9,NA,NA,NA,1.4
+1999,08130,Montclar,Barcelona,125,CiU,77.05,#1e4a8e,Nacionalismo/independentismo,85.25,#18a1cd,4.92,77.05,4.92,8.2,0,NA,NA,NA,1.64
+1999,08131,Montesquiu,Barcelona,715,CiU,53.53,#1e4a8e,Nacionalismo/independentismo,74.69,#18a1cd,20.95,53.53,0.62,21.16,2.07,NA,NA,NA,1.03
+1999,08132,Montmajor,Barcelona,423,CiU,74.18,#1e4a8e,Nacionalismo/independentismo,88.36,#18a1cd,6.91,74.18,3.64,13.82,0.36,NA,NA,NA,0.72
+1999,08133,Montmaneu,Barcelona,190,CiU,65.57,#1e4a8e,Nacionalismo/independentismo,75.41,#18a1cd,9.84,65.57,11.48,9.84,1.64,NA,NA,NA,0
+1999,08134,Figaró-Montmany,Barcelona,628,CiU,57.49,#1e4a8e,Nacionalismo/independentismo,72.48,#18a1cd,18.92,57.49,5.65,14.99,2.21,NA,NA,NA,0.5
+1999,08135,Montmeló,Barcelona,6869,PSC-CpC,49.31,#da1f35,No nacionalistas,68.51,#fa8c00,49.31,26.79,10.47,3.59,5,NA,NA,NA,3.82
+1999,08136,Montornès del Vallès,Barcelona,9975,PSC-CpC,46.51,#da1f35,No nacionalistas,66.28,#fa8c00,46.51,29.54,9.34,3.18,4.72,NA,NA,NA,5.81
+1999,08137,Montseny,Barcelona,256,CiU,57.65,#1e4a8e,Nacionalismo/independentismo,86.73,#18a1cd,8.67,57.65,0.51,17.86,0.51,NA,NA,NA,13.77
+1999,08138,Moià,Barcelona,3244,CiU,52.73,#1e4a8e,Nacionalismo/independentismo,67.85,#18a1cd,23.09,52.73,4.19,14.85,2.19,NA,NA,NA,2.11
+1999,08139,Mura,Barcelona,200,CiU,64,#1e4a8e,Nacionalismo/independentismo,79.33,#18a1cd,15.33,64,3.33,14,2,NA,NA,NA,1.33
+1999,08140,Navarcles,Barcelona,4482,CiU,47.77,#1e4a8e,Nacionalismo/independentismo,57.32,#18a1cd,32.51,47.77,2.7,9.52,5.2,NA,NA,NA,1.93
+1999,08141,Navàs,Barcelona,4918,CiU,55.69,#1e4a8e,Nacionalismo/independentismo,69.02,#18a1cd,24.2,55.69,4.1,13.3,1.03,NA,NA,NA,1.07
+1999,08142,La Nou de Berguedà,Barcelona,131,CiU,69.52,#1e4a8e,Nacionalismo/independentismo,80,#18a1cd,14.29,69.52,0.95,10.48,1.9,NA,NA,NA,1.9
+1999,08143,Òdena,Barcelona,2235,CiU,43.86,#1e4a8e,Nacionalismo/independentismo,50.27,#18a1cd,38.48,43.86,6.97,6.41,1.52,NA,NA,NA,1.7200000000000002
+1999,08144,Olvan,Barcelona,824,CiU,49.44,#1e4a8e,Nacionalismo/independentismo,65.92,#18a1cd,25.74,49.44,5.37,16.48,1.3,NA,NA,NA,0.93
+1999,08145,Olèrdola,Barcelona,1855,CiU,55.72,#1e4a8e,Nacionalismo/independentismo,64.94,#18a1cd,25.51,55.72,4.44,9.14,3.13,NA,NA,NA,1.88
+1999,08146,Olesa de Bonesvalls,Barcelona,752,CiU,41.19,#1e4a8e,Nacionalismo/independentismo,50.21,#18a1cd,30.74,41.19,10.04,9.02,3.69,NA,NA,NA,4.09
+1999,08147,Olesa de Montserrat,Barcelona,13625,CiU,40.01,#1e4a8e,No nacionalistas,50.19,#fa8c00,38.75,40.01,5.33,9.09,3.14,NA,NA,NA,3
+1999,08148,Olivella,Barcelona,1020,PSC-CpC,38.48,#da1f35,No nacionalistas,63.24,#fa8c00,38.48,32.76,10.1,3.62,12.38,NA,NA,NA,2.28
+1999,08149,Olost,Barcelona,995,CiU,63.09,#1e4a8e,Nacionalismo/independentismo,82.15,#18a1cd,12.56,63.09,2.57,19.06,0.76,NA,NA,NA,0.75
+1999,08150,Orís,Barcelona,199,CiU,63.77,#1e4a8e,Nacionalismo/independentismo,80.43,#18a1cd,10.87,63.77,3.62,15.94,2.9,NA,NA,NA,2.16
+1999,08151,Oristà,Barcelona,561,CiU,71.63,#1e4a8e,Nacionalismo/independentismo,85.13,#18a1cd,7.99,71.63,5.79,13.5,0.28,NA,NA,NA,0.28
+1999,08152,Orpí,Barcelona,127,CiU,76,#1e4a8e,Nacionalismo/independentismo,87,#18a1cd,9,76,0,11,1,NA,NA,NA,2
+1999,08153,Òrrius,Barcelona,398,CiU,56.46,#1e4a8e,Nacionalismo/independentismo,77.21,#18a1cd,11.9,56.46,5.44,20.75,3.4,NA,NA,NA,1.36
+1999,08154,Pacs del Penedès,Barcelona,485,CiU,57.73,#1e4a8e,Nacionalismo/independentismo,63.81,#18a1cd,25.97,57.73,7.46,6.08,1.1,NA,NA,NA,0.56
+1999,08155,Palafolls,Barcelona,4137,CiU,40.83,#1e4a8e,No nacionalistas,50.92,#fa8c00,39.01,40.83,8.49,7.54,1.61,NA,NA,NA,1.81
+1999,08156,Palau-solità i Plegamans,Barcelona,8696,CiU,43.61,#1e4a8e,Nacionalismo/independentismo,51.26,#18a1cd,35.95,43.61,7.31,7.55,1.8,NA,NA,NA,3.1
+1999,08157,Pallejà,Barcelona,5980,PSC-CpC,44.51,#da1f35,No nacionalistas,58.33,#fa8c00,44.51,34.82,7.27,6,3.63,NA,NA,NA,3.06
+1999,08158,El Papiol,Barcelona,2808,PSC-CpC,40.57,#da1f35,No nacionalistas,51.24,#fa8c00,40.57,36.22,5.8,11.61,2.32,NA,NA,NA,2.61
+1999,08159,Parets del Vallès,Barcelona,11474,PSC-CpC,42.21,#da1f35,No nacionalistas,56.39,#fa8c00,42.21,36.5,8.36,6.43,3.95,NA,NA,NA,1.87
+1999,08160,Perafita,Barcelona,309,CiU,66.52,#1e4a8e,Nacionalismo/independentismo,86.61,#18a1cd,5.8,66.52,4.02,19.2,1.34,NA,NA,NA,1.34
+1999,08161,Piera,Barcelona,7025,CiU,46.18,#1e4a8e,Nacionalismo/independentismo,54.38,#18a1cd,33.32,46.18,6.53,8.17,2.67,NA,NA,NA,2.46
+1999,08162,Els Hostalets de Pierola,Barcelona,1028,CiU,50.77,#1e4a8e,Nacionalismo/independentismo,64.46,#18a1cd,24.77,50.77,4.92,13.69,2.31,NA,NA,NA,2.46
+1999,08163,Pineda de Mar,Barcelona,15428,PSC-CpC,40.96,#da1f35,No nacionalistas,53.56,#fa8c00,40.96,38.95,9.3,6.67,1.39,NA,NA,NA,2.02
+1999,08164,El Pla del Penedès,Barcelona,812,CiU,56.8,#1e4a8e,Nacionalismo/independentismo,69.88,#18a1cd,24.27,56.8,3.1,13.08,1.55,NA,NA,NA,0.8500000000000001
+1999,08165,La Pobla de Claramunt,Barcelona,1444,CiU,48.35,#1e4a8e,Nacionalismo/independentismo,56.58,#18a1cd,36.93,48.35,2.88,8.23,2.26,NA,NA,NA,1.13
+1999,08166,La Pobla de Lillet,Barcelona,1324,CiU,54.78,#1e4a8e,Nacionalismo/independentismo,64.44,#18a1cd,29.3,54.78,3.08,9.45,1.49,NA,NA,NA,1.5
+1999,08167,Polinyà,Barcelona,3529,PSC-CpC,47.39,#da1f35,No nacionalistas,62.08,#fa8c00,47.39,33.07,7.13,4.01,2.32,NA,NA,NA,5.29
+1999,08168,Pontons,Barcelona,323,CiU,48.32,#1e4a8e,Nacionalismo/independentismo,54.2,#18a1cd,15.55,48.32,26.05,5.88,1.68,NA,NA,NA,1.68
+1999,08169,El Prat de Llobregat,Barcelona,51215,PSC-CpC,50.5,#da1f35,No nacionalistas,71.06,#fa8c00,50.5,23.95,9.59,4.08,6.35,NA,NA,NA,4.71
+1999,08170,Els Prats de Rei,Barcelona,473,CiU,61.15,#1e4a8e,Nacionalismo/independentismo,76.12,#18a1cd,14.33,61.15,6.69,14.65,0.32,NA,NA,NA,1.92
+1999,08171,Prats de Lluçanès,Barcelona,2195,CiU,63.83,#1e4a8e,Nacionalismo/independentismo,83.68,#18a1cd,8.99,63.83,3.6,19.64,2.21,NA,NA,NA,1.05
+1999,08172,Premià de Mar,Barcelona,21287,CiU,39.22,#1e4a8e,No nacionalistas,50.91,#fa8c00,35.4,39.22,9.57,8.86,3.38,NA,NA,NA,2.6
+1999,08174,Puigdàlber,Barcelona,273,CiU,59.35,#1e4a8e,Nacionalismo/independentismo,74.3,#18a1cd,17.76,59.35,5.14,14.95,0.93,NA,NA,NA,0.94
+1999,08175,Puig-reig,Barcelona,3843,CiU,54.2,#1e4a8e,Nacionalismo/independentismo,68.48,#18a1cd,23.35,54.2,5.28,14.28,1.19,NA,NA,NA,1.27
+1999,08176,Pujalt,Barcelona,163,CiU,67.59,#1e4a8e,Nacionalismo/independentismo,82.4,#18a1cd,8.33,67.59,8.33,14.81,0,NA,NA,NA,0.93
+1999,08177,La Quar,Barcelona,63,CiU,35.48,#1e4a8e,Nacionalismo/independentismo,64.51,#18a1cd,12.9,35.48,19.35,12.9,0,NA,NA,NA,19.36
+1999,08178,Rajadell,Barcelona,441,CiU,54.08,#1e4a8e,Nacionalismo/independentismo,64.62,#18a1cd,14.97,54.08,7.48,10.54,7.82,NA,NA,NA,2.72
+1999,08179,Rellinars,Barcelona,292,CiU,66.53,#1e4a8e,Nacionalismo/independentismo,87.75,#18a1cd,8.98,66.53,2.04,21.22,0.41,NA,NA,NA,0.41
+1999,08180,Ripollet,Barcelona,24294,PSC-CpC,51.88,#da1f35,No nacionalistas,68.51,#fa8c00,51.88,26.89,8.52,3.66,3.49,NA,NA,NA,4.68
+1999,08181,La Roca del Vallès,Barcelona,6018,CiU,45.4,#1e4a8e,Nacionalismo/independentismo,53.32,#18a1cd,33.59,45.4,6.89,7.78,3.18,NA,NA,NA,2.16
+1999,08182,El Pont de Vilomara i Rocafort,Barcelona,2151,PSC-CpC,49.89,#da1f35,No nacionalistas,61.45,#fa8c00,49.89,33.08,6.41,5.05,3.17,NA,NA,NA,1.98
+1999,08183,Roda de Ter,Barcelona,4106,CiU,57.67,#1e4a8e,Nacionalismo/independentismo,73.34,#18a1cd,19.47,57.67,2.86,15.56,2.47,NA,NA,NA,1.2000000000000002
+1999,08184,Rubí,Barcelona,47108,PSC-CpC,48.1,#da1f35,No nacionalistas,65.03,#fa8c00,48.1,27.4,9.21,6.5,3.7,NA,NA,NA,4.09
+1999,08185,Rubió,Barcelona,99,CiU,72.73,#1e4a8e,Nacionalismo/independentismo,80.31,#18a1cd,7.58,72.73,9.09,7.58,1.52,NA,NA,NA,0
+1999,08187,Sabadell,Barcelona,152487,PSC-CpC,43.12,#da1f35,No nacionalistas,57.71,#fa8c00,43.12,34.3,7.26,7.16,3.33,NA,NA,NA,4.069999999999999
+1999,08188,Sagàs,Barcelona,131,CiU,48.91,#1e4a8e,Nacionalismo/independentismo,75,#18a1cd,10.87,48.91,9.78,26.09,0,NA,NA,NA,4.35
+1999,08189,Sant Pere Sallavinera,Barcelona,139,CiU,74.36,#1e4a8e,Nacionalismo/independentismo,85.47,#18a1cd,5.98,74.36,4.27,11.11,1.71,NA,NA,NA,1.7
+1999,08190,Saldes,Barcelona,281,CiU,59.55,#1e4a8e,Nacionalismo/independentismo,72.47,#18a1cd,15.73,59.55,3.93,12.92,2.81,NA,NA,NA,4.5
+1999,08191,Sallent,Barcelona,6310,CiU,45.39,#1e4a8e,Nacionalismo/independentismo,56.63,#18a1cd,33.89,45.39,4.2,11.2,2.55,NA,NA,NA,2.04
+1999,08192,Santpedor,Barcelona,4440,CiU,49.02,#1e4a8e,Nacionalismo/independentismo,64.37,#18a1cd,27.07,49.02,4.4,15.32,2.23,NA,NA,NA,1.51
+1999,08193,Sant Iscle de Vallalta,Barcelona,642,CiU,61.93,#1e4a8e,Nacionalismo/independentismo,71.33,#18a1cd,17.89,61.93,5.73,9.4,3.67,NA,NA,NA,0.46
+1999,08194,Sant Adrià de Besòs,Barcelona,27304,PSC-CpC,51.75,#da1f35,No nacionalistas,69.5,#fa8c00,51.75,25.98,10.64,3.68,3.27,NA,NA,NA,3.97
+1999,08195,Sant Agustí de Lluçanès,Barcelona,97,CiU,85.51,#1e4a8e,Nacionalismo/independentismo,91.31,#18a1cd,4.35,85.51,0,5.8,1.45,NA,NA,NA,1.45
+1999,08196,Sant Andreu de la Barca,Barcelona,17218,PSC-CpC,56.89,#da1f35,No nacionalistas,72.29,#fa8c00,56.89,23.44,8.43,3.59,2.74,NA,NA,NA,4.26
+1999,08197,Sant Andreu de Llavaneres,Barcelona,5457,CiU,50.66,#1e4a8e,Nacionalismo/independentismo,58.99,#18a1cd,23.02,50.66,13.75,8.27,1.13,NA,NA,NA,2.13
+1999,08198,Sant Antoni de Vilamajor,Barcelona,2651,CiU,55.66,#1e4a8e,Nacionalismo/independentismo,67.04,#18a1cd,20.61,55.66,7.31,11.38,2.64,NA,NA,NA,1.74
+1999,08199,Sant Bartomeu del Grau,Barcelona,797,CiU,59.39,#1e4a8e,Nacionalismo/independentismo,71.31,#18a1cd,20.2,59.39,5.45,11.92,0.81,NA,NA,NA,1.21
+1999,08200,Sant Boi de Llobregat,Barcelona,66110,PSC-CpC,53.2,#da1f35,No nacionalistas,70.86,#fa8c00,53.2,23.66,9.01,4.58,5.02,NA,NA,NA,3.7
+1999,08201,Sant Boi de Lluçanès,Barcelona,480,CiU,68.14,#1e4a8e,Nacionalismo/independentismo,83.48,#18a1cd,10.03,68.14,4.13,15.34,0.59,NA,NA,NA,0.58
+1999,08202,Sant Celoni,Barcelona,10572,CiU,47.94,#1e4a8e,Nacionalismo/independentismo,57.47,#18a1cd,33.26,47.94,5.38,9.41,1.74,NA,NA,NA,1.52
+1999,08203,Sant Cebrià de Vallalta,Barcelona,1315,CiU,53.09,#1e4a8e,Nacionalismo/independentismo,63.13,#18a1cd,23.69,53.09,8.4,10.04,1.63,NA,NA,NA,2.56
+1999,08204,Sant Climent de Llobregat,Barcelona,2439,CiU,42.62,#1e4a8e,Nacionalismo/independentismo,55.01,#18a1cd,32.08,42.62,4.47,12.33,3.77,NA,NA,NA,4.14
+1999,08205,Sant Cugat del Vallès,Barcelona,44194,CiU,38.5,#1e4a8e,Nacionalismo/independentismo,50.21,#18a1cd,31.84,38.5,10.77,11.64,3.75,NA,NA,NA,2.21
+1999,08206,Sant Cugat Sesgarrigues,Barcelona,602,CiU,57.77,#1e4a8e,Nacionalismo/independentismo,67.62,#18a1cd,26.26,57.77,2.84,9.85,0.66,NA,NA,NA,1.98
+1999,08207,Sant Esteve de Palautordera,Barcelona,1112,CiU,57.69,#1e4a8e,Nacionalismo/independentismo,75.31,#18a1cd,14.52,57.69,4.09,17.62,2.73,NA,NA,NA,2.1
+1999,08208,Sant Esteve Sesrovires,Barcelona,3799,PSC-CpC,44.31,#da1f35,No nacionalistas,60.86,#fa8c00,44.31,31.87,8.84,6.57,3.46,NA,NA,NA,4.33
+1999,08209,Sant Fost de Campsentelles,Barcelona,4945,CiU,43.99,#1e4a8e,Nacionalismo/independentismo,50.27,#18a1cd,32.34,43.99,10.04,6.25,2.66,NA,NA,NA,3.91
+1999,08210,Sant Feliu de Codines,Barcelona,3534,CiU,55.67,#1e4a8e,Nacionalismo/independentismo,67.65,#18a1cd,21.94,55.67,5.62,11.88,2.04,NA,NA,NA,2.02
+1999,08211,Sant Feliu de Llobregat,Barcelona,31760,PSC-CpC,47.13,#da1f35,No nacionalistas,65.48,#fa8c00,47.13,27.59,9.44,5.93,5.95,NA,NA,NA,3
+1999,08212,Sant Feliu Sasserra,Barcelona,533,CiU,60.19,#1e4a8e,Nacionalismo/independentismo,86.09,#18a1cd,9.11,60.19,3.36,25.66,0.24,NA,NA,NA,0.72
+1999,08213,Sant Fruitós de Bages,Barcelona,4552,CiU,49.68,#1e4a8e,Nacionalismo/independentismo,63.82,#18a1cd,28.12,49.68,4.36,14.1,1.55,NA,NA,NA,1.41
+1999,08214,Vilassar de Dalt,Barcelona,6355,CiU,49.53,#1e4a8e,Nacionalismo/independentismo,60.26,#18a1cd,25.91,49.53,7.53,10.68,3.58,NA,NA,NA,2.01
+1999,08215,Sant Hipòlit de Voltregà,Barcelona,2497,CiU,59.62,#1e4a8e,Nacionalismo/independentismo,70.78,#18a1cd,22.87,59.62,2.62,11.04,1.67,NA,NA,NA,1.86
+1999,08216,Sant Jaume de Frontanyà,Barcelona,27,PSC-CpC,36.36,#da1f35,Nacionalismo/independentismo,54.55,#18a1cd,36.36,31.82,0,22.73,4.55,NA,NA,NA,4.55
+1999,08217,Sant Joan Despí,Barcelona,22953,PSC-CpC,52.18,#da1f35,No nacionalistas,71.87,#fa8c00,52.18,21.87,9.3,5.09,5.03,NA,NA,NA,5.39
+1999,08218,Sant Joan de Vilatorrada,Barcelona,7467,PSC-CpC,41.8,#da1f35,No nacionalistas,52.6,#fa8c00,41.8,39.05,5.27,7.36,3.69,NA,NA,NA,1.9
+1999,08219,Vilassar de Mar,Barcelona,13775,CiU,44.71,#1e4a8e,Nacionalismo/independentismo,57.09,#18a1cd,28.63,44.71,8.25,12.3,2.68,NA,NA,NA,2.26
+1999,08220,Sant Julià de Vilatorta,Barcelona,1802,CiU,64.92,#1e4a8e,Nacionalismo/independentismo,84.86,#18a1cd,9.31,64.92,2.73,19.79,1.4,NA,NA,NA,1.03
+1999,08221,Sant Just Desvern,Barcelona,11642,CiU,39,#1e4a8e,Nacionalismo/independentismo,49.87,#18a1cd,32.25,39,10.51,10.84,4.29,NA,NA,NA,1.9
+1999,08222,Sant Llorenç d'Hortons,Barcelona,1216,CiU,48.52,#1e4a8e,Nacionalismo/independentismo,58.7,#18a1cd,31.12,48.52,4.5,9.94,1.89,NA,NA,NA,3.45
+1999,08223,Sant Llorenç Savall,Barcelona,1689,CiU,57.42,#1e4a8e,Nacionalismo/independentismo,73.94,#18a1cd,18.55,57.42,3.89,16.25,1.68,NA,NA,NA,1.69
+1999,08224,Sant Martí de Centelles,Barcelona,603,CiU,59.6,#1e4a8e,Nacionalismo/independentismo,71.65,#18a1cd,21.43,59.6,2.9,11.83,2.23,NA,NA,NA,1.11
+1999,08225,Sant Martí d'Albars,Barcelona,117,CiU,75.68,#1e4a8e,Nacionalismo/independentismo,93.25,#18a1cd,6.76,75.68,0,17.57,0,NA,NA,NA,0
+1999,08226,Sant Martí de Tous,Barcelona,823,CiU,49.07,#1e4a8e,Nacionalismo/independentismo,64.18,#18a1cd,28.35,49.07,3.4,15.11,1.36,NA,NA,NA,1.02
+1999,08227,Sant Martí Sarroca,Barcelona,2071,CiU,57.76,#1e4a8e,Nacionalismo/independentismo,67.31,#18a1cd,27.46,57.76,2.39,9.55,1.34,NA,NA,NA,0.97
+1999,08228,Sant Martí Sesgueioles,Barcelona,314,CiU,51.57,#1e4a8e,Nacionalismo/independentismo,60.09,#18a1cd,30.04,51.57,6.28,7.62,1.79,NA,NA,NA,1.35
+1999,08229,Sant Mateu de Bages,Barcelona,441,CiU,73.02,#1e4a8e,Nacionalismo/independentismo,88.86,#18a1cd,6.74,73.02,2.35,15.84,0.29,NA,NA,NA,0
+1999,08230,Premià de Dalt,Barcelona,6894,CiU,45.45,#1e4a8e,Nacionalismo/independentismo,53.47,#18a1cd,32.52,45.45,8.72,7.93,2.82,NA,NA,NA,1.52
+1999,08231,Sant Pere de Ribes,Barcelona,16962,PSC-CpC,43.58,#da1f35,No nacionalistas,57.81,#fa8c00,43.58,33.97,8.59,7.31,2.96,NA,NA,NA,2.87
+1999,08232,Sant Pere de Riudebitlles,Barcelona,1778,CiU,57.32,#1e4a8e,Nacionalismo/independentismo,70.31,#18a1cd,22.83,57.32,3.39,12.99,2.07,NA,NA,NA,0.74
+1999,08233,Sant Pere de Torelló,Barcelona,1931,CiU,56.06,#1e4a8e,Nacionalismo/independentismo,77.22,#18a1cd,11.95,56.06,4.36,21.08,4.93,NA,NA,NA,0.8
+1999,08234,Sant Pere de Vilamajor,Barcelona,1975,CiU,47.91,#1e4a8e,Nacionalismo/independentismo,60.25,#18a1cd,23.79,47.91,8.42,12.26,3.03,NA,NA,NA,3.51
+1999,08235,Sant Pol de Mar,Barcelona,2817,CiU,56.3,#1e4a8e,Nacionalismo/independentismo,70.93,#18a1cd,18.38,56.3,6.38,14.63,1.72,NA,NA,NA,1.51
+1999,08236,Sant Quintí de Mediona,Barcelona,1434,CiU,53.74,#1e4a8e,Nacionalismo/independentismo,65.45,#18a1cd,25.53,53.74,5.76,11.13,1.54,NA,NA,NA,1.16
+1999,08237,Sant Quirze de Besora,Barcelona,1689,CiU,56.69,#1e4a8e,Nacionalismo/independentismo,75.12,#18a1cd,17.37,56.69,3.75,18.35,1.14,NA,NA,NA,1.88
+1999,08238,Sant Quirze del Vallès,Barcelona,9628,CiU,43.43,#1e4a8e,Nacionalismo/independentismo,53.76,#18a1cd,32.39,43.43,7.29,10.26,3.91,NA,NA,NA,1.83
+1999,08239,Sant Quirze Safaja,Barcelona,294,CiU,51.04,#1e4a8e,Nacionalismo/independentismo,64.58,#18a1cd,17.71,51.04,9.9,13.54,4.69,NA,NA,NA,0.52
+1999,08240,Sant Sadurní d'Anoia,Barcelona,8120,CiU,45.37,#1e4a8e,Nacionalismo/independentismo,56.31,#18a1cd,34.76,45.37,5.44,10.92,1.64,NA,NA,NA,1.33
+1999,08241,Sant Sadurní d'Osormort,Barcelona,66,CiU,66.67,#1e4a8e,Nacionalismo/independentismo,75.93,#18a1cd,9.26,66.67,9.26,7.41,3.7,NA,NA,NA,3.7
+1999,08242,Marganell,Barcelona,223,CiU,69.33,#1e4a8e,Nacionalismo/independentismo,81.33,#18a1cd,8,69.33,8,12,0.67,NA,NA,NA,2
+1999,08243,Santa Cecília de Voltregà,Barcelona,157,CiU,74.58,#1e4a8e,Nacionalismo/independentismo,88.99,#18a1cd,6.78,74.58,0.85,14.41,0.85,NA,NA,NA,2.54
+1999,08244,Santa Coloma de Cervelló,Barcelona,3603,CiU,40.2,#1e4a8e,Nacionalismo/independentismo,51.18,#18a1cd,33.74,40.2,5.83,10.98,5.6,NA,NA,NA,2.94
+1999,08245,Santa Coloma de Gramenet,Barcelona,100096,PSC-CpC,59.03,#da1f35,No nacionalistas,77.13,#fa8c00,59.03,19.41,9.41,2.41,4.29,NA,NA,NA,4.470000000000001
+1999,08246,Santa Eugènia de Berga,Barcelona,1568,CiU,66.58,#1e4a8e,Nacionalismo/independentismo,86.81,#18a1cd,7.73,66.58,2.52,20.23,1.82,NA,NA,NA,0.61
+1999,08247,Santa Eulàlia de Riuprimer,Barcelona,713,CiU,67.76,#1e4a8e,Nacionalismo/independentismo,83.39,#18a1cd,11,67.76,3.28,15.44,0.19,NA,NA,NA,1.15
+1999,08248,Santa Eulàlia de Ronçana,Barcelona,3677,CiU,48.96,#1e4a8e,Nacionalismo/independentismo,60.79,#18a1cd,28.93,48.96,6.21,11.73,1.62,NA,NA,NA,1.72
+1999,08249,Santa Fe del Penedès,Barcelona,239,CiU,63.68,#1e4a8e,Nacionalismo/independentismo,82.1,#18a1cd,12.11,63.68,1.58,18.42,2.11,NA,NA,NA,2.1100000000000003
+1999,08250,Santa Margarida de Montbui,Barcelona,7506,PSC-CpC,55.04,#da1f35,No nacionalistas,67.34,#fa8c00,55.04,27.93,6.38,3.97,2.74,NA,NA,NA,3.26
+1999,08251,Santa Margarida i els Monjos,Barcelona,3656,PSC-CpC,44.77,#da1f35,No nacionalistas,53.61,#fa8c00,44.77,36.88,4.58,8.72,2.18,NA,NA,NA,2.21
+1999,08252,Barberà del Vallès,Barcelona,21307,PSC-CpC,49.96,#da1f35,No nacionalistas,69.89,#fa8c00,49.96,24.98,11.14,4.13,3.28,NA,NA,NA,5.57
+1999,08253,Santa Maria de Besora,Barcelona,147,CiU,76.47,#1e4a8e,Nacionalismo/independentismo,91.76,#18a1cd,2.35,76.47,4.71,15.29,0,NA,NA,NA,1.18
+1999,08254,L'Esquirol,Barcelona,1746,CiU,61.56,#1e4a8e,Nacionalismo/independentismo,82.52,#18a1cd,6.88,61.56,3.02,20.73,4.64,NA,NA,NA,2.01
+1999,08255,Santa Maria de Merlès,Barcelona,143,CiU,67.95,#1e4a8e,Nacionalismo/independentismo,82.05,#18a1cd,8.97,67.95,6.41,14.1,1.28,NA,NA,NA,0
+1999,08256,Santa Maria de Martorelles,Barcelona,584,CiU,47.1,#1e4a8e,Nacionalismo/independentismo,58.69,#18a1cd,28.97,47.1,2.27,11.59,6.05,NA,NA,NA,3.53
+1999,08257,Santa Maria de Miralles,Barcelona,91,CiU,71.88,#1e4a8e,Nacionalismo/independentismo,78.13,#18a1cd,9.38,71.88,7.81,6.25,0,NA,NA,NA,4.68
+1999,08258,Santa Maria d'Oló,Barcelona,864,CiU,61.13,#1e4a8e,Nacionalismo/independentismo,86.99,#18a1cd,7.95,61.13,1.3,25.72,1.88,NA,NA,NA,0.43
+1999,08259,Santa Maria de Palautordera,Barcelona,5170,CiU,48.12,#1e4a8e,Nacionalismo/independentismo,58.17,#18a1cd,31.04,48.12,7.15,9.99,1.51,NA,NA,NA,1.63
+1999,08260,Santa Perpètua de Mogoda,Barcelona,15418,PSC-CpC,44.12,#da1f35,No nacionalistas,62,#fa8c00,44.12,30.42,9.22,6.78,5.17,NA,NA,NA,3.55
+1999,08261,Santa Susanna,Barcelona,1402,CiU,52.29,#1e4a8e,Nacionalismo/independentismo,62.9,#18a1cd,25.14,52.29,8.04,10.61,1.68,NA,NA,NA,1.56
+1999,08262,Sant Vicenç de Castellet,Barcelona,6124,CiU,42.4,#1e4a8e,Nacionalismo/independentismo,54.44,#18a1cd,36.78,42.4,4.67,11.85,1.64,NA,NA,NA,1.72
+1999,08263,Sant Vicenç dels Horts,Barcelona,19793,PSC-CpC,45.84,#da1f35,No nacionalistas,63.82,#fa8c00,45.84,30.63,7.01,4.99,6.4,NA,NA,NA,4.64
+1999,08264,Sant Vicenç de Montalt,Barcelona,2381,CiU,55.2,#1e4a8e,Nacionalismo/independentismo,65.41,#18a1cd,22,55.2,8.68,10.14,1.33,NA,NA,NA,1.6
+1999,08265,Sant Vicenç de Torelló,Barcelona,1498,CiU,62.32,#1e4a8e,Nacionalismo/independentismo,78.33,#18a1cd,14.48,62.32,2.4,16.01,4.03,NA,NA,NA,0.59
+1999,08266,Cerdanyola del Vallès,Barcelona,43258,PSC-CpC,47.04,#da1f35,No nacionalistas,65.98,#fa8c00,47.04,26.99,10.26,5.87,4.74,NA,NA,NA,3.99
+1999,08267,Sentmenat,Barcelona,4623,CiU,39.83,#1e4a8e,No nacionalistas,50.91,#fa8c00,39.61,39.83,5.26,8.76,2.81,NA,NA,NA,3.31
+1999,08268,Cercs,Barcelona,1271,CiU,45.52,#1e4a8e,Nacionalismo/independentismo,54.58,#18a1cd,39.45,45.52,1.99,9.06,1.66,NA,NA,NA,1.87
+1999,08269,Seva,Barcelona,2010,CiU,62.5,#1e4a8e,Nacionalismo/independentismo,80,#18a1cd,12.03,62.5,3.85,17.36,1.49,NA,NA,NA,1.37
+1999,08270,Sitges,Barcelona,15388,CiU,42.72,#1e4a8e,Nacionalismo/independentismo,49.87,#18a1cd,32.65,42.72,12.44,7.11,2.61,NA,NA,NA,1.56
+1999,08271,Sobremunt,Barcelona,67,CiU,64.86,#1e4a8e,Nacionalismo/independentismo,67.56,#18a1cd,13.51,64.86,2.7,2.7,0,NA,NA,NA,8.11
+1999,08272,Sora,Barcelona,165,CiU,58.65,#1e4a8e,Nacionalismo/independentismo,79.8,#18a1cd,10.58,58.65,5.77,21.15,1.92,NA,NA,NA,1.92
+1999,08273,Subirats,Barcelona,2086,CiU,56.7,#1e4a8e,Nacionalismo/independentismo,71.76,#18a1cd,20.17,56.7,4.83,14.92,1.38,NA,NA,NA,1.45
+1999,08274,Súria,Barcelona,5208,CiU,44.22,#1e4a8e,Nacionalismo/independentismo,53.19,#18a1cd,38.92,44.22,3.41,8.88,2.37,NA,NA,NA,1.31
+1999,08275,Tavèrnoles,Barcelona,222,CiU,57.8,#1e4a8e,Nacionalismo/independentismo,86.13,#18a1cd,8.67,57.8,1.16,27.75,3.47,NA,NA,NA,0.58
+1999,08276,Tagamanent,Barcelona,168,CiU,53.78,#1e4a8e,Nacionalismo/independentismo,65.54,#18a1cd,22.69,53.78,7.56,11.76,2.52,NA,NA,NA,1.68
+1999,08277,Talamanca,Barcelona,88,CiU,63.79,#1e4a8e,Nacionalismo/independentismo,72.41,#18a1cd,17.24,63.79,5.17,8.62,0,NA,NA,NA,3.45
+1999,08278,Taradell,Barcelona,3960,CiU,61.84,#1e4a8e,Nacionalismo/independentismo,81.25,#18a1cd,11.36,61.84,3.56,19.37,1.64,NA,NA,NA,1.33
+1999,08279,Terrassa,Barcelona,139706,PSC-CpC,42.7,#da1f35,No nacionalistas,58.05,#fa8c00,42.7,34.58,7.96,6.43,3.88,NA,NA,NA,3.55
+1999,08280,Tavertet,Barcelona,126,CiU,61.11,#1e4a8e,Nacionalismo/independentismo,70,#18a1cd,15.56,61.11,6.67,8.89,3.33,NA,NA,NA,3.33
+1999,08281,Teià,Barcelona,4061,CiU,48.4,#1e4a8e,Nacionalismo/independentismo,63.7,#18a1cd,24.22,48.4,6.59,15.19,2.7,NA,NA,NA,1.92
+1999,08282,Tiana,Barcelona,4535,CiU,44.81,#1e4a8e,Nacionalismo/independentismo,56.03,#18a1cd,31.42,44.81,7.7,11.19,1.98,NA,NA,NA,1.91
+1999,08283,Tona,Barcelona,4843,CiU,59.47,#1e4a8e,Nacionalismo/independentismo,74.56,#18a1cd,18.02,59.47,4.37,14.94,1.19,NA,NA,NA,1.32
+1999,08284,Tordera,Barcelona,8165,CiU,55.34,#1e4a8e,Nacionalismo/independentismo,62.52,#18a1cd,29.33,55.34,4.74,7.18,1.58,NA,NA,NA,1.37
+1999,08285,Torelló,Barcelona,10049,CiU,51.53,#1e4a8e,Nacionalismo/independentismo,65.53,#18a1cd,25.63,51.53,2.99,13.91,3.92,NA,NA,NA,1.42
+1999,08286,La Torre de Claramunt,Barcelona,1862,CiU,44.85,#1e4a8e,Nacionalismo/independentismo,50.14,#18a1cd,41.66,44.85,4.83,5.2,1.28,NA,NA,NA,1.37
+1999,08287,Torrelavit,Barcelona,1009,CiU,59.28,#1e4a8e,Nacionalismo/independentismo,71.88,#18a1cd,21.19,59.28,3.05,12.6,1.8,NA,NA,NA,1.67
+1999,08288,Torrelles de Foix,Barcelona,1394,CiU,45.48,#1e4a8e,Nacionalismo/independentismo,53.44,#18a1cd,35.59,45.48,7.6,7.96,2.05,NA,NA,NA,1.2
+1999,08289,Torrelles de Llobregat,Barcelona,2703,CiU,46.5,#1e4a8e,Nacionalismo/independentismo,60.99,#18a1cd,26.45,46.5,5.25,14.43,3.5,NA,NA,NA,3.38
+1999,08290,Ullastrell,Barcelona,917,CiU,61.24,#1e4a8e,Nacionalismo/independentismo,76.41,#18a1cd,15.59,61.24,2.81,15.03,2.11,NA,NA,NA,2.38
+1999,08291,Vacarisses,Barcelona,2156,CiU,42.62,#1e4a8e,Nacionalismo/independentismo,53.7,#18a1cd,35.15,42.62,4.98,11.08,2.65,NA,NA,NA,2.48
+1999,08292,Vallbona d'Anoia,Barcelona,877,CiU,49.47,#1e4a8e,Nacionalismo/independentismo,60.62,#18a1cd,29.62,49.47,4.73,10.84,2.44,NA,NA,NA,2.59
+1999,08293,Vallcebre,Barcelona,236,CiU,55.17,#1e4a8e,Nacionalismo/independentismo,68.96,#18a1cd,26.21,55.17,0.69,13.79,2.76,NA,NA,NA,1.38
+1999,08294,Vallgorguina,Barcelona,1059,CiU,54.83,#1e4a8e,Nacionalismo/independentismo,69.99,#18a1cd,17.98,54.83,8.02,15.01,1.49,NA,NA,NA,1.34
+1999,08295,Vallirana,Barcelona,7364,CiU,40.16,#1e4a8e,No nacionalistas,52.15,#fa8c00,38.92,40.16,8.19,6.65,2.87,NA,NA,NA,2.29
+1999,08296,Vallromanes,Barcelona,1059,CiU,53.94,#1e4a8e,Nacionalismo/independentismo,63.09,#18a1cd,22.68,53.94,10.28,9.15,2.39,NA,NA,NA,1.26
+1999,08297,Veciana,Barcelona,132,CiU,75.86,#1e4a8e,Nacionalismo/independentismo,80.46,#18a1cd,4.6,75.86,10.34,4.6,2.3,NA,NA,NA,2.3
+1999,08298,Vic,Barcelona,25976,CiU,51.29,#1e4a8e,Nacionalismo/independentismo,69.01,#18a1cd,20.55,51.29,5.46,17.62,2.53,NA,NA,NA,1.53
+1999,08299,Vilada,Barcelona,494,CiU,66.76,#1e4a8e,Nacionalismo/independentismo,81.47,#18a1cd,10.29,66.76,5.29,14.71,1.47,NA,NA,NA,0.29
+1999,08300,Viladecavalls,Barcelona,4462,CiU,39.38,#1e4a8e,No nacionalistas,52.76,#fa8c00,36.23,39.38,8.19,7.03,4.62,NA,NA,NA,3.83
+1999,08301,Viladecans,Barcelona,44890,PSC-CpC,54.75,#da1f35,No nacionalistas,72.4,#fa8c00,54.75,23.41,9.4,3.19,3.39,NA,NA,NA,4.8999999999999995
+1999,08302,Vilanova del Camí,Barcelona,8062,PSC-CpC,53.31,#da1f35,No nacionalistas,68.24,#fa8c00,53.31,27.86,9.41,3.47,3.23,NA,NA,NA,2.41
+1999,08303,Vilanova de Sau,Barcelona,271,CiU,50.26,#1e4a8e,Nacionalismo/independentismo,69.23,#18a1cd,19.49,50.26,4.1,18.97,3.08,NA,NA,NA,1.02
+1999,08304,Vilobí del Penedès,Barcelona,717,CiU,52.98,#1e4a8e,Nacionalismo/independentismo,61.51,#18a1cd,33.33,52.98,1.59,8.53,0.99,NA,NA,NA,1.59
+1999,08305,Vilafranca del Penedès,Barcelona,24454,CiU,41.95,#1e4a8e,Nacionalismo/independentismo,52.98,#18a1cd,35.26,41.95,6.94,10.97,2.59,NA,NA,NA,1.6
+1999,08306,Vilalba Sasserra,Barcelona,373,CiU,56.73,#1e4a8e,Nacionalismo/independentismo,67.34,#18a1cd,19.18,56.73,10.2,10.61,0.41,NA,NA,NA,2.46
+1999,08307,Vilanova i la Geltrú,Barcelona,43110,PSC-CpC,39.88,#da1f35,No nacionalistas,53.12,#fa8c00,39.88,37.57,7.12,8.62,3.91,NA,NA,NA,2.29
+1999,08308,Viver i Serrateix,Barcelona,162,CiU,86.07,#1e4a8e,Nacionalismo/independentismo,95.09,#18a1cd,2.46,86.07,2.46,9.02,0,NA,NA,NA,0
+1999,08901,Rupit i Pruit,Barcelona,298,CiU,63.51,#1e4a8e,Nacionalismo/independentismo,89.64,#18a1cd,4.95,63.51,2.7,26.13,0.9,NA,NA,NA,0.9
+1999,08902,Vilanova del Vallès,Barcelona,1827,CiU,51.84,#1e4a8e,Nacionalismo/independentismo,64.38,#18a1cd,23.86,51.84,6.67,12.54,1.75,NA,NA,NA,2.19
+1999,08903,Sant Julià de Cerdanyola,Barcelona,203,CiU,55.29,#1e4a8e,Nacionalismo/independentismo,68.23,#18a1cd,30,55.29,0,12.94,0.59,NA,NA,NA,1.18
+1999,08904,Badia del Vallès,Barcelona,13631,PSC-CpC,55.86,#da1f35,No nacionalistas,79.07,#fa8c00,55.86,18.33,11.85,1.7,4.62,NA,NA,NA,6.84
+1999,08905,La Palma de Cervelló,Barcelona,1995,CiU,45.41,#1e4a8e,Nacionalismo/independentismo,58.34,#18a1cd,29.37,45.41,6.38,12.93,3.43,NA,NA,NA,1.92
+1999,08998,Residents Absents,Barcelona,64615,CiU,37.83,#1e4a8e,No nacionalistas,55.45,#fa8c00,35.38,37.83,9.31,5.43,2.03,NA,NA,NA,9.84
+1999,17001,Agullana,Girona,566,CiU,57.87,#1e4a8e,Nacionalismo/independentismo,76.99,#18a1cd,18.64,57.87,3.39,18.64,NA,NA,NA,NA,1.44
+1999,17002,Aiguaviva,Girona,411,CiU,60.47,#1e4a8e,Nacionalismo/independentismo,78.04,#18a1cd,13.85,60.47,4.05,17.57,NA,NA,NA,NA,2.71
+1999,17003,Albanyà,Girona,105,CiU,70.83,#1e4a8e,Nacionalismo/independentismo,86.11,#18a1cd,8.33,70.83,1.39,15.28,NA,NA,NA,NA,2.78
+1999,17004,Albons,Girona,477,CiU,50,#1e4a8e,Nacionalismo/independentismo,67.66,#18a1cd,23.05,50,4.49,17.66,NA,NA,NA,NA,3.89
+1999,17005,El Far d'Empordà,Girona,321,CiU,45.58,#1e4a8e,Nacionalismo/independentismo,55.35,#18a1cd,39.07,45.58,3.26,9.3,NA,NA,NA,NA,2.34
+1999,17006,Alp,Girona,927,CiU,47.27,#1e4a8e,Nacionalismo/independentismo,67.61,#18a1cd,25.24,47.27,4.9,20.15,NA,NA,NA,NA,1.88
+1999,17007,Amer,Girona,1899,CiU,58.01,#1e4a8e,Nacionalismo/independentismo,76.53,#18a1cd,17.27,58.01,4.28,18.45,NA,NA,NA,NA,1.46
+1999,17008,Anglès,Girona,4018,CiU,57.73,#1e4a8e,Nacionalismo/independentismo,71.21,#18a1cd,24.3,57.73,2.43,13.37,NA,NA,NA,NA,1.81
+1999,17009,Arbúcies,Girona,4044,CiU,55.89,#1e4a8e,Nacionalismo/independentismo,77.78,#18a1cd,14.28,55.89,4.49,21.74,NA,NA,NA,NA,3.06
+1999,17010,Argelaguer,Girona,301,CiU,57.36,#1e4a8e,Nacionalismo/independentismo,73.6,#18a1cd,19.29,57.36,2.54,16.24,NA,NA,NA,NA,3.56
+1999,17011,L'Armentera,Girona,638,CiU,57.14,#1e4a8e,Nacionalismo/independentismo,69.38,#18a1cd,25.31,57.14,3.06,12.24,NA,NA,NA,NA,0.4
+1999,17012,Avinyonet de Puigventós,Girona,521,CiU,53.27,#1e4a8e,Nacionalismo/independentismo,66.35,#18a1cd,24.3,53.27,4.98,12.77,NA,NA,NA,NA,2.8
+1999,17013,Begur,Girona,2506,CiU,49.68,#1e4a8e,Nacionalismo/independentismo,55.97,#18a1cd,37.33,49.68,4.66,6.23,NA,NA,NA,NA,1.28
+1999,17014,La Vajol,Girona,75,CiU,47.83,#1e4a8e,Nacionalismo/independentismo,65.22,#18a1cd,17.39,47.83,10.87,17.39,NA,NA,NA,NA,2.17
+1999,17015,Banyoles,Girona,11616,CiU,54.15,#1e4a8e,Nacionalismo/independentismo,75.01,#18a1cd,17.27,54.15,5.29,20.81,NA,NA,NA,NA,1.52
+1999,17016,Bàscara,Girona,702,CiU,59.4,#1e4a8e,Nacionalismo/independentismo,78.58,#18a1cd,14.15,59.4,3.91,19.18,NA,NA,NA,NA,2.6100000000000003
+1999,17018,Bellcaire d'Empordà,Girona,436,CiU,49.23,#1e4a8e,Nacionalismo/independentismo,64.61,#18a1cd,25.85,49.23,4.62,15.38,NA,NA,NA,NA,4.32
+1999,17019,Besalú,Girona,1706,CiU,55.34,#1e4a8e,Nacionalismo/independentismo,70.42,#18a1cd,25.02,55.34,2.49,15,NA,NA,NA,NA,1.14
+1999,17020,Bescanó,Girona,2612,CiU,54.41,#1e4a8e,Nacionalismo/independentismo,77.39,#18a1cd,16.84,54.41,2.99,22.77,NA,NA,NA,NA,2.19
+1999,17021,Beuda,Girona,106,CiU,61.19,#1e4a8e,Nacionalismo/independentismo,70.15,#18a1cd,28.36,61.19,1.49,8.96,NA,NA,NA,NA,0
+1999,17022,La Bisbal d'Empordà,Girona,6502,CiU,44.71,#1e4a8e,Nacionalismo/independentismo,58.16,#18a1cd,34.62,44.71,3.95,13.38,NA,NA,NA,NA,2.3200000000000003
+1999,17023,Blanes,Girona,23576,PSC-CC-IC-V,40.51,#da1f35,No nacionalistas,54.31,#fa8c00,40.51,38.73,8.13,6.17,NA,NA,NA,NA,5.81
+1999,17024,Bolvir,Girona,247,CiU,61.49,#1e4a8e,Nacionalismo/independentismo,71.63,#18a1cd,10.81,61.49,13.51,9.46,NA,NA,NA,NA,3.3899999999999997
+1999,17025,Bordils,Girona,1063,CiU,52.93,#1e4a8e,Nacionalismo/independentismo,71.01,#18a1cd,21.68,52.93,4.26,17.95,NA,NA,NA,NA,1.99
+1999,17026,Borrassà,Girona,457,CiU,76.77,#1e4a8e,Nacionalismo/independentismo,86.45,#18a1cd,9.68,76.77,2.9,9.68,NA,NA,NA,NA,0.64
+1999,17027,Breda,Girona,2691,CiU,52.86,#1e4a8e,Nacionalismo/independentismo,70.23,#18a1cd,22.99,52.86,4.5,17.21,NA,NA,NA,NA,1.92
+1999,17028,Brunyola i Sant Martí Sapresa,Girona,343,CiU,66.2,#1e4a8e,Nacionalismo/independentismo,87.03,#18a1cd,4.17,66.2,4.63,20.83,NA,NA,NA,NA,4.16
+1999,17029,Boadella i les Escaules,Girona,194,CiU,46.22,#1e4a8e,Nacionalismo/independentismo,66.39,#18a1cd,22.69,46.22,5.04,20.17,NA,NA,NA,NA,3.36
+1999,17030,Cabanes,Girona,669,CiU,58.53,#1e4a8e,Nacionalismo/independentismo,68.48,#18a1cd,25.12,58.53,5.69,9.95,NA,NA,NA,NA,0.48
+1999,17031,Cabanelles,Girona,173,CiU,64.22,#1e4a8e,Nacionalismo/independentismo,75.23,#18a1cd,11.93,64.22,7.34,11.01,NA,NA,NA,NA,3.67
+1999,17032,Cadaqués,Girona,1509,CiU,51.16,#1e4a8e,Nacionalismo/independentismo,65,#18a1cd,31.78,51.16,1.66,13.73,NA,NA,NA,NA,1.21
+1999,17033,Caldes de Malavella,Girona,3279,CiU,49.74,#1e4a8e,Nacionalismo/independentismo,65.08,#18a1cd,25.05,49.74,6.51,15.24,NA,NA,NA,NA,2.78
+1999,17034,Calonge i Sant Antoni,Girona,5152,CiU,48.35,#1e4a8e,Nacionalismo/independentismo,60.17,#18a1cd,30.78,48.35,7.06,11.71,NA,NA,NA,NA,1.53
+1999,17035,Camós,Girona,536,CiU,66.26,#1e4a8e,Nacionalismo/independentismo,82.52,#18a1cd,13.35,66.26,1.7,16.26,NA,NA,NA,NA,1.95
+1999,17036,Campdevànol,Girona,2888,CiU,52.5,#1e4a8e,Nacionalismo/independentismo,66.88,#18a1cd,29.04,52.5,1.7,14.23,NA,NA,NA,NA,1.96
+1999,17037,Campelles,Girona,112,CiU,71.05,#1e4a8e,Nacionalismo/independentismo,90.79,#18a1cd,2.63,71.05,0,19.74,NA,NA,NA,NA,2.64
+1999,17038,Campllong,Girona,246,CiU,80.95,#1e4a8e,Nacionalismo/independentismo,89.28,#18a1cd,6.55,80.95,1.19,8.33,NA,NA,NA,NA,1.2
+1999,17039,Camprodon,Girona,2035,CiU,49.31,#1e4a8e,Nacionalismo/independentismo,59.92,#18a1cd,31.9,49.31,4.85,10.54,NA,NA,NA,NA,1.95
+1999,17040,Canet d'Adri,Girona,419,CiU,62.12,#1e4a8e,Nacionalismo/independentismo,79.17,#18a1cd,14.02,62.12,3.41,17.05,NA,NA,NA,NA,2.28
+1999,17041,Cantallops,Girona,243,CiU,46.24,#1e4a8e,Nacionalismo/independentismo,63.58,#18a1cd,28.32,46.24,4.05,16.76,NA,NA,NA,NA,2.31
+1999,17042,Capmany,Girona,378,CiU,61.21,#1e4a8e,Nacionalismo/independentismo,68.68,#18a1cd,26.69,61.21,2.49,7.47,NA,NA,NA,NA,2.13
+1999,17043,Queralbs,Girona,185,CiU,77.55,#1e4a8e,Nacionalismo/independentismo,89.79,#18a1cd,8.84,77.55,1.36,11.56,NA,NA,NA,NA,0.68
+1999,17044,Cassà de la Selva,Girona,6151,CiU,49.89,#1e4a8e,Nacionalismo/independentismo,73.87,#18a1cd,20.34,49.89,3.59,23.93,NA,NA,NA,NA,1.35
+1999,17046,Castellfollit de la Roca,Girona,829,CiU,58.77,#1e4a8e,Nacionalismo/independentismo,68.87,#18a1cd,22.52,58.77,4.97,10.1,NA,NA,NA,NA,2.66
+1999,17047,Castelló d'Empúries,Girona,3445,CiU,44.74,#1e4a8e,Nacionalismo/independentismo,56.69,#18a1cd,29.81,44.74,10.95,11.79,NA,NA,NA,NA,1.93
+1999,17048,Castell-Platja d'Aro,Girona,5081,CiU,48.47,#1e4a8e,Nacionalismo/independentismo,56.1,#18a1cd,34.08,48.47,7.34,7.56,NA,NA,NA,NA,1.92
+1999,17049,Celrà,Girona,2108,CiU,49.85,#1e4a8e,Nacionalismo/independentismo,67.81,#18a1cd,25.08,49.85,3.71,17.65,NA,NA,NA,NA,3.12
+1999,17050,Cervià de Ter,Girona,549,CiU,55.35,#1e4a8e,Nacionalismo/independentismo,76.28,#18a1cd,18.84,55.35,3.02,20.93,NA,NA,NA,NA,1.41
+1999,17051,Cistella,Girona,196,CiU,62.07,#1e4a8e,Nacionalismo/independentismo,79.31,#18a1cd,12.41,62.07,4.14,17.24,NA,NA,NA,NA,4.14
+1999,17052,Siurana,Girona,133,CiU,55.41,#1e4a8e,Nacionalismo/independentismo,70.27,#18a1cd,16.22,55.41,10.81,14.86,NA,NA,NA,NA,0
+1999,17054,Colera,Girona,506,CiU,48.46,#1e4a8e,Nacionalismo/independentismo,60.5,#18a1cd,29.32,48.46,8.02,11.73,NA,NA,NA,NA,1.86
+1999,17055,Colomers,Girona,169,CiU,51.54,#1e4a8e,Nacionalismo/independentismo,68.46,#18a1cd,28.46,51.54,0.77,16.92,NA,NA,NA,NA,1.54
+1999,17056,Cornellà del Terri,Girona,1543,CiU,64.13,#1e4a8e,Nacionalismo/independentismo,80.84,#18a1cd,11.55,64.13,4.41,16.71,NA,NA,NA,NA,1.88
+1999,17057,Corçà,Girona,978,CiU,56.19,#1e4a8e,Nacionalismo/independentismo,72.44,#18a1cd,23.53,56.19,1.7,16.25,NA,NA,NA,NA,1.39
+1999,17058,Crespià,Girona,179,CiU,66.07,#1e4a8e,Nacionalismo/independentismo,77.68,#18a1cd,15.18,66.07,7.14,11.61,NA,NA,NA,NA,0
+1999,17060,Darnius,Girona,421,CiU,56.41,#1e4a8e,Nacionalismo/independentismo,67.31,#18a1cd,20.19,56.41,9.94,10.9,NA,NA,NA,NA,2.24
+1999,17061,Das,Girona,126,CiU,53.93,#1e4a8e,Nacionalismo/independentismo,75.28,#18a1cd,16.85,53.93,2.25,21.35,NA,NA,NA,NA,5.62
+1999,17062,L'Escala,Girona,4949,CiU,51.81,#1e4a8e,Nacionalismo/independentismo,62.34,#18a1cd,29.59,51.81,4.96,10.35,NA,NA,NA,NA,2.25
+1999,17063,Espinelves,Girona,169,CiU,67.48,#1e4a8e,Nacionalismo/independentismo,80.49,#18a1cd,15.45,67.48,4.07,12.2,NA,NA,NA,NA,0.81
+1999,17064,Espolla,Girona,316,CiU,77.14,#1e4a8e,Nacionalismo/independentismo,85,#18a1cd,14.29,77.14,0.71,7.86,NA,NA,NA,NA,0
+1999,17065,Esponellà,Girona,340,CiU,52.73,#1e4a8e,Nacionalismo/independentismo,80.46,#18a1cd,14.55,52.73,2.73,27.73,NA,NA,NA,NA,0.45
+1999,17066,Figueres,Girona,27752,CiU,40.57,#1e4a8e,Nacionalismo/independentismo,50.43,#18a1cd,35.32,40.57,10.66,9.75,NA,NA,NA,NA,2.67
+1999,17067,Flaçà,Girona,727,CiU,55.47,#1e4a8e,Nacionalismo/independentismo,68.46,#18a1cd,25.23,55.47,4.27,12.99,NA,NA,NA,NA,1.87
+1999,17068,Foixà,Girona,264,CiU,68.09,#1e4a8e,Nacionalismo/independentismo,79.26,#18a1cd,17.02,68.09,2.66,11.17,NA,NA,NA,NA,1.06
+1999,17069,Fontanals de Cerdanya,Girona,348,CiU,60.18,#1e4a8e,Nacionalismo/independentismo,77.44,#18a1cd,12.83,60.18,7.52,17.26,NA,NA,NA,NA,1.76
+1999,17070,Fontanilles,Girona,146,CiU,71.9,#1e4a8e,Nacionalismo/independentismo,80.99,#18a1cd,14.05,71.9,0.83,8.26,NA,NA,NA,NA,2.49
+1999,17071,Fontcoberta,Girona,907,CiU,57.28,#1e4a8e,Nacionalismo/independentismo,82.28,#18a1cd,13.92,57.28,2.69,25,NA,NA,NA,NA,0.48
+1999,17073,Fornells de la Selva,Girona,1177,CiU,62.49,#1e4a8e,Nacionalismo/independentismo,80.29,#18a1cd,10.87,62.49,6.21,17.8,NA,NA,NA,NA,1.3199999999999998
+1999,17074,Fortià,Girona,449,CiU,45.45,#1e4a8e,Nacionalismo/independentismo,55.59,#18a1cd,34.62,45.45,4.55,10.14,NA,NA,NA,NA,4.2
+1999,17075,Garrigàs,Girona,273,CiU,64.97,#1e4a8e,Nacionalismo/independentismo,78.17,#18a1cd,14.72,64.97,5.58,13.2,NA,NA,NA,NA,1.02
+1999,17076,Garrigoles,Girona,133,CiU,47.87,#1e4a8e,Nacionalismo/independentismo,65.95,#18a1cd,22.34,47.87,3.19,17.02,NA,NA,NA,NA,3.18
+1999,17077,Garriguella,Girona,606,CiU,53.22,#1e4a8e,Nacionalismo/independentismo,67.51,#18a1cd,24.93,53.22,7,14.29,NA,NA,NA,NA,0.56
+1999,17078,Ger,Girona,300,CiU,63.38,#1e4a8e,Nacionalismo/independentismo,79.81,#18a1cd,16.9,63.38,3.29,15.96,NA,NA,NA,NA,0.47
+1999,17079,Girona,Girona,59532,CiU,37.16,#1e4a8e,Nacionalismo/independentismo,51.58,#18a1cd,35.47,37.16,8.54,14.33,NA,NA,NA,NA,3.41
+1999,17080,Gombrèn,Girona,218,CiU,62.94,#1e4a8e,Nacionalismo/independentismo,78.23,#18a1cd,13.53,62.94,5.88,15.29,NA,NA,NA,NA,1.77
+1999,17081,Gualta,Girona,237,CiU,63.64,#1e4a8e,Nacionalismo/independentismo,74.44,#18a1cd,23.86,63.64,1.7,10.8,NA,NA,NA,NA,0
+1999,17082,Guils de Cerdanya,Girona,287,CiU,63.45,#1e4a8e,Nacionalismo/independentismo,72.59,#18a1cd,21.83,63.45,3.05,8.63,NA,NA,NA,NA,1.02
+1999,17083,Hostalric,Girona,2405,CiU,54.6,#1e4a8e,Nacionalismo/independentismo,65.23,#18a1cd,26.88,54.6,4.04,10.63,NA,NA,NA,NA,3.14
+1999,17084,Isòvol,Girona,173,CiU,68.33,#1e4a8e,Nacionalismo/independentismo,82.5,#18a1cd,15.83,68.33,0,14.17,NA,NA,NA,NA,0
+1999,17085,Jafre,Girona,301,CiU,51.79,#1e4a8e,Nacionalismo/independentismo,66.08,#18a1cd,26.34,51.79,3.57,14.29,NA,NA,NA,NA,2.68
+1999,17086,La Jonquera,Girona,2039,CiU,42.03,#1e4a8e,Nacionalismo/independentismo,54.35,#18a1cd,34.43,42.03,7,12.15,NA,NA,NA,NA,3.62
+1999,17087,Juià,Girona,230,CiU,73.12,#1e4a8e,Nacionalismo/independentismo,84.99,#18a1cd,4.38,73.12,8.12,11.25,NA,NA,NA,NA,2.49
+1999,17088,Lladó,Girona,435,CiU,65.54,#1e4a8e,Nacionalismo/independentismo,78.38,#18a1cd,15.88,65.54,3.72,12.84,NA,NA,NA,NA,0.68
+1999,17089,Llagostera,Girona,4457,CiU,50.47,#1e4a8e,Nacionalismo/independentismo,64.14,#18a1cd,29.61,50.47,4.16,13.49,NA,NA,NA,NA,1.67
+1999,17090,Llambilles,Girona,399,CiU,61.03,#1e4a8e,Nacionalismo/independentismo,83.09,#18a1cd,6.25,61.03,9.19,21.69,NA,NA,NA,NA,1.48
+1999,17091,Llanars,Girona,397,CiU,63.79,#1e4a8e,Nacionalismo/independentismo,73.79,#18a1cd,18.97,63.79,5.17,10,NA,NA,NA,NA,1.36
+1999,17092,Llançà,Girona,3125,CiU,45.91,#1e4a8e,Nacionalismo/independentismo,57.2,#18a1cd,34.87,45.91,5.62,11.19,NA,NA,NA,NA,1.71
+1999,17093,Llers,Girona,807,CiU,51.86,#1e4a8e,Nacionalismo/independentismo,64.97,#18a1cd,23.29,51.86,8.22,13.11,NA,NA,NA,NA,2.55
+1999,17094,Llívia,Girona,852,CiU,53.54,#1e4a8e,Nacionalismo/independentismo,67.35,#18a1cd,19.96,53.54,8.96,13.62,NA,NA,NA,NA,2.62
+1999,17095,Lloret de Mar,Girona,14360,CiU,42.38,#1e4a8e,No nacionalistas,50.33,#fa8c00,37.18,42.38,10.81,6.53,NA,NA,NA,NA,2.54
+1999,17096,Les Llosses,Girona,271,CiU,60.61,#1e4a8e,Nacionalismo/independentismo,80.31,#18a1cd,10.61,60.61,5.3,19.7,NA,NA,NA,NA,3.8
+1999,17097,Madremanya,Girona,164,CiU,70.43,#1e4a8e,Nacionalismo/independentismo,78.26,#18a1cd,16.52,70.43,2.61,7.83,NA,NA,NA,NA,1.74
+1999,17098,Maià de Montcal,Girona,281,CiU,46.27,#1e4a8e,Nacionalismo/independentismo,66.67,#18a1cd,24.88,46.27,5.47,19.9,NA,NA,NA,NA,2.49
+1999,17099,Meranges,Girona,78,CiU,82,#1e4a8e,Nacionalismo/independentismo,92,#18a1cd,2,82,6,10,NA,NA,NA,NA,0
+1999,17100,Masarac,Girona,216,CiU,71.43,#1e4a8e,Nacionalismo/independentismo,81.82,#18a1cd,11.69,71.43,2.6,10.39,NA,NA,NA,NA,3.25
+1999,17101,Massanes,Girona,457,CiU,59.59,#1e4a8e,Nacionalismo/independentismo,71.23,#18a1cd,21.23,59.59,5.48,11.64,NA,NA,NA,NA,1.7100000000000002
+1999,17102,Maçanet de Cabrenys,Girona,573,CiU,53.97,#1e4a8e,Nacionalismo/independentismo,64.95,#18a1cd,25.93,53.97,5.84,10.98,NA,NA,NA,NA,2.09
+1999,17103,Maçanet de la Selva,Girona,3113,CiU,50.56,#1e4a8e,Nacionalismo/independentismo,59.52,#18a1cd,31.69,50.56,5.74,8.9,NA,NA,NA,NA,2.71
+1999,17105,Mieres,Girona,276,CiU,59.78,#1e4a8e,Nacionalismo/independentismo,80.43,#18a1cd,11.96,59.78,3.8,20.65,NA,NA,NA,NA,2.18
+1999,17106,Mollet de Peralada,Girona,171,CiU,69.6,#1e4a8e,Nacionalismo/independentismo,76,#18a1cd,15.2,69.6,0,6.4,NA,NA,NA,NA,8
+1999,17107,Molló,Girona,304,CiU,68.49,#1e4a8e,Nacionalismo/independentismo,80.82,#18a1cd,11.87,68.49,5.02,11.87,NA,NA,NA,NA,1.84
+1999,17109,Montagut i Oix,Girona,677,CiU,63.01,#1e4a8e,Nacionalismo/independentismo,76.59,#18a1cd,16.47,63.01,5.2,13.29,NA,NA,NA,NA,1.7399999999999998
+1999,17110,Mont-ras,Girona,1265,CiU,49.26,#1e4a8e,Nacionalismo/independentismo,55.68,#18a1cd,35.8,49.26,5.19,6.17,NA,NA,NA,NA,2.96
+1999,17111,Navata,Girona,540,CiU,58.65,#1e4a8e,Nacionalismo/independentismo,76.22,#18a1cd,15.14,58.65,2.43,17.03,NA,NA,NA,NA,4.86
+1999,17112,Ogassa,Girona,226,CiU,62.21,#1e4a8e,Nacionalismo/independentismo,76.74,#18a1cd,19.19,62.21,3.49,14.53,NA,NA,NA,NA,0.58
+1999,17114,Olot,Girona,23089,CiU,51.94,#1e4a8e,Nacionalismo/independentismo,65.08,#18a1cd,27.37,51.94,4.94,13.07,NA,NA,NA,NA,1.9
+1999,17115,Ordis,Girona,248,CiU,58.67,#1e4a8e,Nacionalismo/independentismo,70.91,#18a1cd,25,58.67,1.02,12.24,NA,NA,NA,NA,1.53
+1999,17116,Osor,Girona,391,CiU,70.91,#1e4a8e,Nacionalismo/independentismo,82.55,#18a1cd,14.18,70.91,1.45,11.64,NA,NA,NA,NA,1.82
+1999,17117,Palafrugell,Girona,13970,CiU,43.71,#1e4a8e,Nacionalismo/independentismo,53.09,#18a1cd,38.98,43.71,4.91,9.29,NA,NA,NA,NA,1.93
+1999,17118,Palamós,Girona,12151,CiU,45.65,#1e4a8e,Nacionalismo/independentismo,57.09,#18a1cd,33.82,45.65,6.04,11.29,NA,NA,NA,NA,1.85
+1999,17119,Palau de Santa Eulàlia,Girona,81,CiU,57.41,#1e4a8e,Nacionalismo/independentismo,72.22,#18a1cd,18.52,57.41,7.41,14.81,NA,NA,NA,NA,1.85
+1999,17120,Palau-saverdera,Girona,676,CiU,66.6,#1e4a8e,Nacionalismo/independentismo,76.85,#18a1cd,19.17,66.6,2.09,10.25,NA,NA,NA,NA,1.14
+1999,17121,Palau-sator,Girona,256,CiU,53.44,#1e4a8e,Nacionalismo/independentismo,69.84,#18a1cd,21.16,53.44,4.76,16.4,NA,NA,NA,NA,2.12
+1999,17123,Palol de Revardit,Girona,317,CiU,68.09,#1e4a8e,Nacionalismo/independentismo,87.24,#18a1cd,6.38,68.09,2.55,19.15,NA,NA,NA,NA,2.14
+1999,17124,Pals,Girona,1552,CiU,56.03,#1e4a8e,Nacionalismo/independentismo,66.13,#18a1cd,27.7,56.03,3.57,10.1,NA,NA,NA,NA,2.14
+1999,17125,Pardines,Girona,123,CiU,65.93,#1e4a8e,Nacionalismo/independentismo,91.2,#18a1cd,7.69,65.93,1.1,25.27,NA,NA,NA,NA,0
+1999,17126,Parlavà,Girona,280,CiU,66.07,#1e4a8e,Nacionalismo/independentismo,81.69,#18a1cd,14.73,66.07,1.34,15.62,NA,NA,NA,NA,0.45
+1999,17128,Pau,Girona,267,CiU,51.89,#1e4a8e,Nacionalismo/independentismo,69.19,#18a1cd,18.92,51.89,9.19,17.3,NA,NA,NA,NA,2.16
+1999,17129,Pedret i Marzà,Girona,108,CiU,49.32,#1e4a8e,Nacionalismo/independentismo,65.76,#18a1cd,19.18,49.32,10.96,16.44,NA,NA,NA,NA,4.11
+1999,17130,La Pera,Girona,307,CiU,71.49,#1e4a8e,Nacionalismo/independentismo,85.09,#18a1cd,12.28,71.49,0.88,13.6,NA,NA,NA,NA,0.88
+1999,17132,Peralada,Girona,1044,CiU,58.54,#1e4a8e,Nacionalismo/independentismo,68.58,#18a1cd,24.77,58.54,4.43,10.04,NA,NA,NA,NA,1.17
+1999,17133,Les Planes d'Hostoles,Girona,1490,CiU,70.97,#1e4a8e,Nacionalismo/independentismo,81.61,#18a1cd,13.47,70.97,1.91,10.28,NA,NA,NA,NA,2.54
+1999,17134,Planoles,Girona,270,CiU,51.38,#1e4a8e,Nacionalismo/independentismo,67.95,#18a1cd,23.2,51.38,3.31,16.02,NA,NA,NA,NA,3.86
+1999,17135,Pont de Molins,Girona,372,PSC-CC-IC-V,44.69,#da1f35,No nacionalistas,55.31,#fa8c00,44.69,33.19,6.64,11.06,NA,NA,NA,NA,3.98
+1999,17136,Pontós,Girona,184,CiU,60.16,#1e4a8e,Nacionalismo/independentismo,78.05,#18a1cd,12.2,60.16,8.13,17.89,NA,NA,NA,NA,1.62
+1999,17137,Porqueres,Girona,2868,CiU,61.11,#1e4a8e,Nacionalismo/independentismo,80.51,#18a1cd,14.83,61.11,2.77,19.19,NA,NA,NA,NA,1.33
+1999,17138,Portbou,Girona,1367,CiU,46.27,#1e4a8e,Nacionalismo/independentismo,53.85,#18a1cd,36.07,46.27,6.94,7.05,NA,NA,NA,NA,3.08
+1999,17139,Les Preses,Girona,1144,CiU,62.38,#1e4a8e,Nacionalismo/independentismo,70.18,#18a1cd,23.89,62.38,2.97,7.8,NA,NA,NA,NA,2.46
+1999,17140,El Port de la Selva,Girona,747,CiU,61.55,#1e4a8e,Nacionalismo/independentismo,72.42,#18a1cd,22.72,61.55,2.52,10.87,NA,NA,NA,NA,1.16
+1999,17141,Puigcerdà,Girona,5527,CiU,43.33,#1e4a8e,Nacionalismo/independentismo,57.15,#18a1cd,32.39,43.33,7.5,13.63,NA,NA,NA,NA,2.1
+1999,17142,Quart,Girona,1845,CiU,48.53,#1e4a8e,Nacionalismo/independentismo,62.45,#18a1cd,28.66,48.53,5.37,13.84,NA,NA,NA,NA,2.75
+1999,17143,Rabós,Girona,131,CiU,63.53,#1e4a8e,Nacionalismo/independentismo,77.65,#18a1cd,17.65,63.53,3.53,14.12,NA,NA,NA,NA,1.18
+1999,17144,Regencós,Girona,240,CiU,66.47,#1e4a8e,Nacionalismo/independentismo,82.04,#18a1cd,12.57,66.47,3.59,15.57,NA,NA,NA,NA,1.2
+1999,17145,Ribes de Freser,Girona,1822,CiU,57.17,#1e4a8e,Nacionalismo/independentismo,74.63,#18a1cd,20.67,57.17,2.9,17.32,NA,NA,NA,NA,1.46
+1999,17146,Riells i Viabrea,Girona,1480,CiU,53.35,#1e4a8e,Nacionalismo/independentismo,66.85,#18a1cd,26.89,53.35,5.05,13.28,NA,NA,NA,NA,1.32
+1999,17147,Ripoll,Girona,9147,CiU,53.56,#1e4a8e,Nacionalismo/independentismo,64.66,#18a1cd,28.83,53.56,3.89,10.97,NA,NA,NA,NA,1.95
+1999,17148,Riudarenes,Girona,1098,CiU,58.09,#1e4a8e,Nacionalismo/independentismo,70.49,#18a1cd,23.58,58.09,3.1,12.4,NA,NA,NA,NA,2.42
+1999,17149,Riudaura,Girona,354,CiU,60.34,#1e4a8e,Nacionalismo/independentismo,74.26,#18a1cd,21.1,60.34,2.53,13.92,NA,NA,NA,NA,2.11
+1999,17150,Riudellots de la Selva,Girona,1238,CiU,59.2,#1e4a8e,Nacionalismo/independentismo,75.56,#18a1cd,19.2,59.2,2.84,16.36,NA,NA,NA,NA,1.35
+1999,17151,Riumors,Girona,174,CiU,61.16,#1e4a8e,Nacionalismo/independentismo,73.56,#18a1cd,10.74,61.16,12.4,12.4,NA,NA,NA,NA,2.48
+1999,17152,Roses,Girona,8919,CiU,43.19,#1e4a8e,Nacionalismo/independentismo,51.21,#18a1cd,34.92,43.19,11.41,7.92,NA,NA,NA,NA,1.67
+1999,17153,Rupià,Girona,169,PSC-CC-IC-V,42.52,#da1f35,Nacionalismo/independentismo,52.76,#18a1cd,42.52,33.86,1.57,18.9,NA,NA,NA,NA,2.3600000000000003
+1999,17154,Sales de Llierca,Girona,54,PSC-CC-IC-V,40.48,#da1f35,Nacionalismo/independentismo,50,#18a1cd,40.48,28.57,0,21.43,NA,NA,NA,NA,4.76
+1999,17155,Salt,Girona,17243,CiU,41.91,#1e4a8e,Nacionalismo/independentismo,52.35,#18a1cd,37.17,41.91,5.65,10.3,NA,NA,NA,NA,3.88
+1999,17157,Sant Andreu Salou,Girona,112,CiU,79.35,#1e4a8e,Nacionalismo/independentismo,88.05,#18a1cd,7.61,79.35,1.09,8.7,NA,NA,NA,NA,2.18
+1999,17158,Sant Climent Sescebes,Girona,373,CiU,63.67,#1e4a8e,Nacionalismo/independentismo,73.38,#18a1cd,15.11,63.67,10.07,9.71,NA,NA,NA,NA,0.72
+1999,17159,Sant Feliu de Buixalleu,Girona,606,CiU,62.41,#1e4a8e,Nacionalismo/independentismo,76.95,#18a1cd,14.04,62.41,5.26,14.29,NA,NA,NA,NA,3.75
+1999,17160,Sant Feliu de Guíxols,Girona,14558,CiU,50.07,#1e4a8e,Nacionalismo/independentismo,57.83,#18a1cd,34.42,50.07,4.86,7.55,NA,NA,NA,NA,2.39
+1999,17161,Sant Feliu de Pallerols,Girona,961,CiU,61.06,#1e4a8e,Nacionalismo/independentismo,75.11,#18a1cd,13.35,61.06,8.9,14.05,NA,NA,NA,NA,1.81
+1999,17162,Sant Ferriol,Girona,163,CiU,60,#1e4a8e,Nacionalismo/independentismo,72.94,#18a1cd,9.41,60,5.88,12.94,NA,NA,NA,NA,11.78
+1999,17163,Sant Gregori,Girona,1881,CiU,57.99,#1e4a8e,Nacionalismo/independentismo,74.44,#18a1cd,19.95,57.99,1.71,16.21,NA,NA,NA,NA,3.05
+1999,17164,Sant Hilari Sacalm,Girona,3975,CiU,58.86,#1e4a8e,Nacionalismo/independentismo,76.35,#18a1cd,18.39,58.86,3.36,17.37,NA,NA,NA,NA,1.5
+1999,17165,Sant Jaume de Llierca,Girona,626,CiU,57.27,#1e4a8e,Nacionalismo/independentismo,71.59,#18a1cd,20.26,57.27,6.39,13.88,NA,NA,NA,NA,1.98
+1999,17166,Sant Jordi Desvalls,Girona,507,CiU,62.47,#1e4a8e,Nacionalismo/independentismo,80.17,#18a1cd,15.55,62.47,1.34,17.43,NA,NA,NA,NA,2.1500000000000004
+1999,17167,Sant Joan de les Abadesses,Girona,3170,CiU,55.51,#1e4a8e,Nacionalismo/independentismo,68.66,#18a1cd,26.62,55.51,2.27,12.83,NA,NA,NA,NA,1.86
+1999,17168,Sant Joan de Mollet,Girona,323,CiU,59.59,#1e4a8e,Nacionalismo/independentismo,70.2,#18a1cd,21.22,59.59,6.53,10.2,NA,NA,NA,NA,1.23
+1999,17169,Sant Julià de Ramis,Girona,1605,CiU,53.72,#1e4a8e,Nacionalismo/independentismo,66.91,#18a1cd,27.17,53.72,3.19,13.1,NA,NA,NA,NA,1.95
+1999,17170,Vallfogona de Ripollès,Girona,196,CiU,76.52,#1e4a8e,Nacionalismo/independentismo,85.22,#18a1cd,5.22,76.52,4.35,8.7,NA,NA,NA,NA,2.61
+1999,17171,Sant Llorenç de la Muga,Girona,141,CiU,73.79,#1e4a8e,Nacionalismo/independentismo,84.47,#18a1cd,9.71,73.79,3.88,10.68,NA,NA,NA,NA,0.97
+1999,17172,Sant Martí de Llémena,Girona,377,CiU,63.67,#1e4a8e,Nacionalismo/independentismo,79.59,#18a1cd,15.1,63.67,3.27,15.92,NA,NA,NA,NA,1.64
+1999,17173,Sant Martí Vell,Girona,150,CiU,63.21,#1e4a8e,Nacionalismo/independentismo,68.87,#18a1cd,22.64,63.21,5.66,5.66,NA,NA,NA,NA,2.83
+1999,17174,Sant Miquel de Campmajor,Girona,177,CiU,59.38,#1e4a8e,Nacionalismo/independentismo,85.94,#18a1cd,5.47,59.38,3.91,26.56,NA,NA,NA,NA,3.12
+1999,17175,Sant Miquel de Fluvià,Girona,458,PSC-CC-IC-V,53.09,#da1f35,No nacionalistas,58.91,#fa8c00,53.09,33.09,4.73,7.64,NA,NA,NA,NA,1.09
+1999,17176,Sant Mori,Girona,126,CiU,61.62,#1e4a8e,Nacionalismo/independentismo,76.77,#18a1cd,13.13,61.62,3.03,15.15,NA,NA,NA,NA,5.05
+1999,17177,Sant Pau de Segúries,Girona,554,CiU,62.77,#1e4a8e,Nacionalismo/independentismo,78.76,#18a1cd,16.47,62.77,2.15,15.99,NA,NA,NA,NA,1.91
+1999,17178,Sant Pere Pescador,Girona,1038,CiU,49.93,#1e4a8e,Nacionalismo/independentismo,62.9,#18a1cd,31.38,49.93,3.91,12.97,NA,NA,NA,NA,1.26
+1999,17180,Santa Coloma de Farners,Girona,7059,CiU,54.49,#1e4a8e,Nacionalismo/independentismo,67.73,#18a1cd,24.1,54.49,5.04,13.02,NA,NA,NA,NA,2.11
+1999,17181,Santa Cristina d'Aro,Girona,1993,CiU,49.77,#1e4a8e,Nacionalismo/independentismo,61.37,#18a1cd,27.18,49.77,7.71,11.6,NA,NA,NA,NA,3.03
+1999,17182,Santa Llogaia d'Àlguema,Girona,244,PSC-CC-IC-V,47.1,#da1f35,No nacionalistas,50.98,#fa8c00,47.1,45.81,3.23,3.23,NA,NA,NA,NA,0.65
+1999,17183,Sant Aniol de Finestres,Girona,239,CiU,69.14,#1e4a8e,Nacionalismo/independentismo,81.14,#18a1cd,12,69.14,4,12,NA,NA,NA,NA,1.71
+1999,17184,Santa Pau,Girona,1246,CiU,65.38,#1e4a8e,Nacionalismo/independentismo,84.3,#18a1cd,11.08,65.38,3.24,18.8,NA,NA,NA,NA,1.23
+1999,17185,Sant Joan les Fonts,Girona,2410,CiU,60.7,#1e4a8e,Nacionalismo/independentismo,76.2,#18a1cd,19.44,60.7,2.44,15.38,NA,NA,NA,NA,1.38
+1999,17186,Sarrià de Ter,Girona,2881,CiU,46.79,#1e4a8e,Nacionalismo/independentismo,57.82,#18a1cd,36.07,46.79,3.66,11.03,NA,NA,NA,NA,1.98
+1999,17187,"Saus, Camallera i Llampaies",Girona,578,CiU,47.17,#1e4a8e,Nacionalismo/independentismo,67.56,#18a1cd,25.06,47.17,3.93,20.39,NA,NA,NA,NA,2.22
+1999,17188,La Selva de Mar,Girona,161,CiU,58.59,#1e4a8e,Nacionalismo/independentismo,70.31,#18a1cd,21.88,58.59,7.03,10.94,NA,NA,NA,NA,1.56
+1999,17189,La Cellera de Ter,Girona,1646,CiU,61.8,#1e4a8e,Nacionalismo/independentismo,81.53,#18a1cd,14.78,61.8,1.26,19.65,NA,NA,NA,NA,2.01
+1999,17190,Serinyà,Girona,678,CiU,54.39,#1e4a8e,Nacionalismo/independentismo,69.08,#18a1cd,23.03,54.39,3.95,14.69,NA,NA,NA,NA,1.7600000000000002
+1999,17191,Serra de Daró,Girona,154,CiU,77.17,#1e4a8e,Nacionalismo/independentismo,86.62,#18a1cd,9.45,77.17,3.15,9.45,NA,NA,NA,NA,0.79
+1999,17192,Setcases,Girona,141,CiU,77.27,#1e4a8e,Nacionalismo/independentismo,83.63,#18a1cd,14.55,77.27,0.91,6.36,NA,NA,NA,NA,0.91
+1999,17193,Sils,Girona,2435,CiU,52.68,#1e4a8e,Nacionalismo/independentismo,64.79,#18a1cd,28.8,52.68,4.58,12.11,NA,NA,NA,NA,1.31
+1999,17194,Susqueda,Girona,80,CiU,54.35,#1e4a8e,Nacionalismo/independentismo,80.44,#18a1cd,15.22,54.35,2.17,26.09,NA,NA,NA,NA,2.17
+1999,17195,La Tallada d'Empordà,Girona,283,CiU,47.69,#1e4a8e,Nacionalismo/independentismo,63.59,#18a1cd,31.79,47.69,3.59,15.9,NA,NA,NA,NA,1.02
+1999,17196,Terrades,Girona,171,CiU,57.14,#1e4a8e,Nacionalismo/independentismo,76.78,#18a1cd,14.29,57.14,2.68,18.75,NA,NA,NA,NA,3.5700000000000003
+1999,17197,Torrent,Girona,130,CiU,66.67,#1e4a8e,Nacionalismo/independentismo,71.11,#18a1cd,22.22,66.67,5.56,4.44,NA,NA,NA,NA,1.11
+1999,17198,Torroella de Fluvià,Girona,245,CiU,42.94,#1e4a8e,Nacionalismo/independentismo,55.88,#18a1cd,35.29,42.94,3.53,12.94,NA,NA,NA,NA,4.12
+1999,17199,Torroella de Montgrí,Girona,6103,CiU,46.64,#1e4a8e,Nacionalismo/independentismo,65.05,#18a1cd,26.97,46.64,4.86,18.22,NA,NA,NA,NA,2.44
+1999,17200,Tortellà,Girona,612,CiU,52.05,#1e4a8e,Nacionalismo/independentismo,63.86,#18a1cd,27.47,52.05,4.58,11.81,NA,NA,NA,NA,3.61
+1999,17201,Toses,Girona,119,CiU,63.38,#1e4a8e,Nacionalismo/independentismo,74.65,#18a1cd,18.31,63.38,7.04,11.27,NA,NA,NA,NA,0
+1999,17202,Tossa de Mar,Girona,3246,CiU,47.61,#1e4a8e,Nacionalismo/independentismo,58.28,#18a1cd,33.76,47.61,5.74,10.57,NA,NA,NA,NA,2.01
+1999,17203,Ultramort,Girona,179,CiU,62.7,#1e4a8e,Nacionalismo/independentismo,79.37,#18a1cd,18.25,62.7,0.79,16.67,NA,NA,NA,NA,0.79
+1999,17204,Ullà,Girona,636,CiU,42.37,#1e4a8e,Nacionalismo/independentismo,52.06,#18a1cd,35.59,42.37,9.69,9.69,NA,NA,NA,NA,1.94
+1999,17205,Ullastret,Girona,210,CiU,53.1,#1e4a8e,Nacionalismo/independentismo,74.48,#18a1cd,20.69,53.1,4.83,21.38,NA,NA,NA,NA,0
+1999,17206,Urús,Girona,154,CiU,59.26,#1e4a8e,Nacionalismo/independentismo,69.45,#18a1cd,24.07,59.26,2.78,10.19,NA,NA,NA,NA,1.85
+1999,17207,La Vall d'en Bas,Girona,2141,CiU,65.68,#1e4a8e,Nacionalismo/independentismo,79.58,#18a1cd,14.1,65.68,3.48,13.84,NA,NA,NA,NA,1.97
+1999,17208,La Vall de Bianya,Girona,930,CiU,61.05,#1e4a8e,Nacionalismo/independentismo,74.81,#18a1cd,17.77,61.05,4.95,13.76,NA,NA,NA,NA,1.68
+1999,17209,Vall-llobrega,Girona,290,CiU,41.12,#1e4a8e,Nacionalismo/independentismo,58.88,#18a1cd,28.5,41.12,5.14,17.76,NA,NA,NA,NA,5.61
+1999,17210,Ventalló,Girona,534,CiU,56.12,#1e4a8e,Nacionalismo/independentismo,71.34,#18a1cd,16.72,56.12,8.66,15.22,NA,NA,NA,NA,2.3899999999999997
+1999,17211,Verges,Girona,911,CiU,54.14,#1e4a8e,Nacionalismo/independentismo,77.23,#18a1cd,16.24,54.14,3.98,22.45,NA,NA,NA,NA,2.08
+1999,17212,Vidrà,Girona,137,CiU,52.08,#1e4a8e,Nacionalismo/independentismo,79.16,#18a1cd,14.58,52.08,1.04,27.08,NA,NA,NA,NA,1.04
+1999,17213,Vidreres,Girona,3764,CiU,49.84,#1e4a8e,Nacionalismo/independentismo,64.75,#18a1cd,25.3,49.84,7.68,14.82,NA,NA,NA,NA,1.76
+1999,17214,Vilabertran,Girona,669,CiU,63.15,#1e4a8e,Nacionalismo/independentismo,74.61,#18a1cd,18.65,63.15,4.27,11.24,NA,NA,NA,NA,1.55
+1999,17215,Vilablareix,Girona,1364,CiU,51.51,#1e4a8e,Nacionalismo/independentismo,74.1,#18a1cd,18.49,51.51,3.76,22.37,NA,NA,NA,NA,2.81
+1999,17216,Viladasens,Girona,155,CiU,51.75,#1e4a8e,Nacionalismo/independentismo,72.8,#18a1cd,16.67,51.75,7.89,21.05,NA,NA,NA,NA,0
+1999,17217,Viladamat,Girona,347,CiU,59.56,#1e4a8e,Nacionalismo/independentismo,76.84,#18a1cd,21.32,59.56,1.1,17.28,NA,NA,NA,NA,0.37
+1999,17218,Vilademuls,Girona,624,CiU,62.08,#1e4a8e,Nacionalismo/independentismo,79.24,#18a1cd,8.8,62.08,8.35,17.16,NA,NA,NA,NA,2.5
+1999,17220,Viladrau,Girona,761,CiU,67.82,#1e4a8e,Nacionalismo/independentismo,80.15,#18a1cd,10.02,67.82,7.32,12.33,NA,NA,NA,NA,1.35
+1999,17221,Vilafant,Girona,3035,CiU,44.11,#1e4a8e,Nacionalismo/independentismo,54.09,#18a1cd,34.93,44.11,8.97,9.93,NA,NA,NA,NA,1.38
+1999,17222,Vilaür,Girona,98,CiU,48.68,#1e4a8e,Nacionalismo/independentismo,81.57,#18a1cd,11.84,48.68,5.26,32.89,NA,NA,NA,NA,1.32
+1999,17223,Vilajuïga,Girona,737,CiU,42.3,#1e4a8e,Nacionalismo/independentismo,54.88,#18a1cd,35.79,42.3,4.99,12.36,NA,NA,NA,NA,4.3500000000000005
+1999,17224,Vilallonga de Ter,Girona,373,CiU,67.65,#1e4a8e,Nacionalismo/independentismo,81.62,#18a1cd,13.6,67.65,3.68,13.97,NA,NA,NA,NA,1.11
+1999,17225,Vilamacolum,Girona,223,CiU,47.65,#1e4a8e,Nacionalismo/independentismo,69.8,#18a1cd,24.83,47.65,2.68,22.15,NA,NA,NA,NA,0.67
+1999,17226,Vilamalla,Girona,708,CiU,39.75,#1e4a8e,No nacionalistas,51.25,#fa8c00,38.25,39.75,10.75,8.25,NA,NA,NA,NA,2.25
+1999,17227,Vilamaniscle,Girona,94,CiU,58.21,#1e4a8e,Nacionalismo/independentismo,73.14,#18a1cd,20.9,58.21,5.97,14.93,NA,NA,NA,NA,0
+1999,17228,Vilanant,Girona,251,CiU,51.77,#1e4a8e,Nacionalismo/independentismo,68.79,#18a1cd,22.7,51.77,5.67,17.02,NA,NA,NA,NA,0.71
+1999,17230,Vila-sacra,Girona,315,CiU,50.63,#1e4a8e,Nacionalismo/independentismo,70.3,#18a1cd,19.67,50.63,7.53,19.67,NA,NA,NA,NA,2.1
+1999,17232,Vilopriu,Girona,153,CiU,48.45,#1e4a8e,Nacionalismo/independentismo,69.07,#18a1cd,23.71,48.45,6.19,20.62,NA,NA,NA,NA,1.03
+1999,17233,Vilobí d'Onyar,Girona,1802,CiU,60.77,#1e4a8e,Nacionalismo/independentismo,77.55,#18a1cd,18.11,60.77,1.84,16.53,NA,NA,NA,NA,2.16
+1999,17234,Biure,Girona,181,CiU,60.48,#1e4a8e,Nacionalismo/independentismo,68.54,#18a1cd,24.19,60.48,3.23,8.06,NA,NA,NA,NA,4.03
+1999,17901,"Cruïlles, Monells i Sant Sadurní de l'Heura",Girona,873,CiU,53.12,#1e4a8e,Nacionalismo/independentismo,69.31,#18a1cd,21.25,53.12,5.4,16.02,NA,NA,NA,NA,2.87
+1999,17902,Forallac,Girona,1402,CiU,57.17,#1e4a8e,Nacionalismo/independentismo,67.24,#18a1cd,24.31,57.17,3.36,9.97,NA,NA,NA,NA,4.37
+1999,17903,Sant Julià del Llor i Bonmatí,Girona,768,CiU,59.67,#1e4a8e,Nacionalismo/independentismo,77.37,#18a1cd,17.7,59.67,1.82,17.7,NA,NA,NA,NA,2.73
+1999,17998,Residents Absents,Girona,6331,CiU,36.71,#1e4a8e,No nacionalistas,53.97,#fa8c00,34.81,36.71,11.71,8.39,NA,NA,NA,NA,8.16
+1999,25001,Abella de la Conca,Lleida,142,CiU,67.47,#1e4a8e,Nacionalismo/independentismo,74.7,#18a1cd,14.46,67.47,7.23,7.23,NA,NA,NA,NA,3.61
+1999,25002,Àger,Lleida,493,CiU,53.15,#1e4a8e,Nacionalismo/independentismo,66.96,#18a1cd,21.62,53.15,9.61,13.81,NA,NA,NA,NA,1.2
+1999,25003,Agramunt,Lleida,3891,CiU,55.3,#1e4a8e,Nacionalismo/independentismo,70.91,#18a1cd,20.42,55.3,6.51,15.57,NA,NA,NA,NA,1.41
+1999,25004,Els Alamús,Lleida,596,CiU,51.2,#1e4a8e,Nacionalismo/independentismo,61.44,#18a1cd,32.9,51.2,4.14,10.02,NA,NA,NA,NA,1.53
+1999,25005,Alàs i Cerc,Lleida,359,CiU,62.66,#1e4a8e,Nacionalismo/independentismo,77.25,#18a1cd,19.74,62.66,2.15,14.59,NA,NA,NA,NA,0.86
+1999,25006,L'Albagés,Lleida,444,CiU,45.66,#1e4a8e,Nacionalismo/independentismo,56.59,#18a1cd,32.48,45.66,9.32,10.61,NA,NA,NA,NA,0.96
+1999,25007,Albatàrrec,Lleida,971,CiU,54.08,#1e4a8e,Nacionalismo/independentismo,60,#18a1cd,34.72,54.08,3.52,5.92,NA,NA,NA,NA,1.7600000000000002
+1999,25008,Albesa,Lleida,1268,CiU,58.17,#1e4a8e,Nacionalismo/independentismo,67.91,#18a1cd,18.51,58.17,9.5,9.62,NA,NA,NA,NA,2.28
+1999,25009,L'Albi,Lleida,677,CiU,57.95,#1e4a8e,Nacionalismo/independentismo,68.61,#18a1cd,18.91,57.95,11.07,10.66,NA,NA,NA,NA,1.21
+1999,25010,Alcanó,Lleida,238,CiU,68.03,#1e4a8e,Nacionalismo/independentismo,78.91,#18a1cd,18.37,68.03,1.36,10.2,NA,NA,NA,NA,2.04
+1999,25011,Alcarràs,Lleida,3905,CiU,59.34,#1e4a8e,Nacionalismo/independentismo,70.26,#18a1cd,23.62,59.34,4.67,10.92,NA,NA,NA,NA,1.28
+1999,25012,Alcoletge,Lleida,1399,CiU,45.68,#1e4a8e,Nacionalismo/independentismo,66.47,#18a1cd,25.47,45.68,6.31,20.79,NA,NA,NA,NA,1.05
+1999,25013,Alfarràs,Lleida,2452,CiU,48.54,#1e4a8e,Nacionalismo/independentismo,55.19,#18a1cd,33.76,48.54,9.29,6.58,NA,NA,NA,NA,1.22
+1999,25014,Alfés,Lleida,293,CiU,58.62,#1e4a8e,Nacionalismo/independentismo,77.34,#18a1cd,15.27,58.62,2.96,18.72,NA,NA,NA,NA,2.47
+1999,25015,Algerri,Lleida,464,CiU,50.91,#1e4a8e,Nacionalismo/independentismo,60.91,#18a1cd,31.82,50.91,4.85,9.39,NA,NA,NA,NA,2.73
+1999,25016,Alguaire,Lleida,2342,CiU,54.92,#1e4a8e,Nacionalismo/independentismo,67.61,#18a1cd,26.84,54.92,4.23,12.62,NA,NA,NA,NA,1.39
+1999,25017,Alins,Lleida,259,CiU,53.01,#1e4a8e,Nacionalismo/independentismo,61.75,#18a1cd,32.79,53.01,4.92,8.74,NA,NA,NA,NA,0
+1999,25019,Almacelles,Lleida,4608,CiU,48.33,#1e4a8e,Nacionalismo/independentismo,55.78,#18a1cd,34.6,48.33,7.03,7.3,NA,NA,NA,NA,1.8
+1999,25020,Almatret,Lleida,431,CiU,51.43,#1e4a8e,Nacionalismo/independentismo,62.14,#18a1cd,26.79,51.43,8.93,10.71,NA,NA,NA,NA,0.72
+1999,25021,Almenar,Lleida,2911,CiU,52.42,#1e4a8e,Nacionalismo/independentismo,65.32,#18a1cd,29.42,52.42,3.85,12.9,NA,NA,NA,NA,0.94
+1999,25022,Alòs de Balaguer,Lleida,175,CiU,77.37,#1e4a8e,Nacionalismo/independentismo,91.97,#18a1cd,5.11,77.37,2.19,14.6,NA,NA,NA,NA,0
+1999,25023,Alpicat,Lleida,3111,CiU,52.62,#1e4a8e,Nacionalismo/independentismo,61.35,#18a1cd,27.62,52.62,7.32,8.68,NA,NA,NA,NA,2.4
+1999,25024,Alt Àneu,Lleida,352,PSC-CC-IC-V,47.81,#da1f35,No nacionalistas,50.44,#fa8c00,47.81,43.86,1.75,5.26,NA,NA,NA,NA,0.88
+1999,25025,Naut Aran,Lleida,1219,CiU,50.74,#1e4a8e,Nacionalismo/independentismo,53.98,#18a1cd,34.71,50.74,9.12,3.24,NA,NA,NA,NA,1.04
+1999,25027,Anglesola,Lleida,1082,CiU,59.75,#1e4a8e,Nacionalismo/independentismo,73.94,#18a1cd,19.51,59.75,5.18,14.05,NA,NA,NA,NA,1.2400000000000002
+1999,25029,Arbeca,Lleida,1941,PSC-CC-IC-V,37.11,#da1f35,Nacionalismo/independentismo,53.33,#18a1cd,37.11,36.88,8.03,16.45,NA,NA,NA,NA,0.54
+1999,25030,El Pont de Bar,Lleida,134,CiU,74.39,#1e4a8e,Nacionalismo/independentismo,86.59,#18a1cd,13.41,74.39,0,12.2,NA,NA,NA,NA,0
+1999,25031,Arres,Lleida,59,CiU,55.17,#1e4a8e,Nacionalismo/independentismo,55.17,#18a1cd,37.93,55.17,3.45,0,NA,NA,NA,NA,3.45
+1999,25032,Arsèguel,Lleida,102,ERC,46.97,#e5ab4b,Nacionalismo/independentismo,81.82,#18a1cd,15.15,34.85,3.03,46.97,NA,NA,NA,NA,0
+1999,25033,Artesa de Lleida,Lleida,1111,CiU,44.73,#1e4a8e,Nacionalismo/independentismo,60.35,#18a1cd,29.11,44.73,7.08,15.62,NA,NA,NA,NA,3.21
+1999,25034,Artesa de Segre,Lleida,2653,CiU,57.5,#1e4a8e,Nacionalismo/independentismo,74.43,#18a1cd,15.99,57.5,7.58,16.81,NA,NA,NA,NA,1.24
+1999,25035,La Sentiu de Sió,Lleida,423,CiU,51.74,#1e4a8e,Nacionalismo/independentismo,62.51,#18a1cd,24.31,51.74,5.9,10.42,NA,NA,NA,NA,3.82
+1999,25036,Aspa,Lleida,235,CiU,42.69,#1e4a8e,Nacionalismo/independentismo,48.54,#18a1cd,40.35,42.69,5.85,5.85,NA,NA,NA,NA,1.7399999999999998
+1999,25037,Les Avellanes i Santa Linya,Lleida,451,CiU,60.37,#1e4a8e,Nacionalismo/independentismo,72.59,#18a1cd,15.56,60.37,9.63,12.22,NA,NA,NA,NA,1.48
+1999,25038,Aitona,Lleida,1808,CiU,58.39,#1e4a8e,Nacionalismo/independentismo,67.62,#18a1cd,20.76,58.39,10.59,8.98,NA,NA,NA,NA,0.91
+1999,25039,Baix Pallars,Lleida,336,CiU,50.23,#1e4a8e,Nacionalismo/independentismo,61.75,#18a1cd,35.94,50.23,1.84,11.52,NA,NA,NA,NA,0.46
+1999,25040,Balaguer,Lleida,10972,CiU,49.41,#1e4a8e,Nacionalismo/independentismo,58.24,#18a1cd,33.32,49.41,5.73,8.79,NA,NA,NA,NA,1.6
+1999,25041,Barbens,Lleida,689,CiU,40.09,#1e4a8e,Nacionalismo/independentismo,63.96,#18a1cd,22.97,40.09,10.81,23.87,NA,NA,NA,NA,1.37
+1999,25042,La Baronia de Rialb,Lleida,224,CiU,74.19,#1e4a8e,Nacionalismo/independentismo,80,#18a1cd,12.9,74.19,3.23,5.81,NA,NA,NA,NA,3.23
+1999,25043,La Vall de Boí,Lleida,726,CiU,51.42,#1e4a8e,Nacionalismo/independentismo,71.32,#18a1cd,23.26,51.42,2.07,19.9,NA,NA,NA,NA,2.08
+1999,25044,Bassella,Lleida,274,CiU,55.56,#1e4a8e,Nacionalismo/independentismo,67.78,#18a1cd,2.78,55.56,28.33,12.22,NA,NA,NA,NA,0.56
+1999,25045,Bausen,Lleida,61,CiU,62,#1e4a8e,Nacionalismo/independentismo,64,#18a1cd,34,62,0,2,NA,NA,NA,NA,0
+1999,25046,Belianes,Lleida,492,CiU,52.46,#1e4a8e,Nacionalismo/independentismo,60.11,#18a1cd,27.05,52.46,11.2,7.65,NA,NA,NA,NA,0.27
+1999,25047,Bellcaire d'Urgell,Lleida,1174,CiU,50.35,#1e4a8e,Nacionalismo/independentismo,69.55,#18a1cd,23.89,50.35,5.04,19.2,NA,NA,NA,NA,0.94
+1999,25048,Bell-lloc d'Urgell,Lleida,1741,CiU,46.75,#1e4a8e,Nacionalismo/independentismo,62.06,#18a1cd,31.36,46.75,4.77,15.06,NA,NA,NA,NA,1.56
+1999,25049,Bellmunt d'Urgell,Lleida,196,CiU,64.08,#1e4a8e,Nacionalismo/independentismo,81.69,#18a1cd,8.45,64.08,7.75,17.61,NA,NA,NA,NA,0.7
+1999,25050,Bellpuig,Lleida,3233,CiU,55.79,#1e4a8e,Nacionalismo/independentismo,72.77,#18a1cd,18.43,55.79,6.25,16.76,NA,NA,NA,NA,1.54
+1999,25051,Bellver de Cerdanya,Lleida,1370,CiU,56.33,#1e4a8e,Nacionalismo/independentismo,67.99,#18a1cd,25.93,56.33,4.09,11.66,NA,NA,NA,NA,1.36
+1999,25052,Bellvís,Lleida,1888,CiU,58.31,#1e4a8e,Nacionalismo/independentismo,74.26,#18a1cd,19,58.31,5.35,15.87,NA,NA,NA,NA,0.89
+1999,25053,Benavent de Segrià,Lleida,743,CiU,59.8,#1e4a8e,Nacionalismo/independentismo,69.29,#18a1cd,19.6,59.8,9.29,9.49,NA,NA,NA,NA,0.4
+1999,25055,Biosca,Lleida,222,CiU,70.33,#1e4a8e,Nacionalismo/independentismo,86.26,#18a1cd,8.24,70.33,4.95,15.38,NA,NA,NA,NA,1.1
+1999,25056,Bovera,Lleida,362,CiU,81.42,#1e4a8e,Nacionalismo/independentismo,87.74,#18a1cd,9.49,81.42,2.37,6.32,NA,NA,NA,NA,0.4
+1999,25057,Es Bòrdes,Lleida,174,CiU,48.33,#1e4a8e,Nacionalismo/independentismo,50.83,#18a1cd,33.33,48.33,14.17,2.5,NA,NA,NA,NA,0.83
+1999,25058,Les Borges Blanques,Lleida,4370,CiU,47.99,#1e4a8e,Nacionalismo/independentismo,74.12,#18a1cd,18.19,47.99,5.86,25.7,NA,NA,NA,NA,1.47
+1999,25059,Bossòst,Lleida,705,PSC-CC-IC-V,41.82,#da1f35,No nacionalistas,56.16,#fa8c00,41.82,41.41,13.54,2.02,NA,NA,NA,NA,0.8
+1999,25060,Cabanabona,Lleida,89,CiU,63.93,#1e4a8e,Nacionalismo/independentismo,73.77,#18a1cd,9.84,63.93,13.11,9.84,NA,NA,NA,NA,1.64
+1999,25061,Cabó,Lleida,109,CiU,77.05,#1e4a8e,Nacionalismo/independentismo,93.44,#18a1cd,3.28,77.05,1.64,16.39,NA,NA,NA,NA,1.64
+1999,25062,Camarasa,Lleida,786,CiU,50.46,#1e4a8e,Nacionalismo/independentismo,68.56,#18a1cd,23.4,50.46,6.58,18.1,NA,NA,NA,NA,1.1
+1999,25063,Canejan,Lleida,94,PSC-CC-IC-V,55.07,#da1f35,No nacionalistas,68.12,#fa8c00,55.07,31.88,8.7,0,NA,NA,NA,NA,4.35
+1999,25064,Castellar de la Ribera,Lleida,129,CiU,55.21,#1e4a8e,Nacionalismo/independentismo,73.96,#18a1cd,17.71,55.21,3.12,18.75,NA,NA,NA,NA,4.16
+1999,25067,Castelldans,Lleida,802,CiU,43.65,#1e4a8e,Nacionalismo/independentismo,54.52,#18a1cd,34.25,43.65,8.84,10.87,NA,NA,NA,NA,1.28
+1999,25068,Castellnou de Seana,Lleida,631,CiU,65.9,#1e4a8e,Nacionalismo/independentismo,79.49,#18a1cd,14.52,65.9,5.3,13.13,NA,NA,NA,NA,1.15
+1999,25069,Castelló de Farfanya,Lleida,506,CiU,61.93,#1e4a8e,Nacionalismo/independentismo,77.64,#18a1cd,17.82,61.93,3.32,15.71,NA,NA,NA,NA,0.8999999999999999
+1999,25070,Castellserà,Lleida,960,CiU,56.74,#1e4a8e,Nacionalismo/independentismo,68.3,#18a1cd,25.19,56.74,4.44,11.56,NA,NA,NA,NA,1.33
+1999,25071,Cava,Lleida,50,CiU,53.33,#1e4a8e,Nacionalismo/independentismo,86.66,#18a1cd,10,53.33,3.33,33.33,NA,NA,NA,NA,0
+1999,25072,Cervera,Lleida,6001,CiU,45.99,#1e4a8e,Nacionalismo/independentismo,59.8,#18a1cd,28.96,45.99,8.89,13.62,NA,NA,NA,NA,1.59
+1999,25073,Cervià de les Garrigues,Lleida,764,CiU,54.49,#1e4a8e,Nacionalismo/independentismo,71.16,#18a1cd,19.02,54.49,7.48,16.67,NA,NA,NA,NA,1.91
+1999,25074,Ciutadilla,Lleida,199,CiU,61.07,#1e4a8e,Nacionalismo/independentismo,75.16,#18a1cd,15.44,61.07,8.05,14.09,NA,NA,NA,NA,0.67
+1999,25075,Clariana de Cardener,Lleida,116,CiU,63.1,#1e4a8e,Nacionalismo/independentismo,76.2,#18a1cd,20.24,63.1,2.38,13.1,NA,NA,NA,NA,0
+1999,25076,El Cogul,Lleida,198,PSC-CC-IC-V,34.65,#da1f35,Nacionalismo/independentismo,59.84,#18a1cd,34.65,33.86,3.15,25.98,NA,NA,NA,NA,2.37
+1999,25077,Coll de Nargó,Lleida,526,CiU,64.51,#1e4a8e,Nacionalismo/independentismo,76.46,#18a1cd,16.72,64.51,5.46,11.95,NA,NA,NA,NA,0.68
+1999,25078,Corbins,Lleida,888,CiU,62.52,#1e4a8e,Nacionalismo/independentismo,73.68,#18a1cd,21.85,62.52,2.87,11.16,NA,NA,NA,NA,0.96
+1999,25079,Cubells,Lleida,321,CiU,67.74,#1e4a8e,Nacionalismo/independentismo,82.26,#18a1cd,10.89,67.74,6.05,14.52,NA,NA,NA,NA,0.4
+1999,25081,L'Espluga Calba,Lleida,372,CiU,62.39,#1e4a8e,Nacionalismo/independentismo,73.5,#18a1cd,19.66,62.39,3.85,11.11,NA,NA,NA,NA,2.13
+1999,25082,Espot,Lleida,271,CiU,62.94,#1e4a8e,Nacionalismo/independentismo,71.76,#18a1cd,16.47,62.94,10.59,8.82,NA,NA,NA,NA,0
+1999,25085,Estaràs,Lleida,163,CiU,50.48,#1e4a8e,Nacionalismo/independentismo,77.14,#18a1cd,10.48,50.48,10.48,25.71,NA,NA,NA,NA,1.9
+1999,25086,Esterri d'Àneu,Lleida,568,CiU,44.56,#1e4a8e,Nacionalismo/independentismo,59.59,#18a1cd,36.79,44.56,1.81,15.03,NA,NA,NA,NA,1.04
+1999,25087,Esterri de Cardós,Lleida,63,CiU,57.14,#1e4a8e,Nacionalismo/independentismo,57.14,#18a1cd,42.86,57.14,0,0,NA,NA,NA,NA,0
+1999,25088,Estamariu,Lleida,112,CiU,80.23,#1e4a8e,Nacionalismo/independentismo,89.53,#18a1cd,2.33,80.23,5.81,9.3,NA,NA,NA,NA,1.16
+1999,25089,Farrera,Lleida,66,CiU,72.22,#1e4a8e,Nacionalismo/independentismo,85.18,#18a1cd,11.11,72.22,0,12.96,NA,NA,NA,NA,3.7
+1999,25092,La Floresta,Lleida,157,CiU,64.6,#1e4a8e,Nacionalismo/independentismo,89.38,#18a1cd,5.31,64.6,5.31,24.78,NA,NA,NA,NA,0
+1999,25093,Fondarella,Lleida,559,CiU,58.49,#1e4a8e,Nacionalismo/independentismo,72.78,#18a1cd,18.87,58.49,4.04,14.29,NA,NA,NA,NA,2.97
+1999,25094,Foradada,Lleida,166,CiU,59.02,#1e4a8e,Nacionalismo/independentismo,69.68,#18a1cd,22.95,59.02,5.74,10.66,NA,NA,NA,NA,1.64
+1999,25096,La Fuliola,Lleida,1051,CiU,49.17,#1e4a8e,Nacionalismo/independentismo,57.9,#18a1cd,34.49,49.17,5.82,8.59,NA,NA,NA,NA,1.39
+1999,25097,Fulleda,Lleida,101,CiU,54.41,#1e4a8e,Nacionalismo/independentismo,73.53,#18a1cd,11.76,54.41,8.82,19.12,NA,NA,NA,NA,2.94
+1999,25098,Gavet de la Conca,Lleida,293,CiU,62.58,#1e4a8e,Nacionalismo/independentismo,75.48,#18a1cd,21.94,62.58,1.94,12.9,NA,NA,NA,NA,0
+1999,25099,Golmés,Lleida,1100,CiU,55.39,#1e4a8e,Nacionalismo/independentismo,69.24,#18a1cd,24.64,55.39,4.52,13.85,NA,NA,NA,NA,0.59
+1999,25100,Gósol,Lleida,200,CiU,66.44,#1e4a8e,Nacionalismo/independentismo,81.51,#18a1cd,17.12,66.44,0.68,15.07,NA,NA,NA,NA,0.68
+1999,25101,La Granadella,Lleida,718,CiU,50.57,#1e4a8e,Nacionalismo/independentismo,61.37,#18a1cd,33.71,50.57,2.65,10.8,NA,NA,NA,NA,1.33
+1999,25102,La Granja d'Escarp,Lleida,900,CiU,63.59,#1e4a8e,Nacionalismo/independentismo,70.29,#18a1cd,22.46,63.59,5.25,6.7,NA,NA,NA,NA,0.9
+1999,25103,Granyanella,Lleida,141,CiU,57.65,#1e4a8e,Nacionalismo/independentismo,64.71,#18a1cd,25.88,57.65,4.71,7.06,NA,NA,NA,NA,2.36
+1999,25104,Granyena de Segarra,Lleida,148,CiU,78.43,#1e4a8e,Nacionalismo/independentismo,86.27,#18a1cd,2.94,78.43,4.9,7.84,NA,NA,NA,NA,1.96
+1999,25105,Granyena de les Garrigues,Lleida,162,CiU,55,#1e4a8e,Nacionalismo/independentismo,72,#18a1cd,23,55,5,17,NA,NA,NA,NA,0
+1999,25109,Guimerà,Lleida,354,CiU,77.38,#1e4a8e,Nacionalismo/independentismo,88.24,#18a1cd,6.79,77.38,2.26,10.86,NA,NA,NA,NA,1.81
+1999,25110,Guissona,Lleida,2482,CiU,49.03,#1e4a8e,Nacionalismo/independentismo,69.67,#18a1cd,22.45,49.03,5.03,20.32,NA,NA,NA,NA,2.19
+1999,25111,Guixers,Lleida,144,CiU,74.23,#1e4a8e,Nacionalismo/independentismo,89.69,#18a1cd,5.15,74.23,5.15,15.46,NA,NA,NA,NA,0
+1999,25112,Ivars de Noguera,Lleida,297,CiU,60.26,#1e4a8e,Nacionalismo/independentismo,74.79,#18a1cd,12.82,60.26,8.55,14.1,NA,NA,NA,NA,2.14
+1999,25113,Ivars d'Urgell,Lleida,1434,CiU,52.63,#1e4a8e,Nacionalismo/independentismo,66.38,#18a1cd,28.99,52.63,3.14,13.57,NA,NA,NA,NA,1.1
+1999,25114,Ivorra,Lleida,142,CiU,71.31,#1e4a8e,Nacionalismo/independentismo,87.7,#18a1cd,4.92,71.31,2.46,16.39,NA,NA,NA,NA,3.28
+1999,25115,Isona i Conca Dellà,Lleida,1092,CiU,64.2,#1e4a8e,Nacionalismo/independentismo,77.83,#18a1cd,17.24,64.2,1.81,13.63,NA,NA,NA,NA,1.7999999999999998
+1999,25118,Juncosa,Lleida,479,CiU,62.67,#1e4a8e,Nacionalismo/independentismo,68,#18a1cd,14.33,62.67,17.67,5.33,NA,NA,NA,NA,0
+1999,25119,Juneda,Lleida,2454,CiU,49.13,#1e4a8e,Nacionalismo/independentismo,68.35,#18a1cd,25.41,49.13,4.27,19.22,NA,NA,NA,NA,0.96
+1999,25120,Lleida,Lleida,95666,PSC-CC-IC-V,38.67,#da1f35,No nacionalistas,52.59,#fa8c00,38.67,37.9,11.34,8.09,NA,NA,NA,NA,2.65
+1999,25121,Les,Lleida,561,PSC-CC-IC-V,51.58,#da1f35,No nacionalistas,59.61,#fa8c00,51.58,38.2,7.54,1.22,NA,NA,NA,NA,0.73
+1999,25122,Linyola,Lleida,1998,CiU,43.4,#1e4a8e,Nacionalismo/independentismo,55.84,#18a1cd,32.55,43.4,7.74,12.3,NA,NA,NA,NA,1.25
+1999,25123,Lladorre,Lleida,214,CiU,55.22,#1e4a8e,Nacionalismo/independentismo,74.62,#18a1cd,23.13,55.22,0.75,19.4,NA,NA,NA,NA,1.5
+1999,25124,Lladurs,Lleida,209,CiU,63.85,#1e4a8e,Nacionalismo/independentismo,78.47,#18a1cd,10.77,63.85,10,14.62,NA,NA,NA,NA,0
+1999,25125,Llardecans,Lleida,538,CiU,44,#1e4a8e,Nacionalismo/independentismo,59.14,#18a1cd,26.86,44,11.43,14.57,NA,NA,NA,NA,1.15
+1999,25126,Llavorsí,Lleida,253,CiU,46.77,#1e4a8e,Nacionalismo/independentismo,56.98,#18a1cd,38.17,46.77,3.76,8.6,NA,NA,NA,NA,1.61
+1999,25127,Lles de Cerdanya,Lleida,254,CiU,61.39,#1e4a8e,Nacionalismo/independentismo,81.01,#18a1cd,16.46,61.39,0.63,18.99,NA,NA,NA,NA,1.89
+1999,25128,Llimiana,Lleida,127,CiU,66.67,#1e4a8e,Nacionalismo/independentismo,76.19,#18a1cd,20.63,66.67,3.17,9.52,NA,NA,NA,NA,0
+1999,25129,Llobera,Lleida,215,CiU,59.84,#1e4a8e,Nacionalismo/independentismo,77.87,#18a1cd,13.11,59.84,4.92,18.03,NA,NA,NA,NA,0
+1999,25130,Maldà,Lleida,243,CiU,76.83,#1e4a8e,Nacionalismo/independentismo,88.42,#18a1cd,6.71,76.83,4.88,11.59,NA,NA,NA,NA,0
+1999,25131,Massalcoreig,Lleida,554,CiU,52.86,#1e4a8e,Nacionalismo/independentismo,58.03,#18a1cd,38.96,52.86,2.72,4.9,NA,NA,NA,NA,0.27
+1999,25132,Massoteres,Lleida,158,CiU,63.21,#1e4a8e,Nacionalismo/independentismo,79.25,#18a1cd,11.32,63.21,4.72,16.04,NA,NA,NA,NA,4.71
+1999,25133,Maials,Lleida,877,CiU,58.71,#1e4a8e,Nacionalismo/independentismo,69.19,#18a1cd,23.39,58.71,6.13,10.48,NA,NA,NA,NA,0.8
+1999,25134,Menàrguens,Lleida,718,CiU,58.42,#1e4a8e,Nacionalismo/independentismo,68.44,#18a1cd,22.6,58.42,7.25,10.02,NA,NA,NA,NA,0.85
+1999,25135,Miralcamp,Lleida,1039,CiU,55.33,#1e4a8e,Nacionalismo/independentismo,65.05,#18a1cd,26.99,55.33,4.05,9.72,NA,NA,NA,NA,1.74
+1999,25136,La Molsosa,Lleida,112,CiU,62.92,#1e4a8e,Nacionalismo/independentismo,76.4,#18a1cd,15.73,62.92,7.87,13.48,NA,NA,NA,NA,0
+1999,25137,Mollerussa,Lleida,7727,CiU,52.87,#1e4a8e,Nacionalismo/independentismo,62.97,#18a1cd,28.4,52.87,6.18,10.08,NA,NA,NA,NA,1.26
+1999,25138,Montgai,Lleida,682,CiU,52.05,#1e4a8e,Nacionalismo/independentismo,79.93,#18a1cd,10.72,52.05,8.58,27.88,NA,NA,NA,NA,0.38
+1999,25139,Montellà i Martinet,Lleida,460,CiU,64.45,#1e4a8e,Nacionalismo/independentismo,76.08,#18a1cd,19.93,64.45,1.33,11.3,NA,NA,NA,NA,1.66
+1999,25140,Montferrer i Castellbò,Lleida,647,CiU,54.94,#1e4a8e,Nacionalismo/independentismo,74.94,#18a1cd,20.51,54.94,3.04,20,NA,NA,NA,NA,0.76
+1999,25141,Montoliu de Segarra,Lleida,160,CiU,62.75,#1e4a8e,Nacionalismo/independentismo,74.51,#18a1cd,9.8,62.75,14.71,11.76,NA,NA,NA,NA,0
+1999,25142,Montoliu de Lleida,Lleida,419,CiU,54.55,#1e4a8e,Nacionalismo/independentismo,79.06,#18a1cd,12.65,54.55,3.95,24.51,NA,NA,NA,NA,2.78
+1999,25143,Montornès de Segarra,Lleida,93,CiU,66.67,#1e4a8e,Nacionalismo/independentismo,73.34,#18a1cd,16.67,66.67,3.33,6.67,NA,NA,NA,NA,0
+1999,25145,Nalec,Lleida,99,CiU,72.46,#1e4a8e,Nacionalismo/independentismo,88.4,#18a1cd,1.45,72.46,5.8,14.49,NA,NA,NA,NA,2.9
+1999,25146,Navès,Lleida,233,CiU,67.24,#1e4a8e,Nacionalismo/independentismo,76.44,#18a1cd,5.17,67.24,16.09,9.2,NA,NA,NA,NA,1.7199999999999998
+1999,25148,Odèn,Lleida,243,CiU,76.83,#1e4a8e,Nacionalismo/independentismo,85.37,#18a1cd,2.44,76.83,10.98,8.54,NA,NA,NA,NA,1.22
+1999,25149,Oliana,Lleida,1653,CiU,58.42,#1e4a8e,Nacionalismo/independentismo,70.54,#18a1cd,22.22,58.42,5.81,12.04,NA,NA,NA,NA,0.92
+1999,25150,Oliola,Lleida,190,CiU,57.25,#1e4a8e,Nacionalismo/independentismo,83.34,#18a1cd,9.42,57.25,5.8,24.64,NA,NA,NA,NA,1.45
+1999,25151,Olius,Lleida,418,CiU,58.66,#1e4a8e,Nacionalismo/independentismo,72.09,#18a1cd,13.78,58.66,10.6,13.43,NA,NA,NA,NA,2.13
+1999,25152,Les Oluges,Lleida,180,CiU,71.93,#1e4a8e,Nacionalismo/independentismo,84.21,#18a1cd,7.89,71.93,5.26,12.28,NA,NA,NA,NA,0
+1999,25153,Els Omellons,Lleida,229,CiU,46.15,#1e4a8e,Nacionalismo/independentismo,56.8,#18a1cd,21.89,46.15,19.53,10.65,NA,NA,NA,NA,1.77
+1999,25154,Els Omells de na Gaia,Lleida,131,CiU,41.18,#1e4a8e,Nacionalismo/independentismo,60.01,#18a1cd,32.94,41.18,7.06,17.65,NA,NA,NA,NA,1.18
+1999,25155,Organyà,Lleida,856,CiU,55.54,#1e4a8e,Nacionalismo/independentismo,74.74,#18a1cd,18.86,55.54,5.36,19.2,NA,NA,NA,NA,0.52
+1999,25156,Os de Balaguer,Lleida,646,CiU,55.31,#1e4a8e,Nacionalismo/independentismo,66.81,#18a1cd,24.51,55.31,6.72,11.28,NA,NA,NA,NA,1.74
+1999,25157,Ossó de Sió,Lleida,195,CiU,61.7,#1e4a8e,Nacionalismo/independentismo,71.63,#18a1cd,14.89,61.7,11.35,9.93,NA,NA,NA,NA,1.42
+1999,25158,El Palau d'Anglesola,Lleida,1363,CiU,60.3,#1e4a8e,Nacionalismo/independentismo,75.08,#18a1cd,15.97,60.3,6.26,14.67,NA,NA,NA,NA,0.98
+1999,25161,Conca de Dalt,Lleida,389,CiU,45.05,#1e4a8e,Nacionalismo/independentismo,58.56,#18a1cd,36.49,45.05,2.7,13.51,NA,NA,NA,NA,1.35
+1999,25163,La Coma i la Pedra,Lleida,216,CiU,74.1,#1e4a8e,Nacionalismo/independentismo,86.33,#18a1cd,8.63,74.1,3.6,12.23,NA,NA,NA,NA,0.72
+1999,25164,Penelles,Lleida,463,CiU,56.29,#1e4a8e,Nacionalismo/independentismo,65.89,#18a1cd,25.83,56.29,5.3,9.27,NA,NA,NA,NA,1.65
+1999,25165,Peramola,Lleida,349,CiU,62.13,#1e4a8e,Nacionalismo/independentismo,77.57,#18a1cd,17.28,62.13,4.78,15.44,NA,NA,NA,NA,0.37
+1999,25166,Pinell de Solsonès,Lleida,196,CiU,59.44,#1e4a8e,Nacionalismo/independentismo,76.22,#18a1cd,10.49,59.44,11.19,16.78,NA,NA,NA,NA,1.4
+1999,25167,Pinós,Lleida,288,CiU,59.9,#1e4a8e,Nacionalismo/independentismo,80.21,#18a1cd,10.94,59.9,5.21,19.79,NA,NA,NA,NA,1.04
+1999,25168,El Poal,Lleida,502,CiU,65.43,#1e4a8e,Nacionalismo/independentismo,75.27,#18a1cd,13.83,65.43,9.84,9.84,NA,NA,NA,NA,0.27
+1999,25169,La Pobla de Cérvoles,Lleida,180,CiU,45.6,#1e4a8e,Nacionalismo/independentismo,62.4,#18a1cd,24.8,45.6,10.4,16.8,NA,NA,NA,NA,0.8
+1999,25170,Bellaguarda,Lleida,305,CiU,60.91,#1e4a8e,Nacionalismo/independentismo,69.03,#18a1cd,29.44,60.91,0.51,8.12,NA,NA,NA,NA,1.02
+1999,25171,La Pobla de Segur,Lleida,2488,PSC-CC-IC-V,43.68,#da1f35,Nacionalismo/independentismo,51.52,#18a1cd,43.68,38.88,3.22,12.58,NA,NA,NA,NA,0.72
+1999,25172,Ponts,Lleida,1962,CiU,56.8,#1e4a8e,Nacionalismo/independentismo,69.63,#18a1cd,18.93,56.8,9.12,12.34,NA,NA,NA,NA,1.96
+1999,25173,El Pont de Suert,Lleida,1867,PSC-CC-IC-V,47.21,#da1f35,No nacionalistas,54.94,#fa8c00,47.21,39.4,6.87,5.49,NA,NA,NA,NA,0.86
+1999,25174,La Portella,Lleida,500,CiU,53.87,#1e4a8e,Nacionalismo/independentismo,60.8,#18a1cd,37.07,53.87,1.33,6.93,NA,NA,NA,NA,0.8
+1999,25175,Prats i Sansor,Lleida,161,CiU,56.36,#1e4a8e,Nacionalismo/independentismo,70.91,#18a1cd,16.36,56.36,9.09,14.55,NA,NA,NA,NA,2.73
+1999,25176,Preixana,Lleida,388,CiU,61.54,#1e4a8e,Nacionalismo/independentismo,74.36,#18a1cd,10.62,61.54,13.19,12.82,NA,NA,NA,NA,1.1
+1999,25177,Preixens,Lleida,467,CiU,55.37,#1e4a8e,Nacionalismo/independentismo,73.61,#18a1cd,14.66,55.37,7.82,18.24,NA,NA,NA,NA,1.31
+1999,25179,Prullans,Lleida,195,CiU,62.94,#1e4a8e,Nacionalismo/independentismo,78.32,#18a1cd,20.28,62.94,0,15.38,NA,NA,NA,NA,1.4
+1999,25180,Puiggròs,Lleida,230,CiU,66.67,#1e4a8e,Nacionalismo/independentismo,78.85,#18a1cd,16.03,66.67,5.13,12.18,NA,NA,NA,NA,0
+1999,25181,Puigverd d'Agramunt,Lleida,205,CiU,65.77,#1e4a8e,Nacionalismo/independentismo,73.15,#18a1cd,16.78,65.77,5.37,7.38,NA,NA,NA,NA,0.67
+1999,25182,Puigverd de Lleida,Lleida,890,PSC-CC-IC-V,45.58,#da1f35,No nacionalistas,58.6,#fa8c00,45.58,30.38,11.19,10.85,NA,NA,NA,NA,1.83
+1999,25183,Rialp,Lleida,438,CiU,49.67,#1e4a8e,Nacionalismo/independentismo,59.27,#18a1cd,31.79,49.67,4.64,9.6,NA,NA,NA,NA,3.97
+1999,25185,Ribera d'Urgellet,Lleida,695,CiU,57.55,#1e4a8e,Nacionalismo/independentismo,75.3,#18a1cd,20.14,57.55,3.36,17.75,NA,NA,NA,NA,0.72
+1999,25186,Riner,Lleida,241,CiU,61.14,#1e4a8e,Nacionalismo/independentismo,80,#18a1cd,8,61.14,4.57,18.86,NA,NA,NA,NA,3.42
+1999,25189,Rosselló,Lleida,1462,CiU,55.71,#1e4a8e,Nacionalismo/independentismo,68.72,#18a1cd,26.26,55.71,2.74,12.9,NA,NA,NA,NA,1.7000000000000002
+1999,25190,Salàs de Pallars,Lleida,304,CiU,46.31,#1e4a8e,Nacionalismo/independentismo,61.09,#18a1cd,29.56,46.31,3.94,14.78,NA,NA,NA,NA,2.96
+1999,25191,Sanaüja,Lleida,408,CiU,54.11,#1e4a8e,Nacionalismo/independentismo,68.35,#18a1cd,24.05,54.11,6.65,13.29,NA,NA,NA,NA,1.9
+1999,25192,Sant Guim de Freixenet,Lleida,885,CiU,50.34,#1e4a8e,Nacionalismo/independentismo,64.41,#18a1cd,24.75,50.34,6.61,14.07,NA,NA,NA,NA,1.87
+1999,25193,Sant Llorenç de Morunys,Lleida,760,CiU,65.36,#1e4a8e,Nacionalismo/independentismo,82.86,#18a1cd,11.07,65.36,5.18,17.32,NA,NA,NA,NA,0.72
+1999,25194,Sant Ramon,Lleida,488,CiU,72.44,#1e4a8e,Nacionalismo/independentismo,80.21,#18a1cd,7.42,72.44,8.83,7.42,NA,NA,NA,NA,1.41
+1999,25196,Sant Esteve de la Sarga,Lleida,116,CiU,71.62,#1e4a8e,Nacionalismo/independentismo,75.67,#18a1cd,14.86,71.62,8.11,4.05,NA,NA,NA,NA,0
+1999,25197,Sant Guim de la Plana,Lleida,174,CiU,49.09,#1e4a8e,Nacionalismo/independentismo,69.09,#18a1cd,23.64,49.09,4.55,20,NA,NA,NA,NA,1.82
+1999,25200,Sarroca de Lleida,Lleida,412,CiU,52.58,#1e4a8e,Nacionalismo/independentismo,67.7,#18a1cd,26.8,52.58,3.44,15.12,NA,NA,NA,NA,1.38
+1999,25201,Sarroca de Bellera,Lleida,141,CiU,75.9,#1e4a8e,Nacionalismo/independentismo,90.36,#18a1cd,7.23,75.9,1.2,14.46,NA,NA,NA,NA,0
+1999,25202,Senterada,Lleida,96,CiU,38.33,#1e4a8e,Nacionalismo/independentismo,58.33,#18a1cd,30,38.33,8.33,20,NA,NA,NA,NA,1.67
+1999,25203,La Seu d'Urgell,Lleida,8867,CiU,41.76,#1e4a8e,Nacionalismo/independentismo,60.36,#18a1cd,30.04,41.76,7.38,18.54,NA,NA,NA,NA,1.33
+1999,25204,Seròs,Lleida,1500,CiU,49.69,#1e4a8e,Nacionalismo/independentismo,64.24,#18a1cd,28.79,49.69,5.41,14.45,NA,NA,NA,NA,0.61
+1999,25205,Sidamon,Lleida,442,CiU,62.28,#1e4a8e,Nacionalismo/independentismo,74.56,#18a1cd,15.57,62.28,8.38,12.28,NA,NA,NA,NA,0.8999999999999999
+1999,25206,El Soleràs,Lleida,372,CiU,64,#1e4a8e,Nacionalismo/independentismo,72,#18a1cd,25.09,64,2.55,8,NA,NA,NA,NA,0.36
+1999,25207,Solsona,Lleida,5909,CiU,53.57,#1e4a8e,Nacionalismo/independentismo,70,#18a1cd,22.08,53.57,4.88,16.32,NA,NA,NA,NA,1.69
+1999,25208,Soriguera,Lleida,276,PSC-CC-IC-V,46.36,#da1f35,No nacionalistas,49.67,#fa8c00,46.36,45.03,2.65,4.64,NA,NA,NA,NA,0.66
+1999,25209,Sort,Lleida,1453,CiU,55.47,#1e4a8e,Nacionalismo/independentismo,68.38,#18a1cd,23.94,55.47,4.93,12.91,NA,NA,NA,NA,1.67
+1999,25210,Soses,Lleida,1253,CiU,51.64,#1e4a8e,Nacionalismo/independentismo,64.55,#18a1cd,29.93,51.64,4.34,12.91,NA,NA,NA,NA,1.06
+1999,25211,Sudanell,Lleida,611,CiU,54.93,#1e4a8e,Nacionalismo/independentismo,70.72,#18a1cd,18.09,54.93,7.57,15.79,NA,NA,NA,NA,3.63
+1999,25212,Sunyer,Lleida,259,CiU,66.86,#1e4a8e,Nacionalismo/independentismo,77.32,#18a1cd,17.44,66.86,3.49,9.88,NA,NA,NA,NA,1.16
+1999,25215,Talarn,Lleida,305,CiU,50.48,#1e4a8e,Nacionalismo/independentismo,59.06,#18a1cd,32.86,50.48,5.71,8.1,NA,NA,NA,NA,2.3899999999999997
+1999,25216,Talavera,Lleida,269,CiU,65.17,#1e4a8e,Nacionalismo/independentismo,78.11,#18a1cd,9.45,65.17,10.95,12.94,NA,NA,NA,NA,0
+1999,25217,Tàrrega,Lleida,9996,CiU,51.24,#1e4a8e,Nacionalismo/independentismo,64.95,#18a1cd,25.92,51.24,5.99,13.68,NA,NA,NA,NA,1.69
+1999,25218,Tarrés,Lleida,89,CiU,73.24,#1e4a8e,Nacionalismo/independentismo,87.32,#18a1cd,5.63,73.24,5.63,14.08,NA,NA,NA,NA,1.41
+1999,25219,Tarroja de Segarra,Lleida,157,CiU,56.48,#1e4a8e,Nacionalismo/independentismo,73.15,#18a1cd,12.96,56.48,7.41,16.67,NA,NA,NA,NA,3.71
+1999,25220,Térmens,Lleida,1183,CiU,48.19,#1e4a8e,Nacionalismo/independentismo,59.52,#18a1cd,27.65,48.19,10.96,11.33,NA,NA,NA,NA,1.12
+1999,25221,Tírvia,Lleida,102,Empate,42.31,#ADA9AC,No nacionalistas,51.28,#fa8c00,42.31,42.31,7.69,6.41,NA,NA,NA,NA,1.28
+1999,25222,Tiurana,Lleida,29,CiU,77.78,#1e4a8e,Nacionalismo/independentismo,77.78,#18a1cd,0,77.78,22.22,0,NA,NA,NA,NA,0
+1999,25223,Torà,Lleida,978,CiU,63.5,#1e4a8e,Nacionalismo/independentismo,84.42,#18a1cd,11.13,63.5,2.37,20.62,NA,NA,NA,NA,0.75
+1999,25224,Els Torms,Lleida,178,CiU,50.38,#1e4a8e,Nacionalismo/independentismo,62.41,#18a1cd,31.58,50.38,3.76,12.03,NA,NA,NA,NA,0.75
+1999,25225,Tornabous,Lleida,687,CiU,53.12,#1e4a8e,Nacionalismo/independentismo,69.33,#18a1cd,22.19,53.12,5.74,16.21,NA,NA,NA,NA,1.5
+1999,25226,Torrebesses,Lleida,279,CiU,57.45,#1e4a8e,Nacionalismo/independentismo,63.3,#18a1cd,30.32,57.45,3.72,5.85,NA,NA,NA,NA,2.66
+1999,25227,La Torre de Cabdella,Lleida,617,CiU,52.66,#1e4a8e,Nacionalismo/independentismo,66.95,#18a1cd,26.61,52.66,3.92,14.29,NA,NA,NA,NA,1.68
+1999,25228,Torrefarrera,Lleida,1419,CiU,51.28,#1e4a8e,Nacionalismo/independentismo,60.89,#18a1cd,34.06,51.28,4.09,9.51,NA,NA,NA,NA,0.5800000000000001
+1999,25230,Torregrossa,Lleida,1883,CiU,42.8,#1e4a8e,Nacionalismo/independentismo,49.72,#18a1cd,34.75,42.8,13.49,6.85,NA,NA,NA,NA,0.91
+1999,25231,Torrelameu,Lleida,498,CiU,64.19,#1e4a8e,Nacionalismo/independentismo,75.6,#18a1cd,13.53,64.19,8.75,11.41,NA,NA,NA,NA,1.06
+1999,25232,Torres de Segre,Lleida,1525,CiU,48.77,#1e4a8e,Nacionalismo/independentismo,55.49,#18a1cd,31.16,48.77,11.55,6.72,NA,NA,NA,NA,1.03
+1999,25233,Torre-serona,Lleida,269,CiU,38.6,#1e4a8e,Nacionalismo/independentismo,52.05,#18a1cd,36.26,38.6,11.11,13.45,NA,NA,NA,NA,0.58
+1999,25234,Tremp,Lleida,4449,CiU,51.14,#1e4a8e,Nacionalismo/independentismo,63.37,#18a1cd,27.67,51.14,7.28,12.23,NA,NA,NA,NA,1.18
+1999,25238,Vallbona de les Monges,Lleida,251,CiU,60.12,#1e4a8e,Nacionalismo/independentismo,75.46,#18a1cd,15.95,60.12,7.36,15.34,NA,NA,NA,NA,1.22
+1999,25239,Les Valls de Valira,Lleida,620,CiU,65.22,#1e4a8e,Nacionalismo/independentismo,81.94,#18a1cd,12.04,65.22,5.02,16.39,NA,NA,NA,NA,0.99
+1999,25240,Vallfogona de Balaguer,Lleida,1238,CiU,47.22,#1e4a8e,Nacionalismo/independentismo,59.9,#18a1cd,26.09,47.22,9.78,12.68,NA,NA,NA,NA,2.65
+1999,25242,Verdú,Lleida,894,CiU,55.6,#1e4a8e,Nacionalismo/independentismo,70.97,#18a1cd,18.79,55.6,8.16,15.37,NA,NA,NA,NA,0.95
+1999,25243,Vielha e Mijaran,Lleida,3289,CiU,43.8,#1e4a8e,No nacionalistas,52.45,#fa8c00,35.26,43.8,15.75,3.17,NA,NA,NA,NA,1.5
+1999,25244,Vilagrassa,Lleida,362,CiU,47.27,#1e4a8e,Nacionalismo/independentismo,54.18,#18a1cd,40,47.27,5.09,6.55,NA,NA,NA,NA,0.36
+1999,25245,Vilaller,Lleida,513,CiU,41.11,#1e4a8e,Nacionalismo/independentismo,49.82,#18a1cd,40.42,41.11,7.32,8.36,NA,NA,NA,NA,2.0999999999999996
+1999,25247,Vilamòs,Lleida,105,CiU,50,#1e4a8e,Nacionalismo/independentismo,52,#18a1cd,42,50,2,2,NA,NA,NA,NA,2
+1999,25248,Vilanova de Bellpuig,Lleida,1001,CiU,52.45,#1e4a8e,Nacionalismo/independentismo,76.63,#18a1cd,14.81,52.45,6.66,24.18,NA,NA,NA,NA,1.36
+1999,25249,Vilanova de l'Aguda,Lleida,234,CiU,66.25,#1e4a8e,Nacionalismo/independentismo,84.38,#18a1cd,9.38,66.25,5.62,16.88,NA,NA,NA,NA,1.25
+1999,25250,Vilanova de Meià,Lleida,417,CiU,65.3,#1e4a8e,Nacionalismo/independentismo,74.26,#18a1cd,17.91,65.3,5.6,8.96,NA,NA,NA,NA,1.12
+1999,25251,Vilanova de Segrià,Lleida,644,CiU,59.46,#1e4a8e,Nacionalismo/independentismo,75.92,#18a1cd,19.9,59.46,3.69,16.46,NA,NA,NA,NA,0.25
+1999,25252,Vila-sana,Lleida,438,CiU,60.27,#1e4a8e,Nacionalismo/independentismo,74.31,#18a1cd,16.1,60.27,8.22,13.36,NA,NA,NA,NA,1.02
+1999,25253,El Vilosell,Lleida,176,CiU,46.81,#1e4a8e,Nacionalismo/independentismo,79.43,#18a1cd,15.6,46.81,4.96,32.62,NA,NA,NA,NA,0
+1999,25254,Vilanova de la Barca,Lleida,765,CiU,44.96,#1e4a8e,Nacionalismo/independentismo,53.83,#18a1cd,35.48,44.96,8.67,8.67,NA,NA,NA,NA,1.4
+1999,25255,Vinaixa,Lleida,544,CiU,48.68,#1e4a8e,Nacionalismo/independentismo,66.93,#18a1cd,26.72,48.68,4.5,17.72,NA,NA,NA,NA,1.59
+1999,25901,Vall de Cardós,Lleida,269,CiU,37.84,#1e4a8e,No nacionalistas,49.19,#fa8c00,25.95,37.84,21.62,10.81,NA,NA,NA,NA,1.62
+1999,25902,Sant Martí de Riucorb,Lleida,638,CiU,47.56,#1e4a8e,Nacionalismo/independentismo,60.67,#18a1cd,10.44,47.56,28.22,13.11,NA,NA,NA,NA,0.44
+1999,25903,La Guingueta d'Àneu,Lleida,251,CiU,56.8,#1e4a8e,Nacionalismo/independentismo,66.27,#18a1cd,28.99,56.8,3.55,9.47,NA,NA,NA,NA,1.18
+1999,25904,Castell de Mur,Lleida,131,CiU,50.51,#1e4a8e,Nacionalismo/independentismo,62.63,#18a1cd,32.32,50.51,4.04,12.12,NA,NA,NA,NA,1.01
+1999,25905,Ribera d'Ondara,Lleida,453,CiU,67.35,#1e4a8e,Nacionalismo/independentismo,84.19,#18a1cd,8.93,67.35,3.78,16.84,NA,NA,NA,NA,2.75
+1999,25906,Les Valls d'Aguilar,Lleida,261,CiU,60.14,#1e4a8e,Nacionalismo/independentismo,73.43,#18a1cd,20.28,60.14,2.8,13.29,NA,NA,NA,NA,2.8
+1999,25907,Torrefeta i Florejacs,Lleida,584,CiU,57.34,#1e4a8e,Nacionalismo/independentismo,76.83,#18a1cd,17.23,57.34,4.8,19.49,NA,NA,NA,NA,0.8400000000000001
+1999,25908,Fígols i Alinyà,Lleida,274,CiU,56.06,#1e4a8e,Nacionalismo/independentismo,69.7,#18a1cd,25.76,56.06,1.52,13.64,NA,NA,NA,NA,3.04
+1999,25909,La Vansa i Fórnols,Lleida,141,Empate,32.5,#ADA9AC,Nacionalismo/independentismo,61.25,#18a1cd,32.5,32.5,2.5,28.75,NA,NA,NA,NA,3.75
+1999,25910,Josa i Tuixén,Lleida,152,CiU,45.05,#1e4a8e,Nacionalismo/independentismo,65.93,#18a1cd,24.18,45.05,5.49,20.88,NA,NA,NA,NA,4.4
+1999,25911,Els Plans de Sió,Lleida,555,CiU,66.58,#1e4a8e,Nacionalismo/independentismo,82.37,#18a1cd,10,66.58,6.58,15.79,NA,NA,NA,NA,0.52
+1999,25912,Gimenells i el Pla de la Font,Lleida,963,CiU,41.82,#1e4a8e,No nacionalistas,52.67,#fa8c00,34.91,41.82,16.82,3.93,NA,NA,NA,NA,1.1
+1999,25913,Riu de Cerdanya,Lleida,65,CiU,52.17,#1e4a8e,Nacionalismo/independentismo,69.56,#18a1cd,28.26,52.17,0,17.39,NA,NA,NA,NA,0
+1999,25998,Residents Absents,Lleida,9349,CiU,36.77,#1e4a8e,No nacionalistas,50.38,#fa8c00,36.12,36.77,9.53,11.31,NA,NA,NA,NA,5.97
+1999,43001,Aiguamúrcia,Tarragona,519,CiU,42.37,#1e4a8e,Nacionalismo/independentismo,56.31,#18a1cd,32.63,42.37,5,13.42,NA,NA,NA,NA,5.78
+1999,43002,Albinyana,Tarragona,1193,CiU,52.35,#1e4a8e,Nacionalismo/independentismo,57.31,#18a1cd,36.85,52.35,3.81,4.83,NA,NA,NA,NA,1.28
+1999,43003,L'Albiol,Tarragona,139,CiU,50,#1e4a8e,Nacionalismo/independentismo,62.2,#18a1cd,25.61,50,8.54,12.2,NA,NA,NA,NA,2.44
+1999,43004,Alcanar,Tarragona,6327,CiU,52.46,#1e4a8e,Nacionalismo/independentismo,64.6,#18a1cd,21.11,52.46,11.65,11.99,NA,NA,NA,NA,1.72
+1999,43005,Alcover,Tarragona,3027,CiU,41.43,#1e4a8e,Nacionalismo/independentismo,56.88,#18a1cd,35.58,41.43,5.15,15.04,NA,NA,NA,NA,2.06
+1999,43006,Aldover,Tarragona,712,CiU,41.07,#1e4a8e,Nacionalismo/independentismo,51.04,#18a1cd,32.25,41.07,14.62,9.74,NA,NA,NA,NA,0.92
+1999,43007,L'Aleixar,Tarragona,607,CiU,55.87,#1e4a8e,Nacionalismo/independentismo,74.5,#18a1cd,16.33,55.87,7.4,18.11,NA,NA,NA,NA,1.81
+1999,43008,Alfara de Carles,Tarragona,333,CiU,61.36,#1e4a8e,Nacionalismo/independentismo,64.54,#18a1cd,20.45,61.36,13.18,3.18,NA,NA,NA,NA,0.45
+1999,43009,Alforja,Tarragona,1051,CiU,51.32,#1e4a8e,Nacionalismo/independentismo,63.27,#18a1cd,32.33,51.32,2.77,11.82,NA,NA,NA,NA,1.15
+1999,43010,Alió,Tarragona,284,CiU,46.05,#1e4a8e,Nacionalismo/independentismo,64.19,#18a1cd,25.12,46.05,8.84,17.67,NA,NA,NA,NA,1.41
+1999,43011,Almoster,Tarragona,632,CiU,50.46,#1e4a8e,Nacionalismo/independentismo,69.81,#18a1cd,18.66,50.46,9.45,19.35,NA,NA,NA,NA,1.61
+1999,43012,Altafulla,Tarragona,2269,PSC-CC-IC-V,35.18,#da1f35,Nacionalismo/independentismo,50.24,#18a1cd,35.18,33.33,11.84,16.84,NA,NA,NA,NA,1.99
+1999,43013,L'Ametlla de Mar,Tarragona,3805,CiU,52.09,#1e4a8e,Nacionalismo/independentismo,62.82,#18a1cd,22.71,52.09,12.38,10.41,NA,NA,NA,NA,1.8
+1999,43014,Amposta,Tarragona,13297,CiU,56.06,#1e4a8e,Nacionalismo/independentismo,64.01,#18a1cd,27.26,56.06,5.71,7.89,NA,NA,NA,NA,2.07
+1999,43015,Arbolí,Tarragona,122,CiU,60,#1e4a8e,Nacionalismo/independentismo,74.67,#18a1cd,16,60,8,14.67,NA,NA,NA,NA,1.33
+1999,43016,L'Arboç,Tarragona,2803,PSC-CC-IC-V,46.82,#da1f35,No nacionalistas,54.26,#fa8c00,46.82,35.16,5.91,9.64,NA,NA,NA,NA,1.64
+1999,43017,L'Argentera,Tarragona,135,CiU,51.72,#1e4a8e,Nacionalismo/independentismo,67.81,#18a1cd,22.99,51.72,3.45,16.09,NA,NA,NA,NA,2.3
+1999,43018,Arnes,Tarragona,468,CiU,67.22,#1e4a8e,Nacionalismo/independentismo,79.62,#18a1cd,16.53,67.22,2.75,11.85,NA,NA,NA,NA,0.8300000000000001
+1999,43019,Ascó,Tarragona,1421,CiU,48.18,#1e4a8e,Nacionalismo/independentismo,58.19,#18a1cd,32.01,48.18,6.38,9.79,NA,NA,NA,NA,3.19
+1999,43020,Banyeres del Penedès,Tarragona,1413,PSC-CC-IC-V,44.24,#da1f35,No nacionalistas,52.79,#fa8c00,44.24,39.07,6.97,7.07,NA,NA,NA,NA,1.69
+1999,43021,Barberà de la Conca,Tarragona,350,PSC-CC-IC-V,43.96,#da1f35,No nacionalistas,55.07,#fa8c00,43.96,27.54,5.31,16.91,NA,NA,NA,NA,5.8
+1999,43022,Batea,Tarragona,1702,CiU,39.09,#1e4a8e,Nacionalismo/independentismo,51.1,#18a1cd,29.71,39.09,17.53,11.93,NA,NA,NA,NA,1.06
+1999,43023,Bellmunt del Priorat,Tarragona,276,PSC-CC-IC-V,43.44,#da1f35,Nacionalismo/independentismo,49.77,#18a1cd,43.44,40.27,3.62,9.5,NA,NA,NA,NA,0.9
+1999,43024,Bellvei,Tarragona,1026,CiU,46.21,#1e4a8e,Nacionalismo/independentismo,51.59,#18a1cd,34.76,46.21,10.9,5.38,NA,NA,NA,NA,2.07
+1999,43025,Benifallet,Tarragona,758,CiU,46.2,#1e4a8e,Nacionalismo/independentismo,54.36,#18a1cd,40.82,46.2,3.53,8.16,NA,NA,NA,NA,0.56
+1999,43026,Benissanet,Tarragona,843,CiU,58.22,#1e4a8e,Nacionalismo/independentismo,72.09,#18a1cd,14.9,58.22,11.3,13.87,NA,NA,NA,NA,1.54
+1999,43027,La Bisbal de Falset,Tarragona,215,CiU,62.7,#1e4a8e,Nacionalismo/independentismo,78.57,#18a1cd,8.73,62.7,7.94,15.87,NA,NA,NA,NA,3.17
+1999,43028,La Bisbal del Penedès,Tarragona,1518,CiU,47.25,#1e4a8e,Nacionalismo/independentismo,62.51,#18a1cd,29.91,47.25,5.3,15.26,NA,NA,NA,NA,1.24
+1999,43029,Blancafort,Tarragona,319,CiU,39.91,#1e4a8e,Nacionalismo/independentismo,62.85,#18a1cd,25.69,39.91,3.67,22.94,NA,NA,NA,NA,6.88
+1999,43030,Bonastre,Tarragona,270,CiU,61.05,#1e4a8e,Nacionalismo/independentismo,74.21,#18a1cd,12.11,61.05,9.47,13.16,NA,NA,NA,NA,4.21
+1999,43031,Les Borges del Camp,Tarragona,1302,CiU,57.13,#1e4a8e,Nacionalismo/independentismo,73.53,#18a1cd,19.83,57.13,5.68,16.4,NA,NA,NA,NA,0.54
+1999,43032,Bot,Tarragona,749,CiU,54.55,#1e4a8e,Nacionalismo/independentismo,61.51,#18a1cd,26.31,54.55,11.22,6.77,NA,NA,NA,NA,0.5800000000000001
+1999,43033,Botarell,Tarragona,479,CiU,52.16,#1e4a8e,Nacionalismo/independentismo,60.19,#18a1cd,29.01,52.16,8.33,7.72,NA,NA,NA,NA,1.86
+1999,43034,Bràfim,Tarragona,481,CiU,57.42,#1e4a8e,Nacionalismo/independentismo,73.35,#18a1cd,18.13,57.42,5.22,15.66,NA,NA,NA,NA,2.46
+1999,43035,Cabacés,Tarragona,302,CiU,56.34,#1e4a8e,Nacionalismo/independentismo,67.61,#18a1cd,16.43,56.34,14.08,11.27,NA,NA,NA,NA,1.41
+1999,43036,Cabra del Camp,Tarragona,496,CiU,49.15,#1e4a8e,Nacionalismo/independentismo,67.8,#18a1cd,17.97,49.15,5.42,18.31,NA,NA,NA,NA,8.49
+1999,43037,Calafell,Tarragona,8976,PSC-CC-IC-V,41.29,#da1f35,No nacionalistas,54.22,#fa8c00,41.29,37.74,11.09,7.2,NA,NA,NA,NA,1.88
+1999,43038,Cambrils,Tarragona,14909,CiU,36.53,#1e4a8e,No nacionalistas,49.84,#fa8c00,34.33,36.53,13.46,12.32,NA,NA,NA,NA,2.21
+1999,43039,Capafonts,Tarragona,112,CiU,73.68,#1e4a8e,Nacionalismo/independentismo,94.73,#18a1cd,2.63,73.68,2.63,21.05,NA,NA,NA,NA,0
+1999,43040,Capçanes,Tarragona,341,CiU,41.49,#1e4a8e,Nacionalismo/independentismo,63.48,#18a1cd,23.24,41.49,10.79,21.58,NA,NA,NA,NA,1.65
+1999,43041,Caseres,Tarragona,280,CiU,48.45,#1e4a8e,Nacionalismo/independentismo,54.64,#18a1cd,19.07,48.45,24.23,6.19,NA,NA,NA,NA,0.52
+1999,43042,Castellvell del Camp,Tarragona,1164,CiU,54.18,#1e4a8e,Nacionalismo/independentismo,68.41,#18a1cd,22.6,54.18,6.62,13.98,NA,NA,NA,NA,1.86
+1999,43043,El Catllar,Tarragona,1737,CiU,39.77,#1e4a8e,Nacionalismo/independentismo,54.83,#18a1cd,32.63,39.77,8.3,15.06,NA,NA,NA,NA,2.99
+1999,43044,La Sénia,Tarragona,4095,CiU,47.35,#1e4a8e,Nacionalismo/independentismo,55.49,#18a1cd,31.32,47.35,9.86,8.1,NA,NA,NA,NA,2.01
+1999,43045,Colldejou,Tarragona,162,CiU,56.48,#1e4a8e,Nacionalismo/independentismo,86.11,#18a1cd,12.04,56.48,0,29.63,NA,NA,NA,NA,1.86
+1999,43046,Conesa,Tarragona,107,CiU,54.93,#1e4a8e,Nacionalismo/independentismo,71.83,#18a1cd,15.49,54.93,4.23,16.9,NA,NA,NA,NA,7.04
+1999,43047,Constantí,Tarragona,4062,PSC-CC-IC-V,46.1,#da1f35,No nacionalistas,61.55,#fa8c00,46.1,30.46,11.12,6.88,NA,NA,NA,NA,4.47
+1999,43048,Corbera d'Ebre,Tarragona,902,PSC-CC-IC-V,37.01,#da1f35,No nacionalistas,55.77,#fa8c00,37.01,35.8,16.35,7.4,NA,NA,NA,NA,2.41
+1999,43049,Cornudella de Montsant,Tarragona,734,CiU,55.54,#1e4a8e,Nacionalismo/independentismo,73.04,#18a1cd,19.82,55.54,2.5,17.5,NA,NA,NA,NA,3.03
+1999,43050,Creixell,Tarragona,1408,CiU,46.01,#1e4a8e,Nacionalismo/independentismo,52.14,#18a1cd,33.25,46.01,12.76,6.01,NA,NA,NA,NA,1.22
+1999,43051,Cunit,Tarragona,4491,PSC-CC-IC-V,47.72,#da1f35,No nacionalistas,63.71,#fa8c00,47.72,30.58,13.31,4.85,NA,NA,NA,NA,2.76
+1999,43052,Xerta,Tarragona,1021,CiU,53.43,#1e4a8e,Nacionalismo/independentismo,62.49,#18a1cd,30.79,53.43,4.53,9.06,NA,NA,NA,NA,1.04
+1999,43053,Duesaigües,Tarragona,188,CiU,53.66,#1e4a8e,Nacionalismo/independentismo,84.55,#18a1cd,15.45,53.66,0,30.89,NA,NA,NA,NA,0
+1999,43054,L'Espluga de Francolí,Tarragona,3033,CiU,52.21,#1e4a8e,Nacionalismo/independentismo,69.08,#18a1cd,22.9,52.21,5.67,16.87,NA,NA,NA,NA,1.61
+1999,43055,Falset,Tarragona,2038,CiU,40.1,#1e4a8e,Nacionalismo/independentismo,57.53,#18a1cd,34.38,40.1,6.19,17.29,NA,NA,NA,NA,1.3
+1999,43056,La Fatarella,Tarragona,1095,CiU,40.94,#1e4a8e,Nacionalismo/independentismo,57.83,#18a1cd,23.52,40.94,15.85,16.72,NA,NA,NA,NA,1.72
+1999,43057,La Febró,Tarragona,53,CiU,51.72,#1e4a8e,Nacionalismo/independentismo,65.51,#18a1cd,27.59,51.72,0,10.34,NA,NA,NA,NA,6.9
+1999,43058,La Figuera,Tarragona,109,CiU,47.19,#1e4a8e,Nacionalismo/independentismo,56.18,#18a1cd,39.33,47.19,4.49,8.99,NA,NA,NA,NA,0
+1999,43059,Figuerola del Camp,Tarragona,232,CiU,51.48,#1e4a8e,Nacionalismo/independentismo,72.19,#18a1cd,14.2,51.48,4.14,20.71,NA,NA,NA,NA,8.27
+1999,43060,Flix,Tarragona,3568,PSC-CC-IC-V,40.13,#da1f35,Nacionalismo/independentismo,49.52,#18a1cd,40.13,38.35,7.24,11.05,NA,NA,NA,NA,2.26
+1999,43061,Forès,Tarragona,66,CiU,74.42,#1e4a8e,Nacionalismo/independentismo,83.72,#18a1cd,11.63,74.42,0,9.3,NA,NA,NA,NA,4.65
+1999,43062,Freginals,Tarragona,312,CiU,49.59,#1e4a8e,Nacionalismo/independentismo,55.28,#18a1cd,34.55,49.59,8.54,5.69,NA,NA,NA,NA,1.63
+1999,43063,La Galera,Tarragona,639,CiU,42,#1e4a8e,Nacionalismo/independentismo,54.5,#18a1cd,20.25,42,22.75,12.5,NA,NA,NA,NA,1.5
+1999,43064,Gandesa,Tarragona,2146,CiU,53.69,#1e4a8e,Nacionalismo/independentismo,62.8,#18a1cd,20.7,53.69,14.01,9.04,NA,NA,NA,NA,1.39
+1999,43065,Garcia,Tarragona,462,CiU,51.51,#1e4a8e,Nacionalismo/independentismo,67.17,#18a1cd,25.6,51.51,6.02,15.36,NA,NA,NA,NA,1.2
+1999,43066,Els Garidells,Tarragona,130,CiU,72.34,#1e4a8e,Nacionalismo/independentismo,76.6,#18a1cd,18.09,72.34,4.26,4.26,NA,NA,NA,NA,1.06
+1999,43067,Ginestar,Tarragona,726,CiU,63.32,#1e4a8e,Nacionalismo/independentismo,73.54,#18a1cd,20.6,63.32,4.02,10.22,NA,NA,NA,NA,0.8500000000000001
+1999,43068,Godall,Tarragona,635,CiU,37.36,#1e4a8e,Nacionalismo/independentismo,52.57,#18a1cd,33.78,37.36,11.41,15.21,NA,NA,NA,NA,1.34
+1999,43069,Gratallops,Tarragona,200,CiU,47.14,#1e4a8e,Nacionalismo/independentismo,59.28,#18a1cd,23.57,47.14,10.71,11.43,NA,NA,NA,NA,3.5599999999999996
+1999,43070,Els Guiamets,Tarragona,253,CiU,40.86,#1e4a8e,Nacionalismo/independentismo,63.98,#18a1cd,21.51,40.86,9.14,22.58,NA,NA,NA,NA,3.77
+1999,43071,Horta de Sant Joan,Tarragona,1054,CiU,63.81,#1e4a8e,Nacionalismo/independentismo,71.17,#18a1cd,14.86,63.81,12.31,7.06,NA,NA,NA,NA,0.9
+1999,43072,El Lloar,Tarragona,114,CiU,55.29,#1e4a8e,Nacionalismo/independentismo,61.17,#18a1cd,16.47,55.29,16.47,5.88,NA,NA,NA,NA,0
+1999,43073,Llorac,Tarragona,104,CiU,64.18,#1e4a8e,Nacionalismo/independentismo,77.61,#18a1cd,19.4,64.18,2.99,13.43,NA,NA,NA,NA,0
+1999,43074,Llorenç del Penedès,Tarragona,1227,CiU,58.13,#1e4a8e,Nacionalismo/independentismo,73.21,#18a1cd,19.41,58.13,4.01,15.08,NA,NA,NA,NA,2.18
+1999,43075,Margalef,Tarragona,113,CiU,66.2,#1e4a8e,Nacionalismo/independentismo,74.65,#18a1cd,23.94,66.2,1.41,8.45,NA,NA,NA,NA,0
+1999,43076,Marçà,Tarragona,499,CiU,37.54,#1e4a8e,Nacionalismo/independentismo,58.27,#18a1cd,33.05,37.54,3.64,20.73,NA,NA,NA,NA,4.48
+1999,43077,Mas de Barberans,Tarragona,600,PSC-CC-IC-V,56.42,#da1f35,No nacionalistas,68.72,#fa8c00,56.42,25.67,12.3,4.55,NA,NA,NA,NA,0.27
+1999,43078,Masdenverge,Tarragona,739,CiU,54.9,#1e4a8e,Nacionalismo/independentismo,60.61,#18a1cd,28.57,54.9,9.18,5.71,NA,NA,NA,NA,0.4
+1999,43079,Masllorenç,Tarragona,349,CiU,76.79,#1e4a8e,Nacionalismo/independentismo,82.5,#18a1cd,14.64,76.79,1.43,5.71,NA,NA,NA,NA,0.36
+1999,43080,La Masó,Tarragona,234,CiU,42.7,#1e4a8e,Nacionalismo/independentismo,83.71,#18a1cd,7.87,42.7,6.18,41.01,NA,NA,NA,NA,0.56
+1999,43081,Maspujols,Tarragona,386,CiU,61.41,#1e4a8e,Nacionalismo/independentismo,80.88,#18a1cd,13.09,61.41,3.02,18.46,NA,NA,NA,NA,2.02
+1999,43082,El Masroig,Tarragona,451,CiU,53.12,#1e4a8e,Nacionalismo/independentismo,63.69,#18a1cd,25.75,53.12,8.67,10.3,NA,NA,NA,NA,0.81
+1999,43083,El Milà,Tarragona,137,CiU,57.69,#1e4a8e,Nacionalismo/independentismo,68.27,#18a1cd,18.27,57.69,9.62,9.62,NA,NA,NA,NA,1.92
+1999,43084,Miravet,Tarragona,668,CiU,54.76,#1e4a8e,Nacionalismo/independentismo,68.29,#18a1cd,25.58,54.76,4.02,13.53,NA,NA,NA,NA,1.48
+1999,43085,El Molar,Tarragona,257,CiU,47.62,#1e4a8e,Nacionalismo/independentismo,59.52,#18a1cd,27.14,47.62,10.48,11.9,NA,NA,NA,NA,1.43
+1999,43086,Montblanc,Tarragona,4920,CiU,48.31,#1e4a8e,Nacionalismo/independentismo,68.32,#18a1cd,23.78,48.31,4.78,20.01,NA,NA,NA,NA,1.93
+1999,43088,Montbrió del Camp,Tarragona,1205,CiU,50.43,#1e4a8e,Nacionalismo/independentismo,75.16,#18a1cd,13.65,50.43,8.98,24.11,NA,NA,NA,NA,2.22
+1999,43089,Montferri,Tarragona,140,CiU,55.91,#1e4a8e,Nacionalismo/independentismo,76.34,#18a1cd,8.6,55.91,12.9,20.43,NA,NA,NA,NA,2.16
+1999,43090,El Montmell,Tarragona,427,PSC-CC-IC-V,51.18,#da1f35,No nacionalistas,57.48,#fa8c00,51.18,32.28,3.54,9.45,NA,NA,NA,NA,3.15
+1999,43091,Mont-ral,Tarragona,135,CiU,38.96,#1e4a8e,Nacionalismo/independentismo,55.84,#18a1cd,27.27,38.96,2.6,16.88,NA,NA,NA,NA,11.69
+1999,43092,Mont-roig del Camp,Tarragona,4757,CiU,39.98,#1e4a8e,Nacionalismo/independentismo,54.01,#18a1cd,30.61,39.98,12.33,13.7,NA,NA,NA,NA,2.98
+1999,43093,Móra d'Ebre,Tarragona,3932,CiU,52.14,#1e4a8e,Nacionalismo/independentismo,59.82,#18a1cd,31.28,52.14,6.91,7.56,NA,NA,NA,NA,1.06
+1999,43094,Móra la Nova,Tarragona,2200,CiU,56.37,#1e4a8e,Nacionalismo/independentismo,65.47,#18a1cd,25.94,56.37,5.7,9.1,NA,NA,NA,NA,2.55
+1999,43095,El Morell,Tarragona,1859,CiU,48.96,#1e4a8e,Nacionalismo/independentismo,62.22,#18a1cd,24.44,48.96,9.79,13.17,NA,NA,NA,NA,2.61
+1999,43096,La Morera de Montsant,Tarragona,139,CiU,63.22,#1e4a8e,Nacionalismo/independentismo,75.86,#18a1cd,10.34,63.22,6.9,12.64,NA,NA,NA,NA,4.6
+1999,43097,La Nou de Gaià,Tarragona,304,CiU,59.46,#1e4a8e,Nacionalismo/independentismo,74.32,#18a1cd,18.02,59.46,6.31,14.41,NA,NA,NA,NA,0.9
+1999,43098,Nulles,Tarragona,313,CiU,58.85,#1e4a8e,Nacionalismo/independentismo,73.45,#18a1cd,11.5,58.85,8.85,14.6,NA,NA,NA,NA,5.74
+1999,43099,La Palma d'Ebre,Tarragona,370,CiU,56.81,#1e4a8e,Nacionalismo/independentismo,60.46,#18a1cd,31.89,56.81,6.31,3.65,NA,NA,NA,NA,0
+1999,43100,Els Pallaresos,Tarragona,1889,PSC-CC-IC-V,42.2,#da1f35,No nacionalistas,56.79,#fa8c00,42.2,32.04,10.53,10.34,NA,NA,NA,NA,4.0600000000000005
+1999,43101,Passanant i Belltall,Tarragona,173,CiU,71.43,#1e4a8e,Nacionalismo/independentismo,77.55,#18a1cd,15.31,71.43,6.12,6.12,NA,NA,NA,NA,0
+1999,43102,Paüls,Tarragona,557,PSC-CC-IC-V,54.98,#da1f35,No nacionalistas,58.83,#fa8c00,54.98,35.07,3.39,6.11,NA,NA,NA,NA,0.46
+1999,43103,Perafort,Tarragona,498,CiU,45.72,#1e4a8e,Nacionalismo/independentismo,63.48,#18a1cd,23.03,45.72,11.18,17.76,NA,NA,NA,NA,1.98
+1999,43104,El Perelló,Tarragona,1767,CiU,49,#1e4a8e,Nacionalismo/independentismo,62.73,#18a1cd,34.59,49,1.61,13.65,NA,NA,NA,NA,0.92
+1999,43105,Les Piles,Tarragona,140,CiU,48.42,#1e4a8e,Nacionalismo/independentismo,67.37,#18a1cd,18.95,48.42,3.16,18.95,NA,NA,NA,NA,5.26
+1999,43106,El Pinell de Brai,Tarragona,931,CiU,40.36,#1e4a8e,No nacionalistas,50.9,#fa8c00,37.89,40.36,11.2,8.57,NA,NA,NA,NA,1.81
+1999,43107,Pira,Tarragona,346,UNIC-FIC,51.32,#909497,No nacionalistas,63.6,#fa8c00,10.09,27.63,1.75,8.77,NA,NA,NA,NA,51.76
+1999,43108,El Pla de Santa Maria,Tarragona,1311,CiU,40.88,#1e4a8e,Nacionalismo/independentismo,68.39,#18a1cd,21.33,40.88,5.41,27.29,NA,NA,NA,NA,4.97
+1999,43109,La Pobla de Mafumet,Tarragona,897,CiU,45.12,#1e4a8e,Nacionalismo/independentismo,53.65,#18a1cd,30.73,45.12,12.43,8.53,NA,NA,NA,NA,2.1399999999999997
+1999,43110,La Pobla de Massaluca,Tarragona,412,CiU,59.02,#1e4a8e,Nacionalismo/independentismo,62.3,#18a1cd,29.92,59.02,5.74,3.28,NA,NA,NA,NA,1.23
+1999,43111,La Pobla de Montornès,Tarragona,1089,CiU,45.74,#1e4a8e,Nacionalismo/independentismo,58.83,#18a1cd,29.81,45.74,8.68,12.93,NA,NA,NA,NA,2.37
+1999,43112,Poboleda,Tarragona,300,CiU,37.43,#1e4a8e,Nacionalismo/independentismo,65.36,#18a1cd,32.96,37.43,1.12,27.93,NA,NA,NA,NA,0.56
+1999,43113,El Pont d'Armentera,Tarragona,526,CiU,53.33,#1e4a8e,Nacionalismo/independentismo,65.06,#18a1cd,24.8,53.33,7.47,11.73,NA,NA,NA,NA,0.8
+1999,43114,Porrera,Tarragona,398,PSC-CC-IC-V,50.23,#da1f35,No nacionalistas,58.52,#fa8c00,50.23,22.58,5.99,17.51,NA,NA,NA,NA,2.76
+1999,43115,Pradell de la Teixeta,Tarragona,184,CiU,38.76,#1e4a8e,Nacionalismo/independentismo,66.67,#18a1cd,27.91,38.76,1.55,27.13,NA,NA,NA,NA,3.12
+1999,43116,Prades,Tarragona,463,CiU,46.93,#1e4a8e,Nacionalismo/independentismo,67.96,#18a1cd,28.48,46.93,2.59,20.71,NA,NA,NA,NA,0.96
+1999,43117,Prat de Comte,Tarragona,164,CiU,57.76,#1e4a8e,Nacionalismo/independentismo,57.76,#18a1cd,22.41,57.76,18.97,0,NA,NA,NA,NA,0
+1999,43118,Pratdip,Tarragona,419,CiU,43,#1e4a8e,Nacionalismo/independentismo,57.33,#18a1cd,38.11,43,3.91,14.33,NA,NA,NA,NA,0.33
+1999,43119,Puigpelat,Tarragona,461,CiU,48.61,#1e4a8e,Nacionalismo/independentismo,62.03,#18a1cd,28.24,48.61,7.87,12.96,NA,NA,NA,NA,2.31
+1999,43120,Querol,Tarragona,284,CiU,47.54,#1e4a8e,Nacionalismo/independentismo,54.1,#18a1cd,31.97,47.54,12.3,6.56,NA,NA,NA,NA,1.64
+1999,43121,Rasquera,Tarragona,728,CiU,45.03,#1e4a8e,Nacionalismo/independentismo,64.4,#18a1cd,30.63,45.03,3.14,18.06,NA,NA,NA,NA,2.3600000000000003
+1999,43122,Renau,Tarragona,49,CiU,65.85,#1e4a8e,Nacionalismo/independentismo,73.17,#18a1cd,14.63,65.85,9.76,7.32,NA,NA,NA,NA,2.44
+1999,43123,Reus,Tarragona,71741,CiU,38.28,#1e4a8e,No nacionalistas,49.58,#fa8c00,36.11,38.28,10.37,11.03,NA,NA,NA,NA,3.29
+1999,43124,La Riba,Tarragona,650,CiU,54.32,#1e4a8e,Nacionalismo/independentismo,66.82,#18a1cd,19.09,54.32,9.77,12.5,NA,NA,NA,NA,4.08
+1999,43125,Riba-roja d'Ebre,Tarragona,1195,CiU,44.43,#1e4a8e,Nacionalismo/independentismo,50.84,#18a1cd,39.28,44.43,8.08,6.41,NA,NA,NA,NA,1.26
+1999,43126,La Riera de Gaià,Tarragona,737,CiU,61.51,#1e4a8e,Nacionalismo/independentismo,76.61,#18a1cd,17.86,61.51,3.68,14.92,NA,NA,NA,NA,1.09
+1999,43127,Riudecanyes,Tarragona,561,CiU,65.74,#1e4a8e,Nacionalismo/independentismo,80.35,#18a1cd,15.11,65.74,2.77,14.61,NA,NA,NA,NA,0.75
+1999,43128,Riudecols,Tarragona,838,CiU,42.64,#1e4a8e,Nacionalismo/independentismo,55.84,#18a1cd,37.56,42.64,5.58,13.2,NA,NA,NA,NA,1.02
+1999,43129,Riudoms,Tarragona,4126,CiU,53.25,#1e4a8e,Nacionalismo/independentismo,66.56,#18a1cd,22.21,53.25,9.41,13.27,NA,NA,NA,NA,1.15
+1999,43130,Rocafort de Queralt,Tarragona,246,CiU,35.64,#1e4a8e,Nacionalismo/independentismo,53.19,#18a1cd,13.83,35.64,4.79,17.55,NA,NA,NA,NA,28.19
+1999,43131,Roda de Berà,Tarragona,2493,PSC-CC-IC-V,41.34,#da1f35,No nacionalistas,55.47,#fa8c00,41.34,40.15,12.94,3.62,NA,NA,NA,NA,1.19
+1999,43132,Rodonyà,Tarragona,339,CiU,61.84,#1e4a8e,Nacionalismo/independentismo,83.58,#18a1cd,5.8,61.84,6.76,21.74,NA,NA,NA,NA,1.93
+1999,43133,Roquetes,Tarragona,5234,PSC-CC-IC-V,36.92,#da1f35,No nacionalistas,52.73,#fa8c00,36.92,33.38,12.57,12.23,NA,NA,NA,NA,3.39
+1999,43134,El Rourell,Tarragona,221,PSC-CC-IC-V,39.63,#da1f35,Nacionalismo/independentismo,52.44,#18a1cd,39.63,37.2,5.49,15.24,NA,NA,NA,NA,2.44
+1999,43135,Salomó,Tarragona,341,CiU,62.55,#1e4a8e,Nacionalismo/independentismo,74.16,#18a1cd,16.48,62.55,7.49,11.61,NA,NA,NA,NA,1.11
+1999,43136,Sant Carles de la Ràpita,Tarragona,9125,CiU,43.91,#1e4a8e,Nacionalismo/independentismo,52.16,#18a1cd,38.98,43.91,6.34,8.17,NA,NA,NA,NA,1.28
+1999,43137,Sant Jaume dels Domenys,Tarragona,1144,CiU,48.35,#1e4a8e,Nacionalismo/independentismo,64.42,#18a1cd,25.56,48.35,7.11,15.81,NA,NA,NA,NA,2.38
+1999,43138,Santa Bàrbara,Tarragona,2712,CiU,62.47,#1e4a8e,Nacionalismo/independentismo,67.23,#18a1cd,22.57,62.47,8.37,4.61,NA,NA,NA,NA,1
+1999,43139,Santa Coloma de Queralt,Tarragona,2192,CiU,56.19,#1e4a8e,Nacionalismo/independentismo,72.74,#18a1cd,18.57,56.19,6.05,16.55,NA,NA,NA,NA,1.67
+1999,43140,Santa Oliva,Tarragona,1659,PSC-CC-IC-V,50,#da1f35,No nacionalistas,61.97,#fa8c00,50,30.87,10.33,6.2,NA,NA,NA,NA,1.86
+1999,43141,Pontils,Tarragona,131,CiU,63.16,#1e4a8e,Nacionalismo/independentismo,73.69,#18a1cd,14.47,63.16,9.21,10.53,NA,NA,NA,NA,1.32
+1999,43142,Sarral,Tarragona,1184,CiU,51.81,#1e4a8e,Nacionalismo/independentismo,73.15,#18a1cd,15.3,51.81,9.26,21.07,NA,NA,NA,NA,1.87
+1999,43143,Savallà del Comtat,Tarragona,65,CiU,64.44,#1e4a8e,Nacionalismo/independentismo,75.55,#18a1cd,15.56,64.44,6.67,11.11,NA,NA,NA,NA,2.22
+1999,43144,La Secuita,Tarragona,900,CiU,46.02,#1e4a8e,Nacionalismo/independentismo,66.26,#18a1cd,24.57,46.02,7.09,20.07,NA,NA,NA,NA,1.73
+1999,43145,La Selva del Camp,Tarragona,3171,CiU,41.67,#1e4a8e,Nacionalismo/independentismo,53.38,#18a1cd,37.83,41.67,6.23,11.58,NA,NA,NA,NA,1.85
+1999,43146,Senan,Tarragona,29,CiU,72,#1e4a8e,Nacionalismo/independentismo,84,#18a1cd,16,72,0,12,NA,NA,NA,NA,0
+1999,43147,Solivella,Tarragona,563,CiU,41.27,#1e4a8e,Nacionalismo/independentismo,56.92,#18a1cd,20.86,41.27,15.19,15.65,NA,NA,NA,NA,5.45
+1999,43148,Tarragona,Tarragona,92342,PSC-CC-IC-V,39.71,#da1f35,No nacionalistas,57.84,#fa8c00,39.71,32.58,14.97,8.43,NA,NA,NA,NA,3.27
+1999,43149,Tivenys,Tarragona,838,CiU,52.55,#1e4a8e,Nacionalismo/independentismo,58.73,#18a1cd,35.09,52.55,4.55,6,NA,NA,NA,NA,0.54
+1999,43150,Tivissa,Tarragona,1489,CiU,39.52,#1e4a8e,Nacionalismo/independentismo,55.66,#18a1cd,29.35,39.52,12.37,16.04,NA,NA,NA,NA,2.29
+1999,43151,La Torre de Fontaubella,Tarragona,121,CiU,34.88,#1e4a8e,Nacionalismo/independentismo,55.81,#18a1cd,30.23,34.88,6.98,20.93,NA,NA,NA,NA,3.4799999999999995
+1999,43152,La Torre de l'Espanyol,Tarragona,567,CiU,51.58,#1e4a8e,Nacionalismo/independentismo,60.63,#18a1cd,36.65,51.58,2.04,9.05,NA,NA,NA,NA,0.68
+1999,43153,Torredembarra,Tarragona,7974,CiU,37.07,#1e4a8e,Nacionalismo/independentismo,51.81,#18a1cd,35.41,37.07,9.18,14.66,NA,NA,NA,NA,2.89
+1999,43154,Torroja del Priorat,Tarragona,131,CiU,46.74,#1e4a8e,Nacionalismo/independentismo,63.04,#18a1cd,28.26,46.74,6.52,16.3,NA,NA,NA,NA,1.09
+1999,43155,Tortosa,Tarragona,24138,CiU,36.79,#1e4a8e,No nacionalistas,51.46,#fa8c00,34.24,36.79,15.47,10.34,NA,NA,NA,NA,1.83
+1999,43156,Ulldecona,Tarragona,4275,CiU,41.12,#1e4a8e,No nacionalistas,49.84,#fa8c00,36.5,41.12,11.35,8.21,NA,NA,NA,NA,2.12
+1999,43157,Ulldemolins,Tarragona,453,CiU,62.15,#1e4a8e,Nacionalismo/independentismo,76.27,#18a1cd,16.67,62.15,5.08,14.12,NA,NA,NA,NA,1.12
+1999,43158,Vallclara,Tarragona,99,CiU,56.52,#1e4a8e,Nacionalismo/independentismo,73.91,#18a1cd,20.29,56.52,5.8,17.39,NA,NA,NA,NA,0
+1999,43159,Vallfogona de Riucorb,Tarragona,156,CiU,57.53,#1e4a8e,Nacionalismo/independentismo,65.75,#18a1cd,27.4,57.53,2.74,6.85,NA,NA,NA,NA,2.74
+1999,43160,Vallmoll,Tarragona,990,PSC-CC-IC-V,42.7,#da1f35,No nacionalistas,53.28,#fa8c00,42.7,33.87,7.54,12.04,NA,NA,NA,NA,3.04
+1999,43161,Valls,Tarragona,16486,CiU,42.63,#1e4a8e,Nacionalismo/independentismo,58.37,#18a1cd,32.68,42.63,6.17,15.56,NA,NA,NA,NA,2.05
+1999,43162,Vandellòs i l'Hospitalet de l'Infant,Tarragona,3538,CiU,42.58,#1e4a8e,Nacionalismo/independentismo,51.53,#18a1cd,33.19,42.58,9.05,8.95,NA,NA,NA,NA,5.6
+1999,43163,El Vendrell,Tarragona,16941,PSC-CC-IC-V,41.86,#da1f35,No nacionalistas,52.87,#fa8c00,41.86,38.81,9.44,7.28,NA,NA,NA,NA,1.64
+1999,43164,Vespella de Gaià,Tarragona,151,PSC-CC-IC-V,42.74,#da1f35,No nacionalistas,64.96,#fa8c00,42.74,29.91,20.51,5.13,NA,NA,NA,NA,1.71
+1999,43165,Vilabella,Tarragona,654,CiU,55.76,#1e4a8e,Nacionalismo/independentismo,75.93,#18a1cd,18.11,55.76,4.94,19.96,NA,NA,NA,NA,0.63
+1999,43166,Vilallonga del Camp,Tarragona,1012,CiU,42.94,#1e4a8e,Nacionalismo/independentismo,54.65,#18a1cd,27.33,42.94,16.22,11.56,NA,NA,NA,NA,1.35
+1999,43167,Vilanova d'Escornalbou,Tarragona,375,CiU,58.75,#1e4a8e,Nacionalismo/independentismo,75.83,#18a1cd,13.33,58.75,8.75,17.08,NA,NA,NA,NA,1.26
+1999,43168,Vilanova de Prades,Tarragona,144,CiU,69,#1e4a8e,Nacionalismo/independentismo,85,#18a1cd,11,69,4,16,NA,NA,NA,NA,0
+1999,43169,Vilaplana,Tarragona,458,CiU,44.21,#1e4a8e,Nacionalismo/independentismo,65.86,#18a1cd,23.78,44.21,6.4,21.65,NA,NA,NA,NA,3.35
+1999,43170,Vila-rodona,Tarragona,842,CiU,48.08,#1e4a8e,Nacionalismo/independentismo,62.6,#18a1cd,28.21,48.08,7.18,14.52,NA,NA,NA,NA,1.49
+1999,43171,Vila-seca,Tarragona,10165,PSC-CC-IC-V,44.54,#da1f35,No nacionalistas,57.44,#fa8c00,44.54,37.56,10.05,4.1,NA,NA,NA,NA,2.98
+1999,43172,Vilaverd,Tarragona,321,CiU,52.14,#1e4a8e,Nacionalismo/independentismo,70.43,#18a1cd,14.79,52.14,1.95,17.9,NA,NA,NA,NA,12.84
+1999,43173,La Vilella Alta,Tarragona,114,CiU,60.44,#1e4a8e,Nacionalismo/independentismo,84.62,#18a1cd,12.09,60.44,3.3,24.18,NA,NA,NA,NA,0
+1999,43174,La Vilella Baixa,Tarragona,148,CiU,44.09,#1e4a8e,Nacionalismo/independentismo,80.65,#18a1cd,15.05,44.09,2.15,36.56,NA,NA,NA,NA,0
+1999,43175,Vilalba dels Arcs,Tarragona,663,CiU,50.33,#1e4a8e,Nacionalismo/independentismo,59.48,#18a1cd,18.3,50.33,19.83,9.15,NA,NA,NA,NA,2.17
+1999,43176,Vimbodí i Poblet,Tarragona,944,CiU,47.54,#1e4a8e,Nacionalismo/independentismo,69.09,#18a1cd,17.75,47.54,7.92,20.44,NA,NA,NA,NA,5.87
+1999,43177,Vinebre,Tarragona,377,CiU,43.27,#1e4a8e,Nacionalismo/independentismo,57.82,#18a1cd,34.18,43.27,5.45,14.55,NA,NA,NA,NA,1.4500000000000002
+1999,43178,Vinyols i els Arcs,Tarragona,935,CiU,50.32,#1e4a8e,Nacionalismo/independentismo,65.11,#18a1cd,24.6,50.32,8.36,14.79,NA,NA,NA,NA,0.96
+1999,43901,Deltebre,Tarragona,8553,CiU,50.52,#1e4a8e,Nacionalismo/independentismo,57.22,#18a1cd,31.3,50.52,9.77,6.6,NA,NA,NA,NA,0.86
+1999,43902,Sant Jaume d'Enveja,Tarragona,2783,PSC-CC-IC-V,48.95,#da1f35,No nacionalistas,55.24,#fa8c00,48.95,40.14,5.39,3.77,NA,NA,NA,NA,0.96
+1999,43903,Camarles,Tarragona,2355,CiU,68.01,#1e4a8e,Nacionalismo/independentismo,74.62,#18a1cd,15.37,68.01,7.58,6.61,NA,NA,NA,NA,1.47
+1999,43904,L'Aldea,Tarragona,2932,CiU,51.8,#1e4a8e,Nacionalismo/independentismo,60.6,#18a1cd,21.53,51.8,16.09,8.8,NA,NA,NA,NA,0.5700000000000001
+1999,43905,Salou,Tarragona,9310,PSC-CC-IC-V,36.8,#da1f35,No nacionalistas,59.5,#fa8c00,36.8,32.51,20.2,6.97,NA,NA,NA,NA,2.64
+1999,43906,L'Ampolla,Tarragona,1401,CiU,64.73,#1e4a8e,Nacionalismo/independentismo,72.71,#18a1cd,15.66,64.73,9.54,7.88,NA,NA,NA,NA,1.66
+1999,43998,Residents Absents,Tarragona,6943,PSC-CC-IC-V,40.41,#da1f35,No nacionalistas,61.79,#fa8c00,40.41,29.51,11.8,7.3,NA,NA,NA,NA,10.56

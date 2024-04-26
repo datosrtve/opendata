@@ -1,0 +1,952 @@
+year,cod_ine,nom_mun,nom_prov,poblacion,ganador,ganador_por,color,ganador_bloque,ganador_por_bloque,color_bloque,partido_2,partido_3,partido_4,partido_5,partido_6,partido_7,partido_8,partido_99
+2017,08001,Abrera,Barcelona,8965,Cs,33.58,#da5b1f,No nacionalistas,70.06,#fa8c00,8.32,18.51,19.51,10.69,2.6,4.21,NA,2.07
+2017,08002,Aguilar de Segarra,Barcelona,215,JxCat,45.95,#00c4b2,Nacionalismo/independentismo,86.49,#18a1cd,45.95,20,4.86,0.54,20.54,1.62,NA,0
+2017,08003,Alella,Barcelona,7142,JxCat,30.77,#00c4b2,Nacionalismo/independentismo,58.92,#18a1cd,30.77,24.26,10.08,5.48,3.89,3.49,NA,0.93
+2017,08004,Alpens,Barcelona,212,JxCat,62.56,#00c4b2,Nacionalismo/independentismo,91.79,#18a1cd,62.56,20.51,4.1,3.08,8.72,0,NA,0
+2017,08005,L'Ametlla del Vallès,Barcelona,6317,JxCat,36.45,#00c4b2,Nacionalismo/independentismo,64.22,#18a1cd,36.45,24.03,8.34,4.84,3.74,2.32,NA,0.96
+2017,08006,Arenys de Mar,Barcelona,11669,JxCat,32.53,#00c4b2,Nacionalismo/independentismo,63.58,#18a1cd,32.53,25.86,9.25,4.74,5.19,3.37,NA,0.76
+2017,08007,Arenys de Munt,Barcelona,6624,JxCat,37.59,#00c4b2,Nacionalismo/independentismo,71.81,#18a1cd,37.59,28.46,6.17,4.73,5.76,1.86,NA,0.82
+2017,08008,Argençola,Barcelona,190,JxCat,44.94,#00c4b2,Nacionalismo/independentismo,85.45,#18a1cd,44.94,29.75,1.9,1.9,10.76,1.9,NA,1.27
+2017,08009,Argentona,Barcelona,9291,JxCat,29.26,#00c4b2,Nacionalismo/independentismo,58.28,#18a1cd,29.26,22.9,9.85,5.37,6.12,3.54,NA,0.89
+2017,08010,Artés,Barcelona,4218,JxCat,33.27,#00c4b2,Nacionalismo/independentismo,68.95,#18a1cd,33.27,28.43,7.37,3.7,7.25,2.45,NA,0.7999999999999999
+2017,08011,Avià,Barcelona,1756,JxCat,47.77,#00c4b2,Nacionalismo/independentismo,87.23,#18a1cd,47.77,30.56,3.14,1.77,8.9,1.51,NA,0.07
+2017,08012,Avinyó,Barcelona,1697,JxCat,47.39,#00c4b2,Nacionalismo/independentismo,83.28,#18a1cd,47.39,28.92,3.55,1.74,6.97,2.72,NA,0.21
+2017,08013,Avinyonet del Penedès,Barcelona,1246,JxCat,39.53,#00c4b2,Nacionalismo/independentismo,68.78,#18a1cd,39.53,23.64,7.2,5.33,5.61,2.15,NA,0.5599999999999999
+2017,08014,Aiguafreda,Barcelona,2008,JxCat,38.71,#00c4b2,Nacionalismo/independentismo,73.55,#18a1cd,38.71,29.27,6.45,4.63,5.57,2.52,NA,1.06
+2017,08015,Badalona,Barcelona,155706,Cs,31.04,#da5b1f,No nacionalistas,66.89,#fa8c00,11.57,18.17,16.96,9.07,2.98,8.29,NA,1.53
+2017,08016,Bagà,Barcelona,1817,JxCat,34.4,#00c4b2,Nacionalismo/independentismo,70.72,#18a1cd,34.4,29.97,8.86,3.66,6.35,1.41,NA,0.19
+2017,08017,Balenyà,Barcelona,2783,JxCat,38.24,#00c4b2,Nacionalismo/independentismo,66.58,#18a1cd,38.24,23.86,8.71,4.23,4.48,1.78,NA,1.01
+2017,08018,Balsareny,Barcelona,2592,JxCat,29.4,#00c4b2,Nacionalismo/independentismo,59.08,#18a1cd,29.4,24.47,10.79,5.95,5.21,1.58,NA,0.74
+2017,08019,Barcelona,Barcelona,1125838,Cs,23.96,#da5b1f,No nacionalistas,53.83,#fa8c00,19.56,20.91,14.49,9.32,5.29,5.05,NA,1.01
+2017,08020,Begues,Barcelona,5031,ERC,26.75,#e5ab4b,Nacionalismo/independentismo,56.4,#18a1cd,24.2,26.75,10.72,7.33,5.45,2.06,NA,1.1
+2017,08021,Bellprat,Barcelona,68,JxCat,39.29,#00c4b2,Nacionalismo/independentismo,67.86,#18a1cd,39.29,23.21,7.14,3.57,5.36,3.57,NA,0
+2017,08022,Berga,Barcelona,12192,JxCat,40.92,#00c4b2,Nacionalismo/independentismo,76.85,#18a1cd,40.92,27.81,6.37,3.18,8.12,2.47,NA,0.53
+2017,08023,Bigues i Riells,Barcelona,6800,ERC,26.84,#e5ab4b,Nacionalismo/independentismo,54.22,#18a1cd,22.85,26.84,9.74,6.56,4.53,3.08,NA,1.18
+2017,08024,Borredà,Barcelona,369,JxCat,51.11,#00c4b2,Nacionalismo/independentismo,82.22,#18a1cd,51.11,21.9,7.62,1.59,9.21,1.9,NA,0.32
+2017,08025,El Bruc,Barcelona,1501,ERC,27.68,#e5ab4b,Nacionalismo/independentismo,61.28,#18a1cd,23.74,27.68,8.75,7.97,9.86,3.15,NA,0.71
+2017,08026,El Brull,Barcelona,183,JxCat,61.68,#00c4b2,Nacionalismo/independentismo,90.42,#18a1cd,61.68,19.76,0.6,1.2,8.98,2.4,NA,0.6
+2017,08027,Les Cabanyes,Barcelona,696,JxCat,36.42,#00c4b2,Nacionalismo/independentismo,66.39,#18a1cd,36.42,23.84,8.94,4.97,6.13,2.48,NA,0.5
+2017,08028,Cabrera d'Anoia,Barcelona,1033,Cs,29,#da5b1f,No nacionalistas,58.88,#fa8c00,14,22.57,17.15,7.19,4.16,3.4,NA,2.14
+2017,08029,Cabrera de Mar,Barcelona,3528,JxCat,37.99,#00c4b2,Nacionalismo/independentismo,64.99,#18a1cd,37.99,22.91,8.63,4.76,4.09,2.94,NA,0.6399999999999999
+2017,08030,Cabrils,Barcelona,5129,JxCat,38.11,#00c4b2,Nacionalismo/independentismo,65.16,#18a1cd,38.11,22.59,8.14,4.34,4.46,2.33,NA,1.02
+2017,08031,Calaf,Barcelona,2362,JxCat,40.48,#00c4b2,Nacionalismo/independentismo,68.63,#18a1cd,40.48,23.97,8.6,4.23,4.18,4.08,NA,0.55
+2017,08032,Caldes d'Estrac,Barcelona,2013,JxCat,30.95,#00c4b2,Nacionalismo/independentismo,61.65,#18a1cd,30.95,25.35,11.94,6.71,5.35,2.58,NA,1.17
+2017,08033,Caldes de Montbui,Barcelona,13010,ERC,27.23,#e5ab4b,Nacionalismo/independentismo,56.63,#18a1cd,23.73,27.23,10.98,6.19,5.67,2.96,NA,1.09
+2017,08034,Calders,Barcelona,767,JxCat,42.81,#00c4b2,Nacionalismo/independentismo,81.73,#18a1cd,42.81,30.09,4.49,2.54,8.83,1.95,NA,1.05
+2017,08035,Calella,Barcelona,12680,JxCat,29.63,#00c4b2,Nacionalismo/independentismo,58.42,#18a1cd,29.63,24.4,9.59,5.21,4.39,3.68,NA,1.09
+2017,08036,Calonge de Segarra,Barcelona,166,JxCat,68.09,#00c4b2,Nacionalismo/independentismo,88.66,#18a1cd,68.09,17.02,4.26,2.13,3.55,0,NA,0
+2017,08037,Calldetenes,Barcelona,1890,JxCat,52.6,#00c4b2,Nacionalismo/independentismo,84.1,#18a1cd,52.6,25.52,4.18,2.27,5.98,1.67,NA,0.36
+2017,08038,Callús,Barcelona,1512,JxCat,38.78,#00c4b2,Nacionalismo/independentismo,72.37,#18a1cd,38.78,27.71,6.19,3.79,5.88,2.01,NA,0.31
+2017,08039,Campins,Barcelona,391,JxCat,37.21,#00c4b2,Nacionalismo/independentismo,79.36,#18a1cd,37.21,26.16,6.1,5.52,15.99,1.16,NA,1.16
+2017,08040,Canet de Mar,Barcelona,10891,JxCat,28.19,#00c4b2,Nacionalismo/independentismo,60.54,#18a1cd,28.19,27.01,10.04,5.74,5.34,3.73,NA,1.02
+2017,08041,Canovelles,Barcelona,10519,Cs,37.22,#da5b1f,No nacionalistas,71.83,#fa8c00,11.44,13.75,20.21,7.79,2.56,5.15,NA,1.46
+2017,08042,Cànoves i Samalús,Barcelona,2281,Cs,28.03,#da5b1f,No nacionalistas,51.68,#fa8c00,18.65,25.09,12.11,6.96,4.12,3.81,NA,0.77
+2017,08043,Canyelles,Barcelona,3240,Cs,31.65,#da5b1f,No nacionalistas,59.09,#fa8c00,18.03,19.66,14.5,7.59,2.81,4.02,NA,1.3299999999999998
+2017,08044,Capellades,Barcelona,4127,ERC,25.3,#e5ab4b,Nacionalismo/independentismo,56.64,#18a1cd,22.34,25.3,12.62,4.47,9,2.96,NA,1.01
+2017,08045,Capolat,Barcelona,70,JxCat,52.63,#00c4b2,Nacionalismo/independentismo,89.47,#18a1cd,52.63,19.3,1.75,3.51,17.54,1.75,NA,3.5
+2017,08046,Cardedeu,Barcelona,13223,ERC,27.4,#e5ab4b,Nacionalismo/independentismo,60.35,#18a1cd,26.09,27.4,10.65,6.66,6.86,2.6,NA,0.77
+2017,08047,Cardona,Barcelona,3807,JxCat,27.95,#00c4b2,Nacionalismo/independentismo,56.03,#18a1cd,27.95,23.83,14.56,3.94,4.25,3.62,NA,0.67
+2017,08048,Carme,Barcelona,574,JxCat,42.16,#00c4b2,Nacionalismo/independentismo,77.4,#18a1cd,42.16,29.94,7.54,1.43,5.3,1.63,NA,1.22
+2017,08049,Casserres,Barcelona,1305,JxCat,49.41,#00c4b2,Nacionalismo/independentismo,84.99,#18a1cd,49.41,27.12,2.37,2.18,8.46,3.09,NA,0.55
+2017,08050,Castellar del Riu,Barcelona,134,JxCat,65.04,#00c4b2,Nacionalismo/independentismo,90.24,#18a1cd,65.04,18.7,2.44,0,6.5,0.81,NA,0
+2017,08051,Castellar del Vallès,Barcelona,18162,ERC,25.16,#e5ab4b,Nacionalismo/independentismo,52.45,#18a1cd,22.81,25.16,11.97,7.46,4.48,3.03,NA,1.11
+2017,08052,Castellar de n'Hug,Barcelona,138,JxCat,61.79,#00c4b2,Nacionalismo/independentismo,86.18,#18a1cd,61.79,21.95,2.44,0.81,2.44,4.88,NA,0.81
+2017,08053,Castellbell i el Vilar,Barcelona,2844,ERC,24.34,#e5ab4b,Nacionalismo/independentismo,52.92,#18a1cd,24.21,24.34,13.15,5.66,4.37,3.03,NA,0.7100000000000001
+2017,08054,Castellbisbal,Barcelona,9097,Cs,30.82,#da5b1f,No nacionalistas,59.21,#fa8c00,14.01,21.51,14.34,9.01,4.55,3.45,NA,1.59
+2017,08055,Castellcir,Barcelona,521,JxCat,40.54,#00c4b2,Nacionalismo/independentismo,79.28,#18a1cd,40.54,29.73,3.83,2.48,9.01,1.58,NA,0.45
+2017,08056,Castelldefels,Barcelona,42657,Cs,35.36,#da5b1f,No nacionalistas,68.23,#fa8c00,12.16,16.78,16.65,8.66,2.35,5.99,NA,1.5699999999999998
+2017,08057,Castell de l'Areny,Barcelona,65,JxCat,58.18,#00c4b2,Nacionalismo/independentismo,92.73,#18a1cd,58.18,23.64,0,3.64,10.91,1.82,NA,0
+2017,08058,Castellet i la Gornal,Barcelona,1746,Cs,24.77,#da5b1f,No nacionalistas,51.1,#fa8c00,23.64,21.02,14.08,6.44,3.89,4.18,NA,1.63
+2017,08059,Castellfollit del Boix,Barcelona,343,JxCat,45.79,#00c4b2,Nacionalismo/independentismo,83.16,#18a1cd,45.79,29.29,2.36,1.68,8.08,1.68,NA,0
+2017,08060,Castellfollit de Riubregós,Barcelona,143,JxCat,51.54,#00c4b2,Nacionalismo/independentismo,74.62,#18a1cd,51.54,19.23,6.15,3.85,3.85,3.85,NA,0
+2017,08061,Castellgalí,Barcelona,1594,Cs,26.11,#da5b1f,No nacionalistas,52.07,#fa8c00,22.89,20.06,13.17,8.58,4.29,2.99,NA,1.22
+2017,08062,Castellnou de Bages,Barcelona,965,JxCat,35.54,#00c4b2,Nacionalismo/independentismo,65.04,#18a1cd,35.54,24.39,8.25,4.99,5.11,1.74,NA,0.82
+2017,08063,Castellolí,Barcelona,462,JxCat,49.05,#00c4b2,Nacionalismo/independentismo,84.36,#18a1cd,49.05,30.33,4.5,4.03,4.98,0.95,NA,0.95
+2017,08064,Castellterçol,Barcelona,1875,JxCat,42.28,#00c4b2,Nacionalismo/independentismo,76.36,#18a1cd,42.28,27.83,6.69,4.69,6.25,1.69,NA,0.76
+2017,08065,Castellví de la Marca,Barcelona,1177,JxCat,42.52,#00c4b2,Nacionalismo/independentismo,74.53,#18a1cd,42.52,23.98,6.84,3.87,8.03,3.37,NA,1.09
+2017,08066,Castellví de Rosanes,Barcelona,1396,Cs,25.68,#da5b1f,No nacionalistas,50.94,#fa8c00,20.42,23.56,13.56,7.8,4.49,2.46,NA,1.44
+2017,08067,Centelles,Barcelona,5721,JxCat,41.92,#00c4b2,Nacionalismo/independentismo,73.37,#18a1cd,41.92,24.86,7.32,3.67,6.59,2.32,NA,0.47
+2017,08068,Cervelló,Barcelona,6785,ERC,26.65,#e5ab4b,No nacionalistas,51.86,#fa8c00,18.09,26.65,13.13,7.1,3.12,3.92,NA,1.59
+2017,08069,Collbató,Barcelona,3237,ERC,29.32,#e5ab4b,Nacionalismo/independentismo,59.6,#18a1cd,24.49,29.32,9.22,6.26,5.79,2.61,NA,0.93
+2017,08070,Collsuspina,Barcelona,266,JxCat,49.79,#00c4b2,Nacionalismo/independentismo,85.23,#18a1cd,49.79,28.69,3.8,2.95,6.75,0.42,NA,0.84
+2017,08071,Copons,Barcelona,248,ERC,35.38,#e5ab4b,Nacionalismo/independentismo,78.31,#18a1cd,32.08,35.38,8.02,2.36,10.85,1.42,NA,0.94
+2017,08072,Corbera de Llobregat,Barcelona,10487,ERC,27.09,#e5ab4b,Nacionalismo/independentismo,52.26,#18a1cd,20.94,27.09,11.51,6.48,4.23,3.08,NA,1.17
+2017,08073,Cornellà de Llobregat,Barcelona,62206,Cs,33.43,#da5b1f,No nacionalistas,76.21,#fa8c00,5.97,14.53,24.68,11.34,2.94,5.24,NA,1.52
+2017,08074,Cubelles,Barcelona,10813,Cs,33.68,#da5b1f,No nacionalistas,61.34,#fa8c00,14.19,21.21,14.6,7.78,2.9,3.88,NA,1.4
+2017,08075,Dosrius,Barcelona,3938,Cs,25.75,#da5b1f,Nacionalismo/independentismo,52.5,#18a1cd,23.37,25.72,11.07,6,3.41,3.26,NA,1.02
+2017,08076,Esparreguera,Barcelona,16354,Cs,26.8,#da5b1f,No nacionalistas,56.02,#fa8c00,15.42,23.61,16.27,7.92,4.49,3.38,NA,1.65
+2017,08077,Esplugues de Llobregat,Barcelona,34562,Cs,32.56,#da5b1f,No nacionalistas,70.11,#fa8c00,11.14,15.59,20.81,9.43,2.81,6.16,NA,1.15
+2017,08078,L'Espunyola,Barcelona,217,JxCat,59.14,#00c4b2,Nacionalismo/independentismo,89.24,#18a1cd,59.14,22.04,0.54,4.3,8.06,2.15,NA,0
+2017,08079,L'Estany,Barcelona,327,JxCat,38.26,#00c4b2,Nacionalismo/independentismo,83.89,#18a1cd,38.26,36.91,7.38,2.01,8.72,0.67,NA,0
+2017,08080,Fígols,Barcelona,38,ERC,41.94,#e5ab4b,Nacionalismo/independentismo,74.2,#18a1cd,25.81,41.94,6.45,0,6.45,9.68,NA,0
+2017,08081,Fogars de Montclús,Barcelona,345,JxCat,56.71,#00c4b2,Nacionalismo/independentismo,84.56,#18a1cd,56.71,17.11,2.35,3.36,10.74,0.67,NA,0.67
+2017,08082,Fogars de la Selva,Barcelona,1130,Cs,31.75,#da5b1f,No nacionalistas,59.54,#fa8c00,21.39,14.77,12.9,7.28,3.64,5.29,NA,2.32
+2017,08083,Folgueroles,Barcelona,1675,JxCat,55.56,#00c4b2,Nacionalismo/independentismo,89.51,#18a1cd,55.56,27.75,2.94,1.66,6.2,0.96,NA,0.19
+2017,08084,Fonollosa,Barcelona,1149,JxCat,33.87,#00c4b2,Nacionalismo/independentismo,70.47,#18a1cd,33.87,30.74,8.09,4.35,5.86,3.64,NA,0.91
+2017,08085,Font-rubí,Barcelona,989,JxCat,46.11,#00c4b2,Nacionalismo/independentismo,79.56,#18a1cd,46.11,26.95,4.3,2.32,6.5,3.02,NA,0.81
+2017,08086,Les Franqueses del Vallès,Barcelona,13790,Cs,31.14,#da5b1f,No nacionalistas,56.57,#fa8c00,18.39,21.17,13.4,7.63,3.36,3.16,NA,1.24
+2017,08087,Gallifa,Barcelona,148,JxCat,46.32,#00c4b2,Nacionalismo/independentismo,79.4,#18a1cd,46.32,24.26,2.94,6.62,8.82,3.68,NA,1.47
+2017,08088,La Garriga,Barcelona,11991,JxCat,32.75,#00c4b2,Nacionalismo/independentismo,65.57,#18a1cd,32.75,26.25,8.63,4.85,6.57,2.49,NA,0.72
+2017,08089,Gavà,Barcelona,33943,Cs,34.36,#da5b1f,No nacionalistas,69.28,#fa8c00,10.92,16.94,20,8.83,2.38,4.46,NA,1.63
+2017,08090,Gaià,Barcelona,132,JxCat,57.26,#00c4b2,Nacionalismo/independentismo,86.32,#18a1cd,57.26,23.08,3.42,1.71,5.98,1.71,NA,0
+2017,08091,Gelida,Barcelona,5295,ERC,25.27,#e5ab4b,Nacionalismo/independentismo,53.45,#18a1cd,22.15,25.27,13.52,7.89,6.03,2.58,NA,1.32
+2017,08092,Gironella,Barcelona,3711,JxCat,41.71,#00c4b2,Nacionalismo/independentismo,76.2,#18a1cd,41.71,28.24,7.02,3.06,6.25,3.19,NA,0.35
+2017,08093,Gisclareny,Barcelona,25,JxCat,56.52,#00c4b2,Nacionalismo/independentismo,91.3,#18a1cd,56.52,30.43,0,4.35,4.35,0,NA,0
+2017,08094,La Granada,Barcelona,1560,JxCat,35.05,#00c4b2,Nacionalismo/independentismo,70.1,#18a1cd,35.05,28.8,8.38,4.78,6.25,2.5,NA,0.66
+2017,08095,Granera,Barcelona,74,JxCat,53.23,#00c4b2,Nacionalismo/independentismo,85.49,#18a1cd,53.23,20.97,1.61,3.23,11.29,0,NA,0
+2017,08096,Granollers,Barcelona,43399,Cs,26.75,#da5b1f,No nacionalistas,53.02,#fa8c00,21.61,20.94,14.73,6.45,3.96,3.83,NA,1.26
+2017,08097,Gualba,Barcelona,1048,JxCat,38.13,#00c4b2,Nacionalismo/independentismo,74.59,#18a1cd,38.13,28.99,7.47,4.79,7.47,0.33,NA,0.78
+2017,08098,Sant Salvador de Guardiola,Barcelona,2367,JxCat,29.61,#00c4b2,Nacionalismo/independentismo,56.14,#18a1cd,29.61,21.17,7.68,5.71,5.36,4.14,NA,1.21
+2017,08099,Guardiola de Berguedà,Barcelona,745,JxCat,36.79,#00c4b2,Nacionalismo/independentismo,70.74,#18a1cd,36.79,25.59,13.38,3.85,8.36,2.01,NA,0.17
+2017,08100,Gurb,Barcelona,2041,JxCat,52.49,#00c4b2,Nacionalismo/independentismo,86.33,#18a1cd,52.49,28.85,4.29,1.23,4.99,1.29,NA,0.27
+2017,08101,L'Hospitalet de Llobregat,Barcelona,174944,Cs,33.41,#da5b1f,No nacionalistas,73.81,#fa8c00,7.87,15.16,22.98,9.73,2.77,6.19,NA,1.5
+2017,08102,Igualada,Barcelona,28574,JxCat,32.74,#00c4b2,Nacionalismo/independentismo,61.3,#18a1cd,32.74,23.96,9.83,4.94,4.6,3.28,NA,0.91
+2017,08103,Jorba,Barcelona,632,ERC,33.46,#e5ab4b,Nacionalismo/independentismo,70.34,#18a1cd,30.8,33.46,7.98,4.75,6.08,3.99,NA,0.57
+2017,08104,La Llacuna,Barcelona,667,JxCat,45.21,#00c4b2,Nacionalismo/independentismo,84.04,#18a1cd,45.21,30.32,2.66,2.3,8.51,2.13,NA,0.53
+2017,08105,La Llagosta,Barcelona,9657,Cs,37.02,#da5b1f,No nacionalistas,78.14,#fa8c00,6.16,13.78,24.92,9.88,1.53,4.78,NA,1.54
+2017,08106,Llinars del Vallès,Barcelona,7369,ERC,26.39,#e5ab4b,Nacionalismo/independentismo,55.32,#18a1cd,23.99,26.39,10.67,5.33,4.94,3.56,NA,1.4
+2017,08107,Lliçà d'Amunt,Barcelona,11724,Cs,32,#da5b1f,No nacionalistas,61.1,#fa8c00,14.61,20.59,14.64,8.95,3.23,3.83,NA,1.68
+2017,08108,Lliçà de Vall,Barcelona,5087,Cs,30.72,#da5b1f,No nacionalistas,58.45,#fa8c00,18.71,19.69,14.05,7.86,2.5,4.63,NA,1.19
+2017,08109,Lluçà,Barcelona,215,JxCat,40.21,#00c4b2,Nacionalismo/independentismo,91.76,#18a1cd,40.21,32.99,0.52,2.06,18.56,3.09,NA,0
+2017,08110,Malgrat de Mar,Barcelona,13436,Cs,25.51,#da5b1f,No nacionalistas,51.11,#fa8c00,22.38,22.6,14.09,6.69,3.49,3.79,NA,1.03
+2017,08111,Malla,Barcelona,210,JxCat,64.47,#00c4b2,Nacionalismo/independentismo,87.82,#18a1cd,64.47,18.27,2.54,3.55,5.08,2.03,NA,0.51
+2017,08112,Manlleu,Barcelona,12882,JxCat,39.69,#00c4b2,Nacionalismo/independentismo,67.02,#18a1cd,39.69,22.42,8.06,3.81,4.91,2.39,NA,0.49
+2017,08113,Manresa,Barcelona,52263,JxCat,33.13,#00c4b2,Nacionalismo/independentismo,62.44,#18a1cd,33.13,23.93,9.97,4.82,5.38,3.5,NA,0.78
+2017,08114,Martorell,Barcelona,18490,Cs,28.97,#da5b1f,No nacionalistas,61.87,#fa8c00,14.21,19.94,17.93,9.66,3.57,4,NA,1.31
+2017,08115,Martorelles,Barcelona,3829,Cs,29.41,#da5b1f,No nacionalistas,56.83,#fa8c00,16.42,22.79,14.42,8.49,3.52,3.11,NA,1.4
+2017,08116,Les Masies de Roda,Barcelona,557,JxCat,58.67,#00c4b2,Nacionalismo/independentismo,86.89,#18a1cd,58.67,22.98,1.81,1.41,5.24,1.21,NA,0.2
+2017,08117,Les Masies de Voltregà,Barcelona,2458,JxCat,45.49,#00c4b2,Nacionalismo/independentismo,72.75,#18a1cd,45.49,21.89,7.31,3.24,5.37,2.82,NA,0.32
+2017,08118,El Masnou,Barcelona,17611,ERC,26.14,#e5ab4b,Nacionalismo/independentismo,57.79,#18a1cd,25.85,26.14,10.4,7.48,5.8,2.97,NA,1.18
+2017,08119,Masquefa,Barcelona,6369,Cs,30.38,#da5b1f,No nacionalistas,59.27,#fa8c00,15.39,21.74,14.17,9.33,3.1,3.21,NA,2.18
+2017,08120,Matadepera,Barcelona,6964,JxCat,51.13,#00c4b2,Nacionalismo/independentismo,71.77,#18a1cd,51.13,17.35,5.56,2.2,3.29,2.75,NA,0.56
+2017,08121,Mataró,Barcelona,86793,Cs,30.46,#da5b1f,No nacionalistas,57.46,#fa8c00,18.53,19.9,14.77,6.78,3.75,4.21,NA,1.24
+2017,08122,Mediona,Barcelona,1684,ERC,32.1,#e5ab4b,Nacionalismo/independentismo,66.01,#18a1cd,26.45,32.1,8.74,5.35,7.46,2.79,NA,0.76
+2017,08123,Molins de Rei,Barcelona,19263,ERC,27.22,#e5ab4b,Nacionalismo/independentismo,53.29,#18a1cd,20.6,27.22,14.68,8.13,5.47,2.41,NA,1.02
+2017,08124,Mollet del Vallès,Barcelona,36965,Cs,31.07,#da5b1f,No nacionalistas,66.83,#fa8c00,11.39,18.57,19.96,10.4,2.78,3.92,NA,1.48
+2017,08125,Montcada i Reixac,Barcelona,25299,Cs,31.59,#da5b1f,No nacionalistas,67.23,#fa8c00,10.02,19.3,17.8,11.83,2.98,4.2,NA,1.81
+2017,08126,Montgat,Barcelona,8835,ERC,26.27,#e5ab4b,No nacionalistas,52.79,#fa8c00,16.56,26.27,12.74,9.02,4.02,3.58,NA,1.38
+2017,08127,Monistrol de Montserrat,Barcelona,2234,ERC,26.12,#e5ab4b,Nacionalismo/independentismo,56.27,#18a1cd,24.38,26.12,11.43,6.22,5.77,3.76,NA,1.35
+2017,08128,Monistrol de Calders,Barcelona,568,JxCat,39.09,#00c4b2,Nacionalismo/independentismo,77.78,#18a1cd,39.09,26.34,7.2,3.7,12.35,2.26,NA,0.21
+2017,08129,Muntanyola,Barcelona,482,JxCat,45.48,#00c4b2,Nacionalismo/independentismo,84.06,#18a1cd,45.48,30.48,2.38,3.33,8.1,0.48,NA,0
+2017,08130,Montclar,Barcelona,96,JxCat,43.02,#00c4b2,Nacionalismo/independentismo,77.9,#18a1cd,43.02,30.23,8.14,0,4.65,3.49,NA,1.16
+2017,08131,Montesquiu,Barcelona,727,JxCat,45.54,#00c4b2,Nacionalismo/independentismo,82.81,#18a1cd,45.54,31.6,4.7,3.4,5.67,0.97,NA,0.48
+2017,08132,Montmajor,Barcelona,369,JxCat,63.38,#00c4b2,Nacionalismo/independentismo,85.67,#18a1cd,63.38,18.47,5.73,1.27,3.82,2.87,NA,0.32
+2017,08133,Montmaneu,Barcelona,126,JxCat,58.06,#00c4b2,Nacionalismo/independentismo,72.04,#18a1cd,58.06,9.68,4.3,3.23,4.3,5.38,NA,0
+2017,08134,Figaró-Montmany,Barcelona,826,ERC,32.31,#e5ab4b,Nacionalismo/independentismo,70.01,#18a1cd,28.38,32.31,9.32,5.24,9.32,2.04,NA,0.73
+2017,08135,Montmeló,Barcelona,6700,Cs,31.17,#da5b1f,No nacionalistas,67.94,#fa8c00,11.33,16.33,19.73,11.01,3.97,4.6,NA,1.43
+2017,08136,Montornès del Vallès,Barcelona,11498,Cs,35.27,#da5b1f,No nacionalistas,71.79,#fa8c00,9.4,15.55,17.94,11.82,2.6,5.08,NA,1.6800000000000002
+2017,08137,Montseny,Barcelona,268,JxCat,55,#00c4b2,Nacionalismo/independentismo,84.59,#18a1cd,55,21.67,3.75,4.58,7.92,0,NA,0
+2017,08138,Moià,Barcelona,4348,JxCat,35.11,#00c4b2,Nacionalismo/independentismo,73.61,#18a1cd,35.11,30.38,6.59,3.98,8.12,1.89,NA,0.53
+2017,08139,Mura,Barcelona,177,JxCat,38.36,#00c4b2,Nacionalismo/independentismo,83.01,#18a1cd,38.36,27.67,7.55,5.66,16.98,0.63,NA,0
+2017,08140,Navarcles,Barcelona,4755,JxCat,33.54,#00c4b2,Nacionalismo/independentismo,61.27,#18a1cd,33.54,23.43,10.21,5.81,4.3,3.25,NA,0.79
+2017,08141,Navàs,Barcelona,4569,JxCat,36.21,#00c4b2,Nacionalismo/independentismo,69.98,#18a1cd,36.21,25.45,8.35,3.2,8.32,2.79,NA,0.59
+2017,08142,La Nou de Berguedà,Barcelona,141,JxCat,47.29,#00c4b2,Nacionalismo/independentismo,79.07,#18a1cd,47.29,18.6,10.85,2.33,13.18,0,NA,0
+2017,08143,Òdena,Barcelona,2699,JxCat,25.9,#00c4b2,Nacionalismo/independentismo,51.4,#18a1cd,25.9,21.64,15.34,5.5,3.86,3.28,NA,1.11
+2017,08144,Olvan,Barcelona,699,JxCat,47.45,#00c4b2,Nacionalismo/independentismo,81.63,#18a1cd,47.45,27.72,3.23,3.06,6.46,4.25,NA,0
+2017,08145,Olèrdola,Barcelona,2625,JxCat,29.64,#00c4b2,Nacionalismo/independentismo,60.62,#18a1cd,29.64,25,10.18,6.03,5.98,2.46,NA,0.93
+2017,08146,Olesa de Bonesvalls,Barcelona,1314,Cs,29.72,#da5b1f,No nacionalistas,55.45,#fa8c00,16.67,23.89,13.98,7.22,3.43,3.7,NA,0.8300000000000001
+2017,08147,Olesa de Montserrat,Barcelona,17131,Cs,26.34,#da5b1f,No nacionalistas,53.61,#fa8c00,16.27,24.96,14.17,8.5,4.77,2.78,NA,1.82
+2017,08148,Olivella,Barcelona,2287,Cs,32.36,#da5b1f,No nacionalistas,59.4,#fa8c00,12.78,22.11,14.59,7.95,5.38,3.02,NA,1.48
+2017,08149,Olost,Barcelona,984,JxCat,46.03,#00c4b2,Nacionalismo/independentismo,85.05,#18a1cd,46.03,29.56,2.57,0.58,9.46,2.57,NA,0.12
+2017,08150,Orís,Barcelona,255,JxCat,57.83,#00c4b2,Nacionalismo/independentismo,82.61,#18a1cd,57.83,15.65,2.61,3.04,9.13,1.74,NA,0.43
+2017,08151,Oristà,Barcelona,458,JxCat,61.03,#00c4b2,Nacionalismo/independentismo,88.97,#18a1cd,61.03,21.32,1.96,0.74,6.62,3.43,NA,0
+2017,08152,Orpí,Barcelona,113,JxCat,46.81,#00c4b2,Nacionalismo/independentismo,90.43,#18a1cd,46.81,39.36,4.26,2.13,4.26,0,NA,0
+2017,08153,Òrrius,Barcelona,567,JxCat,40.64,#00c4b2,Nacionalismo/independentismo,81.08,#18a1cd,40.64,30.48,5.98,1.99,9.96,0.8,NA,0.6
+2017,08154,Pacs del Penedès,Barcelona,685,JxCat,35.63,#00c4b2,Nacionalismo/independentismo,63.38,#18a1cd,35.63,22.5,8.21,4.27,5.25,2.3,NA,0
+2017,08155,Palafolls,Barcelona,6814,Cs,29,#da5b1f,No nacionalistas,54.71,#fa8c00,18.65,22.15,13.01,8.53,3.91,2.69,NA,1.48
+2017,08156,Palau-solità i Plegamans,Barcelona,10987,Cs,27.46,#da5b1f,No nacionalistas,53.34,#fa8c00,20.54,22.24,13.15,8.38,3.43,3.01,NA,1.34
+2017,08157,Pallejà,Barcelona,8418,Cs,29.75,#da5b1f,No nacionalistas,62.59,#fa8c00,13,20.59,18.6,10.07,3.43,2.97,NA,1.2
+2017,08158,El Papiol,Barcelona,3086,ERC,26.86,#e5ab4b,Nacionalismo/independentismo,53.29,#18a1cd,20.87,26.86,12.53,7.67,5.56,2.7,NA,1.17
+2017,08159,Parets del Vallès,Barcelona,14268,Cs,28.71,#da5b1f,No nacionalistas,58.36,#fa8c00,15.41,21.9,15.7,9.24,3.88,3.13,NA,1.58
+2017,08160,Perafita,Barcelona,329,JxCat,57.2,#00c4b2,Nacionalismo/independentismo,88.2,#18a1cd,57.2,19.93,1.85,3.32,11.07,2.58,NA,0
+2017,08161,Piera,Barcelona,11392,Cs,27.93,#da5b1f,No nacionalistas,54.6,#fa8c00,18.1,22.49,13.14,7.94,4.39,3.64,NA,1.95
+2017,08162,Els Hostalets de Pierola,Barcelona,2075,ERC,27.52,#e5ab4b,Nacionalismo/independentismo,55.9,#18a1cd,22.28,27.52,10.94,6.1,6.1,3.68,NA,1.21
+2017,08163,Pineda de Mar,Barcelona,18994,Cs,31.03,#da5b1f,No nacionalistas,57.92,#fa8c00,18.91,19.72,14.89,5.82,3.12,4.87,NA,1.31
+2017,08164,El Pla del Penedès,Barcelona,927,JxCat,39.22,#00c4b2,Nacionalismo/independentismo,74.39,#18a1cd,39.22,25.49,6.5,5.02,9.68,1.72,NA,0.37
+2017,08165,La Pobla de Claramunt,Barcelona,1654,JxCat,29.23,#00c4b2,Nacionalismo/independentismo,58.95,#18a1cd,29.23,23.64,12.52,6.29,6.08,1.96,NA,1.4
+2017,08166,La Pobla de Lillet,Barcelona,975,JxCat,42.14,#00c4b2,Nacionalismo/independentismo,74.21,#18a1cd,42.14,27.04,8.05,4.03,5.03,2.52,NA,0.13
+2017,08167,Polinyà,Barcelona,5980,Cs,34.78,#da5b1f,No nacionalistas,69.88,#fa8c00,9.85,17.4,18.97,11.14,2.28,2.79,NA,2.2
+2017,08168,Pontons,Barcelona,353,JxCat,35.76,#00c4b2,Nacionalismo/independentismo,60.76,#18a1cd,35.76,19.1,3.12,4.17,5.9,13.19,NA,1.39
+2017,08169,El Prat de Llobregat,Barcelona,48072,Cs,32.97,#da5b1f,No nacionalistas,72.92,#fa8c00,7.99,15.85,21.22,12.15,2.78,4.73,NA,1.85
+2017,08170,Els Prats de Rei,Barcelona,444,JxCat,56.41,#00c4b2,Nacionalismo/independentismo,81.76,#18a1cd,56.41,21.08,5.7,1.71,4.27,1.99,NA,0
+2017,08171,Prats de Lluçanès,Barcelona,2069,JxCat,45.85,#00c4b2,Nacionalismo/independentismo,82.51,#18a1cd,45.85,30.61,3.08,2.19,6.05,1.79,NA,0.22
+2017,08172,Premià de Mar,Barcelona,20385,Cs,24.47,#da5b1f,Nacionalismo/independentismo,50.29,#18a1cd,20.47,24.29,12.95,7.69,5.53,3.14,NA,1.09
+2017,08174,Puigdàlber,Barcelona,385,JxCat,36.29,#00c4b2,Nacionalismo/independentismo,70.58,#18a1cd,36.29,28.29,3.43,3.43,6,1.71,NA,0.86
+2017,08175,Puig-reig,Barcelona,3312,JxCat,42.05,#00c4b2,Nacionalismo/independentismo,75.98,#18a1cd,42.05,28.17,5.39,2.73,5.76,3.11,NA,0.45
+2017,08176,Pujalt,Barcelona,159,JxCat,44.36,#00c4b2,Nacionalismo/independentismo,75.18,#18a1cd,44.36,25.56,1.5,0.75,5.26,9.77,NA,0
+2017,08177,La Quar,Barcelona,43,JxCat,48.72,#00c4b2,Nacionalismo/independentismo,84.61,#18a1cd,48.72,20.51,0,0,15.38,2.56,NA,0
+2017,08178,Rajadell,Barcelona,439,JxCat,41.37,#00c4b2,Nacionalismo/independentismo,74.11,#18a1cd,41.37,24.87,6.6,3.05,7.87,4.31,NA,0.51
+2017,08179,Rellinars,Barcelona,587,ERC,34.15,#e5ab4b,Nacionalismo/independentismo,61.59,#18a1cd,21.95,34.15,9.15,10.37,5.49,3.05,NA,1.22
+2017,08180,Ripollet,Barcelona,26894,Cs,35.16,#da5b1f,No nacionalistas,71.35,#fa8c00,8.49,16.2,19.8,10.65,3.49,4.03,NA,1.71
+2017,08181,La Roca del Vallès,Barcelona,7928,ERC,25.26,#e5ab4b,Nacionalismo/independentismo,53.48,#18a1cd,24.15,25.26,12.38,5.96,4.07,3.11,NA,1.31
+2017,08182,El Pont de Vilomara i Rocafort,Barcelona,2868,Cs,33.25,#da5b1f,No nacionalistas,59.1,#fa8c00,16.21,20.72,14.95,6.47,3.34,3.05,NA,1.38
+2017,08183,Roda de Ter,Barcelona,4525,JxCat,46.65,#00c4b2,Nacionalismo/independentismo,76.66,#18a1cd,46.65,25.34,6.47,3.62,4.67,1.64,NA,0.44
+2017,08184,Rubí,Barcelona,54272,Cs,33.82,#da5b1f,No nacionalistas,66.02,#fa8c00,11.17,19.02,17.21,9.44,3.35,3.91,NA,1.64
+2017,08185,Rubió,Barcelona,187,JxCat,32.14,#00c4b2,Nacionalismo/independentismo,68.45,#18a1cd,32.14,25.6,1.19,7.14,10.71,4.76,NA,0
+2017,08187,Sabadell,Barcelona,152867,Cs,28.07,#da5b1f,No nacionalistas,58.24,#fa8c00,16.9,20.18,16.1,9.02,4.25,3.68,NA,1.37
+2017,08188,Sagàs,Barcelona,120,JxCat,50,#00c4b2,Nacionalismo/independentismo,87.72,#18a1cd,50,24.56,2.63,0.88,13.16,4.39,NA,0
+2017,08189,Sant Pere Sallavinera,Barcelona,124,JxCat,56.6,#00c4b2,Nacionalismo/independentismo,85.84,#18a1cd,56.6,25.47,3.77,2.83,3.77,3.77,NA,0.94
+2017,08190,Saldes,Barcelona,255,JxCat,43.26,#00c4b2,Nacionalismo/independentismo,80.47,#18a1cd,43.26,32.56,6.05,3.26,4.65,1.4,NA,0
+2017,08191,Sallent,Barcelona,5250,JxCat,28.88,#00c4b2,Nacionalismo/independentismo,61.53,#18a1cd,28.88,25.13,12.21,5.92,7.52,2.84,NA,0.7
+2017,08192,Santpedor,Barcelona,5662,JxCat,34.26,#00c4b2,Nacionalismo/independentismo,69.09,#18a1cd,34.26,29.45,7.38,5.1,5.38,1.9,NA,0.65
+2017,08193,Sant Iscle de Vallalta,Barcelona,959,JxCat,35.24,#00c4b2,Nacionalismo/independentismo,69.98,#18a1cd,35.24,31.13,5.48,3.86,3.61,3.61,NA,0.87
+2017,08194,Sant Adrià de Besòs,Barcelona,25737,Cs,34.6,#da5b1f,No nacionalistas,72.47,#fa8c00,7.96,16.63,19.44,9.94,2.5,6.75,NA,1.7399999999999998
+2017,08195,Sant Agustí de Lluçanès,Barcelona,78,JxCat,66.67,#00c4b2,Nacionalismo/independentismo,88.9,#18a1cd,66.67,18.06,0,1.39,4.17,0,NA,0
+2017,08196,Sant Andreu de la Barca,Barcelona,19325,Cs,37.78,#da5b1f,No nacionalistas,74.17,#fa8c00,6.67,16.74,21.85,9.21,2,3.68,NA,1.65
+2017,08197,Sant Andreu de Llavaneres,Barcelona,7751,JxCat,30.99,#00c4b2,Nacionalismo/independentismo,56.41,#18a1cd,30.99,22.87,8.66,4.77,2.55,3.71,NA,1
+2017,08198,Sant Antoni de Vilamajor,Barcelona,4574,JxCat,30.48,#00c4b2,Nacionalismo/independentismo,65.05,#18a1cd,30.48,28.89,7.22,5.6,5.68,2.47,NA,0.75
+2017,08199,Sant Bartomeu del Grau,Barcelona,663,JxCat,48.6,#00c4b2,Nacionalismo/independentismo,79.02,#18a1cd,48.6,26.57,6.12,1.57,3.85,2.62,NA,0.17
+2017,08200,Sant Boi de Llobregat,Barcelona,61625,Cs,32.93,#da5b1f,No nacionalistas,71.1,#fa8c00,8.33,17.48,21.23,11.01,2.68,4.16,NA,1.77
+2017,08201,Sant Boi de Lluçanès,Barcelona,431,JxCat,48.46,#00c4b2,Nacionalismo/independentismo,85.15,#18a1cd,48.46,33.89,3.64,3.08,2.8,2.52,NA,0.28
+2017,08202,Sant Celoni,Barcelona,12744,JxCat,33.1,#00c4b2,Nacionalismo/independentismo,61.58,#18a1cd,33.1,23.12,10.85,5.61,5.36,2.83,NA,0.81
+2017,08203,Sant Cebrià de Vallalta,Barcelona,2427,JxCat,29.89,#00c4b2,Nacionalismo/independentismo,63.24,#18a1cd,29.89,27.79,8.16,5.51,5.56,2.35,NA,1.1
+2017,08204,Sant Climent de Llobregat,Barcelona,3064,ERC,24.11,#e5ab4b,No nacionalistas,49.87,#fa8c00,21.39,24.11,15.84,8.65,4.13,2.33,NA,1.92
+2017,08205,Sant Cugat del Vallès,Barcelona,60642,JxCat,29.24,#00c4b2,Nacionalismo/independentismo,55.26,#18a1cd,29.24,20.82,10.91,6.59,5.2,3.2,NA,0.8
+2017,08206,Sant Cugat Sesgarrigues,Barcelona,712,JxCat,36.35,#00c4b2,Nacionalismo/independentismo,72.54,#18a1cd,36.35,28.39,7.64,5.15,7.8,0.94,NA,0.78
+2017,08207,Sant Esteve de Palautordera,Barcelona,1946,JxCat,47.04,#00c4b2,Nacionalismo/independentismo,85.1,#18a1cd,47.04,28.12,3.05,2.88,9.94,1.13,NA,0.4
+2017,08208,Sant Esteve Sesrovires,Barcelona,5829,Cs,26.77,#da5b1f,No nacionalistas,54.33,#fa8c00,15.93,24.98,13.67,8.99,4.27,3.08,NA,1.82
+2017,08209,Sant Fost de Campsentelles,Barcelona,6817,Cs,28.44,#da5b1f,No nacionalistas,56.14,#fa8c00,17.43,22.55,13.48,8.45,3.57,4.67,NA,1.1
+2017,08210,Sant Feliu de Codines,Barcelona,4492,JxCat,33.77,#00c4b2,Nacionalismo/independentismo,69.05,#18a1cd,33.77,28.35,7.37,4.44,6.93,1.87,NA,1.26
+2017,08211,Sant Feliu de Llobregat,Barcelona,33414,Cs,31.44,#da5b1f,No nacionalistas,65.49,#fa8c00,12.11,18.8,18.21,10.2,3.23,4.23,NA,1.41
+2017,08212,Sant Feliu Sasserra,Barcelona,490,JxCat,54.82,#00c4b2,Nacionalismo/independentismo,87.85,#18a1cd,54.82,28.9,2.98,0.69,4.13,2.52,NA,0
+2017,08213,Sant Fruitós de Bages,Barcelona,6470,JxCat,34.06,#00c4b2,Nacionalismo/independentismo,63.21,#18a1cd,34.06,25.34,8.55,5.79,3.81,2.36,NA,0.8
+2017,08214,Vilassar de Dalt,Barcelona,6893,JxCat,32.16,#00c4b2,Nacionalismo/independentismo,64.01,#18a1cd,32.16,26.74,8.96,5.24,5.11,3.16,NA,0.76
+2017,08215,Sant Hipòlit de Voltregà,Barcelona,2575,JxCat,44.04,#00c4b2,Nacionalismo/independentismo,75.23,#18a1cd,44.04,25.21,8.22,2.2,5.98,2.16,NA,0.5800000000000001
+2017,08216,Sant Jaume de Frontanyà,Barcelona,26,ERC,43.48,#e5ab4b,Nacionalismo/independentismo,82.61,#18a1cd,34.78,43.48,13.04,0,4.35,0,NA,0
+2017,08217,Sant Joan Despí,Barcelona,25344,Cs,31.69,#da5b1f,No nacionalistas,68.79,#fa8c00,11.55,16.98,21.55,10.37,2.36,3.72,NA,1.4600000000000002
+2017,08218,Sant Joan de Vilatorrada,Barcelona,8040,Cs,25.89,#da5b1f,No nacionalistas,49.88,#fa8c00,24.57,21.8,13.36,7.21,3.39,2.65,NA,0.77
+2017,08219,Vilassar de Mar,Barcelona,15566,JxCat,30.65,#00c4b2,Nacionalismo/independentismo,60.43,#18a1cd,30.65,24.55,10.1,6.73,5.23,2.51,NA,0.91
+2017,08220,Sant Julià de Vilatorta,Barcelona,2384,JxCat,58.79,#00c4b2,Nacionalismo/independentismo,90.26,#18a1cd,58.79,26.38,2.43,1.53,5.09,0.59,NA,0.1
+2017,08221,Sant Just Desvern,Barcelona,12517,JxCat,25.09,#00c4b2,Nacionalismo/independentismo,51.35,#18a1cd,25.09,21.1,14.59,7.09,5.16,3.93,NA,0.86
+2017,08222,Sant Llorenç d'Hortons,Barcelona,1927,ERC,30.39,#e5ab4b,Nacionalismo/independentismo,64.18,#18a1cd,27.52,30.39,8.36,6.99,6.27,2.27,NA,1.19
+2017,08223,Sant Llorenç Savall,Barcelona,1852,JxCat,31.66,#00c4b2,Nacionalismo/independentismo,69.54,#18a1cd,31.66,30,6.89,4.24,7.88,1.99,NA,0.6699999999999999
+2017,08224,Sant Martí de Centelles,Barcelona,855,JxCat,35.8,#00c4b2,Nacionalismo/independentismo,69.82,#18a1cd,35.8,27.02,7.13,5.35,7,1.1,NA,1.37
+2017,08225,Sant Martí d'Albars,Barcelona,92,JxCat,63.53,#00c4b2,Nacionalismo/independentismo,89.42,#18a1cd,63.53,17.65,1.18,1.18,8.24,3.53,NA,1.18
+2017,08226,Sant Martí de Tous,Barcelona,903,JxCat,43.12,#00c4b2,Nacionalismo/independentismo,81.17,#18a1cd,43.12,30.68,4.95,3.38,7.37,1.93,NA,0.24
+2017,08227,Sant Martí Sarroca,Barcelona,2400,JxCat,36.85,#00c4b2,Nacionalismo/independentismo,69.06,#18a1cd,36.85,24.07,7.79,4.69,8.14,2.71,NA,0.99
+2017,08228,Sant Martí Sesgueioles,Barcelona,280,JxCat,42.86,#00c4b2,Nacionalismo/independentismo,79.19,#18a1cd,42.86,26.53,5.31,3.67,9.8,2.86,NA,0
+2017,08229,Sant Mateu de Bages,Barcelona,523,JxCat,55,#00c4b2,Nacionalismo/independentismo,85.43,#18a1cd,55,25.43,3.7,2.39,5,3.04,NA,0.22
+2017,08230,Premià de Dalt,Barcelona,7654,Cs,27.47,#da5b1f,Nacionalismo/independentismo,49.83,#18a1cd,25.92,20.31,12.13,5.54,3.6,3.34,NA,1.05
+2017,08231,Sant Pere de Ribes,Barcelona,20868,Cs,31.55,#da5b1f,No nacionalistas,59.74,#fa8c00,15.26,19.44,15.9,7.74,5.22,3.1,NA,1.45
+2017,08232,Sant Pere de Riudebitlles,Barcelona,1776,JxCat,38.96,#00c4b2,Nacionalismo/independentismo,73.94,#18a1cd,38.96,27.75,9.06,2.8,7.23,1.76,NA,0.65
+2017,08233,Sant Pere de Torelló,Barcelona,1846,JxCat,48.97,#00c4b2,Nacionalismo/independentismo,83.78,#18a1cd,48.97,29.07,3.93,1.81,5.74,0.87,NA,0.49
+2017,08234,Sant Pere de Vilamajor,Barcelona,3273,ERC,28.89,#e5ab4b,Nacionalismo/independentismo,61.45,#18a1cd,26.26,28.89,8.79,6.16,6.3,2.85,NA,1
+2017,08235,Sant Pol de Mar,Barcelona,3746,JxCat,40.29,#00c4b2,Nacionalismo/independentismo,74.55,#18a1cd,40.29,27.52,6.34,4.59,6.74,1.91,NA,0.37
+2017,08236,Sant Quintí de Mediona,Barcelona,1543,ERC,35.96,#e5ab4b,Nacionalismo/independentismo,73.4,#18a1cd,31.67,35.96,6.16,3.9,5.77,4.99,NA,0.5499999999999999
+2017,08237,Sant Quirze de Besora,Barcelona,1640,JxCat,52.76,#00c4b2,Nacionalismo/independentismo,83.06,#18a1cd,52.76,27.22,4.69,2.17,3.08,1.4,NA,0.21
+2017,08238,Sant Quirze del Vallès,Barcelona,14664,JxCat,26.21,#00c4b2,Nacionalismo/independentismo,55.77,#18a1cd,26.21,25.71,11.23,6.6,3.85,2.44,NA,0.84
+2017,08239,Sant Quirze Safaja,Barcelona,458,JxCat,41.75,#00c4b2,Nacionalismo/independentismo,68.29,#18a1cd,41.75,21.13,6.19,5.67,5.41,1.55,NA,1.29
+2017,08240,Sant Sadurní d'Anoia,Barcelona,9428,JxCat,29.02,#00c4b2,Nacionalismo/independentismo,61.59,#18a1cd,29.02,26.45,11.78,7.41,6.12,2.99,NA,0.75
+2017,08241,Sant Sadurní d'Osormort,Barcelona,73,JxCat,45.31,#00c4b2,Nacionalismo/independentismo,79.68,#18a1cd,45.31,28.12,4.69,1.56,6.25,4.69,NA,0
+2017,08242,Marganell,Barcelona,216,JxCat,46.28,#00c4b2,Nacionalismo/independentismo,73.94,#18a1cd,46.28,20.21,9.04,1.6,7.45,3.19,NA,1.6
+2017,08243,Santa Cecília de Voltregà,Barcelona,163,JxCat,61.69,#00c4b2,Nacionalismo/independentismo,94.16,#18a1cd,61.69,29.87,1.95,0,2.6,1.3,NA,0
+2017,08244,Santa Coloma de Cervelló,Barcelona,5941,ERC,25.97,#e5ab4b,No nacionalistas,54.56,#fa8c00,14.8,25.97,13.86,11.52,4.25,2.65,NA,1.4
+2017,08245,Santa Coloma de Gramenet,Barcelona,78439,Cs,35.46,#da5b1f,No nacionalistas,78.3,#fa8c00,5.47,13.13,23.74,10.8,2.69,6.65,NA,1.65
+2017,08246,Santa Eugènia de Berga,Barcelona,1653,JxCat,51.66,#00c4b2,Nacionalismo/independentismo,87.09,#18a1cd,51.66,30.9,3.04,1.28,4.53,1.35,NA,0.41
+2017,08247,Santa Eulàlia de Riuprimer,Barcelona,968,JxCat,53.1,#00c4b2,Nacionalismo/independentismo,85.98,#18a1cd,53.1,23.91,1.95,2.41,8.97,1.15,NA,0.57
+2017,08248,Santa Eulàlia de Ronçana,Barcelona,5548,ERC,26.29,#e5ab4b,Nacionalismo/independentismo,56.81,#18a1cd,25.66,26.29,9.88,6.56,4.86,2.66,NA,0.99
+2017,08249,Santa Fe del Penedès,Barcelona,274,JxCat,44.57,#00c4b2,Nacionalismo/independentismo,85.66,#18a1cd,44.57,30.62,3.88,2.71,10.47,1.55,NA,0
+2017,08250,Santa Margarida de Montbui,Barcelona,7113,Cs,38.31,#da5b1f,No nacionalistas,70.09,#fa8c00,11.4,14.81,19.02,8.2,3.11,3.37,NA,1.19
+2017,08251,Santa Margarida i els Monjos,Barcelona,5029,Cs,27.69,#da5b1f,No nacionalistas,53.07,#fa8c00,21.44,21.22,14.29,6.37,3.77,3.45,NA,1.27
+2017,08252,Barberà del Vallès,Barcelona,24620,Cs,34.7,#da5b1f,No nacionalistas,71.92,#fa8c00,7.58,16.7,19.82,11.13,3.41,4.41,NA,1.86
+2017,08253,Santa Maria de Besora,Barcelona,122,JxCat,62.83,#00c4b2,Nacionalismo/independentismo,94.68,#18a1cd,62.83,25.66,0,2.65,6.19,0.88,NA,0.88
+2017,08254,L'Esquirol,Barcelona,1752,JxCat,53.51,#00c4b2,Nacionalismo/independentismo,91.39,#18a1cd,53.51,27.36,2.3,2.17,10.52,0.89,NA,0.32
+2017,08255,Santa Maria de Merlès,Barcelona,142,JxCat,54.84,#00c4b2,Nacionalismo/independentismo,91.13,#18a1cd,54.84,20.16,3.23,2.42,16.13,0,NA,0.81
+2017,08256,Santa Maria de Martorelles,Barcelona,662,ERC,29.41,#e5ab4b,Nacionalismo/independentismo,62.28,#18a1cd,24.91,29.41,7.27,9,7.96,2.08,NA,0.87
+2017,08257,Santa Maria de Miralles,Barcelona,103,JxCat,50.54,#00c4b2,Nacionalismo/independentismo,77.42,#18a1cd,50.54,24.73,4.3,8.6,2.15,1.08,NA,1.08
+2017,08258,Santa Maria d'Oló,Barcelona,819,JxCat,44.29,#00c4b2,Nacionalismo/independentismo,90.49,#18a1cd,44.29,36.28,2.72,1.63,9.92,1.63,NA,0
+2017,08259,Santa Maria de Palautordera,Barcelona,6760,JxCat,33.9,#00c4b2,Nacionalismo/independentismo,65.31,#18a1cd,33.9,25.78,9.4,5.83,5.63,2.5,NA,1.04
+2017,08260,Santa Perpètua de Mogoda,Barcelona,18371,Cs,34.62,#da5b1f,No nacionalistas,66.54,#fa8c00,11.6,18.16,16.16,10.63,3.24,3.64,NA,1.49
+2017,08261,Santa Susanna,Barcelona,2352,Cs,30.73,#da5b1f,Nacionalismo/independentismo,50.94,#18a1cd,24.15,22.64,8.86,5.49,4.15,3.11,NA,0.68
+2017,08262,Sant Vicenç de Castellet,Barcelona,6843,ERC,27.52,#e5ab4b,Nacionalismo/independentismo,53.79,#18a1cd,22.45,27.52,13.33,6.13,3.82,2.86,NA,1.13
+2017,08263,Sant Vicenç dels Horts,Barcelona,21082,Cs,35.97,#da5b1f,No nacionalistas,65.45,#fa8c00,5.78,26.36,16.88,7.86,1.86,3.46,NA,1.28
+2017,08264,Sant Vicenç de Montalt,Barcelona,4410,JxCat,33.94,#00c4b2,Nacionalismo/independentismo,58.61,#18a1cd,33.94,21.39,8.52,3.77,3.28,2.67,NA,0.6699999999999999
+2017,08265,Sant Vicenç de Torelló,Barcelona,1559,JxCat,48.31,#00c4b2,Nacionalismo/independentismo,85.86,#18a1cd,48.31,29.15,4.38,1.94,8.4,1.08,NA,0.14
+2017,08266,Cerdanyola del Vallès,Barcelona,43223,Cs,29.44,#da5b1f,No nacionalistas,63.31,#fa8c00,13.03,18.95,18.11,10.22,4.22,4.26,NA,1.28
+2017,08267,Sentmenat,Barcelona,6638,Cs,25.43,#da5b1f,No nacionalistas,51.32,#fa8c00,19.99,22.71,13.43,8.41,5.51,2.56,NA,1.49
+2017,08268,Cercs,Barcelona,989,JxCat,35.84,#00c4b2,Nacionalismo/independentismo,71.44,#18a1cd,35.84,30.62,8.38,3.04,4.98,1.94,NA,1.46
+2017,08269,Seva,Barcelona,2672,JxCat,48.19,#00c4b2,Nacionalismo/independentismo,80.47,#18a1cd,48.19,25.73,4.34,2.17,6.55,1.74,NA,0.55
+2017,08270,Sitges,Barcelona,18778,Cs,27.55,#da5b1f,No nacionalistas,51.63,#fa8c00,22.92,20.89,12.8,6.68,4.22,3.56,NA,1.04
+2017,08271,Sobremunt,Barcelona,72,JxCat,57.38,#00c4b2,Nacionalismo/independentismo,91.8,#18a1cd,57.38,19.67,1.64,3.28,14.75,0,NA,0
+2017,08272,Sora,Barcelona,156,JxCat,54.89,#00c4b2,Nacionalismo/independentismo,90.98,#18a1cd,54.89,29.32,0.75,3.01,6.77,0,NA,0
+2017,08273,Subirats,Barcelona,2335,JxCat,40.69,#00c4b2,Nacionalismo/independentismo,77.94,#18a1cd,40.69,28.21,5.26,3.93,9.04,2.21,NA,0.5900000000000001
+2017,08274,Súria,Barcelona,4639,JxCat,24.99,#00c4b2,Nacionalismo/independentismo,51.86,#18a1cd,24.99,22.09,16.03,5.68,4.78,2.75,NA,0.99
+2017,08275,Tavèrnoles,Barcelona,249,JxCat,57.32,#00c4b2,Nacionalismo/independentismo,89.54,#18a1cd,57.32,21.76,4.18,1.67,10.46,1.26,NA,0
+2017,08276,Tagamanent,Barcelona,242,JxCat,36.14,#00c4b2,Nacionalismo/independentismo,76.24,#18a1cd,36.14,30.2,1.98,4.46,9.9,1.49,NA,0
+2017,08277,Talamanca,Barcelona,162,JxCat,47.62,#00c4b2,Nacionalismo/independentismo,85.03,#18a1cd,47.62,28.57,2.04,2.72,8.84,4.08,NA,0
+2017,08278,Taradell,Barcelona,4791,JxCat,55.39,#00c4b2,Nacionalismo/independentismo,85.68,#18a1cd,55.39,24.36,3.54,2.27,5.93,1.35,NA,0.21
+2017,08279,Terrassa,Barcelona,154017,Cs,29.81,#da5b1f,No nacionalistas,59.06,#fa8c00,16.59,20.04,14.93,9.06,3.82,3.75,NA,1.5099999999999998
+2017,08280,Tavertet,Barcelona,101,JxCat,46.59,#00c4b2,Nacionalismo/independentismo,85.23,#18a1cd,46.59,21.59,4.55,2.27,17.05,0,NA,0
+2017,08281,Teià,Barcelona,4802,JxCat,33.93,#00c4b2,Nacionalismo/independentismo,64.72,#18a1cd,33.93,25.14,8.43,5.96,5.65,2.09,NA,0.73
+2017,08282,Tiana,Barcelona,6627,JxCat,29.65,#00c4b2,Nacionalismo/independentismo,62.48,#18a1cd,29.65,27.74,9.99,6.32,5.09,3.11,NA,0.64
+2017,08283,Tona,Barcelona,6056,JxCat,44.77,#00c4b2,Nacionalismo/independentismo,74.16,#18a1cd,44.77,24.06,6.07,2.93,5.33,1.54,NA,0.8200000000000001
+2017,08284,Tordera,Barcelona,12210,Cs,26.47,#da5b1f,No nacionalistas,50.06,#fa8c00,24.52,21.53,12.62,6.62,3.42,3.17,NA,1.18
+2017,08285,Torelló,Barcelona,10286,JxCat,42.04,#00c4b2,Nacionalismo/independentismo,73.12,#18a1cd,42.04,24.77,7.36,3.29,6.31,1.56,NA,0.6
+2017,08286,La Torre de Claramunt,Barcelona,2892,Cs,34.02,#da5b1f,No nacionalistas,57.27,#fa8c00,19.26,19.05,13.41,5.38,3.7,3.28,NA,1.18
+2017,08287,Torrelavit,Barcelona,1048,JxCat,45.8,#00c4b2,Nacionalismo/independentismo,80.16,#18a1cd,45.8,28.14,4.25,5.34,6.22,1.09,NA,0.66
+2017,08288,Torrelles de Foix,Barcelona,1663,JxCat,24.24,#00c4b2,Nacionalismo/independentismo,52.55,#18a1cd,24.24,23.76,13.88,6.38,4.55,3.83,NA,1.2
+2017,08289,Torrelles de Llobregat,Barcelona,4365,ERC,32.31,#e5ab4b,Nacionalismo/independentismo,59.83,#18a1cd,20.75,32.31,10.51,8.02,6.77,1.42,NA,0.8
+2017,08290,Ullastrell,Barcelona,1509,ERC,33.33,#e5ab4b,Nacionalismo/independentismo,70.07,#18a1cd,30.38,33.33,7.39,4.73,6.36,1.26,NA,1.18
+2017,08291,Vacarisses,Barcelona,4701,Cs,29.41,#da5b1f,No nacionalistas,53.12,#fa8c00,16.53,24.66,11.53,7.84,5.02,2.35,NA,1.99
+2017,08292,Vallbona d'Anoia,Barcelona,1063,ERC,28.78,#e5ab4b,Nacionalismo/independentismo,61.03,#18a1cd,22.84,28.78,12.21,5.26,9.41,3.47,NA,1.9
+2017,08293,Vallcebre,Barcelona,223,JxCat,52.53,#00c4b2,Nacionalismo/independentismo,85.87,#18a1cd,52.53,26.77,5.56,1.52,6.57,2.02,NA,0
+2017,08294,Vallgorguina,Barcelona,2015,JxCat,34.5,#00c4b2,Nacionalismo/independentismo,71.41,#18a1cd,34.5,29.53,5.62,5.86,7.38,1.7,NA,0.82
+2017,08295,Vallirana,Barcelona,10997,Cs,31.14,#da5b1f,No nacionalistas,60.62,#fa8c00,14.23,21.9,16.99,7.75,2.75,3.39,NA,1.35
+2017,08296,Vallromanes,Barcelona,1798,JxCat,33.44,#00c4b2,Nacionalismo/independentismo,62.32,#18a1cd,33.44,25.4,9.69,4.75,3.48,2.41,NA,0.38
+2017,08297,Veciana,Barcelona,132,JxCat,56.36,#00c4b2,Nacionalismo/independentismo,78.18,#18a1cd,56.36,17.27,3.64,3.64,4.55,1.82,NA,0.91
+2017,08298,Vic,Barcelona,26663,JxCat,44.39,#00c4b2,Nacionalismo/independentismo,74,#18a1cd,44.39,23.76,6.5,3.31,5.85,2.14,NA,0.45
+2017,08299,Vilada,Barcelona,389,JxCat,48.97,#00c4b2,Nacionalismo/independentismo,83.57,#18a1cd,48.97,29.03,7.33,2.93,5.57,1.76,NA,0
+2017,08300,Viladecavalls,Barcelona,5801,Cs,29.36,#da5b1f,No nacionalistas,52.55,#fa8c00,19.42,23.15,10.71,8.5,4.3,2.57,NA,1.41
+2017,08301,Viladecans,Barcelona,48875,Cs,37.35,#da5b1f,No nacionalistas,76.35,#fa8c00,6.94,14.39,22.85,9.97,1.89,4.34,NA,1.84
+2017,08302,Vilanova del Camí,Barcelona,9256,Cs,38.81,#da5b1f,No nacionalistas,70.54,#fa8c00,10.61,15.83,18.19,8.34,2.44,3.78,NA,1.4200000000000002
+2017,08303,Vilanova de Sau,Barcelona,265,JxCat,45.38,#00c4b2,Nacionalismo/independentismo,82.77,#18a1cd,45.38,26.05,3.78,4.62,11.34,1.26,NA,0
+2017,08304,Vilobí del Penedès,Barcelona,802,JxCat,45.23,#00c4b2,Nacionalismo/independentismo,80.23,#18a1cd,45.23,27.6,5.12,3.13,7.4,1.28,NA,0.28
+2017,08305,Vilafranca del Penedès,Barcelona,27656,JxCat,29.4,#00c4b2,Nacionalismo/independentismo,60.45,#18a1cd,29.4,24.29,10.73,5.54,6.76,3.26,NA,0.93
+2017,08306,Vilalba Sasserra,Barcelona,518,ERC,32.59,#e5ab4b,Nacionalismo/independentismo,63.45,#18a1cd,26.42,32.59,5.68,4.69,4.44,4.44,NA,1.72
+2017,08307,Vilanova i la Geltrú,Barcelona,48638,Cs,25.15,#da5b1f,No nacionalistas,51.73,#fa8c00,19.03,23.14,14.16,8.12,5.74,3.12,NA,1.1800000000000002
+2017,08308,Viver i Serrateix,Barcelona,134,JxCat,77.39,#00c4b2,Nacionalismo/independentismo,95.66,#18a1cd,77.39,9.57,2.61,0,8.7,0.87,NA,0
+2017,08901,Rupit i Pruit,Barcelona,231,JxCat,54.5,#00c4b2,Nacionalismo/independentismo,86.73,#18a1cd,54.5,28.91,2.84,3.32,3.32,1.42,NA,0
+2017,08902,Vilanova del Vallès,Barcelona,3844,JxCat,25.64,#00c4b2,Nacionalismo/independentismo,52.75,#18a1cd,25.64,23,10.79,6.75,4.11,3.13,NA,1.38
+2017,08903,Sant Julià de Cerdanyola,Barcelona,202,JxCat,51.61,#00c4b2,Nacionalismo/independentismo,88.7,#18a1cd,51.61,29.03,1.61,4.3,8.06,0.54,NA,0
+2017,08904,Badia del Vallès,Barcelona,10560,Cs,39.25,#da5b1f,No nacionalistas,81.18,#fa8c00,3.75,11.6,23.48,10.88,2.99,5.41,NA,2.16
+2017,08905,La Palma de Cervelló,Barcelona,2356,JxCat,27.51,#00c4b2,Nacionalismo/independentismo,60.1,#18a1cd,27.51,27.21,10.52,7.36,5.38,1.83,NA,1.34
+2017,08998,Residents Absents,Barcelona,175095,JxCat,25.81,#00c4b2,Nacionalismo/independentismo,52.43,#18a1cd,25.81,20.8,11,9.25,5.82,4.03,NA,1.2000000000000002
+2017,17001,Agullana,Girona,591,ERC,34.29,#e5ab4b,Nacionalismo/independentismo,74.7,#18a1cd,32.86,34.29,5.31,3.27,7.55,1.43,NA,1.22
+2017,17002,Aiguaviva,Girona,571,JxCat,50.69,#00c4b2,Nacionalismo/independentismo,79.76,#18a1cd,50.69,23.77,4.52,1.77,5.3,2.16,NA,0
+2017,17003,Albanyà,Girona,94,JxCat,54.32,#00c4b2,Nacionalismo/independentismo,93.83,#18a1cd,54.32,23.46,1.23,1.23,16.05,2.47,NA,1.23
+2017,17004,Albons,Girona,522,JxCat,45.63,#00c4b2,Nacionalismo/independentismo,82.53,#18a1cd,45.63,30.57,4.37,2.84,6.33,0.87,NA,0.88
+2017,17005,El Far d'Empordà,Girona,428,JxCat,37.18,#00c4b2,Nacionalismo/independentismo,68.3,#18a1cd,37.18,28.24,6.05,4.9,2.88,4.9,NA,0
+2017,17006,Alp,Girona,1135,JxCat,40.39,#00c4b2,Nacionalismo/independentismo,76.58,#18a1cd,40.39,29.75,5.59,2.58,6.44,2.04,NA,0.86
+2017,17007,Amer,Girona,1730,JxCat,61.85,#00c4b2,Nacionalismo/independentismo,83.7,#18a1cd,61.85,17.02,3.64,2.25,4.83,1.72,NA,0.13
+2017,17008,Anglès,Girona,3588,JxCat,52.74,#00c4b2,Nacionalismo/independentismo,78.18,#18a1cd,52.74,20.02,5.05,2.53,5.42,1.9,NA,0.56
+2017,17009,Arbúcies,Girona,4044,JxCat,48.43,#00c4b2,Nacionalismo/independentismo,83.14,#18a1cd,48.43,25.78,4.41,2.64,8.93,1.89,NA,0.47
+2017,17010,Argelaguer,Girona,336,JxCat,50.17,#00c4b2,Nacionalismo/independentismo,88.4,#18a1cd,50.17,22.87,3.07,4.1,15.36,1.02,NA,0.68
+2017,17011,L'Armentera,Girona,644,JxCat,48.53,#00c4b2,Nacionalismo/independentismo,82.5,#18a1cd,48.53,27.04,5.72,1.56,6.93,0.52,NA,0.17
+2017,17012,Avinyonet de Puigventós,Girona,1147,JxCat,31.01,#00c4b2,Nacionalismo/independentismo,61.07,#18a1cd,31.01,26.9,6.12,3.9,3.16,1.79,NA,0.53
+2017,17013,Begur,Girona,2774,JxCat,29.4,#00c4b2,Nacionalismo/independentismo,56.16,#18a1cd,29.4,22.44,12.02,4.11,4.32,2.64,NA,0.95
+2017,17014,La Vajol,Girona,64,JxCat,40.38,#00c4b2,Nacionalismo/independentismo,75,#18a1cd,40.38,28.85,0,0,5.77,0,NA,1.92
+2017,17015,Banyoles,Girona,12715,JxCat,50.22,#00c4b2,Nacionalismo/independentismo,80.55,#18a1cd,50.22,23.29,4.47,2.84,7.04,2.07,NA,0.5800000000000001
+2017,17016,Bàscara,Girona,731,JxCat,45.64,#00c4b2,Nacionalismo/independentismo,80.22,#18a1cd,45.64,26.17,4.36,2.34,8.41,3.12,NA,0.47
+2017,17018,Bellcaire d'Empordà,Girona,487,JxCat,43.74,#00c4b2,Nacionalismo/independentismo,80.86,#18a1cd,43.74,29.08,4.96,2.6,8.04,1.42,NA,0.24
+2017,17019,Besalú,Girona,1790,JxCat,59.91,#00c4b2,Nacionalismo/independentismo,84.52,#18a1cd,59.91,20.84,4.86,2.37,3.77,1.15,NA,0.32
+2017,17020,Bescanó,Girona,3627,JxCat,52.11,#00c4b2,Nacionalismo/independentismo,81.61,#18a1cd,52.11,23.02,4.29,2.82,6.48,0.88,NA,0.54
+2017,17021,Beuda,Girona,121,JxCat,40.54,#00c4b2,Nacionalismo/independentismo,82.88,#18a1cd,40.54,19.82,12.61,3.6,22.52,0.9,NA,0
+2017,17022,La Bisbal d'Empordà,Girona,6919,JxCat,38.17,#00c4b2,Nacionalismo/independentismo,71.29,#18a1cd,38.17,25.78,8.53,3.66,7.34,2.39,NA,0.55
+2017,17023,Blanes,Girona,27240,Cs,30.38,#da5b1f,No nacionalistas,59.22,#fa8c00,18.85,18.22,15.37,8.2,3.27,3.98,NA,1.29
+2017,17024,Bolvir,Girona,280,JxCat,47.35,#00c4b2,Nacionalismo/independentismo,72.57,#18a1cd,47.35,19.03,5.75,1.77,6.19,3.98,NA,0.88
+2017,17025,Bordils,Girona,1152,JxCat,51.32,#00c4b2,Nacionalismo/independentismo,80.89,#18a1cd,51.32,20.27,4.8,3.23,9.3,1.18,NA,0.2
+2017,17026,Borrassà,Girona,537,JxCat,54.2,#00c4b2,Nacionalismo/independentismo,78.78,#18a1cd,54.2,20.59,3.57,2.1,3.99,1.47,NA,0.42
+2017,17027,Breda,Girona,2839,JxCat,37.95,#00c4b2,Nacionalismo/independentismo,77.64,#18a1cd,37.95,33.59,6.75,2.67,6.1,2.47,NA,0.64
+2017,17028,Brunyola i Sant Martí Sapresa,Girona,285,JxCat,59.36,#00c4b2,Nacionalismo/independentismo,85.66,#18a1cd,59.36,21.12,2.79,3.59,5.18,1.2,NA,0.4
+2017,17029,Boadella i les Escaules,Girona,205,JxCat,34.5,#00c4b2,Nacionalismo/independentismo,71.92,#18a1cd,34.5,28.65,4.68,4.68,8.77,1.75,NA,0
+2017,17030,Cabanes,Girona,628,JxCat,36.31,#00c4b2,Nacionalismo/independentismo,61.17,#18a1cd,36.31,19.03,6.99,2.52,5.83,4.66,NA,0.77
+2017,17031,Cabanelles,Girona,186,JxCat,46.05,#00c4b2,Nacionalismo/independentismo,84.87,#18a1cd,46.05,21.71,1.32,1.97,17.11,3.29,NA,1.32
+2017,17032,Cadaqués,Girona,1755,JxCat,38.22,#00c4b2,Nacionalismo/independentismo,70.99,#18a1cd,38.22,28.09,8.52,5.3,4.68,1,NA,0.7699999999999999
+2017,17033,Caldes de Malavella,Girona,5409,JxCat,33.67,#00c4b2,Nacionalismo/independentismo,59.24,#18a1cd,33.67,20.87,9.16,5.5,4.7,2.74,NA,0.84
+2017,17034,Calonge i Sant Antoni,Girona,7073,JxCat,33.36,#00c4b2,Nacionalismo/independentismo,60.82,#18a1cd,33.36,23.4,9.95,4.23,4.06,2.67,NA,0.85
+2017,17035,Camós,Girona,557,JxCat,54.06,#00c4b2,Nacionalismo/independentismo,84.55,#18a1cd,54.06,22.97,3.37,2.38,7.52,1.39,NA,0
+2017,17036,Campdevànol,Girona,2635,JxCat,39.78,#00c4b2,Nacionalismo/independentismo,72.52,#18a1cd,39.78,27.8,5.88,4.04,4.94,2.69,NA,0.4
+2017,17037,Campelles,Girona,102,JxCat,65.59,#00c4b2,Nacionalismo/independentismo,84.94,#18a1cd,65.59,12.9,0,4.3,6.45,6.45,NA,0
+2017,17038,Campllong,Girona,369,JxCat,57.27,#00c4b2,Nacionalismo/independentismo,80.6,#18a1cd,57.27,19.39,2.73,4.55,3.94,3.03,NA,1.21
+2017,17039,Camprodon,Girona,1722,JxCat,52.49,#00c4b2,Nacionalismo/independentismo,78.09,#18a1cd,52.49,20.07,7.44,2.66,5.53,1.57,NA,0.28
+2017,17040,Canet d'Adri,Girona,552,JxCat,55.11,#00c4b2,Nacionalismo/independentismo,84.97,#18a1cd,55.11,18.44,3.21,3.01,11.42,1.6,NA,0.2
+2017,17041,Cantallops,Girona,226,ERC,39.25,#e5ab4b,Nacionalismo/independentismo,75.81,#18a1cd,30.11,39.25,6.99,5.38,6.45,2.15,NA,0.54
+2017,17042,Capmany,Girona,417,JxCat,45.91,#00c4b2,Nacionalismo/independentismo,75.15,#18a1cd,45.91,25.44,4.68,3.8,3.8,1.75,NA,0.29
+2017,17043,Queralbs,Girona,163,JxCat,52.55,#00c4b2,Nacionalismo/independentismo,85.4,#18a1cd,52.55,25.55,3.65,1.46,7.3,2.19,NA,0.73
+2017,17044,Cassà de la Selva,Girona,6883,JxCat,46.19,#00c4b2,Nacionalismo/independentismo,74.11,#18a1cd,46.19,22.85,6.5,3.2,5.07,1.84,NA,0.71
+2017,17046,Castellfollit de la Roca,Girona,717,JxCat,41.46,#00c4b2,Nacionalismo/independentismo,77.72,#18a1cd,41.46,30.41,5.04,2.6,5.85,2.28,NA,1.14
+2017,17047,Castelló d'Empúries,Girona,4896,Cs,29.24,#da5b1f,Nacionalismo/independentismo,52.32,#18a1cd,28.45,19.99,8.59,3.77,3.88,4.73,NA,1.01
+2017,17048,Castell-Platja d'Aro,Girona,6262,JxCat,32.4,#00c4b2,Nacionalismo/independentismo,51.44,#18a1cd,32.4,16.64,11.74,3.86,2.4,3.65,NA,1.13
+2017,17049,Celrà,Girona,3123,JxCat,35.32,#00c4b2,Nacionalismo/independentismo,72.35,#18a1cd,35.32,23.28,7.53,3.6,13.75,1.35,NA,0.66
+2017,17050,Cervià de Ter,Girona,665,JxCat,43.02,#00c4b2,Nacionalismo/independentismo,83.25,#18a1cd,43.02,31.53,3.12,2.96,8.7,2.3,NA,0.33
+2017,17051,Cistella,Girona,218,JxCat,51.79,#00c4b2,Nacionalismo/independentismo,82.56,#18a1cd,51.79,21.54,5.13,1.03,9.23,3.08,NA,0.51
+2017,17052,Siurana,Girona,128,JxCat,49.09,#00c4b2,Nacionalismo/independentismo,84.54,#18a1cd,49.09,26.36,1.82,6.36,9.09,1.82,NA,0
+2017,17054,Colera,Girona,358,JxCat,36.55,#00c4b2,Nacionalismo/independentismo,69.65,#18a1cd,36.55,27.93,5.52,4.14,5.17,1.03,NA,0.69
+2017,17055,Colomers,Girona,144,JxCat,54.07,#00c4b2,Nacionalismo/independentismo,90.36,#18a1cd,54.07,22.22,3.7,4.44,14.07,1.48,NA,0
+2017,17056,Cornellà del Terri,Girona,1741,JxCat,56.55,#00c4b2,Nacionalismo/independentismo,83.42,#18a1cd,56.55,20.45,4,1.97,6.42,1.97,NA,0.26
+2017,17057,Corçà,Girona,951,JxCat,50.24,#00c4b2,Nacionalismo/independentismo,81.92,#18a1cd,50.24,24.35,5.56,2.72,7.33,1.54,NA,0.59
+2017,17058,Crespià,Girona,172,JxCat,49.3,#00c4b2,Nacionalismo/independentismo,85.21,#18a1cd,49.3,21.83,1.41,4.93,14.08,3.52,NA,0
+2017,17060,Darnius,Girona,422,JxCat,31.62,#00c4b2,Nacionalismo/independentismo,68.37,#18a1cd,31.62,29.91,6.27,2.85,6.84,5.7,NA,0.28
+2017,17061,Das,Girona,162,JxCat,46.1,#00c4b2,Nacionalismo/independentismo,80.14,#18a1cd,46.1,28.37,1.42,1.42,5.67,4.26,NA,0.71
+2017,17062,L'Escala,Girona,5994,JxCat,34.12,#00c4b2,Nacionalismo/independentismo,60.2,#18a1cd,34.12,20.41,8.98,5.75,5.67,2.44,NA,0.77
+2017,17063,Espinelves,Girona,166,JxCat,50,#00c4b2,Nacionalismo/independentismo,92.66,#18a1cd,50,29.33,2,0.67,13.33,1.33,NA,0
+2017,17064,Espolla,Girona,327,JxCat,35.37,#00c4b2,Nacionalismo/independentismo,67.68,#18a1cd,35.37,23.13,10.54,2.04,9.18,3.4,NA,0.34
+2017,17065,Esponellà,Girona,317,JxCat,56.36,#00c4b2,Nacionalismo/independentismo,87.27,#18a1cd,56.36,21.09,2.55,4,9.82,0.73,NA,0.73
+2017,17066,Figueres,Girona,27129,Cs,29.15,#da5b1f,Nacionalismo/independentismo,50.25,#18a1cd,25.9,20.28,10,3.88,4.07,5.1,NA,1.03
+2017,17067,Flaçà,Girona,696,JxCat,49.58,#00c4b2,Nacionalismo/independentismo,83.08,#18a1cd,49.58,25.46,5.19,1.68,8.04,1.01,NA,0.17
+2017,17068,Foixà,Girona,257,JxCat,54.78,#00c4b2,Nacionalismo/independentismo,82.61,#18a1cd,54.78,20.87,4.35,4.78,6.96,0.87,NA,0.87
+2017,17069,Fontanals de Cerdanya,Girona,373,JxCat,44.24,#00c4b2,Nacionalismo/independentismo,75.4,#18a1cd,44.24,23.68,5.3,1.25,7.48,3.12,NA,0.62
+2017,17070,Fontanilles,Girona,111,JxCat,58.42,#00c4b2,Nacionalismo/independentismo,86.14,#18a1cd,58.42,23.76,4.95,1.98,3.96,0,NA,0.99
+2017,17071,Fontcoberta,Girona,1134,JxCat,53.06,#00c4b2,Nacionalismo/independentismo,86.98,#18a1cd,53.06,27.31,2.62,1.26,6.61,0.97,NA,0.49
+2017,17073,Fornells de la Selva,Girona,1922,JxCat,51.13,#00c4b2,Nacionalismo/independentismo,77.6,#18a1cd,51.13,21.03,5.39,1.76,5.44,1.64,NA,0.8500000000000001
+2017,17074,Fortià,Girona,527,JxCat,31.01,#00c4b2,Nacionalismo/independentismo,65.17,#18a1cd,31.01,27.87,8.54,3.37,6.29,2.92,NA,0.67
+2017,17075,Garrigàs,Girona,327,JxCat,40.49,#00c4b2,Nacionalismo/independentismo,82.39,#18a1cd,40.49,30.28,3.17,2.46,11.62,1.76,NA,0.7
+2017,17076,Garrigoles,Girona,129,JxCat,37.72,#00c4b2,Nacionalismo/independentismo,84.21,#18a1cd,37.72,24.56,1.75,2.63,21.93,1.75,NA,0
+2017,17077,Garriguella,Girona,549,JxCat,38.82,#00c4b2,Nacionalismo/independentismo,66.46,#18a1cd,38.82,23.21,8.23,4.01,4.43,2.53,NA,1.26
+2017,17078,Ger,Girona,324,JxCat,45.71,#00c4b2,Nacionalismo/independentismo,78.56,#18a1cd,45.71,27.14,6.43,1.43,5.71,2.86,NA,0.72
+2017,17079,Girona,Girona,64912,JxCat,36.85,#00c4b2,Nacionalismo/independentismo,62.16,#18a1cd,36.85,18.65,9.57,4.23,6.66,3.01,NA,0.88
+2017,17080,Gombrèn,Girona,139,JxCat,42.06,#00c4b2,Nacionalismo/independentismo,75.39,#18a1cd,42.06,23.81,3.97,0.79,9.52,6.35,NA,0
+2017,17081,Gualta,Girona,249,JxCat,52.56,#00c4b2,Nacionalismo/independentismo,78.61,#18a1cd,52.56,17.21,2.33,3.26,8.84,1.86,NA,0
+2017,17082,Guils de Cerdanya,Girona,419,JxCat,46.31,#00c4b2,Nacionalismo/independentismo,74.63,#18a1cd,46.31,24.19,2.95,2.65,4.13,3.24,NA,0.58
+2017,17083,Hostalric,Girona,2958,JxCat,31.44,#00c4b2,Nacionalismo/independentismo,61.41,#18a1cd,31.44,25.21,9.98,6.24,4.76,2.5,NA,0.7799999999999999
+2017,17084,Isòvol,Girona,224,JxCat,44.16,#00c4b2,Nacionalismo/independentismo,80.2,#18a1cd,44.16,28.93,6.6,4.57,7.11,0.51,NA,0
+2017,17085,Jafre,Girona,294,JxCat,45.42,#00c4b2,Nacionalismo/independentismo,88.17,#18a1cd,45.42,29.77,3.05,0.76,12.98,1.15,NA,0.76
+2017,17086,La Jonquera,Girona,1723,Cs,34.29,#da5b1f,No nacionalistas,54.25,#fa8c00,21.85,20.41,9.79,4.25,2.96,4.93,NA,0.99
+2017,17087,Juià,Girona,225,JxCat,51.56,#00c4b2,Nacionalismo/independentismo,84.9,#18a1cd,51.56,21.88,2.08,1.56,11.46,2.08,NA,2.6
+2017,17088,Lladó,Girona,554,Empate,38.13,#ADA9AC,Nacionalismo/independentismo,82.55,#18a1cd,38.13,38.13,3.45,4.06,6.29,2.03,NA,0.61
+2017,17089,Llagostera,Girona,5608,JxCat,41.01,#00c4b2,Nacionalismo/independentismo,69.51,#18a1cd,41.01,22.81,8.04,2.93,5.69,2.34,NA,0.62
+2017,17090,Llambilles,Girona,540,JxCat,59.17,#00c4b2,Nacionalismo/independentismo,78.54,#18a1cd,59.17,17.08,5,2.92,2.29,1.67,NA,0.21
+2017,17091,Llanars,Girona,400,JxCat,60.83,#00c4b2,Nacionalismo/independentismo,86.35,#18a1cd,60.83,21.07,2.37,1.48,4.45,1.19,NA,0
+2017,17092,Llançà,Girona,3477,JxCat,29.68,#00c4b2,Nacionalismo/independentismo,61.22,#18a1cd,29.68,27.59,10.97,3.63,3.95,2.82,NA,1.27
+2017,17093,Llers,Girona,918,JxCat,43.05,#00c4b2,Nacionalismo/independentismo,74.06,#18a1cd,43.05,26.2,3.07,4.28,4.81,2.67,NA,0.53
+2017,17094,Llívia,Girona,1059,JxCat,37.4,#00c4b2,Nacionalismo/independentismo,72.22,#18a1cd,37.4,28.96,5.86,2.23,5.86,3.28,NA,0.46
+2017,17095,Lloret de Mar,Girona,19747,Cs,36.48,#da5b1f,No nacionalistas,61.67,#fa8c00,19.4,16.08,13.24,6.14,2.54,4.49,NA,1.32
+2017,17096,Les Llosses,Girona,164,JxCat,50,#00c4b2,Nacionalismo/independentismo,87.12,#18a1cd,50,25,3.03,3.79,12.12,1.52,NA,0.76
+2017,17097,Madremanya,Girona,204,JxCat,50.79,#00c4b2,Nacionalismo/independentismo,87.3,#18a1cd,50.79,20.11,3.17,3.17,16.4,2.12,NA,0.53
+2017,17098,Maià de Montcal,Girona,295,JxCat,40.55,#00c4b2,Nacionalismo/independentismo,68.11,#18a1cd,40.55,22.05,6.3,4.72,5.51,1.57,NA,0
+2017,17099,Meranges,Girona,79,JxCat,42.65,#00c4b2,Nacionalismo/independentismo,73.53,#18a1cd,42.65,27.94,1.47,0,2.94,8.82,NA,0
+2017,17100,Masarac,Girona,192,JxCat,55.13,#00c4b2,Nacionalismo/independentismo,83.33,#18a1cd,55.13,21.15,3.21,0.64,7.05,0.64,NA,1.28
+2017,17101,Massanes,Girona,541,JxCat,32.48,#00c4b2,Nacionalismo/independentismo,64.95,#18a1cd,32.48,27.1,8.88,4.21,5.37,2.34,NA,1.87
+2017,17102,Maçanet de Cabrenys,Girona,551,JxCat,39.43,#00c4b2,Nacionalismo/independentismo,80.4,#18a1cd,39.43,34.8,5.51,0.88,6.17,2.2,NA,0.22
+2017,17103,Maçanet de la Selva,Girona,4993,Cs,27.78,#da5b1f,No nacionalistas,50.92,#fa8c00,23.71,19.82,12.49,6.01,5.05,3.08,NA,1.56
+2017,17105,Mieres,Girona,243,JxCat,41.18,#00c4b2,Nacionalismo/independentismo,82.85,#18a1cd,41.18,21.57,1.96,4.9,20.1,1.96,NA,0
+2017,17106,Mollet de Peralada,Girona,137,JxCat,40.5,#00c4b2,Nacionalismo/independentismo,85.95,#18a1cd,40.5,38.84,3.31,3.31,6.61,1.65,NA,0
+2017,17107,Molló,Girona,270,JxCat,58.05,#00c4b2,Nacionalismo/independentismo,89.4,#18a1cd,58.05,25.42,2.97,0.42,5.93,1.69,NA,0.42
+2017,17109,Montagut i Oix,Girona,688,JxCat,50,#00c4b2,Nacionalismo/independentismo,86.52,#18a1cd,50,26.46,3.08,3.08,10.06,1.79,NA,0.32
+2017,17110,Mont-ras,Girona,1326,JxCat,32.79,#00c4b2,Nacionalismo/independentismo,54.86,#18a1cd,32.79,19.46,12.07,3.96,2.61,3.6,NA,0.36
+2017,17111,Navata,Girona,895,JxCat,47.74,#00c4b2,Nacionalismo/independentismo,79.31,#18a1cd,47.74,22.51,3.75,2.72,9.06,1.68,NA,0.39
+2017,17112,Ogassa,Girona,191,JxCat,50.58,#00c4b2,Nacionalismo/independentismo,79.65,#18a1cd,50.58,23.26,2.33,3.49,5.81,2.33,NA,0
+2017,17114,Olot,Girona,23152,JxCat,45.37,#00c4b2,Nacionalismo/independentismo,73.56,#18a1cd,45.37,22.87,7.34,3.05,5.32,2.46,NA,0.54
+2017,17115,Ordis,Girona,278,JxCat,46.31,#00c4b2,Nacionalismo/independentismo,81.15,#18a1cd,46.31,27.46,3.28,1.23,7.38,2.87,NA,0
+2017,17116,Osor,Girona,341,JxCat,46.95,#00c4b2,Nacionalismo/independentismo,86.38,#18a1cd,46.95,30.11,3.94,2.51,9.32,1.08,NA,0.72
+2017,17117,Palafrugell,Girona,14436,JxCat,30.99,#00c4b2,Nacionalismo/independentismo,55.7,#18a1cd,30.99,20.83,10.42,4.5,3.88,3.01,NA,0.8999999999999999
+2017,17118,Palamós,Girona,12923,JxCat,32.08,#00c4b2,Nacionalismo/independentismo,59.41,#18a1cd,32.08,23.39,9.83,3.64,3.94,2.93,NA,0.95
+2017,17119,Palau de Santa Eulàlia,Girona,79,ERC,32.84,#e5ab4b,Nacionalismo/independentismo,74.63,#18a1cd,31.34,32.84,11.94,10.45,10.45,0,NA,0
+2017,17120,Palau-saverdera,Girona,803,JxCat,35.39,#00c4b2,Nacionalismo/independentismo,64.92,#18a1cd,35.39,26.28,7.42,2.32,3.25,2.01,NA,1.39
+2017,17121,Palau-sator,Girona,214,JxCat,57.14,#00c4b2,Nacionalismo/independentismo,82.01,#18a1cd,57.14,18.52,7.41,0.53,6.35,2.65,NA,0
+2017,17123,Palol de Revardit,Girona,355,JxCat,61.71,#00c4b2,Nacionalismo/independentismo,86.08,#18a1cd,61.71,18.04,3.16,1.9,6.33,2.53,NA,0
+2017,17124,Pals,Girona,1617,JxCat,44.84,#00c4b2,Nacionalismo/independentismo,73.33,#18a1cd,44.84,23.74,9.65,2.41,4.75,1.43,NA,0.3
+2017,17125,Pardines,Girona,131,JxCat,56.03,#00c4b2,Nacionalismo/independentismo,87.92,#18a1cd,56.03,26.72,2.59,5.17,5.17,0.86,NA,0
+2017,17126,Parlavà,Girona,310,JxCat,51.19,#00c4b2,Nacionalismo/independentismo,90.78,#18a1cd,51.19,31.06,1.02,1.71,8.53,0.68,NA,0.34
+2017,17128,Pau,Girona,305,JxCat,42.91,#00c4b2,Nacionalismo/independentismo,75.38,#18a1cd,42.91,25.75,5.6,2.61,6.72,1.12,NA,1.12
+2017,17129,Pedret i Marzà,Girona,143,JxCat,36,#00c4b2,Nacionalismo/independentismo,67.2,#18a1cd,36,25.6,0.8,2.4,5.6,8,NA,0
+2017,17130,La Pera,Girona,323,JxCat,56.63,#00c4b2,Nacionalismo/independentismo,87.81,#18a1cd,56.63,26.16,2.87,1.08,5.02,2.15,NA,0
+2017,17132,Peralada,Girona,1347,JxCat,45.39,#00c4b2,Nacionalismo/independentismo,73.04,#18a1cd,45.39,23.39,6.26,3.13,4.26,1.74,NA,0.53
+2017,17133,Les Planes d'Hostoles,Girona,1272,JxCat,65.27,#00c4b2,Nacionalismo/independentismo,88.13,#18a1cd,65.27,16.64,2.56,1.28,6.22,1.01,NA,0.36
+2017,17134,Planoles,Girona,230,JxCat,48.29,#00c4b2,Nacionalismo/independentismo,86.33,#18a1cd,48.29,30.24,2.44,4.39,7.8,0.49,NA,1.95
+2017,17135,Pont de Molins,Girona,384,JxCat,32.23,#00c4b2,Nacionalismo/independentismo,65.36,#18a1cd,32.23,29.52,6.33,3.61,3.61,3.92,NA,0.3
+2017,17136,Pontós,Girona,178,JxCat,39.31,#00c4b2,Nacionalismo/independentismo,70.34,#18a1cd,39.31,19.31,4.14,9.66,11.72,4.14,NA,0.69
+2017,17137,Porqueres,Girona,3453,JxCat,51.5,#00c4b2,Nacionalismo/independentismo,82.96,#18a1cd,51.5,25.61,4.4,1.91,5.85,2.17,NA,0.38
+2017,17138,Portbou,Girona,877,ERC,24.21,#e5ab4b,No nacionalistas,50.44,#fa8c00,21.47,24.21,16.28,5.19,3.75,3.75,NA,1.73
+2017,17139,Les Preses,Girona,1360,JxCat,53.85,#00c4b2,Nacionalismo/independentismo,81.57,#18a1cd,53.85,22.36,5.19,3.27,5.36,0.84,NA,0.17
+2017,17140,El Port de la Selva,Girona,666,JxCat,49.56,#00c4b2,Nacionalismo/independentismo,73.81,#18a1cd,49.56,18.63,6.68,2.99,5.62,2.64,NA,0.8799999999999999
+2017,17141,Puigcerdà,Girona,5949,JxCat,29.41,#00c4b2,Nacionalismo/independentismo,55.02,#18a1cd,29.41,21.6,8.09,3.37,4.01,4.5,NA,1.11
+2017,17142,Quart,Girona,2593,JxCat,39.88,#00c4b2,Nacionalismo/independentismo,65.41,#18a1cd,39.88,20.93,8.04,4.64,4.6,2.49,NA,0.99
+2017,17143,Rabós,Girona,143,JxCat,41.46,#00c4b2,Nacionalismo/independentismo,80.49,#18a1cd,41.46,31.71,4.07,6.5,7.32,0,NA,0
+2017,17144,Regencós,Girona,206,JxCat,46.82,#00c4b2,Nacionalismo/independentismo,76.3,#18a1cd,46.82,22.54,3.47,5.2,6.94,1.16,NA,0
+2017,17145,Ribes de Freser,Girona,1463,JxCat,44.44,#00c4b2,Nacionalismo/independentismo,77.51,#18a1cd,44.44,26.73,4.79,2.92,6.34,1.87,NA,0.16
+2017,17146,Riells i Viabrea,Girona,3018,JxCat,28.14,#00c4b2,Nacionalismo/independentismo,58.7,#18a1cd,28.14,26.43,10.55,6.29,4.13,2.96,NA,1.79
+2017,17147,Ripoll,Girona,7991,JxCat,41.5,#00c4b2,Nacionalismo/independentismo,68.27,#18a1cd,41.5,22.98,9.46,3.43,3.79,2.44,NA,0.65
+2017,17148,Riudarenes,Girona,1531,JxCat,38.82,#00c4b2,Nacionalismo/independentismo,60.93,#18a1cd,38.82,17.42,8.67,3.58,4.69,1.91,NA,1.51
+2017,17149,Riudaura,Girona,364,JxCat,52.41,#00c4b2,Nacionalismo/independentismo,90.36,#18a1cd,52.41,27.11,2.71,3.31,10.84,0.6,NA,0.8999999999999999
+2017,17150,Riudellots de la Selva,Girona,1426,JxCat,53.47,#00c4b2,Nacionalismo/independentismo,77.36,#18a1cd,53.47,18.74,5.23,2.58,5.15,1.25,NA,0.5499999999999999
+2017,17151,Riumors,Girona,183,JxCat,37.58,#00c4b2,Nacionalismo/independentismo,78.98,#18a1cd,37.58,34.39,4.46,0.64,7.01,4.46,NA,0
+2017,17152,Roses,Girona,10908,Cs,36.24,#da5b1f,No nacionalistas,56.75,#fa8c00,22.15,18.46,10.71,4.28,2.15,4.56,NA,0.96
+2017,17153,Rupià,Girona,192,JxCat,39.66,#00c4b2,Nacionalismo/independentismo,83.23,#18a1cd,39.66,24.58,3.91,4.47,18.99,0.56,NA,0.56
+2017,17154,Sales de Llierca,Girona,97,ERC,29.55,#e5ab4b,Nacionalismo/independentismo,75.01,#18a1cd,19.32,29.55,17.05,4.55,26.14,2.27,NA,1.14
+2017,17155,Salt,Girona,14792,JxCat,29.09,#00c4b2,Nacionalismo/independentismo,53.38,#18a1cd,29.09,18.55,11.18,4.08,5.74,3.25,NA,1.17
+2017,17157,Sant Andreu Salou,Girona,127,JxCat,56.03,#00c4b2,Nacionalismo/independentismo,80.17,#18a1cd,56.03,15.52,5.17,5.17,8.62,0,NA,0.86
+2017,17158,Sant Climent Sescebes,Girona,466,Cs,31.29,#da5b1f,Nacionalismo/independentismo,57.06,#18a1cd,27.61,25.77,3.68,3.68,3.68,2.76,NA,1.23
+2017,17159,Sant Feliu de Buixalleu,Girona,646,JxCat,49.62,#00c4b2,Nacionalismo/independentismo,80.45,#18a1cd,49.62,22.56,4.14,3.57,8.27,2.26,NA,0.19
+2017,17160,Sant Feliu de Guíxols,Girona,14756,JxCat,28.89,#00c4b2,Nacionalismo/independentismo,53.72,#18a1cd,28.89,21.53,12.94,5.69,3.3,3.09,NA,0.88
+2017,17161,Sant Feliu de Pallerols,Girona,1006,JxCat,50.06,#00c4b2,Nacionalismo/independentismo,85.7,#18a1cd,50.06,29.37,2.75,3.41,6.27,2.31,NA,0.66
+2017,17162,Sant Ferriol,Girona,158,JxCat,41.79,#00c4b2,Nacionalismo/independentismo,73.13,#18a1cd,41.79,19.4,3.73,8.21,11.94,6.72,NA,0
+2017,17163,Sant Gregori,Girona,2737,JxCat,50.96,#00c4b2,Nacionalismo/independentismo,82.82,#18a1cd,50.96,23.33,4.06,2.54,8.53,1.31,NA,0.53
+2017,17164,Sant Hilari Sacalm,Girona,3959,JxCat,48.38,#00c4b2,Nacionalismo/independentismo,78.99,#18a1cd,48.38,24.78,6.33,2.32,5.83,1.71,NA,0.59
+2017,17165,Sant Jaume de Llierca,Girona,639,JxCat,50.18,#00c4b2,Nacionalismo/independentismo,80.95,#18a1cd,50.18,22.71,4.95,3.3,8.06,2.01,NA,0.92
+2017,17166,Sant Jordi Desvalls,Girona,534,JxCat,54.14,#00c4b2,Nacionalismo/independentismo,89.17,#18a1cd,54.14,26.96,2.34,1.91,8.07,0.21,NA,0.21
+2017,17167,Sant Joan de les Abadesses,Girona,2644,JxCat,49.3,#00c4b2,Nacionalismo/independentismo,80.01,#18a1cd,49.3,25.26,6.68,1.89,5.45,1.93,NA,0.39
+2017,17168,Sant Joan de Mollet,Girona,383,JxCat,49.13,#00c4b2,Nacionalismo/independentismo,82.66,#18a1cd,49.13,26.3,4.05,2.89,7.23,1.16,NA,0.8699999999999999
+2017,17169,Sant Julià de Ramis,Girona,2472,JxCat,38.62,#00c4b2,Nacionalismo/independentismo,65.55,#18a1cd,38.62,21.8,7.92,3.76,5.13,1.56,NA,0.55
+2017,17170,Vallfogona de Ripollès,Girona,174,JxCat,43.67,#00c4b2,Nacionalismo/independentismo,94.31,#18a1cd,43.67,42.41,1.9,0,8.23,0,NA,0
+2017,17171,Sant Llorenç de la Muga,Girona,166,JxCat,37.06,#00c4b2,Nacionalismo/independentismo,74.82,#18a1cd,37.06,31.47,2.8,6.29,6.29,2.8,NA,2.0999999999999996
+2017,17172,Sant Martí de Llémena,Girona,449,JxCat,45.36,#00c4b2,Nacionalismo/independentismo,82.24,#18a1cd,45.36,26.5,2.19,4.64,10.38,0.82,NA,1.09
+2017,17173,Sant Martí Vell,Girona,176,JxCat,34.18,#00c4b2,Nacionalismo/independentismo,75.32,#18a1cd,34.18,32.91,3.16,5.7,8.23,1.9,NA,0.63
+2017,17174,Sant Miquel de Campmajor,Girona,174,JxCat,44.16,#00c4b2,Nacionalismo/independentismo,88.32,#18a1cd,44.16,29.22,3.25,1.95,14.94,0.65,NA,0.65
+2017,17175,Sant Miquel de Fluvià,Girona,566,Cs,29.38,#da5b1f,No nacionalistas,58.52,#fa8c00,17.3,18.01,14.45,4.74,5.69,9.24,NA,0.71
+2017,17176,Sant Mori,Girona,122,JxCat,39.42,#00c4b2,Nacionalismo/independentismo,59.61,#18a1cd,39.42,15.38,9.62,5.77,4.81,1.92,NA,0
+2017,17177,Sant Pau de Segúries,Girona,568,JxCat,53.39,#00c4b2,Nacionalismo/independentismo,82.55,#18a1cd,53.39,24.23,3.49,2.87,4.93,1.85,NA,0.21
+2017,17178,Sant Pere Pescador,Girona,1046,JxCat,44.17,#00c4b2,Nacionalismo/independentismo,76.55,#18a1cd,44.17,26.67,5.71,2.38,5.71,1.9,NA,0.6
+2017,17180,Santa Coloma de Farners,Girona,8373,JxCat,45.07,#00c4b2,Nacionalismo/independentismo,71.83,#18a1cd,45.07,21.84,6.49,3.57,4.92,2.07,NA,0.83
+2017,17181,Santa Cristina d'Aro,Girona,3425,JxCat,32.8,#00c4b2,Nacionalismo/independentismo,58.7,#18a1cd,32.8,22.71,8.32,5.06,3.19,2.55,NA,1.26
+2017,17182,Santa Llogaia d'Àlguema,Girona,271,Cs,36.8,#da5b1f,No nacionalistas,63.64,#fa8c00,17.32,17.75,11.26,6.49,0.87,6.93,NA,2.16
+2017,17183,Sant Aniol de Finestres,Girona,262,JxCat,53.85,#00c4b2,Nacionalismo/independentismo,85.05,#18a1cd,53.85,19.66,1.71,2.99,11.54,1.28,NA,0.85
+2017,17184,Santa Pau,Girona,1278,JxCat,53.44,#00c4b2,Nacionalismo/independentismo,85.08,#18a1cd,53.44,25.56,3.22,2.59,6.08,1.43,NA,0
+2017,17185,Sant Joan les Fonts,Girona,2271,JxCat,52.86,#00c4b2,Nacionalismo/independentismo,79.39,#18a1cd,52.86,21.69,5.41,3.04,4.84,1.91,NA,0.36
+2017,17186,Sarrià de Ter,Girona,3799,JxCat,27.98,#00c4b2,Nacionalismo/independentismo,57.97,#18a1cd,27.98,25.01,9.56,5.37,4.98,1.91,NA,0.88
+2017,17187,"Saus, Camallera i Llampaies",Girona,627,JxCat,41.7,#00c4b2,Nacionalismo/independentismo,74.91,#18a1cd,41.7,25.27,8.66,6.68,7.94,1.81,NA,0.18
+2017,17188,La Selva de Mar,Girona,168,JxCat,40.14,#00c4b2,Nacionalismo/independentismo,83.8,#18a1cd,40.14,30.28,1.41,5.63,13.38,0.7,NA,0
+2017,17189,La Cellera de Ter,Girona,1490,JxCat,59.19,#00c4b2,Nacionalismo/independentismo,87.1,#18a1cd,59.19,21.61,4.35,1.8,6.3,1.35,NA,0.45
+2017,17190,Serinyà,Girona,820,JxCat,51.2,#00c4b2,Nacionalismo/independentismo,84.11,#18a1cd,51.2,26.3,4.08,3.66,6.61,1.83,NA,0.56
+2017,17191,Serra de Daró,Girona,149,JxCat,60.14,#00c4b2,Nacionalismo/independentismo,89.85,#18a1cd,60.14,21.74,2.17,3.62,7.97,0,NA,0
+2017,17192,Setcases,Girona,141,JxCat,58.97,#00c4b2,Nacionalismo/independentismo,77.77,#18a1cd,58.97,16.24,6.84,0,2.56,7.69,NA,0
+2017,17193,Sils,Girona,4240,JxCat,31.6,#00c4b2,Nacionalismo/independentismo,54.95,#18a1cd,31.6,18.96,9.16,4.24,4.39,2.93,NA,1.26
+2017,17194,Susqueda,Girona,79,JxCat,51.43,#00c4b2,Nacionalismo/independentismo,84.28,#18a1cd,51.43,27.14,2.86,1.43,5.71,4.29,NA,0
+2017,17195,La Tallada d'Empordà,Girona,335,JxCat,50.34,#00c4b2,Nacionalismo/independentismo,83.23,#18a1cd,50.34,27.52,7.38,3.69,5.37,1.01,NA,0.67
+2017,17196,Terrades,Girona,236,JxCat,40,#00c4b2,Nacionalismo/independentismo,71.5,#18a1cd,40,26,4.5,5,5.5,4,NA,0.5
+2017,17197,Torrent,Girona,132,JxCat,44.14,#00c4b2,Nacionalismo/independentismo,73.87,#18a1cd,44.14,25.23,9.91,3.6,4.5,0,NA,0.9
+2017,17198,Torroella de Fluvià,Girona,426,JxCat,35.06,#00c4b2,Nacionalismo/independentismo,67.81,#18a1cd,35.06,25.57,5.75,3.74,7.18,1.15,NA,1.7199999999999998
+2017,17199,Torroella de Montgrí,Girona,6901,JxCat,37.81,#00c4b2,Nacionalismo/independentismo,69.22,#18a1cd,37.81,25.9,6.08,2.87,5.51,1.93,NA,0.68
+2017,17200,Tortellà,Girona,616,JxCat,42.44,#00c4b2,Nacionalismo/independentismo,82.69,#18a1cd,42.44,26.41,5.46,3.28,13.84,2,NA,0.73
+2017,17201,Toses,Girona,136,JxCat,54.7,#00c4b2,Nacionalismo/independentismo,90.6,#18a1cd,54.7,27.35,1.71,0,8.55,0,NA,0.85
+2017,17202,Tossa de Mar,Girona,3800,JxCat,30.86,#00c4b2,Nacionalismo/independentismo,59.59,#18a1cd,30.86,24.02,10.67,3.69,4.71,2.85,NA,0.8200000000000001
+2017,17203,Ultramort,Girona,159,JxCat,42.65,#00c4b2,Nacionalismo/independentismo,84.56,#18a1cd,42.65,26.47,5.15,5.15,15.44,0.74,NA,0
+2017,17204,Ullà,Girona,583,JxCat,39.58,#00c4b2,Nacionalismo/independentismo,66.25,#18a1cd,39.58,20.21,7.29,3.33,6.46,3.54,NA,0.42
+2017,17205,Ullastret,Girona,205,JxCat,62.64,#00c4b2,Nacionalismo/independentismo,91.21,#18a1cd,62.64,20.88,2.75,2.75,7.69,0.55,NA,0
+2017,17206,Urús,Girona,145,JxCat,39.66,#00c4b2,Nacionalismo/independentismo,79.31,#18a1cd,39.66,29.31,4.31,2.59,10.34,2.59,NA,1.72
+2017,17207,La Vall d'en Bas,Girona,2392,JxCat,55.43,#00c4b2,Nacionalismo/independentismo,88.14,#18a1cd,55.43,26.28,2.79,1.94,6.43,2.27,NA,0.24
+2017,17208,La Vall de Bianya,Girona,991,JxCat,50.18,#00c4b2,Nacionalismo/independentismo,82.73,#18a1cd,50.18,24.5,4.43,3.15,8.05,1.05,NA,0.35
+2017,17209,Vall-llobrega,Girona,604,JxCat,40.19,#00c4b2,Nacionalismo/independentismo,67.78,#18a1cd,40.19,23.15,5.93,4.26,4.44,1.85,NA,0.56
+2017,17210,Ventalló,Girona,552,JxCat,44.78,#00c4b2,Nacionalismo/independentismo,75.91,#18a1cd,44.78,23.45,5.33,1.71,7.68,2.77,NA,0.21
+2017,17211,Verges,Girona,832,JxCat,49.33,#00c4b2,Nacionalismo/independentismo,85.21,#18a1cd,49.33,23.92,1.88,1.75,11.96,1.08,NA,0
+2017,17212,Vidrà,Girona,146,JxCat,57.81,#00c4b2,Nacionalismo/independentismo,88.28,#18a1cd,57.81,23.44,6.25,0.78,7.03,0.78,NA,0
+2017,17213,Vidreres,Girona,5501,JxCat,35.06,#00c4b2,Nacionalismo/independentismo,60.26,#18a1cd,35.06,20.87,7.38,4.12,4.33,2.56,NA,1.11
+2017,17214,Vilabertran,Girona,706,JxCat,40.89,#00c4b2,Nacionalismo/independentismo,74.71,#18a1cd,40.89,28.57,4.11,2.96,5.25,2.79,NA,0.33
+2017,17215,Vilablareix,Girona,2138,JxCat,35.97,#00c4b2,Nacionalismo/independentismo,70.96,#18a1cd,35.97,31.19,6.99,2.93,3.8,1.03,NA,0.97
+2017,17216,Viladasens,Girona,162,JxCat,47.52,#00c4b2,Nacionalismo/independentismo,88.66,#18a1cd,47.52,21.28,4.96,0,19.86,2.13,NA,0.71
+2017,17217,Viladamat,Girona,354,JxCat,42.68,#00c4b2,Nacionalismo/independentismo,85.67,#18a1cd,42.68,21.34,2.74,3.66,21.65,1.52,NA,0
+2017,17218,Vilademuls,Girona,571,JxCat,47.45,#00c4b2,Nacionalismo/independentismo,85.1,#18a1cd,47.45,22.94,2.94,2.55,14.71,2.94,NA,0.5900000000000001
+2017,17220,Viladrau,Girona,804,JxCat,53.39,#00c4b2,Nacionalismo/independentismo,85.06,#18a1cd,53.39,25.31,3.73,1.24,6.36,1.8,NA,0.41
+2017,17221,Vilafant,Girona,4177,Cs,29.68,#da5b1f,Nacionalismo/independentismo,51.69,#18a1cd,26.26,21.84,9.33,3.85,3.59,3.65,NA,1.18
+2017,17222,Vilaür,Girona,100,JxCat,59.14,#00c4b2,Nacionalismo/independentismo,93.54,#18a1cd,59.14,19.35,1.08,2.15,15.05,1.08,NA,0
+2017,17223,Vilajuïga,Girona,810,JxCat,34.34,#00c4b2,Nacionalismo/independentismo,62.8,#18a1cd,34.34,20.03,8.13,6.02,8.43,1.51,NA,0.45
+2017,17224,Vilallonga de Ter,Girona,310,JxCat,59.53,#00c4b2,Nacionalismo/independentismo,84.04,#18a1cd,59.53,20.62,3.11,2.72,3.89,3.11,NA,0
+2017,17225,Vilamacolum,Girona,209,JxCat,39.89,#00c4b2,Nacionalismo/independentismo,80.34,#18a1cd,39.89,34.83,2.81,0.56,5.62,1.69,NA,0.56
+2017,17226,Vilamalla,Girona,886,Cs,40.25,#da5b1f,No nacionalistas,56.43,#fa8c00,27.39,13.83,7.33,3.46,2.07,3.73,NA,1.66
+2017,17227,Vilamaniscle,Girona,135,JxCat,39.83,#00c4b2,Nacionalismo/independentismo,85.6,#18a1cd,39.83,34.75,5.93,1.69,11.02,0,NA,0
+2017,17228,Vilanant,Girona,285,JxCat,46.94,#00c4b2,Nacionalismo/independentismo,75.11,#18a1cd,46.94,20.82,5.71,4.08,7.35,3.27,NA,0.41
+2017,17230,Vila-sacra,Girona,469,JxCat,33.5,#00c4b2,Nacionalismo/independentismo,57.89,#18a1cd,33.5,20.94,9.11,2.96,3.45,3.69,NA,0.74
+2017,17232,Vilopriu,Girona,145,JxCat,37.3,#00c4b2,Nacionalismo/independentismo,80.95,#18a1cd,37.3,28.57,6.35,5.56,15.08,0,NA,0
+2017,17233,Vilobí d'Onyar,Girona,2285,JxCat,50.69,#00c4b2,Nacionalismo/independentismo,75.94,#18a1cd,50.69,20.17,3.99,3.16,5.08,1.63,NA,0.74
+2017,17234,Biure,Girona,180,ERC,28.39,#e5ab4b,Nacionalismo/independentismo,60.65,#18a1cd,25.81,28.39,9.03,4.52,6.45,2.58,NA,0.65
+2017,17901,"Cruïlles, Monells i Sant Sadurní de l'Heura",Girona,978,JxCat,41.34,#00c4b2,Nacionalismo/independentismo,77.07,#18a1cd,41.34,25.57,5.85,2.99,10.16,2.27,NA,0.36
+2017,17902,Forallac,Girona,1334,JxCat,45.38,#00c4b2,Nacionalismo/independentismo,76.01,#18a1cd,45.38,22.69,5.61,2.85,7.94,1.21,NA,0.35
+2017,17903,Sant Julià del Llor i Bonmatí,Girona,880,JxCat,51.45,#00c4b2,Nacionalismo/independentismo,74.08,#18a1cd,51.45,19.34,5.13,3.29,3.29,1.45,NA,0.91
+2017,17998,Residents Absents,Girona,18152,JxCat,32.83,#00c4b2,Nacionalismo/independentismo,60.83,#18a1cd,32.83,21.66,8.66,5.17,6.34,6.46,NA,1.37
+2017,25001,Abella de la Conca,Lleida,145,JxCat,42.74,#00c4b2,Nacionalismo/independentismo,75.22,#18a1cd,42.74,25.64,11.11,3.42,6.84,0,NA,0
+2017,25002,Àger,Lleida,475,JxCat,37.4,#00c4b2,Nacionalismo/independentismo,81.57,#18a1cd,37.4,33.33,4.88,1.9,10.84,2.71,NA,0.27
+2017,25003,Agramunt,Lleida,3773,ERC,37.39,#e5ab4b,Nacionalismo/independentismo,71.79,#18a1cd,31.14,37.39,5.24,2.61,3.26,4.07,NA,0.23
+2017,25004,Els Alamús,Lleida,569,JxCat,41.58,#00c4b2,Nacionalismo/independentismo,73.8,#18a1cd,41.58,28.69,7.07,4.16,3.53,2.29,NA,0.21
+2017,25005,Alàs i Cerc,Lleida,283,JxCat,40.44,#00c4b2,Nacionalismo/independentismo,75.1,#18a1cd,40.44,25.33,8.44,2.67,9.33,2.67,NA,0.44
+2017,25006,L'Albagés,Lleida,331,JxCat,31.48,#00c4b2,Nacionalismo/independentismo,65.55,#18a1cd,31.48,31.11,11.48,1.85,2.96,3.7,NA,0.37
+2017,25007,Albatàrrec,Lleida,1408,ERC,30.57,#e5ab4b,Nacionalismo/independentismo,62.03,#18a1cd,27.05,30.57,8.99,3.96,4.41,3.44,NA,1.42
+2017,25008,Albesa,Lleida,1098,JxCat,45.78,#00c4b2,Nacionalismo/independentismo,77.85,#18a1cd,45.78,28.59,3.27,1.9,3.48,6.33,NA,0.53
+2017,25009,L'Albi,Lleida,613,JxCat,38.37,#00c4b2,Nacionalismo/independentismo,71.32,#18a1cd,38.37,28.49,5.81,4.26,4.46,5.23,NA,0.38
+2017,25010,Alcanó,Lleida,200,JxCat,41.86,#00c4b2,Nacionalismo/independentismo,87.21,#18a1cd,41.86,38.37,2.33,2.33,6.98,0.58,NA,1.16
+2017,25011,Alcarràs,Lleida,5249,ERC,33.33,#e5ab4b,Nacionalismo/independentismo,66.74,#18a1cd,29.76,33.33,7.44,3.12,3.65,3.84,NA,1.08
+2017,25012,Alcoletge,Lleida,2360,ERC,30.2,#e5ab4b,Nacionalismo/independentismo,58.59,#18a1cd,24.36,30.2,9.34,4.62,4.03,3.5,NA,1.92
+2017,25013,Alfarràs,Lleida,2100,ERC,25.4,#e5ab4b,Nacionalismo/independentismo,53.09,#18a1cd,23.49,25.4,16.01,5.13,4.2,5.75,NA,0.74
+2017,25014,Alfés,Lleida,247,JxCat,46.3,#00c4b2,Nacionalismo/independentismo,93.05,#18a1cd,46.3,39.81,0.93,0.46,6.94,1.85,NA,0.46
+2017,25015,Algerri,Lleida,349,JxCat,37.72,#00c4b2,Nacionalismo/independentismo,72.67,#18a1cd,37.72,31.49,2.77,5.19,3.46,4.5,NA,1.73
+2017,25016,Alguaire,Lleida,2107,JxCat,35.78,#00c4b2,Nacionalismo/independentismo,72.9,#18a1cd,35.78,32.87,8.45,2.74,4.25,2.97,NA,0.59
+2017,25017,Alins,Lleida,236,JxCat,51.32,#00c4b2,Nacionalismo/independentismo,88.88,#18a1cd,51.32,33.33,3.17,2.65,4.23,1.59,NA,0.53
+2017,25019,Almacelles,Lleida,4588,JxCat,27.01,#00c4b2,Nacionalismo/independentismo,54.9,#18a1cd,27.01,23.56,10.25,6.33,4.33,5.63,NA,0.6799999999999999
+2017,25020,Almatret,Lleida,280,JxCat,42.57,#00c4b2,Nacionalismo/independentismo,76.3,#18a1cd,42.57,30.52,3.21,2.41,3.21,7.23,NA,0.4
+2017,25021,Almenar,Lleida,2565,ERC,33.51,#e5ab4b,Nacionalismo/independentismo,70.8,#18a1cd,32.38,33.51,8.98,3.24,4.91,3.09,NA,0.45
+2017,25022,Alòs de Balaguer,Lleida,108,JxCat,58.89,#00c4b2,Nacionalismo/independentismo,91.11,#18a1cd,58.89,30,1.11,3.33,2.22,2.22,NA,0
+2017,25023,Alpicat,Lleida,4521,JxCat,32.82,#00c4b2,Nacionalismo/independentismo,61.98,#18a1cd,32.82,25.41,9.23,3.59,3.75,3.51,NA,1.04
+2017,25024,Alt Àneu,Lleida,355,JxCat,39.44,#00c4b2,Nacionalismo/independentismo,86.27,#18a1cd,39.44,36.27,5.99,3.52,10.56,0.7,NA,1.0499999999999998
+2017,25025,Naut Aran,Lleida,1359,Cs,33.33,#da5b1f,No nacionalistas,65.23,#fa8c00,17.42,11.55,17.61,7.48,4.83,4.73,NA,2.08
+2017,25027,Anglesola,Lleida,978,JxCat,44.02,#00c4b2,Nacionalismo/independentismo,80.85,#18a1cd,44.02,32.44,2.68,2.07,4.39,3.05,NA,0
+2017,25029,Arbeca,Lleida,1626,JxCat,44.99,#00c4b2,Nacionalismo/independentismo,81.56,#18a1cd,44.99,30.43,6.22,2.27,6.14,3.51,NA,0.37
+2017,25030,El Pont de Bar,Lleida,130,JxCat,50,#00c4b2,Nacionalismo/independentismo,88.3,#18a1cd,50,25.53,1.06,0,12.77,0,NA,0
+2017,25031,Arres,Lleida,52,Cs,57.89,#da5b1f,No nacionalistas,73.67,#fa8c00,21.05,5.26,7.89,0,0,7.89,NA,0
+2017,25032,Arsèguel,Lleida,67,ERC,46.43,#e5ab4b,Nacionalismo/independentismo,89.29,#18a1cd,30.36,46.43,1.79,1.79,12.5,1.79,NA,1.79
+2017,25033,Artesa de Lleida,Lleida,1123,JxCat,43.85,#00c4b2,Nacionalismo/independentismo,77.92,#18a1cd,43.85,27.4,4.9,2.71,6.67,2.19,NA,0.83
+2017,25034,Artesa de Segre,Lleida,2328,JxCat,43.86,#00c4b2,Nacionalismo/independentismo,79.63,#18a1cd,43.86,31.05,3.63,1.4,4.72,3.78,NA,0.6699999999999999
+2017,25035,La Sentiu de Sió,Lleida,379,JxCat,35.44,#00c4b2,Nacionalismo/independentismo,71.52,#18a1cd,35.44,29.75,5.7,3.8,6.33,4.43,NA,0.95
+2017,25036,Aspa,Lleida,185,JxCat,27.1,#00c4b2,Nacionalismo/independentismo,54.85,#18a1cd,27.1,20.65,12.26,5.81,7.1,5.81,NA,0
+2017,25037,Les Avellanes i Santa Linya,Lleida,372,JxCat,40.76,#00c4b2,Nacionalismo/independentismo,81.52,#18a1cd,40.76,34.39,2.55,2.55,6.37,4.46,NA,0.32
+2017,25038,Aitona,Lleida,1531,JxCat,41.98,#00c4b2,Nacionalismo/independentismo,67.27,#18a1cd,41.98,22.98,5.62,2.07,2.31,10.83,NA,0.41
+2017,25039,Baix Pallars,Lleida,267,JxCat,32.19,#00c4b2,Nacionalismo/independentismo,76.82,#18a1cd,32.19,30.04,6.44,7.3,14.59,1.29,NA,0.43
+2017,25040,Balaguer,Lleida,10588,JxCat,30.87,#00c4b2,Nacionalismo/independentismo,62.62,#18a1cd,30.87,27.28,10.24,3.5,4.47,4.69,NA,0.7
+2017,25041,Barbens,Lleida,556,JxCat,37.96,#00c4b2,Nacionalismo/independentismo,72.23,#18a1cd,37.96,28.85,9.76,3.9,5.42,3.04,NA,0.65
+2017,25042,La Baronia de Rialb,Lleida,207,JxCat,44.51,#00c4b2,Nacionalismo/independentismo,75.72,#18a1cd,44.51,23.7,5.78,1.16,7.51,6.36,NA,1.7399999999999998
+2017,25043,La Vall de Boí,Lleida,809,ERC,37.58,#e5ab4b,Nacionalismo/independentismo,83.13,#18a1cd,34.97,37.58,4.91,5.21,10.58,0.92,NA,0.77
+2017,25044,Bassella,Lleida,184,JxCat,44.24,#00c4b2,Nacionalismo/independentismo,72.12,#18a1cd,44.24,23.64,2.42,2.42,4.24,5.45,NA,0.61
+2017,25045,Bausen,Lleida,59,PSC,23.26,#da1f35,No nacionalistas,65.13,#fa8c00,9.3,9.3,23.26,6.98,16.28,11.63,NA,2.33
+2017,25046,Belianes,Lleida,406,JxCat,37.98,#00c4b2,Nacionalismo/independentismo,76.51,#18a1cd,37.98,26.78,6.83,3.83,11.75,6.01,NA,0.27
+2017,25047,Bellcaire d'Urgell,Lleida,997,JxCat,42.84,#00c4b2,Nacionalismo/independentismo,80.45,#18a1cd,42.84,31.32,4.89,1.75,6.29,3.38,NA,0.82
+2017,25048,Bell-lloc d'Urgell,Lleida,1646,JxCat,35.58,#00c4b2,Nacionalismo/independentismo,69.22,#18a1cd,35.58,29.12,8.11,3.44,4.52,4.3,NA,0.5
+2017,25049,Bellmunt d'Urgell,Lleida,153,JxCat,35.2,#00c4b2,Nacionalismo/independentismo,76,#18a1cd,35.2,32,3.2,2.4,8.8,1.6,NA,0
+2017,25050,Bellpuig,Lleida,3254,JxCat,40.34,#00c4b2,Nacionalismo/independentismo,77.31,#18a1cd,40.34,30.11,5.57,3.11,6.86,2.8,NA,0.5599999999999999
+2017,25051,Bellver de Cerdanya,Lleida,1523,JxCat,37.47,#00c4b2,Nacionalismo/independentismo,75.65,#18a1cd,37.47,31.5,6.76,2.94,6.68,2.07,NA,0.5599999999999999
+2017,25052,Bellvís,Lleida,1566,JxCat,41.56,#00c4b2,Nacionalismo/independentismo,85.14,#18a1cd,41.56,39.23,3.53,2.55,4.35,2.63,NA,0.39
+2017,25053,Benavent de Segrià,Lleida,1055,JxCat,37.58,#00c4b2,Nacionalismo/independentismo,70.55,#18a1cd,37.58,30,7.14,3.52,2.97,2.97,NA,0.55
+2017,25055,Biosca,Lleida,164,JxCat,49.61,#00c4b2,Nacionalismo/independentismo,75.96,#18a1cd,49.61,18.6,4.65,3.88,7.75,3.88,NA,0
+2017,25056,Bovera,Lleida,226,JxCat,58.92,#00c4b2,Nacionalismo/independentismo,85.4,#18a1cd,58.92,23.78,3.78,4.32,2.7,1.08,NA,1.08
+2017,25057,Es Bòrdes,Lleida,210,Cs,29.41,#da5b1f,No nacionalistas,62.74,#fa8c00,11.76,19.61,16.99,9.15,5.88,5.88,NA,1.31
+2017,25058,Les Borges Blanques,Lleida,4316,JxCat,42.65,#00c4b2,Nacionalismo/independentismo,77.73,#18a1cd,42.65,29.98,5.52,2.48,5.1,2.71,NA,0.51
+2017,25059,Bossòst,Lleida,840,Cs,40.32,#da5b1f,No nacionalistas,74.92,#fa8c00,10.79,11.75,21.9,4.76,1.75,7.78,NA,0.16
+2017,25060,Cabanabona,Lleida,71,JxCat,51.02,#00c4b2,Nacionalismo/independentismo,77.55,#18a1cd,51.02,24.49,4.08,0,2.04,6.12,NA,2.04
+2017,25061,Cabó,Lleida,82,JxCat,50,#00c4b2,Nacionalismo/independentismo,82.26,#18a1cd,50,27.42,4.84,1.61,4.84,0,NA,0
+2017,25062,Camarasa,Lleida,725,ERC,36.17,#e5ab4b,Nacionalismo/independentismo,75.45,#18a1cd,34.7,36.17,6.06,4.09,4.58,1.8,NA,0.16
+2017,25063,Canejan,Lleida,78,PSC,25,#da1f35,No nacionalistas,65,#fa8c00,21.67,8.33,25,0,3.33,18.33,NA,1.67
+2017,25064,Castellar de la Ribera,Lleida,101,JxCat,59.78,#00c4b2,Nacionalismo/independentismo,89.13,#18a1cd,59.78,20.65,2.17,0,8.7,3.26,NA,0
+2017,25067,Castelldans,Lleida,711,JxCat,32.69,#00c4b2,Nacionalismo/independentismo,66.78,#18a1cd,32.69,27.45,5.24,3.67,6.64,6.64,NA,0.52
+2017,25068,Castellnou de Seana,Lleida,533,JxCat,53.11,#00c4b2,Nacionalismo/independentismo,82.22,#18a1cd,53.11,23.33,4.89,1.11,5.78,2.44,NA,0.22
+2017,25069,Castelló de Farfanya,Lleida,432,JxCat,41.62,#00c4b2,Nacionalismo/independentismo,83.82,#18a1cd,41.62,38.73,5.49,1.16,3.47,4.34,NA,0.29
+2017,25070,Castellserà,Lleida,808,JxCat,45.58,#00c4b2,Nacionalismo/independentismo,83.31,#18a1cd,45.58,31.14,4.49,0.98,6.59,2.52,NA,0.56
+2017,25071,Cava,Lleida,44,ERC,42.86,#e5ab4b,Nacionalismo/independentismo,97.15,#18a1cd,40,42.86,0,0,14.29,2.86,NA,0
+2017,25072,Cervera,Lleida,5853,JxCat,36.37,#00c4b2,Nacionalismo/independentismo,66.99,#18a1cd,36.37,24.9,7.67,3.09,5.72,4.27,NA,0.94
+2017,25073,Cervià de les Garrigues,Lleida,566,JxCat,39.56,#00c4b2,Nacionalismo/independentismo,80.22,#18a1cd,39.56,35.82,3.96,3.3,4.84,1.32,NA,0.44
+2017,25074,Ciutadilla,Lleida,180,JxCat,37.97,#00c4b2,Nacionalismo/independentismo,80.37,#18a1cd,37.97,37.34,7.59,0,5.06,5.7,NA,0
+2017,25075,Clariana de Cardener,Lleida,122,JxCat,40.71,#00c4b2,Nacionalismo/independentismo,87.61,#18a1cd,40.71,29.2,4.42,1.77,17.7,0.88,NA,0.88
+2017,25076,El Cogul,Lleida,138,JxCat,38.89,#00c4b2,Nacionalismo/independentismo,79.63,#18a1cd,38.89,37.04,7.41,0.93,3.7,0,NA,0
+2017,25077,Coll de Nargó,Lleida,447,JxCat,46.13,#00c4b2,Nacionalismo/independentismo,80.38,#18a1cd,46.13,24.03,7.18,2.21,10.22,4.14,NA,0
+2017,25078,Corbins,Lleida,1000,JxCat,35.97,#00c4b2,Nacionalismo/independentismo,76.25,#18a1cd,35.97,35.62,6.29,4.66,4.66,2.21,NA,0.7
+2017,25079,Cubells,Lleida,293,JxCat,54.03,#00c4b2,Nacionalismo/independentismo,83.87,#18a1cd,54.03,26.21,3.23,0.81,3.63,5.65,NA,0.4
+2017,25081,L'Espluga Calba,Lleida,298,JxCat,40.96,#00c4b2,Nacionalismo/independentismo,77.91,#18a1cd,40.96,28.92,5.22,4.82,8.03,4.02,NA,0
+2017,25082,Espot,Lleida,286,JxCat,41.59,#00c4b2,Nacionalismo/independentismo,80.52,#18a1cd,41.59,36.28,7.96,3.1,2.65,1.33,NA,1.32
+2017,25085,Estaràs,Lleida,140,JxCat,38.4,#00c4b2,Nacionalismo/independentismo,70.4,#18a1cd,38.4,24,4,0,8,7.2,NA,0
+2017,25086,Esterri d'Àneu,Lleida,513,ERC,39.39,#e5ab4b,Nacionalismo/independentismo,85.15,#18a1cd,35.85,39.39,5.19,2.83,9.91,1.65,NA,0.48
+2017,25087,Esterri de Cardós,Lleida,55,ERC,42,#e5ab4b,Nacionalismo/independentismo,90,#18a1cd,38,42,4,0,10,0,NA,0
+2017,25088,Estamariu,Lleida,97,JxCat,65.48,#00c4b2,Nacionalismo/independentismo,86.91,#18a1cd,65.48,20.24,2.38,1.19,1.19,2.38,NA,0
+2017,25089,Farrera,Lleida,100,ERC,33.33,#e5ab4b,Nacionalismo/independentismo,89.28,#18a1cd,32.14,33.33,2.38,3.57,23.81,1.19,NA,0
+2017,25092,La Floresta,Lleida,132,JxCat,41.9,#00c4b2,Nacionalismo/independentismo,88.57,#18a1cd,41.9,35.24,2.86,0.95,11.43,2.86,NA,2.86
+2017,25093,Fondarella,Lleida,646,JxCat,47.19,#00c4b2,Nacionalismo/independentismo,74.72,#18a1cd,47.19,24.91,5.06,2.25,2.62,2.06,NA,0.19
+2017,25094,Foradada,Lleida,141,JxCat,58.54,#00c4b2,Nacionalismo/independentismo,82.93,#18a1cd,58.54,21.14,2.44,0.81,3.25,4.88,NA,0
+2017,25096,La Fuliola,Lleida,888,JxCat,40.63,#00c4b2,Nacionalismo/independentismo,78.5,#18a1cd,40.63,30.85,4.96,2.62,7.02,4.27,NA,0.28
+2017,25097,Fulleda,Lleida,84,ERC,44.59,#e5ab4b,Nacionalismo/independentismo,77.02,#18a1cd,28.38,44.59,1.35,1.35,4.05,5.41,NA,0
+2017,25098,Gavet de la Conca,Lleida,237,JxCat,53.3,#00c4b2,Nacionalismo/independentismo,84.62,#18a1cd,53.3,24.73,7.69,1.1,6.59,2.2,NA,0
+2017,25099,Golmés,Lleida,1292,JxCat,50.81,#00c4b2,Nacionalismo/independentismo,80.8,#18a1cd,50.81,25.6,3.72,1.91,4.39,3.63,NA,0.48
+2017,25100,Gósol,Lleida,201,JxCat,51.38,#00c4b2,Nacionalismo/independentismo,83.42,#18a1cd,51.38,25.41,5.52,3.87,6.63,1.66,NA,0
+2017,25101,La Granadella,Lleida,565,JxCat,38.57,#00c4b2,Nacionalismo/independentismo,84.28,#18a1cd,38.57,38.16,5.1,1.84,7.55,1.43,NA,1.01
+2017,25102,La Granja d'Escarp,Lleida,686,JxCat,34.99,#00c4b2,Nacionalismo/independentismo,62.88,#18a1cd,34.99,25.58,8.17,3.73,2.31,4.44,NA,0.36
+2017,25103,Granyanella,Lleida,128,JxCat,36.45,#00c4b2,Nacionalismo/independentismo,69.16,#18a1cd,36.45,26.17,2.8,4.67,6.54,8.41,NA,0.93
+2017,25104,Granyena de Segarra,Lleida,128,JxCat,49,#00c4b2,Nacionalismo/independentismo,71,#18a1cd,49,16,6,3,6,2,NA,2
+2017,25105,Granyena de les Garrigues,Lleida,119,JxCat,45.1,#00c4b2,Nacionalismo/independentismo,84.31,#18a1cd,45.1,33.33,1.96,3.92,5.88,0.98,NA,0
+2017,25109,Guimerà,Lleida,221,JxCat,61.41,#00c4b2,Nacionalismo/independentismo,87.5,#18a1cd,61.41,20.11,0.54,0,5.98,5.43,NA,0
+2017,25110,Guissona,Lleida,2749,JxCat,34.29,#00c4b2,Nacionalismo/independentismo,68.97,#18a1cd,34.29,29.55,8.7,3.96,5.13,2.96,NA,0.65
+2017,25111,Guixers,Lleida,119,JxCat,60.75,#00c4b2,Nacionalismo/independentismo,84.11,#18a1cd,60.75,14.95,1.87,0.93,8.41,4.67,NA,0
+2017,25112,Ivars de Noguera,Lleida,274,JxCat,34.76,#00c4b2,Nacionalismo/independentismo,68.66,#18a1cd,34.76,18.45,6.87,1.72,15.45,7.73,NA,0.43
+2017,25113,Ivars d'Urgell,Lleida,1136,JxCat,41.05,#00c4b2,Nacionalismo/independentismo,79.38,#18a1cd,41.05,33.09,5.76,2.3,5.24,3.87,NA,0.42
+2017,25114,Ivorra,Lleida,94,JxCat,73.56,#00c4b2,Nacionalismo/independentismo,95.4,#18a1cd,73.56,20.69,0,0,1.15,1.15,NA,2.3
+2017,25115,Isona i Conca Dellà,Lleida,819,JxCat,49.85,#00c4b2,Nacionalismo/independentismo,79.3,#18a1cd,49.85,24.64,4.81,3.06,4.81,1.75,NA,0.29
+2017,25118,Juncosa,Lleida,333,JxCat,33.95,#00c4b2,Nacionalismo/independentismo,69.74,#18a1cd,33.95,32.1,8.86,5.17,3.69,4.8,NA,0.74
+2017,25119,Juneda,Lleida,2252,JxCat,43.61,#00c4b2,Nacionalismo/independentismo,80.55,#18a1cd,43.61,31.43,5.61,2.78,5.51,3.05,NA,0.16
+2017,25120,Lleida,Lleida,92380,Cs,24.54,#da5b1f,Nacionalismo/independentismo,50.36,#18a1cd,23.05,22.82,12.3,5.08,4.49,6.15,NA,1.04
+2017,25121,Les,Lleida,644,Cs,28.08,#da5b1f,No nacionalistas,66.66,#fa8c00,14.61,12.79,25.8,5.71,4.34,6.16,NA,0.91
+2017,25122,Linyola,Lleida,1921,JxCat,37.37,#00c4b2,Nacionalismo/independentismo,76.47,#18a1cd,37.37,34.16,5.31,2.78,4.94,3.46,NA,0.5
+2017,25123,Lladorre,Lleida,186,ERC,45.86,#e5ab4b,Nacionalismo/independentismo,85.35,#18a1cd,34.39,45.86,5.1,1.91,5.1,0,NA,0.64
+2017,25124,Lladurs,Lleida,159,JxCat,53.17,#00c4b2,Nacionalismo/independentismo,80.95,#18a1cd,53.17,21.43,3.17,0.79,6.35,7.94,NA,0
+2017,25125,Llardecans,Lleida,405,JxCat,40.12,#00c4b2,Nacionalismo/independentismo,79.94,#18a1cd,40.12,36.28,2.36,1.47,3.54,3.83,NA,1.18
+2017,25126,Llavorsí,Lleida,292,JxCat,33.33,#00c4b2,Nacionalismo/independentismo,78.9,#18a1cd,33.33,30.8,9.28,4.22,14.77,2.11,NA,0.84
+2017,25127,Lles de Cerdanya,Lleida,218,JxCat,45,#00c4b2,Nacionalismo/independentismo,93.33,#18a1cd,45,37.22,4.44,1.11,11.11,0.56,NA,0
+2017,25128,Llimiana,Lleida,126,JxCat,44.57,#00c4b2,Nacionalismo/independentismo,80.44,#18a1cd,44.57,20.65,4.35,4.35,15.22,1.09,NA,1.09
+2017,25129,Llobera,Lleida,167,JxCat,51.45,#00c4b2,Nacionalismo/independentismo,88.41,#18a1cd,51.45,28.99,3.62,0.72,7.97,2.17,NA,0
+2017,25130,Maldà,Lleida,190,JxCat,46,#00c4b2,Nacionalismo/independentismo,86.66,#18a1cd,46,27.33,2,2,13.33,1.33,NA,1.33
+2017,25131,Massalcoreig,Lleida,409,ERC,43.07,#e5ab4b,Nacionalismo/independentismo,72.86,#18a1cd,26.25,43.07,10.62,1.18,3.54,1.47,NA,0
+2017,25132,Massoteres,Lleida,140,JxCat,50.41,#00c4b2,Nacionalismo/independentismo,78.51,#18a1cd,50.41,24.79,6.61,3.31,3.31,3.31,NA,1.65
+2017,25133,Maials,Lleida,696,JxCat,49.15,#00c4b2,Nacionalismo/independentismo,78.47,#18a1cd,49.15,26.44,4.07,3.39,2.88,4.07,NA,0.51
+2017,25134,Menàrguens,Lleida,604,JxCat,42.2,#00c4b2,Nacionalismo/independentismo,81,#18a1cd,42.2,34.6,4.2,3.6,4.2,3.6,NA,0.4
+2017,25135,Miralcamp,Lleida,1011,JxCat,49.82,#00c4b2,Nacionalismo/independentismo,77.14,#18a1cd,49.82,23.83,6.26,3.13,3.49,2.77,NA,0.6
+2017,25136,La Molsosa,Lleida,96,JxCat,44.71,#00c4b2,Nacionalismo/independentismo,78.83,#18a1cd,44.71,28.24,1.18,1.18,5.88,4.71,NA,1.18
+2017,25137,Mollerussa,Lleida,8688,JxCat,39.17,#00c4b2,Nacionalismo/independentismo,66.23,#18a1cd,39.17,22.86,9.29,3.51,4.2,3.58,NA,0.84
+2017,25138,Montgai,Lleida,559,JxCat,37.29,#00c4b2,Nacionalismo/independentismo,74.58,#18a1cd,37.29,33.75,5,1.25,3.54,5.42,NA,0.63
+2017,25139,Montellà i Martinet,Lleida,471,ERC,37.44,#e5ab4b,Nacionalismo/independentismo,79.23,#18a1cd,35.38,37.44,4.36,2.56,6.41,1.03,NA,0.77
+2017,25140,Montferrer i Castellbò,Lleida,787,JxCat,37.82,#00c4b2,Nacionalismo/independentismo,74.19,#18a1cd,37.82,30.36,6.98,4.22,6.01,3.08,NA,0.32
+2017,25141,Montoliu de Segarra,Lleida,154,JxCat,42.19,#00c4b2,Nacionalismo/independentismo,81.25,#18a1cd,42.19,25,3.91,2.34,14.06,3.12,NA,0
+2017,25142,Montoliu de Lleida,Lleida,353,ERC,45.27,#e5ab4b,Nacionalismo/independentismo,78.72,#18a1cd,28.04,45.27,3.38,5.41,5.41,1.69,NA,0
+2017,25143,Montornès de Segarra,Lleida,83,JxCat,38.96,#00c4b2,Nacionalismo/independentismo,72.73,#18a1cd,38.96,29.87,9.09,3.9,3.9,3.9,NA,1.3
+2017,25145,Nalec,Lleida,82,JxCat,60,#00c4b2,Nacionalismo/independentismo,89.34,#18a1cd,60,22.67,4,2.67,6.67,1.33,NA,0
+2017,25146,Navès,Lleida,232,JxCat,49.21,#00c4b2,Nacionalismo/independentismo,77.49,#18a1cd,49.21,21.47,3.66,2.62,6.81,5.24,NA,1.04
+2017,25148,Odèn,Lleida,223,JxCat,47.34,#00c4b2,Nacionalismo/independentismo,84.04,#18a1cd,47.34,32.98,0.53,1.06,3.72,4.79,NA,0
+2017,25149,Oliana,Lleida,1373,JxCat,45.64,#00c4b2,Nacionalismo/independentismo,76.39,#18a1cd,45.64,26.48,6.71,2.18,4.27,4.7,NA,0.34
+2017,25150,Oliola,Lleida,172,JxCat,50.35,#00c4b2,Nacionalismo/independentismo,76.23,#18a1cd,50.35,20.98,4.9,3.5,4.9,2.8,NA,0
+2017,25151,Olius,Lleida,684,JxCat,45.94,#00c4b2,Nacionalismo/independentismo,75.98,#18a1cd,45.94,26.14,5.84,3.41,3.9,1.79,NA,0.48
+2017,25152,Les Oluges,Lleida,143,JxCat,41.32,#00c4b2,Nacionalismo/independentismo,73.55,#18a1cd,41.32,28.1,3.31,0.83,4.13,5.79,NA,1.65
+2017,25153,Els Omellons,Lleida,190,JxCat,33.76,#00c4b2,Nacionalismo/independentismo,59.88,#18a1cd,33.76,23.57,5.73,7.01,2.55,9.55,NA,0.64
+2017,25154,Els Omells de na Gaia,Lleida,119,JxCat,50.51,#00c4b2,Nacionalismo/independentismo,89.9,#18a1cd,50.51,32.32,1.01,1.01,7.07,1.01,NA,0
+2017,25155,Organyà,Lleida,626,JxCat,42.75,#00c4b2,Nacionalismo/independentismo,76.14,#18a1cd,42.75,27.86,6.87,1.91,5.53,7.06,NA,0
+2017,25156,Os de Balaguer,Lleida,784,JxCat,37.71,#00c4b2,Nacionalismo/independentismo,74.67,#18a1cd,37.71,31.83,5.58,3.47,5.13,3.02,NA,0.45
+2017,25157,Ossó de Sió,Lleida,167,JxCat,40.28,#00c4b2,Nacionalismo/independentismo,72.92,#18a1cd,40.28,29.17,3.47,4.17,3.47,6.25,NA,0.69
+2017,25158,El Palau d'Anglesola,Lleida,1623,JxCat,47.28,#00c4b2,Nacionalismo/independentismo,79.88,#18a1cd,47.28,28.9,4.36,1.89,3.7,1.96,NA,0.36
+2017,25161,Conca de Dalt,Lleida,352,JxCat,38.27,#00c4b2,Nacionalismo/independentismo,80.87,#18a1cd,38.27,29.6,7.58,3.25,13,3.25,NA,0
+2017,25163,La Coma i la Pedra,Lleida,233,JxCat,53.85,#00c4b2,Nacionalismo/independentismo,86.68,#18a1cd,53.85,24.62,1.03,2.56,8.21,3.59,NA,0
+2017,25164,Penelles,Lleida,364,JxCat,50.18,#00c4b2,Nacionalismo/independentismo,79.31,#18a1cd,50.18,27.02,3.86,2.11,2.11,4.91,NA,0.7
+2017,25165,Peramola,Lleida,280,JxCat,43.29,#00c4b2,Nacionalismo/independentismo,76.63,#18a1cd,43.29,26.41,5.19,3.03,6.93,2.16,NA,0.43
+2017,25166,Pinell de Solsonès,Lleida,171,ERC,34.69,#e5ab4b,Nacionalismo/independentismo,74.82,#18a1cd,32.65,34.69,4.08,1.36,7.48,12.93,NA,0
+2017,25167,Pinós,Lleida,236,JxCat,46.23,#00c4b2,Nacionalismo/independentismo,81.41,#18a1cd,46.23,21.61,2.01,1.01,13.57,6.53,NA,0
+2017,25168,El Poal,Lleida,496,JxCat,44.44,#00c4b2,Nacionalismo/independentismo,74.07,#18a1cd,44.44,24.07,2.55,1.16,5.56,7.18,NA,0
+2017,25169,La Pobla de Cérvoles,Lleida,170,JxCat,35.66,#00c4b2,Nacionalismo/independentismo,76.92,#18a1cd,35.66,28.67,7.69,3.5,12.59,2.1,NA,0
+2017,25170,Bellaguarda,Lleida,265,JxCat,39.21,#00c4b2,Nacionalismo/independentismo,81.06,#18a1cd,39.21,37,7.05,2.64,4.85,2.2,NA,0.88
+2017,25171,La Pobla de Segur,Lleida,2150,JxCat,39.36,#00c4b2,Nacionalismo/independentismo,76.7,#18a1cd,39.36,31.24,9.15,3.74,6.1,2.36,NA,0.29000000000000004
+2017,25172,Ponts,Lleida,1806,JxCat,41.77,#00c4b2,Nacionalismo/independentismo,79.48,#18a1cd,41.77,33.53,4.32,1.39,4.18,4.78,NA,0.2
+2017,25173,El Pont de Suert,Lleida,1662,ERC,21.71,#e5ab4b,No nacionalistas,51.07,#fa8c00,20.64,21.71,18.2,7.95,6.27,3.29,NA,0.99
+2017,25174,La Portella,Lleida,394,JxCat,46,#00c4b2,Nacionalismo/independentismo,76.86,#18a1cd,46,24.86,6.29,2.57,6,2.57,NA,0.57
+2017,25175,Prats i Sansor,Lleida,186,JxCat,36.54,#00c4b2,Nacionalismo/independentismo,72.44,#18a1cd,36.54,30.13,5.13,2.56,5.77,7.05,NA,0
+2017,25176,Preixana,Lleida,309,JxCat,50.19,#00c4b2,Nacionalismo/independentismo,79.56,#18a1cd,50.19,22.68,1.49,1.86,6.69,7.43,NA,0
+2017,25177,Preixens,Lleida,360,ERC,33.1,#e5ab4b,Nacionalismo/independentismo,71.08,#18a1cd,31.36,33.1,8.71,2.79,6.62,4.88,NA,0
+2017,25179,Prullans,Lleida,169,JxCat,47.71,#00c4b2,Nacionalismo/independentismo,83.01,#18a1cd,47.71,30.72,3.27,3.92,4.58,1.31,NA,0.65
+2017,25180,Puiggròs,Lleida,225,JxCat,51.91,#00c4b2,Nacionalismo/independentismo,80.32,#18a1cd,51.91,25.68,4.92,3.83,2.73,1.64,NA,0.55
+2017,25181,Puigverd d'Agramunt,Lleida,162,JxCat,45.65,#00c4b2,Nacionalismo/independentismo,77.53,#18a1cd,45.65,25.36,6.52,2.17,6.52,5.8,NA,0
+2017,25182,Puigverd de Lleida,Lleida,1032,ERC,28.79,#e5ab4b,Nacionalismo/independentismo,62.85,#18a1cd,28.35,28.79,11.43,4.51,5.71,3.41,NA,0.88
+2017,25183,Rialp,Lleida,508,JxCat,35.68,#00c4b2,Nacionalismo/independentismo,76.53,#18a1cd,35.68,30.99,6.1,3.29,9.86,2.82,NA,1.17
+2017,25185,Ribera d'Urgellet,Lleida,666,JxCat,39.4,#00c4b2,Nacionalismo/independentismo,72.79,#18a1cd,39.4,27.39,8.63,3.75,6,2.81,NA,0
+2017,25186,Riner,Lleida,205,JxCat,40.22,#00c4b2,Nacionalismo/independentismo,79.88,#18a1cd,40.22,27.93,1.68,5.59,11.73,1.68,NA,0
+2017,25189,Rosselló,Lleida,2175,JxCat,33.28,#00c4b2,Nacionalismo/independentismo,66.1,#18a1cd,33.28,28.28,6.84,5.69,4.54,2.76,NA,0.6900000000000001
+2017,25190,Salàs de Pallars,Lleida,270,ERC,32.88,#e5ab4b,Nacionalismo/independentismo,75.22,#18a1cd,27.48,32.88,11.26,3.6,14.86,1.8,NA,0.45
+2017,25191,Sanaüja,Lleida,321,JxCat,38.87,#00c4b2,Nacionalismo/independentismo,77.36,#18a1cd,38.87,32.45,4.15,2.64,6.04,7.92,NA,0.38
+2017,25192,Sant Guim de Freixenet,Lleida,726,JxCat,38.59,#00c4b2,Nacionalismo/independentismo,75.21,#18a1cd,38.59,30.54,5.09,2.63,6.08,2.96,NA,0.33
+2017,25193,Sant Llorenç de Morunys,Lleida,749,JxCat,47.66,#00c4b2,Nacionalismo/independentismo,85.94,#18a1cd,47.66,29.53,3.12,1.88,8.75,2.34,NA,0.16
+2017,25194,Sant Ramon,Lleida,419,JxCat,51.8,#00c4b2,Nacionalismo/independentismo,80.61,#18a1cd,51.8,23.82,3.05,2.49,4.99,5.26,NA,0
+2017,25196,Sant Esteve de la Sarga,Lleida,113,JxCat,35.56,#00c4b2,Nacionalismo/independentismo,73.34,#18a1cd,35.56,30,6.67,5.56,7.78,3.33,NA,0
+2017,25197,Sant Guim de la Plana,Lleida,133,ERC,36.75,#e5ab4b,Nacionalismo/independentismo,84.61,#18a1cd,35.04,36.75,5.98,0.85,12.82,0.85,NA,1.71
+2017,25200,Sarroca de Lleida,Lleida,320,JxCat,43.38,#00c4b2,Nacionalismo/independentismo,83.46,#18a1cd,43.38,33.09,5.51,1.1,6.99,2.57,NA,0
+2017,25201,Sarroca de Bellera,Lleida,114,JxCat,48.42,#00c4b2,Nacionalismo/independentismo,70.52,#18a1cd,48.42,17.89,4.21,2.11,4.21,3.16,NA,0
+2017,25202,Senterada,Lleida,112,JxCat,43.82,#00c4b2,Nacionalismo/independentismo,75.28,#18a1cd,43.82,24.72,6.74,13.48,6.74,1.12,NA,0
+2017,25203,La Seu d'Urgell,Lleida,8820,JxCat,28.01,#00c4b2,Nacionalismo/independentismo,58.6,#18a1cd,28.01,25.16,11.76,4.01,5.43,4.52,NA,0.85
+2017,25204,Seròs,Lleida,1207,JxCat,36.27,#00c4b2,Nacionalismo/independentismo,73.45,#18a1cd,36.27,34.17,5.81,2.81,3.01,3.21,NA,0.7
+2017,25205,Sidamon,Lleida,558,JxCat,39.08,#00c4b2,Nacionalismo/independentismo,67.23,#18a1cd,39.08,22.69,8.82,4.2,5.46,4.41,NA,0.84
+2017,25206,El Soleràs,Lleida,255,JxCat,47.66,#00c4b2,Nacionalismo/independentismo,88.32,#18a1cd,47.66,36.92,1.87,3.27,3.74,0.47,NA,0
+2017,25207,Solsona,Lleida,6327,JxCat,34.89,#00c4b2,Nacionalismo/independentismo,73.31,#18a1cd,34.89,31.8,6.62,3.27,6.62,2.84,NA,0.78
+2017,25208,Soriguera,Lleida,324,ERC,29.23,#e5ab4b,Nacionalismo/independentismo,81.92,#18a1cd,26.15,29.23,6.15,3.85,26.54,1.15,NA,0.77
+2017,25209,Sort,Lleida,1537,JxCat,33.17,#00c4b2,Nacionalismo/independentismo,74.51,#18a1cd,33.17,30.63,7.38,2.94,10.71,2.94,NA,0.8
+2017,25210,Soses,Lleida,1101,JxCat,48.57,#00c4b2,Nacionalismo/independentismo,75.93,#18a1cd,48.57,25.6,8.68,1.87,1.76,2.53,NA,0.33
+2017,25211,Sudanell,Lleida,678,JxCat,35.26,#00c4b2,Nacionalismo/independentismo,77.21,#18a1cd,35.26,33.45,4.88,2.71,8.5,3.62,NA,0.18
+2017,25212,Sunyer,Lleida,231,JxCat,49.27,#00c4b2,Nacionalismo/independentismo,76.59,#18a1cd,49.27,18.54,5.85,2.44,8.78,3.9,NA,0
+2017,25215,Talarn,Lleida,354,ERC,27.24,#e5ab4b,Nacionalismo/independentismo,58.06,#18a1cd,24.01,27.24,11.47,2.51,6.81,2.87,NA,0.72
+2017,25216,Talavera,Lleida,214,JxCat,44.85,#00c4b2,Nacionalismo/independentismo,74.24,#18a1cd,44.85,23.2,5.15,2.06,6.19,5.67,NA,0
+2017,25217,Tàrrega,Lleida,10762,JxCat,37.87,#00c4b2,Nacionalismo/independentismo,70.2,#18a1cd,37.87,26.41,7.56,3.93,5.92,3.01,NA,0.57
+2017,25218,Tarrés,Lleida,77,JxCat,54.93,#00c4b2,Nacionalismo/independentismo,91.55,#18a1cd,54.93,32.39,2.82,1.41,4.23,0,NA,0
+2017,25219,Tarroja de Segarra,Lleida,143,JxCat,32.03,#00c4b2,Nacionalismo/independentismo,79.69,#18a1cd,32.03,31.25,2.34,2.34,16.41,6.25,NA,0
+2017,25220,Térmens,Lleida,1011,JxCat,44.26,#00c4b2,Nacionalismo/independentismo,79.71,#18a1cd,44.26,31.63,4.75,1.85,3.82,6.49,NA,0.47
+2017,25221,Tírvia,Lleida,125,JxCat,38.46,#00c4b2,Nacionalismo/independentismo,84.62,#18a1cd,38.46,34.62,4.81,0,11.54,3.85,NA,1.92
+2017,25222,Tiurana,Lleida,71,JxCat,57.41,#00c4b2,Nacionalismo/independentismo,77.78,#18a1cd,57.41,16.67,0,0,3.7,5.56,NA,1.85
+2017,25223,Torà,Lleida,922,JxCat,46.94,#00c4b2,Nacionalismo/independentismo,84.06,#18a1cd,46.94,28.83,4.46,2.04,8.29,2.42,NA,0.13
+2017,25224,Els Torms,Lleida,123,JxCat,47.71,#00c4b2,Nacionalismo/independentismo,89.91,#18a1cd,47.71,34.86,2.75,1.83,7.34,0.92,NA,1.83
+2017,25225,Tornabous,Lleida,549,JxCat,43.8,#00c4b2,Nacionalismo/independentismo,82.91,#18a1cd,43.8,34.62,4.27,0.64,4.49,3.42,NA,0.21
+2017,25226,Torrebesses,Lleida,246,JxCat,42.25,#00c4b2,Nacionalismo/independentismo,79.81,#18a1cd,42.25,29.58,2.35,6.57,7.98,0.94,NA,0
+2017,25227,La Torre de Cabdella,Lleida,648,JxCat,45.56,#00c4b2,Nacionalismo/independentismo,82.78,#18a1cd,45.56,29.26,6.67,2.59,7.96,1.11,NA,0.38
+2017,25228,Torrefarrera,Lleida,3093,JxCat,35.6,#00c4b2,Nacionalismo/independentismo,65.28,#18a1cd,35.6,26.61,7.87,4.07,3.07,2.96,NA,1.05
+2017,25230,Torregrossa,Lleida,1560,JxCat,34.54,#00c4b2,Nacionalismo/independentismo,68.62,#18a1cd,34.54,31.53,9.35,2.63,2.55,5.8,NA,0.47
+2017,25231,Torrelameu,Lleida,494,ERC,41.03,#e5ab4b,Nacionalismo/independentismo,79.26,#18a1cd,34.73,41.03,4.43,2.33,3.5,3.73,NA,0.7
+2017,25232,Torres de Segre,Lleida,1349,JxCat,35.82,#00c4b2,Nacionalismo/independentismo,69.95,#18a1cd,35.82,29.43,9.49,3.37,4.7,4.52,NA,0.8
+2017,25233,Torre-serona,Lleida,273,JxCat,33.91,#00c4b2,Nacionalismo/independentismo,67.38,#18a1cd,33.91,30.47,8.58,5.15,3,4.29,NA,0.43
+2017,25234,Tremp,Lleida,4248,JxCat,38.81,#00c4b2,Nacionalismo/independentismo,67.9,#18a1cd,38.81,23.73,8.61,4.29,5.36,3.65,NA,0.7
+2017,25238,Vallbona de les Monges,Lleida,197,JxCat,50.88,#00c4b2,Nacionalismo/independentismo,83.05,#18a1cd,50.88,23.98,1.75,4.09,8.19,1.75,NA,0
+2017,25239,Les Valls de Valira,Lleida,595,JxCat,35.86,#00c4b2,Nacionalismo/independentismo,66.75,#18a1cd,35.86,27.23,5.76,6.02,3.66,2.62,NA,0.78
+2017,25240,Vallfogona de Balaguer,Lleida,1381,ERC,32.06,#e5ab4b,Nacionalismo/independentismo,67,#18a1cd,31.3,32.06,8.8,2.96,3.64,5.92,NA,0.58
+2017,25242,Verdú,Lleida,699,JxCat,45.26,#00c4b2,Nacionalismo/independentismo,74.38,#18a1cd,45.26,24.91,5.26,3.51,4.21,4.04,NA,0.88
+2017,25243,Vielha e Mijaran,Lleida,3694,Cs,32.6,#da5b1f,No nacionalistas,69.02,#fa8c00,14.25,13.59,19.52,7.33,2.65,8.25,NA,1.3199999999999998
+2017,25244,Vilagrassa,Lleida,356,JxCat,38.51,#00c4b2,Nacionalismo/independentismo,74.43,#18a1cd,38.51,30.42,5.83,1.29,5.5,3.56,NA,0.65
+2017,25245,Vilaller,Lleida,427,ERC,26.53,#e5ab4b,Nacionalismo/independentismo,56.27,#18a1cd,23.03,26.53,15.45,7.58,6.71,2.62,NA,0.8699999999999999
+2017,25247,Vilamòs,Lleida,129,Cs,47.25,#da5b1f,No nacionalistas,71.43,#fa8c00,9.89,15.38,16.48,4.4,3.3,3.3,NA,0
+2017,25248,Vilanova de Bellpuig,Lleida,864,JxCat,52.67,#00c4b2,Nacionalismo/independentismo,87.47,#18a1cd,52.67,27.73,4.13,1.73,7.07,3.2,NA,0
+2017,25249,Vilanova de l'Aguda,Lleida,177,ERC,37.25,#e5ab4b,Nacionalismo/independentismo,70.58,#18a1cd,27.45,37.25,3.92,1.31,5.88,7.84,NA,0.65
+2017,25250,Vilanova de Meià,Lleida,336,ERC,38.87,#e5ab4b,Nacionalismo/independentismo,83.04,#18a1cd,37.1,38.87,4.95,1.77,7.07,6.01,NA,0
+2017,25251,Vilanova de Segrià,Lleida,698,JxCat,35.92,#00c4b2,Nacionalismo/independentismo,72.88,#18a1cd,35.92,32.3,4.49,2.07,4.66,4.32,NA,1.21
+2017,25252,Vila-sana,Lleida,542,JxCat,45.78,#00c4b2,Nacionalismo/independentismo,76,#18a1cd,45.78,26.44,6.67,3.33,3.78,3.11,NA,0.44
+2017,25253,El Vilosell,Lleida,150,JxCat,40.16,#00c4b2,Nacionalismo/independentismo,83.47,#18a1cd,40.16,37.8,3.15,3.15,5.51,1.57,NA,0
+2017,25254,Vilanova de la Barca,Lleida,729,JxCat,38.84,#00c4b2,Nacionalismo/independentismo,67.57,#18a1cd,38.84,25.04,8.99,4.98,3.69,5.46,NA,0.96
+2017,25255,Vinaixa,Lleida,410,JxCat,35.51,#00c4b2,Nacionalismo/independentismo,73.01,#18a1cd,35.51,31.25,4.26,4.55,6.25,1.99,NA,0.28
+2017,25901,Vall de Cardós,Lleida,295,ERC,38.37,#e5ab4b,Nacionalismo/independentismo,75.51,#18a1cd,26.94,38.37,6.53,2.86,10.2,3.67,NA,0.82
+2017,25902,Sant Martí de Riucorb,Lleida,558,JxCat,37.84,#00c4b2,Nacionalismo/independentismo,77.16,#18a1cd,37.84,31.5,4.44,2.33,7.82,4.23,NA,0.21
+2017,25903,La Guingueta d'Àneu,Lleida,237,JxCat,44.67,#00c4b2,Nacionalismo/independentismo,88.32,#18a1cd,44.67,33.5,5.08,1.52,10.15,1.52,NA,0.51
+2017,25904,Castell de Mur,Lleida,145,JxCat,50,#00c4b2,Nacionalismo/independentismo,79.54,#18a1cd,50,23.48,4.55,3.79,6.06,2.27,NA,0
+2017,25905,Ribera d'Ondara,Lleida,363,JxCat,42.35,#00c4b2,Nacionalismo/independentismo,72.96,#18a1cd,42.35,26.38,3.91,1.95,4.23,7.49,NA,0.33
+2017,25906,Les Valls d'Aguilar,Lleida,210,JxCat,40,#00c4b2,Nacionalismo/independentismo,79.35,#18a1cd,40,36.77,10.97,2.58,2.58,0.65,NA,0.65
+2017,25907,Torrefeta i Florejacs,Lleida,496,JxCat,39.91,#00c4b2,Nacionalismo/independentismo,79.58,#18a1cd,39.91,30.28,2.58,3.52,9.39,3.52,NA,0.23
+2017,25908,Fígols i Alinyà,Lleida,217,JxCat,37.21,#00c4b2,Nacionalismo/independentismo,75.59,#18a1cd,37.21,31.98,11.05,2.33,6.4,2.91,NA,0.58
+2017,25909,La Vansa i Fórnols,Lleida,149,JxCat,45.08,#00c4b2,Nacionalismo/independentismo,87.7,#18a1cd,45.08,28.69,1.64,3.28,13.93,1.64,NA,0
+2017,25910,Josa i Tuixén,Lleida,96,JxCat,54.79,#00c4b2,Nacionalismo/independentismo,87.67,#18a1cd,54.79,26.03,4.11,2.74,6.85,1.37,NA,0
+2017,25911,Els Plans de Sió,Lleida,432,JxCat,46.36,#00c4b2,Nacionalismo/independentismo,83.1,#18a1cd,46.36,30.03,3.5,2.33,6.71,0.87,NA,0
+2017,25912,Gimenells i el Pla de la Font,Lleida,850,Cs,22.53,#da5b1f,No nacionalistas,56.24,#fa8c00,20.09,18.79,11.48,3.87,4.16,18.22,NA,0.14
+2017,25913,Riu de Cerdanya,Lleida,91,JxCat,51.22,#00c4b2,Nacionalismo/independentismo,91.47,#18a1cd,51.22,35.37,2.44,2.44,4.88,0,NA,0
+2017,25998,Residents Absents,Lleida,16052,JxCat,31.58,#00c4b2,Nacionalismo/independentismo,65.5,#18a1cd,31.58,29.35,9.19,5.04,4.57,3.27,NA,0.84
+2017,43001,Aiguamúrcia,Tarragona,682,JxCat,32.6,#00c4b2,Nacionalismo/independentismo,67.03,#18a1cd,32.6,28.78,7.65,6.74,5.65,2.73,NA,0.91
+2017,43002,Albinyana,Tarragona,1827,Cs,35.52,#da5b1f,No nacionalistas,65.32,#fa8c00,16.03,15.68,18.29,6.36,2.68,3.39,NA,1.76
+2017,43003,L'Albiol,Tarragona,335,Cs,25.56,#da5b1f,Nacionalismo/independentismo,53.33,#18a1cd,22.59,24.07,12.22,5.56,6.67,2.96,NA,0.37
+2017,43004,Alcanar,Tarragona,6252,ERC,40.92,#e5ab4b,Nacionalismo/independentismo,65.51,#18a1cd,19.93,40.92,7.83,4.68,4.66,5.48,NA,0.37
+2017,43005,Alcover,Tarragona,3662,JxCat,29.01,#00c4b2,Nacionalismo/independentismo,59.19,#18a1cd,29.01,24.02,9.66,4.53,6.16,3.5,NA,0.8400000000000001
+2017,43006,Aldover,Tarragona,665,JxCat,32.31,#00c4b2,Nacionalismo/independentismo,67.87,#18a1cd,32.31,29.25,10.33,3.06,6.31,7.84,NA,0.38
+2017,43007,L'Aleixar,Tarragona,632,JxCat,33.94,#00c4b2,Nacionalismo/independentismo,70.27,#18a1cd,33.94,30.09,4.59,3.67,6.24,2.39,NA,0.73
+2017,43008,Alfara de Carles,Tarragona,301,JxCat,35,#00c4b2,Nacionalismo/independentismo,56.82,#18a1cd,35,18.18,9.09,2.27,3.64,6.82,NA,0
+2017,43009,Alforja,Tarragona,1367,ERC,29.8,#e5ab4b,Nacionalismo/independentismo,66.96,#18a1cd,29.08,29.8,8.26,4.76,8.08,1.71,NA,1.26
+2017,43010,Alió,Tarragona,320,JxCat,36.81,#00c4b2,Nacionalismo/independentismo,68.41,#18a1cd,36.81,26.39,9.03,4.51,5.21,3.12,NA,0.35
+2017,43011,Almoster,Tarragona,1068,JxCat,36.73,#00c4b2,Nacionalismo/independentismo,71.68,#18a1cd,36.73,27.6,5.67,3.25,7.35,2.73,NA,0.31
+2017,43012,Altafulla,Tarragona,3602,ERC,24.84,#e5ab4b,Nacionalismo/independentismo,51.54,#18a1cd,22.3,24.84,12.56,6.56,4.4,3.6,NA,0.9
+2017,43013,L'Ametlla de Mar,Tarragona,4352,ERC,36.8,#e5ab4b,Nacionalismo/independentismo,66.21,#18a1cd,25.18,36.8,8.03,4.43,4.23,4.03,NA,0.52
+2017,43014,Amposta,Tarragona,14297,ERC,39.7,#e5ab4b,Nacionalismo/independentismo,64.97,#18a1cd,21.91,39.7,8.89,5.25,3.36,3.32,NA,0.46
+2017,43015,Arbolí,Tarragona,102,ERC,41.3,#e5ab4b,Nacionalismo/independentismo,93.48,#18a1cd,40.22,41.3,1.09,3.26,11.96,0,NA,0
+2017,43016,L'Arboç,Tarragona,3423,Cs,28.12,#da5b1f,No nacionalistas,59.17,#fa8c00,18.38,17.06,19.88,6.46,5.07,3.64,NA,1.07
+2017,43017,L'Argentera,Tarragona,120,JxCat,40,#00c4b2,Nacionalismo/independentismo,89.09,#18a1cd,40,37.27,3.64,1.82,11.82,1.82,NA,2.73
+2017,43018,Arnes,Tarragona,399,JxCat,44.44,#00c4b2,Nacionalismo/independentismo,78.67,#18a1cd,44.44,30.93,3.3,6.01,3.3,3,NA,0
+2017,43019,Ascó,Tarragona,1359,ERC,32.3,#e5ab4b,Nacionalismo/independentismo,67.15,#18a1cd,30.57,32.3,7.64,3.28,4.28,4.82,NA,0.8200000000000001
+2017,43020,Banyeres del Penedès,Tarragona,2238,Cs,32.42,#da5b1f,No nacionalistas,59.64,#fa8c00,18.76,17.76,16.5,6.78,3.36,2.26,NA,1.68
+2017,43021,Barberà de la Conca,Tarragona,345,JxCat,42.91,#00c4b2,Nacionalismo/independentismo,70.92,#18a1cd,42.91,20.21,8.51,2.84,7.8,1.42,NA,0.35
+2017,43022,Batea,Tarragona,1456,ERC,30.85,#e5ab4b,Nacionalismo/independentismo,54.81,#18a1cd,21.14,30.85,11.61,4.73,2.82,8.13,NA,0.08
+2017,43023,Bellmunt del Priorat,Tarragona,225,ERC,34.8,#e5ab4b,Nacionalismo/independentismo,71.56,#18a1cd,26.96,34.8,12.25,1.96,9.8,2.94,NA,0
+2017,43024,Bellvei,Tarragona,1574,Cs,33.95,#da5b1f,No nacionalistas,59.63,#fa8c00,16.29,20.06,14.13,5.94,3.61,4.33,NA,1.28
+2017,43025,Benifallet,Tarragona,598,ERC,37.63,#e5ab4b,Nacionalismo/independentismo,60.12,#18a1cd,18.4,37.63,14.31,4.29,4.09,5.52,NA,0.2
+2017,43026,Benissanet,Tarragona,772,ERC,42.35,#e5ab4b,Nacionalismo/independentismo,79.5,#18a1cd,34.18,42.35,4.01,1.78,2.97,5.2,NA,0.3
+2017,43027,La Bisbal de Falset,Tarragona,166,JxCat,63.38,#00c4b2,Nacionalismo/independentismo,87.33,#18a1cd,63.38,21.13,5.63,0.7,2.82,2.82,NA,0.7
+2017,43028,La Bisbal del Penedès,Tarragona,2723,Cs,28.39,#da5b1f,No nacionalistas,50.47,#fa8c00,23.17,19.67,12.45,5.03,6.18,3.11,NA,1.49
+2017,43029,Blancafort,Tarragona,308,ERC,46.89,#e5ab4b,Nacionalismo/independentismo,86.08,#18a1cd,30.77,46.89,3.3,2.56,8.42,1.1,NA,0.37
+2017,43030,Bonastre,Tarragona,466,JxCat,28.04,#00c4b2,Nacionalismo/independentismo,61.63,#18a1cd,28.04,27.51,9.26,5.03,6.08,1.59,NA,2.1100000000000003
+2017,43031,Les Borges del Camp,Tarragona,1468,JxCat,41.1,#00c4b2,Nacionalismo/independentismo,72.69,#18a1cd,41.1,27.4,6.37,2.9,4.19,2.66,NA,0.32
+2017,43032,Bot,Tarragona,503,JxCat,33.96,#00c4b2,Nacionalismo/independentismo,67.69,#18a1cd,33.96,29.01,11.79,4.72,4.72,3.77,NA,0
+2017,43033,Botarell,Tarragona,773,JxCat,31.7,#00c4b2,Nacionalismo/independentismo,66.16,#18a1cd,31.7,29.71,8.27,4.59,4.75,1.99,NA,1.08
+2017,43034,Bràfim,Tarragona,479,JxCat,35.21,#00c4b2,Nacionalismo/independentismo,69.44,#18a1cd,35.21,31.05,6.85,2.93,3.18,5.13,NA,0.73
+2017,43035,Cabacés,Tarragona,233,JxCat,44.29,#00c4b2,Nacionalismo/independentismo,80,#18a1cd,44.29,30,2.86,2.86,5.71,2.86,NA,0.48
+2017,43036,Cabra del Camp,Tarragona,847,JxCat,25.83,#00c4b2,Nacionalismo/independentismo,56.74,#18a1cd,25.83,25.52,9.83,4.44,5.39,1.74,NA,1.27
+2017,43037,Calafell,Tarragona,17182,Cs,31.76,#da5b1f,No nacionalistas,60.75,#fa8c00,15.88,19.95,15.19,6.91,2.98,5.36,NA,1.53
+2017,43038,Cambrils,Tarragona,21563,Cs,35.46,#da5b1f,No nacionalistas,58.11,#fa8c00,18.16,20.3,11.52,5.49,3.09,4.65,NA,0.99
+2017,43039,Capafonts,Tarragona,89,ERC,37.97,#e5ab4b,Nacionalismo/independentismo,82.27,#18a1cd,30.38,37.97,3.8,2.53,13.92,0,NA,0
+2017,43040,Capçanes,Tarragona,325,ERC,36.21,#e5ab4b,Nacionalismo/independentismo,83.06,#18a1cd,35.55,36.21,3.32,4.32,11.3,4.32,NA,0.33
+2017,43041,Caseres,Tarragona,209,ERC,29.34,#e5ab4b,No nacionalistas,53.29,#fa8c00,14.37,29.34,14.97,5.39,2.4,12.57,NA,0.6
+2017,43042,Castellvell del Camp,Tarragona,2166,JxCat,31.46,#00c4b2,Nacionalismo/independentismo,62.98,#18a1cd,31.46,27.43,8.13,3.41,4.09,2.36,NA,0.57
+2017,43043,El Catllar,Tarragona,3176,Cs,30.24,#da5b1f,No nacionalistas,53.99,#fa8c00,18.55,21.87,12.97,6.86,5.09,2.56,NA,1.36
+2017,43044,La Sénia,Tarragona,3936,ERC,24.97,#e5ab4b,No nacionalistas,54.54,#fa8c00,15.44,24.97,14.77,6.26,4.32,8.07,NA,0.73
+2017,43045,Colldejou,Tarragona,145,JxCat,45.86,#00c4b2,Nacionalismo/independentismo,85.71,#18a1cd,45.86,32.33,3.01,4.51,7.52,1.5,NA,0
+2017,43046,Conesa,Tarragona,93,JxCat,37.35,#00c4b2,Nacionalismo/independentismo,81.93,#18a1cd,37.35,32.53,2.41,4.82,12.05,0,NA,0
+2017,43047,Constantí,Tarragona,4182,Cs,37.73,#da5b1f,No nacionalistas,67.57,#fa8c00,11.4,18,18.28,4.96,2.31,5.59,NA,1.01
+2017,43048,Corbera d'Ebre,Tarragona,775,ERC,31.51,#e5ab4b,Nacionalismo/independentismo,60.69,#18a1cd,25.12,31.51,9.05,5.15,4.06,7.8,NA,1.41
+2017,43049,Cornudella de Montsant,Tarragona,729,ERC,40.92,#e5ab4b,Nacionalismo/independentismo,85.5,#18a1cd,34.96,40.92,3.21,2.75,9.62,1.68,NA,0.61
+2017,43050,Creixell,Tarragona,2527,Cs,33.33,#da5b1f,No nacionalistas,61.06,#fa8c00,16.77,19.67,13.92,7.01,2.22,5.91,NA,0.89
+2017,43051,Cunit,Tarragona,8703,Cs,36.88,#da5b1f,No nacionalistas,69.5,#fa8c00,10.76,16.77,18.02,8.29,2.7,4.89,NA,1.4200000000000002
+2017,43052,Xerta,Tarragona,944,ERC,41.99,#e5ab4b,Nacionalismo/independentismo,72.8,#18a1cd,24.6,41.99,6.46,4.35,6.21,2.36,NA,0.37
+2017,43053,Duesaigües,Tarragona,187,JxCat,31.95,#00c4b2,Nacionalismo/independentismo,76.33,#18a1cd,31.95,30.77,6.51,4.73,13.61,3.55,NA,0.59
+2017,43054,L'Espluga de Francolí,Tarragona,2797,JxCat,38.86,#00c4b2,Nacionalismo/independentismo,75.98,#18a1cd,38.86,32.06,7.4,2.81,5.06,2.81,NA,0.47
+2017,43055,Falset,Tarragona,1975,JxCat,40.2,#00c4b2,Nacionalismo/independentismo,77.8,#18a1cd,40.2,32.39,8.35,2.25,5.21,1.66,NA,0.53
+2017,43056,La Fatarella,Tarragona,833,ERC,40.03,#e5ab4b,Nacionalismo/independentismo,77.3,#18a1cd,30.57,40.03,5.82,1.16,6.7,5.82,NA,0.15
+2017,43057,La Febró,Tarragona,38,JxCat,46.88,#00c4b2,Nacionalismo/independentismo,87.51,#18a1cd,46.88,31.25,6.25,3.12,9.38,0,NA,0
+2017,43058,La Figuera,Tarragona,91,ERC,38.55,#e5ab4b,Nacionalismo/independentismo,83.13,#18a1cd,37.35,38.55,1.2,4.82,7.23,0,NA,0
+2017,43059,Figuerola del Camp,Tarragona,247,JxCat,45.5,#00c4b2,Nacionalismo/independentismo,86.04,#18a1cd,45.5,33.78,5.86,0.9,6.76,1.35,NA,0
+2017,43060,Flix,Tarragona,2794,ERC,36.36,#e5ab4b,Nacionalismo/independentismo,74.4,#18a1cd,30.3,36.36,8.64,4.21,7.74,3.09,NA,0.09
+2017,43061,Forès,Tarragona,43,JxCat,61.76,#00c4b2,Nacionalismo/independentismo,79.41,#18a1cd,61.76,14.71,5.88,0,2.94,5.88,NA,0
+2017,43062,Freginals,Tarragona,268,JxCat,26.58,#00c4b2,Nacionalismo/independentismo,54.01,#18a1cd,26.58,24.05,14.35,5.49,3.38,5.91,NA,0.84
+2017,43063,La Galera,Tarragona,540,JxCat,28.26,#00c4b2,Nacionalismo/independentismo,60.14,#18a1cd,28.26,26.57,7.97,4.11,5.31,9.42,NA,0
+2017,43064,Gandesa,Tarragona,2012,JxCat,34.75,#00c4b2,Nacionalismo/independentismo,68.78,#18a1cd,34.75,29.78,7.54,3.11,4.25,4.61,NA,0.18
+2017,43065,Garcia,Tarragona,382,JxCat,38.54,#00c4b2,Nacionalismo/independentismo,79.94,#18a1cd,38.54,37.26,5.41,4.14,4.14,3.18,NA,0
+2017,43066,Els Garidells,Tarragona,158,ERC,33.81,#e5ab4b,Nacionalismo/independentismo,71.94,#18a1cd,32.37,33.81,7.19,7.91,5.76,0.72,NA,0.72
+2017,43067,Ginestar,Tarragona,541,ERC,50.42,#e5ab4b,Nacionalismo/independentismo,83.27,#18a1cd,29.5,50.42,4.81,3.56,3.35,1.46,NA,0
+2017,43068,Godall,Tarragona,498,ERC,26.87,#e5ab4b,No nacionalistas,56.84,#fa8c00,11.11,26.87,21.19,3.1,3.88,12.14,NA,0
+2017,43069,Gratallops,Tarragona,180,ERC,31.65,#e5ab4b,Nacionalismo/independentismo,74.06,#18a1cd,29.75,31.65,7.59,3.8,12.66,2.53,NA,0.63
+2017,43070,Els Guiamets,Tarragona,246,ERC,39.72,#e5ab4b,Nacionalismo/independentismo,82.25,#18a1cd,24.77,39.72,7.01,1.87,17.76,1.87,NA,0.94
+2017,43071,Horta de Sant Joan,Tarragona,898,JxCat,34.94,#00c4b2,Nacionalismo/independentismo,65.72,#18a1cd,34.94,23.77,7.01,4.16,7.01,7.01,NA,0.13
+2017,43072,El Lloar,Tarragona,101,ERC,36.25,#e5ab4b,Nacionalismo/independentismo,70,#18a1cd,30,36.25,5,0,3.75,6.25,NA,0
+2017,43073,Llorac,Tarragona,81,JxCat,57.97,#00c4b2,Nacionalismo/independentismo,84.06,#18a1cd,57.97,17.39,2.9,2.9,8.7,0,NA,2.9
+2017,43074,Llorenç del Penedès,Tarragona,1750,JxCat,33.27,#00c4b2,Nacionalismo/independentismo,66.47,#18a1cd,33.27,26.93,7.91,5.18,6.27,2.32,NA,0.95
+2017,43075,Margalef,Tarragona,82,JxCat,47.83,#00c4b2,Nacionalismo/independentismo,78.27,#18a1cd,47.83,23.19,5.8,7.25,7.25,0,NA,0
+2017,43076,Marçà,Tarragona,453,ERC,37.5,#e5ab4b,Nacionalismo/independentismo,79.25,#18a1cd,32.25,37.5,6.5,2.75,9.5,2,NA,1.5
+2017,43077,Mas de Barberans,Tarragona,454,ERC,27.64,#e5ab4b,No nacionalistas,57.55,#fa8c00,10.83,27.64,26.78,2.28,2.85,11.4,NA,0
+2017,43078,Masdenverge,Tarragona,839,JxCat,33.38,#00c4b2,Nacionalismo/independentismo,64.85,#18a1cd,33.38,28.68,8.68,2.65,2.79,4.12,NA,0.15
+2017,43079,Masllorenç,Tarragona,351,JxCat,42.28,#00c4b2,Nacionalismo/independentismo,74.16,#18a1cd,42.28,28.19,7.38,4.03,3.69,2.68,NA,0.68
+2017,43080,La Masó,Tarragona,229,JxCat,36.06,#00c4b2,Nacionalismo/independentismo,74.04,#18a1cd,36.06,28.85,3.85,2.4,9.13,0.48,NA,0
+2017,43081,Maspujols,Tarragona,606,JxCat,33.08,#00c4b2,Nacionalismo/independentismo,71.58,#18a1cd,33.08,31.21,7.48,2.99,7.29,1.12,NA,1.12
+2017,43082,El Masroig,Tarragona,361,JxCat,41.98,#00c4b2,Nacionalismo/independentismo,78.71,#18a1cd,41.98,29.32,8.95,2.16,7.41,4.63,NA,0
+2017,43083,El Milà,Tarragona,144,JxCat,36.92,#00c4b2,Nacionalismo/independentismo,57.69,#18a1cd,36.92,20,3.08,6.92,0.77,10,NA,0
+2017,43084,Miravet,Tarragona,522,ERC,50.77,#e5ab4b,Nacionalismo/independentismo,79.03,#18a1cd,23.62,50.77,8.39,3.09,4.64,1.77,NA,0.44
+2017,43085,El Molar,Tarragona,229,ERC,39.6,#e5ab4b,Nacionalismo/independentismo,79.7,#18a1cd,33.17,39.6,8.91,0.99,6.93,2.97,NA,0.5
+2017,43086,Montblanc,Tarragona,5267,JxCat,35.48,#00c4b2,Nacionalismo/independentismo,71.28,#18a1cd,35.48,30.14,8.36,3.86,5.66,2.52,NA,0.78
+2017,43088,Montbrió del Camp,Tarragona,2024,ERC,31.69,#e5ab4b,Nacionalismo/independentismo,66.89,#18a1cd,29.61,31.69,5.29,3.75,5.59,2.85,NA,1.3099999999999998
+2017,43089,Montferri,Tarragona,290,Cs,25,#da5b1f,No nacionalistas,50.89,#fa8c00,21.43,20.98,13.39,8.48,6.7,2.23,NA,1.79
+2017,43090,El Montmell,Tarragona,1098,Cs,38.87,#da5b1f,No nacionalistas,67.29,#fa8c00,10.44,18.49,16.1,5.91,3.4,5.53,NA,0.88
+2017,43091,Mont-ral,Tarragona,132,ERC,35.58,#e5ab4b,Nacionalismo/independentismo,75.97,#18a1cd,23.08,35.58,5.77,7.69,17.31,2.88,NA,1.92
+2017,43092,Mont-roig del Camp,Tarragona,7080,Cs,36.62,#da5b1f,No nacionalistas,59.09,#fa8c00,19.54,18.77,11.19,5.02,2.2,5.26,NA,1
+2017,43093,Móra d'Ebre,Tarragona,3902,JxCat,32.48,#00c4b2,Nacionalismo/independentismo,65.54,#18a1cd,32.48,28.9,10.33,3.45,4.16,3.71,NA,0.93
+2017,43094,Móra la Nova,Tarragona,2134,ERC,35.93,#e5ab4b,Nacionalismo/independentismo,68.14,#18a1cd,29.06,35.93,10.02,3.96,3.15,2.33,NA,0.47
+2017,43095,El Morell,Tarragona,2537,Cs,30.19,#da5b1f,Nacionalismo/independentismo,50.45,#18a1cd,23.71,22.82,9.1,5.04,3.92,3.08,NA,1.73
+2017,43096,La Morera de Montsant,Tarragona,100,JxCat,40,#00c4b2,Nacionalismo/independentismo,83.33,#18a1cd,40,34.44,7.78,2.22,8.89,1.11,NA,0
+2017,43097,La Nou de Gaià,Tarragona,386,JxCat,42.27,#00c4b2,Nacionalismo/independentismo,73.76,#18a1cd,42.27,26.24,7.58,3.5,5.25,4.08,NA,1.46
+2017,43098,Nulles,Tarragona,345,JxCat,46.82,#00c4b2,Nacionalismo/independentismo,71.9,#18a1cd,46.82,17.39,4.35,4.01,7.69,2.01,NA,1
+2017,43099,La Palma d'Ebre,Tarragona,301,JxCat,54.51,#00c4b2,Nacionalismo/independentismo,85.1,#18a1cd,54.51,25.49,6.67,1.18,5.1,1.57,NA,0
+2017,43100,Els Pallaresos,Tarragona,3371,Cs,31.79,#da5b1f,No nacionalistas,59.19,#fa8c00,16.22,20.58,13.87,8.47,3.6,3.67,NA,1.39
+2017,43101,Passanant i Belltall,Tarragona,134,JxCat,49.11,#00c4b2,Nacionalismo/independentismo,83.04,#18a1cd,49.11,22.32,8.93,2.68,11.61,0.89,NA,0
+2017,43102,Paüls,Tarragona,473,ERC,40.86,#e5ab4b,Nacionalismo/independentismo,72.84,#18a1cd,29.44,40.86,14.72,4.31,2.54,2.79,NA,0.25
+2017,43103,Perafort,Tarragona,900,Cs,34.72,#da5b1f,No nacionalistas,53.5,#fa8c00,19.43,24.48,10.23,4.53,1.81,2.59,NA,1.43
+2017,43104,El Perelló,Tarragona,1770,ERC,43.37,#e5ab4b,Nacionalismo/independentismo,79.95,#18a1cd,31.85,43.37,6.33,3.33,4.73,1.47,NA,0.6000000000000001
+2017,43105,Les Piles,Tarragona,161,JxCat,48.95,#00c4b2,Nacionalismo/independentismo,88.81,#18a1cd,48.95,28.67,2.8,3.5,11.19,2.1,NA,0
+2017,43106,El Pinell de Brai,Tarragona,803,ERC,35.64,#e5ab4b,Nacionalismo/independentismo,68.77,#18a1cd,24.15,35.64,7.81,6.19,8.98,6.33,NA,0.29
+2017,43107,Pira,Tarragona,383,ERC,45.18,#e5ab4b,Nacionalismo/independentismo,74.7,#18a1cd,24.4,45.18,7.83,4.22,5.12,1.2,NA,0.9
+2017,43108,El Pla de Santa Maria,Tarragona,1770,JxCat,36.31,#00c4b2,Nacionalismo/independentismo,65.3,#18a1cd,36.31,23.96,6.17,4.09,5.03,2.95,NA,0.81
+2017,43109,La Pobla de Mafumet,Tarragona,2635,Cs,42.01,#da5b1f,No nacionalistas,65.51,#fa8c00,13.71,18.07,11.63,6.83,2.13,3.54,NA,1.5
+2017,43110,La Pobla de Massaluca,Tarragona,262,JxCat,43.27,#00c4b2,Nacionalismo/independentismo,70.68,#18a1cd,43.27,23.56,10.58,2.88,3.85,1.92,NA,0
+2017,43111,La Pobla de Montornès,Tarragona,2074,Cs,32.87,#da5b1f,No nacionalistas,57.37,#fa8c00,15.11,23.68,11.84,6.93,3.21,4.22,NA,1.51
+2017,43112,Poboleda,Tarragona,265,JxCat,42.79,#00c4b2,Nacionalismo/independentismo,87.76,#18a1cd,42.79,31,5.68,1.31,13.97,0.87,NA,0
+2017,43113,El Pont d'Armentera,Tarragona,396,JxCat,40.91,#00c4b2,Nacionalismo/independentismo,69.1,#18a1cd,40.91,23.64,6.36,3.64,4.55,2.42,NA,0.3
+2017,43114,Porrera,Tarragona,377,ERC,45,#e5ab4b,Nacionalismo/independentismo,87.81,#18a1cd,30.62,45,4.38,4.69,12.19,0.31,NA,0.31
+2017,43115,Pradell de la Teixeta,Tarragona,134,JxCat,56.03,#00c4b2,Nacionalismo/independentismo,86.21,#18a1cd,56.03,23.28,5.17,1.72,6.9,0,NA,0
+2017,43116,Prades,Tarragona,459,JxCat,42.57,#00c4b2,Nacionalismo/independentismo,81.87,#18a1cd,42.57,34.51,9.32,2.02,4.79,1.01,NA,0.5
+2017,43117,Prat de Comte,Tarragona,143,JxCat,35.71,#00c4b2,Nacionalismo/independentismo,69.04,#18a1cd,35.71,26.98,5.56,3.17,6.35,11.11,NA,0
+2017,43118,Pratdip,Tarragona,413,ERC,35.47,#e5ab4b,Nacionalismo/independentismo,75.14,#18a1cd,35.2,35.47,7.26,3.35,4.47,1.68,NA,0.28
+2017,43119,Puigpelat,Tarragona,831,JxCat,26.7,#00c4b2,Nacionalismo/independentismo,55.56,#18a1cd,26.7,23.81,9.38,3.75,5.05,3.17,NA,2.02
+2017,43120,Querol,Tarragona,429,Cs,29.81,#da5b1f,No nacionalistas,55.9,#fa8c00,19.57,19.57,13.98,6.83,4.97,4.66,NA,0.62
+2017,43121,Rasquera,Tarragona,597,ERC,48.12,#e5ab4b,Nacionalismo/independentismo,86.34,#18a1cd,33.07,48.12,5.35,2.97,5.15,0.59,NA,0
+2017,43122,Renau,Tarragona,107,ERC,28.26,#e5ab4b,Nacionalismo/independentismo,73.92,#18a1cd,22.83,28.26,8.7,8.7,22.83,0,NA,0
+2017,43123,Reus,Tarragona,70473,Cs,32.49,#da5b1f,No nacionalistas,55.36,#fa8c00,20.14,19.78,11.83,4.83,4.27,5.01,NA,1.2
+2017,43124,La Riba,Tarragona,471,JxCat,34.26,#00c4b2,Nacionalismo/independentismo,68.77,#18a1cd,34.26,30.73,7.3,5.54,3.78,4.79,NA,0.25
+2017,43125,Riba-roja d'Ebre,Tarragona,911,ERC,34.44,#e5ab4b,Nacionalismo/independentismo,61.56,#18a1cd,22.07,34.44,13.7,5.85,5.05,5.45,NA,1.06
+2017,43126,La Riera de Gaià,Tarragona,1175,JxCat,28.91,#00c4b2,Nacionalismo/independentismo,61.32,#18a1cd,28.91,26.85,9.05,5.76,5.56,1.95,NA,1.13
+2017,43127,Riudecanyes,Tarragona,741,JxCat,38.29,#00c4b2,Nacionalismo/independentismo,76.58,#18a1cd,38.29,32.91,3.96,3.32,5.38,1.27,NA,0.48
+2017,43128,Riudecols,Tarragona,920,ERC,30.14,#e5ab4b,Nacionalismo/independentismo,62.33,#18a1cd,25.8,30.14,12.39,4.73,6.39,1.28,NA,0.77
+2017,43129,Riudoms,Tarragona,4592,JxCat,38.03,#00c4b2,Nacionalismo/independentismo,64.82,#18a1cd,38.03,22.18,6.1,3.21,4.61,2.95,NA,0.47
+2017,43130,Rocafort de Queralt,Tarragona,186,JxCat,44.79,#00c4b2,Nacionalismo/independentismo,80.37,#18a1cd,44.79,31.9,6.75,1.23,3.68,4.29,NA,0
+2017,43131,Roda de Berà,Tarragona,4706,Cs,37.7,#da5b1f,No nacionalistas,67.13,#fa8c00,13.77,16.86,16.15,6.96,1.82,5.41,NA,0.91
+2017,43132,Rodonyà,Tarragona,373,JxCat,38.06,#00c4b2,Nacionalismo/independentismo,70.64,#18a1cd,38.06,28.06,7.74,6.13,4.52,1.29,NA,1.29
+2017,43133,Roquetes,Tarragona,5567,ERC,34.59,#e5ab4b,Nacionalismo/independentismo,62.66,#18a1cd,23.73,34.59,9.07,4.71,4.34,4.34,NA,0.62
+2017,43134,El Rourell,Tarragona,270,ERC,29.11,#e5ab4b,Nacionalismo/independentismo,59.07,#18a1cd,24.47,29.11,11.39,2.95,5.49,4.64,NA,1.27
+2017,43135,Salomó,Tarragona,344,JxCat,50.17,#00c4b2,Nacionalismo/independentismo,77.29,#18a1cd,50.17,22.37,4.75,2.37,4.75,2.37,NA,0.34
+2017,43136,Sant Carles de la Ràpita,Tarragona,10338,ERC,40.82,#e5ab4b,Nacionalismo/independentismo,70.02,#18a1cd,25.38,40.82,8.41,5.03,3.82,2.89,NA,0.33
+2017,43137,Sant Jaume dels Domenys,Tarragona,1873,Cs,27.93,#da5b1f,Nacionalismo/independentismo,51.35,#18a1cd,22.89,24.98,11.34,5.38,3.48,2.16,NA,1.45
+2017,43138,Santa Bàrbara,Tarragona,2663,JxCat,29.51,#00c4b2,Nacionalismo/independentismo,59.07,#18a1cd,29.51,26.29,8.78,4.24,3.27,6.73,NA,0.34
+2017,43139,Santa Coloma de Queralt,Tarragona,2020,JxCat,47.89,#00c4b2,Nacionalismo/independentismo,78.63,#18a1cd,47.89,25.18,5.56,1.87,5.56,2.11,NA,0.71
+2017,43140,Santa Oliva,Tarragona,2404,Cs,37.33,#da5b1f,No nacionalistas,65.78,#fa8c00,12.31,18.44,16.09,6.89,2.81,4.19,NA,1.28
+2017,43141,Pontils,Tarragona,101,JxCat,32.94,#00c4b2,Nacionalismo/independentismo,65.88,#18a1cd,32.94,29.41,12.94,2.35,3.53,2.35,NA,0
+2017,43142,Sarral,Tarragona,1088,JxCat,43.39,#00c4b2,Nacionalismo/independentismo,72.25,#18a1cd,43.39,24.12,6.94,2.97,4.74,2.31,NA,0.55
+2017,43143,Savallà del Comtat,Tarragona,55,JxCat,53.06,#00c4b2,Nacionalismo/independentismo,77.55,#18a1cd,53.06,22.45,12.24,4.08,2.04,0,NA,0
+2017,43144,La Secuita,Tarragona,1247,ERC,29.43,#e5ab4b,Nacionalismo/independentismo,60.54,#18a1cd,24.42,29.43,7.15,5.57,6.69,2.23,NA,0.74
+2017,43145,La Selva del Camp,Tarragona,4149,JxCat,29.83,#00c4b2,Nacionalismo/independentismo,62.99,#18a1cd,29.83,25.61,11.01,4.42,7.55,2.9,NA,0.6200000000000001
+2017,43146,Senan,Tarragona,42,ERC,32.43,#e5ab4b,Nacionalismo/independentismo,81.08,#18a1cd,27.03,32.43,5.41,5.41,21.62,0,NA,0
+2017,43147,Solivella,Tarragona,514,JxCat,48.34,#00c4b2,Nacionalismo/independentismo,86.31,#18a1cd,48.34,33.11,1.99,0.88,4.86,4.64,NA,0.22
+2017,43148,Tarragona,Tarragona,90425,Cs,35.02,#da5b1f,No nacionalistas,63.06,#fa8c00,15.06,17.98,14.23,6.48,3.52,6.02,NA,1.31
+2017,43149,Tivenys,Tarragona,677,ERC,30.3,#e5ab4b,Nacionalismo/independentismo,60.41,#18a1cd,28.07,30.3,15.06,2.97,2.04,2.42,NA,0.93
+2017,43150,Tivissa,Tarragona,1259,ERC,33.91,#e5ab4b,Nacionalismo/independentismo,75.91,#18a1cd,33.73,33.91,4.36,5.09,8.27,5.09,NA,0.45
+2017,43151,La Torre de Fontaubella,Tarragona,116,ERC,32.08,#e5ab4b,Nacionalismo/independentismo,75.48,#18a1cd,27.36,32.08,1.89,3.77,16.04,2.83,NA,0
+2017,43152,La Torre de l'Espanyol,Tarragona,442,ERC,40.73,#e5ab4b,Nacionalismo/independentismo,80.15,#18a1cd,36.55,40.73,6.79,3.92,2.87,2.09,NA,0.26
+2017,43153,Torredembarra,Tarragona,10888,Cs,30.18,#da5b1f,No nacionalistas,53.78,#fa8c00,19.57,22.21,12.61,6.02,4.01,3.8,NA,1.17
+2017,43154,Torroja del Priorat,Tarragona,125,ERC,42.48,#e5ab4b,Nacionalismo/independentismo,85.84,#18a1cd,30.97,42.48,2.65,4.42,12.39,2.65,NA,0
+2017,43155,Tortosa,Tarragona,22809,ERC,29.41,#e5ab4b,Nacionalismo/independentismo,61.36,#18a1cd,27.52,29.41,10.31,5.45,4.43,4.19,NA,0.63
+2017,43156,Ulldecona,Tarragona,3919,ERC,28.41,#e5ab4b,Nacionalismo/independentismo,55.59,#18a1cd,22.62,28.41,10.99,4.95,4.56,6.56,NA,0.61
+2017,43157,Ulldemolins,Tarragona,348,JxCat,46.35,#00c4b2,Nacionalismo/independentismo,84.45,#18a1cd,46.35,31.43,4.76,1.59,6.67,3.81,NA,0.63
+2017,43158,Vallclara,Tarragona,80,JxCat,58.82,#00c4b2,Nacionalismo/independentismo,88.23,#18a1cd,58.82,25,5.88,0,4.41,2.94,NA,0
+2017,43159,Vallfogona de Riucorb,Tarragona,77,JxCat,66.22,#00c4b2,Nacionalismo/independentismo,86.49,#18a1cd,66.22,18.92,6.76,0,1.35,2.7,NA,1.35
+2017,43160,Vallmoll,Tarragona,1299,Cs,27.2,#da5b1f,Nacionalismo/independentismo,50.48,#18a1cd,22.61,23.55,13.23,4.13,4.32,3.38,NA,0.94
+2017,43161,Valls,Tarragona,17105,JxCat,30.08,#00c4b2,Nacionalismo/independentismo,60.2,#18a1cd,30.08,24.67,10.48,4.22,5.45,3.67,NA,0.89
+2017,43162,Vandellòs i l'Hospitalet de l'Infant,Tarragona,4372,Cs,31,#da5b1f,No nacionalistas,55.25,#fa8c00,20.14,21.76,13.77,5.57,2.5,4.09,NA,0.82
+2017,43163,El Vendrell,Tarragona,25622,Cs,33.49,#da5b1f,No nacionalistas,60.3,#fa8c00,16.25,19.65,14.27,6.89,3.41,4.3,NA,1.35
+2017,43164,Vespella de Gaià,Tarragona,314,Cs,29.58,#da5b1f,No nacionalistas,62.49,#fa8c00,16.67,17.08,15.42,8.33,2.5,8.33,NA,0.83
+2017,43165,Vilabella,Tarragona,556,JxCat,45.67,#00c4b2,Nacionalismo/independentismo,79.92,#18a1cd,45.67,28.54,4.92,3.54,5.71,2.36,NA,0
+2017,43166,Vilallonga del Camp,Tarragona,1608,ERC,27.06,#e5ab4b,Nacionalismo/independentismo,52.77,#18a1cd,20.85,27.06,11.36,4.71,4.86,4.93,NA,0.6699999999999999
+2017,43167,Vilanova d'Escornalbou,Tarragona,369,JxCat,38.28,#00c4b2,Nacionalismo/independentismo,78.04,#18a1cd,38.28,33.23,6.23,4.75,6.53,1.78,NA,0.3
+2017,43168,Vilanova de Prades,Tarragona,88,JxCat,45.71,#00c4b2,Nacionalismo/independentismo,82.85,#18a1cd,45.71,31.43,5.71,1.43,5.71,0,NA,2.86
+2017,43169,Vilaplana,Tarragona,449,ERC,38.42,#e5ab4b,Nacionalismo/independentismo,84.48,#18a1cd,34.24,38.42,4.19,3.2,11.82,1.72,NA,0.49
+2017,43170,Vila-rodona,Tarragona,865,JxCat,37.28,#00c4b2,Nacionalismo/independentismo,74.15,#18a1cd,37.28,31.76,9.29,2.29,5.11,1.75,NA,0.4
+2017,43171,Vila-seca,Tarragona,14723,Cs,47.51,#da5b1f,No nacionalistas,75.11,#fa8c00,10.66,12.07,14.82,6.28,1.92,4.93,NA,1.57
+2017,43172,Vilaverd,Tarragona,339,JxCat,35.38,#00c4b2,Nacionalismo/independentismo,74.74,#18a1cd,35.38,33.94,3.97,3.61,5.42,1.44,NA,1.44
+2017,43173,La Vilella Alta,Tarragona,95,ERC,34.52,#e5ab4b,Nacionalismo/independentismo,86.9,#18a1cd,27.38,34.52,5.95,1.19,25,1.19,NA,0
+2017,43174,La Vilella Baixa,Tarragona,144,ERC,40.46,#e5ab4b,Nacionalismo/independentismo,80.15,#18a1cd,28.24,40.46,5.34,7.63,11.45,3.05,NA,0
+2017,43175,Vilalba dels Arcs,Tarragona,546,JxCat,35.51,#00c4b2,Nacionalismo/independentismo,67.75,#18a1cd,35.51,26.58,8.5,1.53,5.66,7.63,NA,0.44
+2017,43176,Vimbodí i Poblet,Tarragona,757,JxCat,42.24,#00c4b2,Nacionalismo/independentismo,81.22,#18a1cd,42.24,34.32,4.04,3.42,4.66,2.02,NA,0.47
+2017,43177,Vinebre,Tarragona,295,JxCat,40.08,#00c4b2,Nacionalismo/independentismo,74.32,#18a1cd,40.08,28.4,7,3.89,5.84,1.95,NA,0.78
+2017,43178,Vinyols i els Arcs,Tarragona,1378,JxCat,27.46,#00c4b2,Nacionalismo/independentismo,58.48,#18a1cd,27.46,27.01,8.76,3.74,4.01,4.93,NA,0.82
+2017,43901,Deltebre,Tarragona,8720,ERC,35.69,#e5ab4b,Nacionalismo/independentismo,73.76,#18a1cd,34.85,35.69,6.65,3.25,3.22,4.84,NA,0.36
+2017,43902,Sant Jaume d'Enveja,Tarragona,2719,ERC,33.35,#e5ab4b,Nacionalismo/independentismo,57.95,#18a1cd,22.25,33.35,15.81,4.52,2.35,5.05,NA,0.29000000000000004
+2017,43903,Camarles,Tarragona,2367,ERC,41.07,#e5ab4b,Nacionalismo/independentismo,72.24,#18a1cd,28.75,41.07,8.41,2.75,2.42,4.45,NA,0.32
+2017,43904,L'Aldea,Tarragona,2880,ERC,39.43,#e5ab4b,Nacionalismo/independentismo,65.38,#18a1cd,24.16,39.43,9.08,4.22,1.79,4.4,NA,0.33
+2017,43905,Salou,Tarragona,14659,Cs,43.33,#da5b1f,No nacionalistas,69.26,#fa8c00,13.62,14.85,12.79,5.71,2,6.08,NA,1.35
+2017,43906,L'Ampolla,Tarragona,2131,JxCat,36.58,#00c4b2,Nacionalismo/independentismo,67.82,#18a1cd,36.58,27.3,7.3,3.54,3.94,3.83,NA,0.18
+2017,43907,La Canonja,Tarragona,4364,Cs,42.03,#da5b1f,No nacionalistas,77.16,#fa8c00,9.62,10.24,21.86,6.54,2.67,4.98,NA,1.75
+2017,43998,Residents Absents,Tarragona,17095,Cs,25.2,#da5b1f,No nacionalistas,50.11,#fa8c00,22.41,21.66,10.27,6.69,5.32,6.78,NA,1.17
