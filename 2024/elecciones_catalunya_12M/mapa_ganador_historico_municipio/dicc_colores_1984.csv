@@ -1,7 +1,7 @@
-year,siglas,cod_partido,color_cod_partido
-1984,CiU,partido_1,#1e4a8e
-1984,ERC,partido_5,#e5ab4b
-1984,AP-PDP-UL,partido_3,#0393d3
-1984,PSUC,partido_4,#b81d05
-1984,PSC,partido_2,#da1f35
-1984,Otros,partido_99,#909497
+year,siglas,cod_partido,color_cod_partido,cod_partido_votos,cod_partido_por_voto
+1984,CiU,partido_1,#1e4a8e,votos_partido_1,por_voto_partido_1
+1984,ERC,partido_5,#e5ab4b,votos_partido_5,por_voto_partido_5
+1984,AP-PDP-UL,partido_3,#0393d3,votos_partido_3,por_voto_partido_3
+1984,PSUC,partido_4,#b81d05,votos_partido_4,por_voto_partido_4
+1984,PSC,partido_2,#da1f35,votos_partido_2,por_voto_partido_2
+1984,Otros,partido_99,#1E2F3C,votos_partido_99,por_voto_partido_99

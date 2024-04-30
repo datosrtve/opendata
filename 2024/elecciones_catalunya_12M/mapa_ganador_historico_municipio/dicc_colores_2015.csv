@@ -1,8 +1,8 @@
-year,siglas,cod_partido,color_cod_partido
-2015,JxSí,partido_1,#00c4b2
-2015,CUP,partido_6,#e5c64b
-2015,PSC,partido_3,#da1f35
-2015,Cs,partido_2,#da5b1f
-2015,PP,partido_5,#0393d3
-2015,CatSíqueesPot,partido_4,#9a558f
-2015,Otros,partido_99,#909497
+year,siglas,cod_partido,color_cod_partido,cod_partido_votos,cod_partido_por_voto
+2015,JxSí,partido_1,#00c4b2,votos_partido_1,por_voto_partido_1
+2015,CUP,partido_6,#e5c64b,votos_partido_6,por_voto_partido_6
+2015,PSC,partido_3,#da1f35,votos_partido_3,por_voto_partido_3
+2015,Cs,partido_2,#da5b1f,votos_partido_2,por_voto_partido_2
+2015,PP,partido_5,#0393d3,votos_partido_5,por_voto_partido_5
+2015,CatSíqueesPot,partido_4,#9a558f,votos_partido_4,por_voto_partido_4
+2015,Otros,partido_99,#1E2F3C,votos_partido_99,por_voto_partido_99
