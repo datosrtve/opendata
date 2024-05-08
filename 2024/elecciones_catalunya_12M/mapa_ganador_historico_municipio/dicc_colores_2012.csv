@@ -7,4 +7,4 @@ year,siglas,cod_partido,color_cod_partido,cod_partido_votos,cod_partido_por_voto
 2012,PP,partido_4,#0393d3,votos_partido_4,por_voto_partido_4
 2012,Cs,partido_6,#da5b1f,votos_partido_6,por_voto_partido_6
 2012,SI,partido_8,#909497,votos_partido_8,por_voto_partido_8
-2012,Otros,partido_99,#1E2F3C,votos_partido_99,por_voto_partido_99
+2012,Otros,partido_99,#404142,votos_partido_99,por_voto_partido_99

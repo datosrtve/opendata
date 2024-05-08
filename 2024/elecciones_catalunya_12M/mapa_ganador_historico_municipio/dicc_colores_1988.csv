@@ -5,4 +5,4 @@ year,siglas,cod_partido,color_cod_partido,cod_partido_votos,cod_partido_por_voto
 1988,CDS,partido_6,#008369,votos_partido_6,por_voto_partido_6
 1988,AP,partido_4,#0393d3,votos_partido_4,por_voto_partido_4
 1988,PSC,partido_2,#da1f35,votos_partido_2,por_voto_partido_2
-1988,Otros,partido_99,#1E2F3C,votos_partido_99,por_voto_partido_99
+1988,Otros,partido_99,#404142,votos_partido_99,por_voto_partido_99

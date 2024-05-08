@@ -4,4 +4,4 @@ year,siglas,cod_partido,color_cod_partido,cod_partido_votos,cod_partido_por_voto
 1999,PP,partido_3,#0393d3,votos_partido_3,por_voto_partido_3
 1999,ERC,partido_4,#e5ab4b,votos_partido_4,por_voto_partido_4
 1999,IC-V,partido_5,#288f64,votos_partido_5,por_voto_partido_5
-1999,Otros,partido_99,#1E2F3C,votos_partido_99,por_voto_partido_99
+1999,Otros,partido_99,#404142,votos_partido_99,por_voto_partido_99

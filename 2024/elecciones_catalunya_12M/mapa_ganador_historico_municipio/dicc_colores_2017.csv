@@ -6,4 +6,4 @@ year,siglas,cod_partido,color_cod_partido,cod_partido_votos,cod_partido_por_voto
 2017,CUP,partido_6,#e5c64b,votos_partido_6,por_voto_partido_6
 2017,CatComú-Podem,partido_5,#9a558f,votos_partido_5,por_voto_partido_5
 2017,PP,partido_7,#0393d3,votos_partido_7,por_voto_partido_7
-2017,Otros,partido_99,#1E2F3C,votos_partido_99,por_voto_partido_99
+2017,Otros,partido_99,#404142,votos_partido_99,por_voto_partido_99

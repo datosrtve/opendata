@@ -7,4 +7,4 @@ year,siglas,cod_partido,color_cod_partido,cod_partido_votos,cod_partido_por_voto
 2021,Cs,partido_7,#da5b1f,votos_partido_7,por_voto_partido_7
 2021,PP,partido_8,#0393d3,votos_partido_8,por_voto_partido_8
 2021,VOX,partido_4,#69a93b,votos_partido_4,por_voto_partido_4
-2021,Otros,partido_99,#1E2F3C,votos_partido_99,por_voto_partido_99
+2021,Otros,partido_99,#404142,votos_partido_99,por_voto_partido_99

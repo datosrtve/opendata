@@ -5,4 +5,4 @@ year,siglas,cod_partido,color_cod_partido,cod_partido_votos,cod_partido_por_voto
 2006,ICV-EUiA,partido_5,#909497,votos_partido_5,por_voto_partido_5
 2006,PP,partido_4,#0393d3,votos_partido_4,por_voto_partido_4
 2006,Cs,partido_6,#da5b1f,votos_partido_6,por_voto_partido_6
-2006,Otros,partido_99,#1E2F3C,votos_partido_99,por_voto_partido_99
+2006,Otros,partido_99,#404142,votos_partido_99,por_voto_partido_99
