@@ -267,7 +267,7 @@ year,cod_ine,nom_mun,nom_prov,poblacion,ganador,ganador_por,color,ganador_bloque
 2021,08268,Cercs,Barcelona,979,ERC,33.8,#e5ab4b,Nacionalismo/independentismo,77.05,#18a1cd,76,193,174,17,13,53,6,24,13.31,33.8,30.47,2.98,2.28,9.28,1.05,4.2
 2021,08269,Seva,Barcelona,2780,JxCat,41.55,#00c4b2,Nacionalismo/independentismo,82.58,#18a1cd,115,446,718,68,49,191,21,73,6.66,25.81,41.55,3.94,2.84,11.05,1.22,4.23
 2021,08270,Sitges,Barcelona,19238,PSC,23.06,#da1f35,No nacionalistas,51.73,#fa8c00,2456,2107,2057,1020,627,496,518,466,23.06,19.78,19.31,9.58,5.89,4.66,4.86,4.39
-2021,08271,Sobremunt,Barcelona,65,Otros,44.44,NA,Nacionalismo/independentismo,75,#18a1cd,4,1,0,0,3,10,0,16,11.11,2.78,0,0,8.33,27.78,0,44.44
+2021,08271,Sobremunt,Barcelona,65,Otros,44.44,#404142,Nacionalismo/independentismo,75,#18a1cd,4,1,0,0,3,10,0,16,11.11,2.78,0,0,8.33,27.78,0,44.44
 2021,08272,Sora,Barcelona,162,JxCat,36.52,#00c4b2,Nacionalismo/independentismo,92.18,#18a1cd,2,29,42,0,3,21,0,14,1.74,25.22,36.52,0,2.61,18.26,0,12.18
 2021,08273,Subirats,Barcelona,2423,JxCat,31.59,#00c4b2,Nacionalismo/independentismo,80.15,#18a1cd,150,443,514,51,55,243,29,107,9.22,27.23,31.59,3.13,3.38,14.94,1.78,6.57
 2021,08274,Súria,Barcelona,4598,PSC,28.17,#da1f35,Nacionalismo/independentismo,56.24,#18a1cd,722,611,583,111,115,173,49,86,28.17,23.84,22.75,4.33,4.49,6.75,1.91,3.37
@@ -567,18 +567,18 @@ year,cod_ine,nom_mun,nom_prov,poblacion,ganador,ganador_por,color,ganador_bloque
 2021,25035,La Sentiu de Sió,Lleida,367,JxCat,36.48,#00c4b2,Nacionalismo/independentismo,75.54,#18a1cd,28,63,85,12,9,14,3,14,12.02,27.04,36.48,5.15,3.86,6.01,1.29,6.01
 2021,25036,Aspa,Lleida,172,PSC,28.1,#da1f35,Nacionalismo/independentismo,53.72,#18a1cd,34,21,31,8,0,13,7,0,28.1,17.36,25.62,6.61,0,10.74,5.79,0
 2021,25037,Les Avellanes i Santa Linya,Lleida,368,ERC,37.56,#e5ab4b,Nacionalismo/independentismo,82.22,#18a1cd,17,74,57,7,3,19,2,12,8.63,37.56,28.93,3.55,1.52,9.64,1.02,6.09
-2021,25038,Aitona,Lleida,1416,Otros,32.66,NA,Nacionalismo/independentismo,73.56,#18a1cd,78,193,138,31,18,26,75,298,8.81,21.81,15.59,3.5,2.03,2.94,8.47,33.669999999999995
+2021,25038,Aitona,Lleida,1416,Otros,32.66,#404142,Nacionalismo/independentismo,73.56,#18a1cd,78,193,138,31,18,26,75,298,8.81,21.81,15.59,3.5,2.03,2.94,8.47,33.669999999999995
 2021,25039,Baix Pallars,Lleida,279,JxCat,29.02,#00c4b2,Nacionalismo/independentismo,75.65,#18a1cd,22,48,56,2,14,32,2,12,11.4,24.87,29.02,1.04,7.25,16.58,1.04,6.22
 2021,25040,Balaguer,Lleida,10686,ERC,29.32,#e5ab4b,Nacionalismo/independentismo,67.18,#18a1cd,866,1534,1392,260,146,340,172,288,16.55,29.32,26.61,4.97,2.79,6.5,3.29,5.49
 2021,25041,Barbens,Lleida,523,ERC,34.77,#e5ab4b,Nacionalismo/independentismo,78.87,#18a1cd,27,97,90,8,4,15,5,21,9.68,34.77,32.26,2.87,1.43,5.38,1.79,7.539999999999999
-2021,25042,La Baronia de Rialb,Lleida,202,Otros,40.29,NA,Nacionalismo/independentismo,89.93,#18a1cd,8,34,31,1,2,4,1,56,5.76,24.46,22.3,0.72,1.44,2.88,0.72,40.29
+2021,25042,La Baronia de Rialb,Lleida,202,Otros,40.29,#404142,Nacionalismo/independentismo,89.93,#18a1cd,8,34,31,1,2,4,1,56,5.76,24.46,22.3,0.72,1.44,2.88,0.72,40.29
 2021,25043,La Vall de Boí,Lleida,819,ERC,32.92,#e5ab4b,Nacionalismo/independentismo,81.57,#18a1cd,33,159,144,4,29,68,8,31,6.83,32.92,29.81,0.83,6,14.08,1.66,6.409999999999999
 2021,25044,Bassella,Lleida,180,JxCat,29.92,#00c4b2,Nacionalismo/independentismo,80.32,#18a1cd,10,23,38,3,3,13,6,28,7.87,18.11,29.92,2.36,2.36,10.24,4.72,22.05
 2021,25045,Bausen,Lleida,59,Empate,20.83,#ADA9AC,No nacionalistas,49.99,#fa8c00,5,3,2,0,3,5,2,1,20.83,12.5,8.33,0,12.5,20.83,8.33,4.17
 2021,25046,Belianes,Lleida,408,Empate,27.97,#ADA9AC,Nacionalismo/independentismo,75.1,#18a1cd,30,73,73,7,2,43,15,9,11.49,27.97,27.97,2.68,0.77,16.48,5.75,3.44
 2021,25047,Bellcaire d'Urgell,Lleida,946,ERC,39.61,#e5ab4b,Nacionalismo/independentismo,82.41,#18a1cd,53,261,187,16,8,50,18,46,8.04,39.61,28.38,2.43,1.21,7.59,2.73,6.98
 2021,25048,Bell-lloc d'Urgell,Lleida,1639,ERC,31.25,#e5ab4b,Nacionalismo/independentismo,75.71,#18a1cd,118,305,295,33,18,49,21,99,12.09,31.25,30.23,3.38,1.84,5.02,2.15,10.13
-2021,25049,Bellmunt d'Urgell,Lleida,150,Otros,29.29,NA,Nacionalismo/independentismo,86.86,#18a1cd,4,25,24,5,0,7,0,32,4.04,25.25,24.24,5.05,0,7.07,0,32.32
+2021,25049,Bellmunt d'Urgell,Lleida,150,Otros,29.29,#404142,Nacionalismo/independentismo,86.86,#18a1cd,4,25,24,5,0,7,0,32,4.04,25.25,24.24,5.05,0,7.07,0,32.32
 2021,25050,Bellpuig,Lleida,3269,JxCat,32.93,#00c4b2,Nacionalismo/independentismo,80.33,#18a1cd,183,576,601,37,42,168,37,133,10.03,31.56,32.93,2.03,2.3,9.21,2.03,7.27
 2021,25051,Bellver de Cerdanya,Lleida,1619,JxCat,32.71,#00c4b2,Nacionalismo/independentismo,74.63,#18a1cd,124,240,316,23,35,118,22,56,12.84,24.84,32.71,2.38,3.62,12.22,2.28,5.79
 2021,25052,Bellvís,Lleida,1555,ERC,37.76,#e5ab4b,Nacionalismo/independentismo,85.98,#18a1cd,65,361,351,15,21,78,12,34,6.8,37.76,36.72,1.57,2.2,8.16,1.26,3.5500000000000003
@@ -629,7 +629,7 @@ year,cod_ine,nom_mun,nom_prov,poblacion,ganador,ganador_por,color,ganador_bloque
 2021,25109,Guimerà,Lleida,208,JxCat,42.55,#00c4b2,Nacionalismo/independentismo,82.98,#18a1cd,4,36,60,4,0,5,4,22,2.84,25.53,42.55,2.84,0,3.55,2.84,15.61
 2021,25110,Guissona,Lleida,2742,JxCat,32.34,#00c4b2,Nacionalismo/independentismo,73.7,#18a1cd,232,403,488,24,45,134,24,100,15.37,26.71,32.34,1.59,2.98,8.88,1.59,6.64
 2021,25111,Guixers,Lleida,110,JxCat,34.29,#00c4b2,Nacionalismo/independentismo,85.72,#18a1cd,4,11,24,2,1,6,1,19,5.71,15.71,34.29,2.86,1.43,8.57,1.43,27.15
-2021,25112,Ivars de Noguera,Lleida,265,Otros,20.93,NA,Nacionalismo/independentismo,79.07,#18a1cd,13,35,34,10,1,26,4,43,7.56,20.35,19.77,5.81,0.58,15.12,2.33,24.99
+2021,25112,Ivars de Noguera,Lleida,265,Otros,20.93,#404142,Nacionalismo/independentismo,79.07,#18a1cd,13,35,34,10,1,26,4,43,7.56,20.35,19.77,5.81,0.58,15.12,2.33,24.99
 2021,25113,Ivars d'Urgell,Lleida,1116,ERC,35.81,#e5ab4b,Nacionalismo/independentismo,77.03,#18a1cd,92,251,194,12,15,47,14,52,13.12,35.81,27.67,1.71,2.14,6.7,2,7.42
 2021,25114,Ivorra,Lleida,105,JxCat,62.2,#00c4b2,Nacionalismo/independentismo,92.69,#18a1cd,0,14,51,1,3,2,0,9,0,17.07,62.2,1.22,3.66,2.44,0,10.98
 2021,25115,Isona i Conca Dellà,Lleida,817,JxCat,44.77,#00c4b2,Nacionalismo/independentismo,81.2,#18a1cd,67,137,231,8,5,21,7,32,12.98,26.55,44.77,1.55,0.97,4.07,1.36,6.199999999999999
@@ -687,7 +687,7 @@ year,cod_ine,nom_mun,nom_prov,poblacion,ganador,ganador_por,color,ganador_bloque
 2021,25174,La Portella,Lleida,384,JxCat,36.15,#00c4b2,Nacionalismo/independentismo,77.69,#18a1cd,34,77,94,9,5,20,0,11,13.08,29.62,36.15,3.46,1.92,7.69,0,4.23
 2021,25175,Prats i Sansor,Lleida,197,JxCat,35.34,#00c4b2,Nacionalismo/independentismo,70.68,#18a1cd,9,25,47,11,5,10,8,12,6.77,18.8,35.34,8.27,3.76,7.52,6.02,9.02
 2021,25176,Preixana,Lleida,323,JxCat,33.17,#00c4b2,Nacionalismo/independentismo,80.77,#18a1cd,6,48,69,6,6,14,12,38,2.88,23.08,33.17,2.88,2.88,6.73,5.77,18.27
-2021,25177,Preixens,Lleida,350,Otros,24.88,NA,Nacionalismo/independentismo,74.64,#18a1cd,18,49,41,14,8,11,4,58,8.61,23.44,19.62,6.7,3.83,5.26,1.91,27.76
+2021,25177,Preixens,Lleida,350,Otros,24.88,#404142,Nacionalismo/independentismo,74.64,#18a1cd,18,49,41,14,8,11,4,58,8.61,23.44,19.62,6.7,3.83,5.26,1.91,27.76
 2021,25179,Prullans,Lleida,184,JxCat,30.83,#00c4b2,Nacionalismo/independentismo,86.66,#18a1cd,6,31,37,6,3,21,0,15,5,25.83,30.83,5,2.5,17.5,0,12.5
 2021,25180,Puiggròs,Lleida,218,JxCat,50.75,#00c4b2,Nacionalismo/independentismo,83.6,#18a1cd,15,36,68,0,2,4,1,5,11.19,26.87,50.75,0,1.49,2.99,0.75,3.74
 2021,25181,Puigverd d'Agramunt,Lleida,154,JxCat,30.85,#00c4b2,Nacionalismo/independentismo,67.02,#18a1cd,13,26,29,6,0,6,5,5,13.83,27.66,30.85,6.38,0,6.38,5.32,5.32
@@ -741,7 +741,7 @@ year,cod_ine,nom_mun,nom_prov,poblacion,ganador,ganador_por,color,ganador_bloque
 2021,25242,Verdú,Lleida,703,JxCat,36.62,#00c4b2,Nacionalismo/independentismo,77.28,#18a1cd,37,110,145,11,15,34,14,19,9.34,27.78,36.62,2.78,3.79,8.59,3.54,4.8
 2021,25243,Vielha e Mijaran,Lleida,3754,PSC,30.9,#da1f35,No nacionalistas,64.77,#fa8c00,520,253,185,218,85,52,118,107,30.9,15.03,10.99,12.95,5.05,3.09,7.01,6.36
 2021,25244,Vilagrassa,Lleida,385,JxCat,31.82,#00c4b2,Nacionalismo/independentismo,70.67,#18a1cd,34,64,77,11,7,14,9,18,14.05,26.45,31.82,4.55,2.89,5.79,3.72,7.43
-2021,25245,Vilaller,Lleida,433,Otros,23.05,NA,Nacionalismo/independentismo,62.97,#18a1cd,51,37,45,8,9,15,6,57,20.99,15.23,18.52,3.29,3.7,6.17,2.47,23.46
+2021,25245,Vilaller,Lleida,433,Otros,23.05,#404142,Nacionalismo/independentismo,62.97,#18a1cd,51,37,45,8,9,15,6,57,20.99,15.23,18.52,3.29,3.7,6.17,2.47,23.46
 2021,25247,Vilamòs,Lleida,147,PSC,32.39,#da1f35,No nacionalistas,77.46,#fa8c00,23,9,1,18,5,2,2,2,32.39,12.68,1.41,25.35,7.04,2.82,2.82,2.82
 2021,25248,Vilanova de Bellpuig,Lleida,874,JxCat,41.88,#00c4b2,Nacionalismo/independentismo,85.87,#18a1cd,34,184,258,13,6,50,9,42,5.52,29.87,41.88,2.11,0.97,8.12,1.46,6.800000000000001
 2021,25249,Vilanova de l'Aguda,Lleida,172,ERC,33,#e5ab4b,Nacionalismo/independentismo,79,#18a1cd,11,33,25,5,0,13,3,8,11,33,25,5,0,13,3,8
@@ -825,7 +825,7 @@ year,cod_ine,nom_mun,nom_prov,poblacion,ganador,ganador_por,color,ganador_bloque
 2021,43058,La Figuera,Tarragona,99,ERC,32.47,#e5ab4b,Nacionalismo/independentismo,74.03,#18a1cd,10,25,17,1,3,10,2,6,12.99,32.47,22.08,1.3,3.9,12.99,2.6,7.79
 2021,43059,Figuerola del Camp,Tarragona,263,JxCat,41.88,#00c4b2,Nacionalismo/independentismo,85.63,#18a1cd,12,42,67,1,5,19,1,9,7.5,26.25,41.88,0.62,3.12,11.88,0.62,5.62
 2021,43060,Flix,Tarragona,2650,ERC,35.43,#e5ab4b,Nacionalismo/independentismo,75.55,#18a1cd,197,574,425,32,63,200,36,41,12.16,35.43,26.23,1.98,3.89,12.35,2.22,2.53
-2021,43061,Forès,Tarragona,40,Otros,40,NA,Nacionalismo/independentismo,80,#18a1cd,1,1,8,2,0,0,0,12,4,4,32,8,0,0,0,48
+2021,43061,Forès,Tarragona,40,Otros,40,#404142,Nacionalismo/independentismo,80,#18a1cd,1,1,8,2,0,0,0,12,4,4,32,8,0,0,0,48
 2021,43062,Freginals,Tarragona,264,JxCat,23.16,#00c4b2,Nacionalismo/independentismo,50.27,#18a1cd,34,33,41,10,11,11,13,12,19.21,18.64,23.16,5.65,6.21,6.21,7.34,6.77
 2021,43063,La Galera,Tarragona,531,ERC,25.87,#e5ab4b,Nacionalismo/independentismo,57.91,#18a1cd,44,67,29,33,14,22,11,38,16.99,25.87,11.2,12.74,5.41,8.49,4.25,14.67
 2021,43064,Gandesa,Tarragona,2052,ERC,30.55,#e5ab4b,Nacionalismo/independentismo,75.15,#18a1cd,117,370,263,46,39,99,54,192,9.66,30.55,21.72,3.8,3.22,8.18,4.46,15.86
