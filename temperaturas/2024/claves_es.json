@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  }
+]

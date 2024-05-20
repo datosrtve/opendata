@@ -1,0 +1,268 @@
+[
+  {
+    "ccaa": "País Vasco",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Castilla-La Mancha",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Comunidad Valenciana",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Castilla y León",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Extremadura",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Baleares",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Cataluña",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Andalucía",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Galicia",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Aragón",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "La Rioja",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Madrid",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Murcia",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Navarra",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Asturias",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Canarias",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Cantabria",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Ceuta",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  },
+  {
+    "ccaa": "Melilla",
+    "date": "2024-05-20",
+    "claves": {
+      "clave1": "Lugar con la temperatura maxima más alta",
+      "clave2": "Lugar con la mínima más alta",
+      "clave3": "Zonas isoclimáticas con la máxima más excepcional (por percentil)",
+      "clave4": "Zonas isoclimáticas con la mínima más excepcional (por percentil)",
+      "clave5": "Lugares donde la mínima va a estar por encima de 25 grados (noches tropicales)",
+      "clave6": "Lugares donde las máximas superan el umbral sanitario",
+      "clave7": "Lugares con avisos meteorológicos por calor",
+      "clave8": "Récords temperaturas últimos días"
+    }
+  }
+]
