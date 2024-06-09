@@ -1114,7 +1114,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 46067,Benissanó,Comunidad Valenciana,Valencia/València,37.61,1880,37.61,14.11111111
 46068,Benissoda,Comunidad Valenciana,Valencia/València,43.45,378,43.45,14.11111111
 46069,Benissuera,Comunidad Valenciana,Valencia/València,51.31,145,51.31,14.11111111
-03042,"Benitachell/Poble Nou de Benitatxell, el",Comunidad Valenciana,Alicante/Alacant,27.95,1573,27.95,14.11111111
+03042,Benitachell/El Poble Nou de Benitatxell,Comunidad Valenciana,Alicante/Alacant,27.95,1573,27.95,14.11111111
 04026,Benitagla,Andalucía,Almería,35.59,58,35.59,14.11111111
 04027,Benizalón,Andalucía,Almería,20.19,206,20.19,14.11111111
 12029,Benlloc,Comunidad Valenciana,Castellón/Castelló,32.82,720,32.82,14.11111111
@@ -2271,7 +2271,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 06041,Cristina,Extremadura,Badajoz,32.21,447,32.21,14.11111111
 37112,Cristóbal,Castilla y León,Salamanca,36.3,157,36.3,14.11111111
 44087,Crivillén,Aragón,Teruel,43.47,69,43.47,14.11111111
-17901,"Cruïlles, Monells i Sant Sadurní de l'Heura",Cataluña,Girona,21.58,1022,21.58,14.11111111
+17901,Cruïlles Monells i Sant Sadurní de l'Heura,Cataluña,Girona,21.58,1022,21.58,14.11111111
 24060,Crémenes,Castilla y León,León,22.71,536,22.71,14.11111111
 10068,Cuacos de Yuste,Extremadura,Cáceres,35.51,685,35.51,14.11111111
 24061,Cuadros,Castilla y León,León,30.68,1785,30.68,14.11111111
@@ -6526,7 +6526,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 10173,Saucedilla,Extremadura,Cáceres,25.3,644,25.3,14.11111111
 37302,Saucelle,Castilla y León,Salamanca,32.47,228,32.47,14.11111111
 40192,Sauquillo de Cabezas,Castilla y León,Segovia,35.19,123,35.19,14.11111111
-17187,"Saus, Camallera i Llampaies",Cataluña,Girona,29.43,617,29.43,14.11111111
+17187,Saus Camallera i Llampaies,Cataluña,Girona,29.43,617,29.43,14.11111111
 43143,Savallà del Comtat,Cataluña,Tarragona,35.41,48,35.41,14.11111111
 03123,Sax,Comunidad Valenciana,Alicante/Alacant,35.19,7713,35.19,14.11111111
 29086,Sayalonga,Andalucía,Málaga,15.61,774,15.61,14.11111111
