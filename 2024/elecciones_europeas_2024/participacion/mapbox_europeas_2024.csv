@@ -235,7 +235,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 03099,Orihuela,Comunidad Valenciana,Alicante/Alacant,59.64,43954,49.6,-10.04
 03098,Orxeta,Comunidad Valenciana,Alicante/Alacant,62.3,614,56.24,-6.06
 03100,Parcent,Comunidad Valenciana,Alicante/Alacant,67.69,511,59.53,-8.16
-03101,Pedreguer,Comunidad Valenciana,Alicante/Alacant,66.29,5281,52.25,-14.04
+03101,Pedreguer,Comunidad Valenciana,Alicante/Alacant,66.29,5281,52.28,-14.01
 03102,Pego,Comunidad Valenciana,Alicante/Alacant,72.94,7372,55.11,-17.83
 03103,Penàguila,Comunidad Valenciana,Alicante/Alacant,84.34,247,70.28,-14.06
 03104,Petrer,Comunidad Valenciana,Alicante/Alacant,60.49,27310,51.9,-8.59
@@ -288,7 +288,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 04008,Alcóntar,Andalucía,Almería,81.53,467,62.47,-19.06
 04009,Alcudia de Monteagud,Andalucía,Almería,88.82,106,52.83,-35.99
 04010,Alhabia,Andalucía,Almería,76.96,597,60.92,-16.04
-04011,Alhama de Almería,Andalucía,Almería,79.78,2814,52.24,-27.54
+04011,Alhama de Almería,Andalucía,Almería,79.78,2814,52.17,-27.61
 04012,Alicún,Andalucía,Almería,87.77,184,72.97,-14.8
 04013,Almería,Andalucía,Almería,54.72,146260,45.72,-9
 04014,Almócita,Andalucía,Almería,78.95,181,71.97,-6.98
@@ -341,7 +341,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 04064,Mojácar,Andalucía,Almería,64.84,3177,45.62,-19.22
 04903,La Mojonera,Andalucía,Almería,69.29,4154,45.07,-24.22
 04065,Nacimiento,Andalucía,Almería,85.75,336,63.33,-22.42
-04066,Níjar,Andalucía,Almería,63.67,13640,40.39,-23.28
+04066,Níjar,Andalucía,Almería,63.67,13640,40.38,-23.29
 04067,Ohanes,Andalucía,Almería,75.58,494,51.01,-24.57
 04068,Olula de Castro,Andalucía,Almería,93.82,160,65.03,-28.79
 04069,Olula del Río,Andalucía,Almería,75.49,4769,48.61,-26.88
@@ -779,7 +779,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 06143,Valverde de Leganés,Extremadura,Badajoz,77.16,3463,49.14,-28.02
 06144,Valverde de Llerena,Extremadura,Badajoz,78.71,488,51.63,-27.08
 06145,Valverde de Mérida,Extremadura,Badajoz,86.29,879,52.27,-34.02
-06149,Villafranca de los Barros,Extremadura,Badajoz,73.32,9906,51.48,-21.84
+06149,Villafranca de los Barros,Extremadura,Badajoz,73.32,9906,51.47,-21.85
 06150,Villagarcía de la Torre,Extremadura,Badajoz,78.85,758,51.18,-27.67
 06151,Villagonzalo,Extremadura,Badajoz,73.36,1036,48.64,-24.72
 06152,Villalba de los Barros,Extremadura,Badajoz,74.92,1250,45.84,-29.08
@@ -1020,7 +1020,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 08153,Òrrius,Cataluña,Barcelona,75.62,626,52.77,-22.85
 08154,Pacs del Penedès,Cataluña,Barcelona,74.61,706,48.87,-25.74
 08155,Palafolls,Cataluña,Barcelona,63.43,7494,38.13,-25.3
-08156,Palau-solità i Plegamans,Cataluña,Barcelona,63.88,11821,42.22,-21.66
+08156,Palau-solità i Plegamans,Cataluña,Barcelona,63.88,11821,42.2,-21.68
 08157,Pallejà,Cataluña,Barcelona,68.17,8977,47.1,-21.07
 08905,La Palma de Cervelló,Cataluña,Barcelona,72.59,2369,51.49,-21.1
 08158,El Papiol,Cataluña,Barcelona,65.08,3264,41.66,-23.42
@@ -1061,7 +1061,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 08197,Sant Andreu de Llavaneres,Cataluña,Barcelona,63.41,8480,44.59,-18.82
 08198,Sant Antoni de Vilamajor,Cataluña,Barcelona,66,5058,44.15,-21.85
 08199,Sant Bartomeu del Grau,Cataluña,Barcelona,80.4,641,44.3,-36.1
-08200,Sant Boi de Llobregat,Cataluña,Barcelona,59.75,62131,43.1,-16.65
+08200,Sant Boi de Llobregat,Cataluña,Barcelona,59.75,62131,43.09,-16.66
 08201,Sant Boi de Lluçanès,Cataluña,Barcelona,69.23,477,39.74,-29.49
 08203,Sant Cebrià de Vallalta,Cataluña,Barcelona,65.17,2755,36.32,-28.85
 08202,Sant Celoni,Cataluña,Barcelona,65.84,13528,41.83,-24.01
@@ -1655,7 +1655,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 10111,Madrigal de la Vera,Extremadura,Cáceres,77.63,1285,50.42,-27.21
 10112,Madrigalejo,Extremadura,Cáceres,83.21,1444,47.65,-35.56
 10113,Madroñera,Extremadura,Cáceres,70.29,2100,46.83,-23.46
-10114,Majadas,Extremadura,Cáceres,77.08,912,45.94,-31.14
+10114,Majadas,Extremadura,Cáceres,77.08,912,45.83,-31.25
 10115,Malpartida de Cáceres,Extremadura,Cáceres,81.95,3482,54.67,-27.28
 10116,Malpartida de Plasencia,Extremadura,Cáceres,71.43,3816,45.65,-25.78
 10117,Marchagaz,Extremadura,Cáceres,61.38,208,42.65,-18.73
@@ -2072,7 +2072,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 14023,Dos Torres,Andalucía,Córdoba,88.35,1976,64.27,-24.08
 14024,Encinas Reales,Andalucía,Córdoba,82.22,1853,54.5,-27.72
 14025,Espejo,Andalucía,Córdoba,87.31,2704,61.27,-26.04
-14026,Espiel,Andalucía,Córdoba,75.9,1971,38.94,-36.96
+14026,Espiel,Andalucía,Córdoba,75.9,1971,38.89,-37.01
 14027,Fernán-Núñez,Andalucía,Córdoba,71.63,7887,51.07,-20.56
 14028,Fuente la Lancha,Andalucía,Córdoba,94.14,294,62.37,-31.77
 14029,Fuente Obejuna,Andalucía,Córdoba,74.98,3840,52.18,-22.8
@@ -2789,7 +2789,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 18128,Marchal,Andalucía,Granada,91.52,322,59,-32.52
 18132,Moclín,Andalucía,Granada,74.56,2958,56.46,-18.1
 18133,Molvízar,Andalucía,Granada,80.97,2055,48.9,-32.07
-18134,Monachil,Andalucía,Granada,58.56,6651,43.72,-14.84
+18134,Monachil,Andalucía,Granada,58.56,6651,43.64,-14.92
 18135,Montefrío,Andalucía,Granada,72.56,4165,41.51,-31.05
 18136,Montejícar,Andalucía,Granada,70.58,1690,46.42,-24.16
 18137,Montillana,Andalucía,Granada,87,875,53.34,-33.66
@@ -3288,7 +3288,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 21061,Rociana del Condado,Andalucía,Huelva,64.88,5009,36.45,-28.43
 21062,Rosal de la Frontera,Andalucía,Huelva,65.41,1367,34.46,-30.95
 21063,San Bartolomé de la Torre,Andalucía,Huelva,75.84,2600,54.07,-21.77
-21064,San Juan del Puerto,Andalucía,Huelva,66.83,6917,40.2,-26.63
+21064,San Juan del Puerto,Andalucía,Huelva,66.83,6917,40.18,-26.65
 21066,San Silvestre de Guzmán,Andalucía,Huelva,80.79,505,63.08,-17.71
 21065,Sanlúcar de Guadiana,Andalucía,Huelva,78.86,282,49.35,-29.51
 21067,Santa Ana la Real,Andalucía,Huelva,62.77,405,44.47,-18.3
@@ -4081,7 +4081,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 26033,Briñas,La Rioja,La Rioja,88.2,158,65.4,-22.8
 26034,Briones,La Rioja,La Rioja,83.81,598,64.86,-18.95
 26035,Cabezón de Cameros,La Rioja,La Rioja,87.5,22,90.9,3.4
-26036,Calahorra,La Rioja,La Rioja,64.15,16863,49.8,-14.35
+26036,Calahorra,La Rioja,La Rioja,64.15,16863,49.78,-14.37
 26037,Camprovín,La Rioja,La Rioja,68.7,126,70.76,2.06
 26038,Canales de la Sierra,La Rioja,La Rioja,77.5,83,61.44,-16.06
 26039,Canillas de Río Tuerto,La Rioja,La Rioja,84.62,34,74.28,-10.34
@@ -4133,7 +4133,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 26086,Ledesma de la Cogolla,La Rioja,La Rioja,100,15,100,0
 26087,Leiva,La Rioja,La Rioja,76.47,181,59.01,-17.46
 26088,Leza de Río Leza,La Rioja,La Rioja,92.31,41,75.6,-16.71
-26089,Logroño,La Rioja,La Rioja,66.53,111378,51.74,-14.79
+26089,Logroño,La Rioja,La Rioja,66.53,111378,51.75,-14.78
 26091,Lumbreras,La Rioja,La Rioja,90.54,139,71.94,-18.6
 26092,Manjarrés,La Rioja,La Rioja,71.3,96,65.62,-5.68
 26093,Mansilla de la Sierra,La Rioja,La Rioja,85.71,57,75.43,-10.28
@@ -4353,7 +4353,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 28064,Gascones,Madrid,Madrid,73.97,158,59.3,-14.67
 28065,Getafe,Madrid,Madrid,68.03,134870,57,-11.03
 28066,Griñón,Madrid,Madrid,66.1,7927,56.11,-9.99
-28067,Guadalix de la Sierra,Madrid,Madrid,72.97,4980,56.49,-16.48
+28067,Guadalix de la Sierra,Madrid,Madrid,72.97,4980,55.7,-17.27
 28068,Guadarrama,Madrid,Madrid,67.49,12640,55.64,-11.85
 28069,La Hiruela,Madrid,Madrid,91.67,73,79.45,-12.22
 28070,Horcajo de la Sierra-Aoslos,Madrid,Madrid,71.79,155,66.66,-5.13
@@ -4365,7 +4365,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 28076,Lozoya,Madrid,Madrid,81.74,471,64.12,-17.62
 28901,Lozoyuela-Navas-Sieteiglesias,Madrid,Madrid,71.35,1005,53.87,-17.48
 28078,Madarcos,Madrid,Madrid,90,55,81.81,-8.19
-28079,Madrid,Madrid,Madrid,67.88,2400298,57.37,-10.51
+28079,Madrid,Madrid,Madrid,67.88,2400298,57.36,-10.52
 28080,Majadahonda,Madrid,Madrid,72.47,52041,65.45,-7.02
 28082,Manzanares el Real,Madrid,Madrid,70.33,6779,56.15,-14.18
 28083,Meco,Madrid,Madrid,65.61,10897,51.26,-14.35
@@ -4436,7 +4436,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 28152,Torrelodones,Madrid,Madrid,72.77,18489,65.83,-6.94
 28153,Torremocha de Jarama,Madrid,Madrid,68.2,875,55.32,-12.88
 28154,Torres de la Alameda,Madrid,Madrid,65.33,5699,51.72,-13.61
-28903,Tres Cantos,Madrid,Madrid,76.62,38886,66.05,-10.57
+28903,Tres Cantos,Madrid,Madrid,76.62,38886,65.86,-10.76
 28155,Valdaracete,Madrid,Madrid,87.98,522,51.41,-36.57
 28156,Valdeavero,Madrid,Madrid,67.17,1217,49.88,-17.29
 28157,Valdelaguna,Madrid,Madrid,68.7,775,52.91,-15.79
@@ -5003,7 +5003,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 33023,El Franco,Asturias,Asturias,68,3214,49.05,-18.95
 33024,Gijón,Asturias,Asturias,60.04,220392,53.54,-6.5
 33025,Gozón,Asturias,Asturias,60.16,8912,50.19,-9.97
-33026,Grado,Asturias,Asturias,57.47,7978,45.64,-11.83
+33026,Grado,Asturias,Asturias,57.47,7978,45.61,-11.86
 33027,Grandas de Salime,Asturias,Asturias,69.32,711,42.15,-27.17
 33028,Ibias,Asturias,Asturias,57.69,1024,34.5,-23.19
 33029,Illano,Asturias,Asturias,67.59,268,37.68,-29.91
@@ -5020,7 +5020,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 33041,Navia,Asturias,Asturias,65.06,6892,49.26,-15.8
 33042,Noreña,Asturias,Asturias,66.42,4189,52.09,-14.33
 33043,Onís,Asturias,Asturias,70.69,617,51.53,-19.16
-33044,Oviedo,Asturias,Asturias,62.24,174568,53.67,-8.57
+33044,Oviedo,Asturias,Asturias,62.24,174568,53.71,-8.53
 33045,Parres,Asturias,Asturias,65.09,4244,49.35,-15.74
 33046,Peñamellera Alta,Asturias,Asturias,80.71,465,54.19,-26.52
 33047,Peñamellera Baja,Asturias,Asturias,81.24,1040,54.77,-26.47
@@ -5263,12 +5263,12 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 35013,Moya,Canarias,Las Palmas,72.64,6710,50.03,-22.61
 35014,La Oliva,Canarias,Las Palmas,47.87,13153,27.94,-19.93
 35015,Pájara,Canarias,Las Palmas,50.31,11202,24.98,-25.33
-35016,Las Palmas de Gran Canaria,Canarias,Las Palmas,50.55,303023,42.71,-7.84
+35016,Las Palmas de Gran Canaria,Canarias,Las Palmas,50.55,303023,42.7,-7.85
 35017,Puerto del Rosario,Canarias,Las Palmas,51.77,29739,35.74,-16.03
 35018,San Bartolomé,Canarias,Las Palmas,53.28,14032,38.22,-15.06
 35019,San Bartolomé de Tirajana,Canarias,Las Palmas,53.63,33968,35.65,-17.98
 35021,Santa Brígida,Canarias,Las Palmas,60.59,15251,46.84,-13.75
-35022,Santa Lucía de Tirajana,Canarias,Las Palmas,50.69,55208,36.58,-14.11
+35022,Santa Lucía de Tirajana,Canarias,Las Palmas,50.69,55208,36.62,-14.07
 35023,Santa María de Guía de Gran Canaria,Canarias,Las Palmas,72.98,11894,45.22,-27.76
 35024,Teguise,Canarias,Las Palmas,56.85,15804,37.68,-19.17
 35025,Tejeda,Canarias,Las Palmas,67.65,1677,44.78,-22.87
@@ -5297,7 +5297,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 36015,Cuntis,Galicia,Pontevedra,70.61,3910,49.94,-20.67
 36016,Dozón,Galicia,Pontevedra,57.16,943,53.69,-3.47
 36017,A Estrada,Galicia,Pontevedra,70.08,17041,50.58,-19.5
-36018,Forcarei,Galicia,Pontevedra,73.34,2797,49.59,-23.75
+36018,Forcarei,Galicia,Pontevedra,73.34,2797,49.12,-24.22
 36019,Fornelos de Montes,Galicia,Pontevedra,75.9,1455,48.56,-27.34
 36021,Gondomar,Galicia,Pontevedra,69.18,12615,49.25,-19.93
 36022,O Grove,Galicia,Pontevedra,64.09,9022,46.6,-17.49
@@ -5737,7 +5737,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 38031,Los Realejos,Canarias,Santa Cruz de Tenerife,71.36,30214,50.65,-20.71
 38032,El Rosario,Canarias,Santa Cruz de Tenerife,59.97,14286,44.55,-15.42
 38033,San Andrés y Sauces,Canarias,Santa Cruz de Tenerife,71.97,3611,46.66,-25.31
-38023,San Cristóbal de La Laguna,Canarias,Santa Cruz de Tenerife,55.44,129968,44.3,-11.14
+38023,San Cristóbal de La Laguna,Canarias,Santa Cruz de Tenerife,55.44,129968,44.29,-11.15
 38034,San Juan de la Rambla,Canarias,Santa Cruz de Tenerife,74.91,4064,43.33,-31.58
 38035,San Miguel de Abona,Canarias,Santa Cruz de Tenerife,51.24,11952,33.22,-18.02
 38036,San Sebastián de la Gomera,Canarias,Santa Cruz de Tenerife,69.15,7131,39.34,-29.81
@@ -6517,7 +6517,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 43152,La Torre de l'Espanyol,Cataluña,Tarragona,76.27,432,55.25,-21.02
 43153,Torredembarra,Cataluña,Tarragona,60.69,12139,42.25,-18.44
 43154,Torroja del Priorat,Cataluña,Tarragona,89.6,109,60.9,-28.7
-43155,Tortosa,Cataluña,Tarragona,65.22,22755,39.72,-25.5
+43155,Tortosa,Cataluña,Tarragona,65.22,22755,39.67,-25.55
 43156,Ulldecona,Cataluña,Tarragona,71.6,3964,40.03,-31.57
 43157,Ulldemolins,Cataluña,Tarragona,90.12,350,53.71,-36.41
 43158,Vallclara,Cataluña,Tarragona,77.92,78,51.28,-26.64
@@ -6976,7 +6976,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 45197,Villasequilla,Castilla-La Mancha,Toledo,80.71,1929,57.43,-23.28
 45198,Villatobas,Castilla-La Mancha,Toledo,83.62,1866,60.15,-23.47
 45199,El Viso de San Juan,Castilla-La Mancha,Toledo,53.92,4125,37.28,-16.64
-45200,Los Yébenes,Castilla-La Mancha,Toledo,76.37,4334,55.11,-21.26
+45200,Los Yébenes,Castilla-La Mancha,Toledo,76.37,4334,55.18,-21.19
 45201,Yeles,Castilla-La Mancha,Toledo,53.97,4274,34.88,-19.09
 45202,Yepes,Castilla-La Mancha,Toledo,75.5,4161,47.19,-28.31
 45203,Yuncler,Castilla-La Mancha,Toledo,69.59,3219,42.29,-27.3
@@ -7060,7 +7060,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 46075,Bufali,Comunidad Valenciana,Valencia/València,91.78,140,75,-16.78
 46076,Bugarra,Comunidad Valenciana,Valencia/València,86.32,614,66.56,-19.76
 46077,Buñol,Comunidad Valenciana,Valencia/València,72.26,7392,57.55,-14.71
-46078,Burjassot,Comunidad Valenciana,Valencia/València,59.67,28935,49.63,-10.04
+46078,Burjassot,Comunidad Valenciana,Valencia/València,59.67,28935,49.64,-10.03
 46079,Calles,Comunidad Valenciana,Valencia/València,85.44,380,56.91,-28.53
 46080,Camporrobles,Comunidad Valenciana,Valencia/València,81.23,939,57.58,-23.65
 46081,Canals,Comunidad Valenciana,Valencia/València,68.05,9801,59.14,-8.91
@@ -7523,7 +7523,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 48040,Gatika,País Vasco,Bizkaia,71.58,1300,52.8,-18.78
 48041,Gautegiz Arteaga,País Vasco,Bizkaia,81.98,717,69.35,-12.63
 48046,Gernika-Lumo,País Vasco,Bizkaia,71.58,12540,54.83,-16.75
-48044,Getxo,País Vasco,Bizkaia,67.06,60510,57.9,-9.16
+48044,Getxo,País Vasco,Bizkaia,67.06,60510,57.82,-9.24
 48047,Gizaburuaga,País Vasco,Bizkaia,73.65,139,61.15,-12.5
 48042,Gordexola,País Vasco,Bizkaia,78.28,1387,63.59,-14.69
 48043,Gorliz,País Vasco,Bizkaia,69.12,4847,55.45,-13.67
@@ -7565,7 +7565,7 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 48072,Otxandio,País Vasco,Bizkaia,77.15,952,58.55,-18.6
 48077,Plentzia,País Vasco,Bizkaia,71.93,3430,56.99,-14.94
 48078,Portugalete,País Vasco,Bizkaia,63.44,36224,49.8,-13.64
-48082,Santurtzi,País Vasco,Bizkaia,63.46,36936,49.32,-14.14
+48082,Santurtzi,País Vasco,Bizkaia,63.46,36936,49.41,-14.05
 48084,Sestao,País Vasco,Bizkaia,62.23,21076,47.77,-14.46
 48904,Sondika,País Vasco,Bizkaia,70.18,3637,57.75,-12.43
 48085,Sopela/Sopelana,País Vasco,Bizkaia,67.39,11488,51.31,-16.08
@@ -8126,9 +8126,9 @@ cod_mun,municipio,ccaa,provincia,d_previo,pob,d_actual,variacion
 50296,La Zaida,Aragón,Zaragoza,73.56,362,55.24,-18.32
 50297,Zaragoza,Aragón,Zaragoza,65.55,504059,54.19,-11.36
 50298,Zuera,Aragón,Zaragoza,69.09,5615,51.22,-17.87
-51001,Ceuta,Ceuta,Ceuta,55.22,60855,32.65,-22.57
+51001,Ceuta,Ceuta,Ceuta,55.22,60855,32.58,-22.64
 52001,Melilla,Melilla,Melilla,59.73,55724,33.16,-26.57
 18914,Valderrubio,Andalucía,Granada,77.7,1697,51.47,-26.23
 04904,Balanegra,Andalucía,Almería,NA,1946,52.05,NA
-37274,Salamanca,Castilla y León,Salamanca,62.6,115141,64.47,1.87
+37274,Salamanca,Castilla y León,Salamanca,62.6,115141,64.39,1.79
 05067,Chamartín,Castilla y León,Ávila,79.73,62,67.6,-12.13
