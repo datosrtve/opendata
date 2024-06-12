@@ -1,144 +1,144 @@
 fecha,indicativo,nombre_completo,provincia,tmin,tmin_median,anomalia,anomalia_positiva,anomalia_negativa,texto_anomalia,texto_fecha,tipo_anomalia,color_anomalia
-2024-05-14,3125Y,San Sebastián de los Reyes (Madrid),Madrid,9.9,9.9,0,9.9,9.9,0,14 may.,▼,#2171b5
-2024-05-14,8177A,Chinchilla (Albacete),Albacete,11.7,8.2,3.5,11.7,8.2,"+3,5",14 may.,▲,#cb181d
-2024-05-14,1059X,Punta Galea (Bizkaia),Bizkaia,11,10.7,0.3,11,10.7,"+0,3",14 may.,▲,#cb181d
-2024-05-14,B925,Sant Antoni de Portmany (Baleares),Baleares,15.6,10.7,4.9,15.6,10.7,"+4,9",14 may.,▲,#cb181d
-2024-05-14,8193E,Jalance (Valencia),Valencia,16,9.6,6.4,16,9.6,"+6,4",14 may.,▲,#cb181d
-2024-05-15,3125Y,San Sebastián de los Reyes (Madrid),Madrid,9.4,8.2,1.2,9.4,8.2,"+1,2",15 may.,▲,#cb181d
-2024-05-15,8177A,Chinchilla (Albacete),Albacete,7.6,9.7,-2.1,9.7,7.6,"-2,1",15 may.,▼,#2171b5
-2024-05-15,1059X,Punta Galea (Bizkaia),Bizkaia,10,10.6,-0.6,10.6,10,"-0,6",15 may.,▼,#2171b5
-2024-05-15,B925,Sant Antoni de Portmany (Baleares),Baleares,13.1,12.1,1,13.1,12.1,+1,15 may.,▲,#cb181d
-2024-05-15,8193E,Jalance (Valencia),Valencia,10.9,9.7,1.2,10.9,9.7,"+1,2",15 may.,▲,#cb181d
-2024-05-16,3125Y,San Sebastián de los Reyes (Madrid),Madrid,8.4,7.6,0.8,8.4,7.6,"+0,8",16 may.,▲,#cb181d
-2024-05-16,8177A,Chinchilla (Albacete),Albacete,7.4,8,-0.6,8,7.4,"-0,6",16 may.,▼,#2171b5
-2024-05-16,1059X,Punta Galea (Bizkaia),Bizkaia,10.4,10.4,0,10.4,10.4,0,16 may.,▼,#2171b5
-2024-05-16,B925,Sant Antoni de Portmany (Baleares),Baleares,12.1,12.2,-0.1,12.2,12.1,"-0,1",16 may.,▼,#2171b5
-2024-05-16,8193E,Jalance (Valencia),Valencia,8.8,9.7,-0.9,9.7,8.8,"-0,9",16 may.,▼,#2171b5
-2024-05-17,3125Y,San Sebastián de los Reyes (Madrid),Madrid,11.2,8.9,2.3,11.2,8.9,"+2,3",17 may.,▲,#cb181d
-2024-05-17,8177A,Chinchilla (Albacete),Albacete,9.8,9.1,0.7,9.8,9.1,"+0,7",17 may.,▲,#cb181d
-2024-05-17,1059X,Punta Galea (Bizkaia),Bizkaia,11.9,10.3,1.6,11.9,10.3,"+1,6",17 may.,▲,#cb181d
-2024-05-17,B925,Sant Antoni de Portmany (Baleares),Baleares,14.6,12.4,2.2,14.6,12.4,"+2,2",17 may.,▲,#cb181d
-2024-05-17,8193E,Jalance (Valencia),Valencia,8.6,8.6,0,8.6,8.6,0,17 may.,▼,#2171b5
-2024-05-18,3125Y,San Sebastián de los Reyes (Madrid),Madrid,7.9,8.6,-0.7,8.6,7.9,"-0,7",18 may.,▼,#2171b5
-2024-05-18,8177A,Chinchilla (Albacete),Albacete,9.3,8.1,1.2,9.3,8.1,"+1,2",18 may.,▲,#cb181d
-2024-05-18,1059X,Punta Galea (Bizkaia),Bizkaia,11.2,10,1.2,11.2,10,"+1,2",18 may.,▲,#cb181d
-2024-05-18,B925,Sant Antoni de Portmany (Baleares),Baleares,13.6,11.3,2.3,13.6,11.3,"+2,3",18 may.,▲,#cb181d
-2024-05-18,8193E,Jalance (Valencia),Valencia,12.4,9.4,3,12.4,9.4,+3,18 may.,▲,#cb181d
-2024-05-19,3125Y,San Sebastián de los Reyes (Madrid),Madrid,9.3,8.9,0.4,9.3,8.9,"+0,4",19 may.,▲,#cb181d
-2024-05-19,8177A,Chinchilla (Albacete),Albacete,9.6,8.8,0.8,9.6,8.8,"+0,8",19 may.,▲,#cb181d
-2024-05-19,1059X,Punta Galea (Bizkaia),Bizkaia,13,10.7,2.3,13,10.7,"+2,3",19 may.,▲,#cb181d
-2024-05-19,B925,Sant Antoni de Portmany (Baleares),Baleares,12.8,10.7,2.1,12.8,10.7,"+2,1",19 may.,▲,#cb181d
-2024-05-19,8193E,Jalance (Valencia),Valencia,12.5,9.7,2.8,12.5,9.7,"+2,8",19 may.,▲,#cb181d
-2024-05-20,3125Y,San Sebastián de los Reyes (Madrid),Madrid,7.2,6.2,1,7.2,6.2,+1,20 may.,▲,#cb181d
-2024-05-20,8177A,Chinchilla (Albacete),Albacete,9.2,9.6,-0.4,9.6,9.2,"-0,4",20 may.,▼,#2171b5
-2024-05-20,1059X,Punta Galea (Bizkaia),Bizkaia,13.8,10.4,3.4,13.8,10.4,"+3,4",20 may.,▲,#cb181d
-2024-05-20,B925,Sant Antoni de Portmany (Baleares),Baleares,13.8,12.1,1.7,13.8,12.1,"+1,7",20 may.,▲,#cb181d
-2024-05-20,8193E,Jalance (Valencia),Valencia,12.4,10.1,2.3,12.4,10.1,"+2,3",20 may.,▲,#cb181d
-2024-05-21,3125Y,San Sebastián de los Reyes (Madrid),Madrid,10.3,7.7,2.6,10.3,7.7,"+2,6",21 may.,▲,#cb181d
-2024-05-21,8177A,Chinchilla (Albacete),Albacete,10.6,9.2,1.4,10.6,9.2,"+1,4",21 may.,▲,#cb181d
-2024-05-21,1059X,Punta Galea (Bizkaia),Bizkaia,13.3,11.8,1.5,13.3,11.8,"+1,5",21 may.,▲,#cb181d
-2024-05-21,B925,Sant Antoni de Portmany (Baleares),Baleares,14.9,12.4,2.5,14.9,12.4,"+2,5",21 may.,▲,#cb181d
-2024-05-21,8193E,Jalance (Valencia),Valencia,8.8,9.6,-0.8,9.6,8.8,"-0,8",21 may.,▼,#2171b5
-2024-05-22,3125Y,San Sebastián de los Reyes (Madrid),Madrid,7.9,7.8,0.1,7.9,7.8,"+0,1",22 may.,▲,#cb181d
-2024-05-22,8177A,Chinchilla (Albacete),Albacete,8.6,10.6,-2,10.6,8.6,-2,22 may.,▼,#2171b5
-2024-05-22,1059X,Punta Galea (Bizkaia),Bizkaia,12.4,11.6,0.8,12.4,11.6,"+0,8",22 may.,▲,#cb181d
-2024-05-22,B925,Sant Antoni de Portmany (Baleares),Baleares,14.7,12.8,1.9,14.7,12.8,"+1,9",22 may.,▲,#cb181d
-2024-05-22,8193E,Jalance (Valencia),Valencia,9.1,9.8,-0.7,9.8,9.1,"-0,7",22 may.,▼,#2171b5
-2024-05-23,3125Y,San Sebastián de los Reyes (Madrid),Madrid,8.8,9.4,-0.6,9.4,8.8,"-0,6",23 may.,▼,#2171b5
-2024-05-23,8177A,Chinchilla (Albacete),Albacete,10.4,10.3,0.1,10.4,10.3,"+0,1",23 may.,▲,#cb181d
-2024-05-23,1059X,Punta Galea (Bizkaia),Bizkaia,13.6,11.9,1.7,13.6,11.9,"+1,7",23 may.,▲,#cb181d
-2024-05-23,B925,Sant Antoni de Portmany (Baleares),Baleares,14,13.9,0.1,14,13.9,"+0,1",23 may.,▲,#cb181d
-2024-05-23,8193E,Jalance (Valencia),Valencia,9.7,9.6,0.1,9.7,9.6,"+0,1",23 may.,▲,#cb181d
-2024-05-24,3125Y,San Sebastián de los Reyes (Madrid),Madrid,11.5,9.4,2.1,11.5,9.4,"+2,1",24 may.,▲,#cb181d
-2024-05-24,8177A,Chinchilla (Albacete),Albacete,10.2,9.4,0.8,10.2,9.4,"+0,8",24 may.,▲,#cb181d
-2024-05-24,1059X,Punta Galea (Bizkaia),Bizkaia,11.4,11.5,-0.1,11.5,11.4,"-0,1",24 may.,▼,#2171b5
-2024-05-24,B925,Sant Antoni de Portmany (Baleares),Baleares,14.5,14.7,-0.2,14.7,14.5,"-0,2",24 may.,▼,#2171b5
-2024-05-24,8193E,Jalance (Valencia),Valencia,14.5,10.4,4.1,14.5,10.4,"+4,1",24 may.,▲,#cb181d
-2024-05-25,3125Y,San Sebastián de los Reyes (Madrid),Madrid,11.5,9.1,2.4,11.5,9.1,"+2,4",25 may.,▲,#cb181d
-2024-05-25,8177A,Chinchilla (Albacete),Albacete,10.7,9.1,1.6,10.7,9.1,"+1,6",25 may.,▲,#cb181d
-2024-05-25,1059X,Punta Galea (Bizkaia),Bizkaia,13.7,12.8,0.9,13.7,12.8,"+0,9",25 may.,▲,#cb181d
-2024-05-25,B925,Sant Antoni de Portmany (Baleares),Baleares,14.7,14.2,0.5,14.7,14.2,"+0,5",25 may.,▲,#cb181d
-2024-05-25,8193E,Jalance (Valencia),Valencia,10.9,10.2,0.7,10.9,10.2,"+0,7",25 may.,▲,#cb181d
-2024-05-26,3125Y,San Sebastián de los Reyes (Madrid),Madrid,11.8,9.2,2.6,11.8,9.2,"+2,6",26 may.,▲,#cb181d
-2024-05-26,8177A,Chinchilla (Albacete),Albacete,14.1,9.9,4.2,14.1,9.9,"+4,2",26 may.,▲,#cb181d
-2024-05-26,1059X,Punta Galea (Bizkaia),Bizkaia,15.5,12.9,2.6,15.5,12.9,"+2,6",26 may.,▲,#cb181d
-2024-05-26,B925,Sant Antoni de Portmany (Baleares),Baleares,14,13.1,0.9,14,13.1,"+0,9",26 may.,▲,#cb181d
-2024-05-26,8193E,Jalance (Valencia),Valencia,12.5,12.2,0.3,12.5,12.2,"+0,3",26 may.,▲,#cb181d
-2024-05-27,3125Y,San Sebastián de los Reyes (Madrid),Madrid,14.5,8.7,5.8,14.5,8.7,"+5,8",27 may.,▲,#cb181d
-2024-05-27,8177A,Chinchilla (Albacete),Albacete,15.9,9.7,6.2,15.9,9.7,"+6,2",27 may.,▲,#cb181d
-2024-05-27,1059X,Punta Galea (Bizkaia),Bizkaia,12.7,12.5,0.2,12.7,12.5,"+0,2",27 may.,▲,#cb181d
-2024-05-27,B925,Sant Antoni de Portmany (Baleares),Baleares,17,13.3,3.7,17,13.3,"+3,7",27 may.,▲,#cb181d
-2024-05-27,8193E,Jalance (Valencia),Valencia,17.2,11.9,5.3,17.2,11.9,"+5,3",27 may.,▲,#cb181d
-2024-05-28,3125Y,San Sebastián de los Reyes (Madrid),Madrid,15.4,9.1,6.3,15.4,9.1,"+6,3",28 may.,▲,#cb181d
-2024-05-28,8177A,Chinchilla (Albacete),Albacete,14,9.4,4.6,14,9.4,"+4,6",28 may.,▲,#cb181d
-2024-05-28,1059X,Punta Galea (Bizkaia),Bizkaia,11.6,11.6,0,11.6,11.6,0,28 may.,▼,#2171b5
-2024-05-28,B925,Sant Antoni de Portmany (Baleares),Baleares,17,15.1,1.9,17,15.1,"+1,9",28 may.,▲,#cb181d
-2024-05-28,8193E,Jalance (Valencia),Valencia,18,12.3,5.7,18,12.3,"+5,7",28 may.,▲,#cb181d
-2024-05-29,3125Y,San Sebastián de los Reyes (Madrid),Madrid,17.5,9,8.5,17.5,9,"+8,5",29 may.,▲,#cb181d
-2024-05-29,8177A,Chinchilla (Albacete),Albacete,13.4,8.5,4.9,13.4,8.5,"+4,9",29 may.,▲,#cb181d
-2024-05-29,1059X,Punta Galea (Bizkaia),Bizkaia,13.8,11.6,2.2,13.8,11.6,"+2,2",29 may.,▲,#cb181d
-2024-05-29,B925,Sant Antoni de Portmany (Baleares),Baleares,14.3,13.5,0.8,14.3,13.5,"+0,8",29 may.,▲,#cb181d
-2024-05-29,8193E,Jalance (Valencia),Valencia,12.9,11.4,1.5,12.9,11.4,"+1,5",29 may.,▲,#cb181d
-2024-05-30,3125Y,San Sebastián de los Reyes (Madrid),Madrid,18.2,9.9,8.3,18.2,9.9,"+8,3",30 may.,▲,#cb181d
-2024-05-30,3125Y,San Sebastián de los Reyes (Madrid),Madrid,18.2,9.9,8.3,18.2,9.9,"+8,3",30 may.,▲,#cb181d
-2024-05-30,8177A,Chinchilla (Albacete),Albacete,16.2,10.2,6,16.2,10.2,+6,30 may.,▲,#cb181d
-2024-05-30,8177A,Chinchilla (Albacete),Albacete,16.2,10.2,6,16.2,10.2,+6,30 may.,▲,#cb181d
-2024-05-30,1059X,Punta Galea (Bizkaia),Bizkaia,16.1,13.3,2.8,16.1,13.3,"+2,8",30 may.,▲,#cb181d
-2024-05-31,3125Y,San Sebastián de los Reyes (Madrid),Madrid,14.2,10.8,3.4,14.2,10.8,"+3,4",31 may.,▲,#cb181d
-2024-05-31,3125Y,San Sebastián de los Reyes (Madrid),Madrid,14.2,10.8,3.4,14.2,10.8,"+3,4",31 may.,▲,#cb181d
-2024-05-31,8177A,Chinchilla (Albacete),Albacete,14.8,9.2,5.6,14.8,9.2,"+5,6",31 may.,▲,#cb181d
-2024-05-31,8177A,Chinchilla (Albacete),Albacete,14.8,9.2,5.6,14.8,9.2,"+5,6",31 may.,▲,#cb181d
-2024-05-31,1059X,Punta Galea (Bizkaia),Bizkaia,16.4,12.8,3.6,16.4,12.8,"+3,6",31 may.,▲,#cb181d
-2024-06-01,3125Y,San Sebastián de los Reyes (Madrid),Madrid,11.2,11.6,-0.4,11.6,11.2,"-0,4", 1 jun.,▼,#2171b5
-2024-06-01,8177A,Chinchilla (Albacete),Albacete,13.2,9.6,3.6,13.2,9.6,"+3,6", 1 jun.,▲,#cb181d
-2024-06-01,1059X,Punta Galea (Bizkaia),Bizkaia,15.3,13.3,2,15.3,13.3,+2, 1 jun.,▲,#cb181d
-2024-06-01,B925,Sant Antoni de Portmany (Baleares),Baleares,15.3,10.5,4.8,15.3,10.5,"+4,8", 1 jun.,▲,#cb181d
-2024-06-01,8193E,Jalance (Valencia),Valencia,16.3,12,4.3,16.3,12,"+4,3", 1 jun.,▲,#cb181d
-2024-06-02,3125Y,San Sebastián de los Reyes (Madrid),Madrid,11.6,13.1,-1.5,13.1,11.6,"-1,5", 2 jun.,▼,#2171b5
-2024-06-02,8177A,Chinchilla (Albacete),Albacete,10.8,9.8,1,10.8,9.8,+1, 2 jun.,▲,#cb181d
-2024-06-02,1059X,Punta Galea (Bizkaia),Bizkaia,17.3,13.5,3.8,17.3,13.5,"+3,8", 2 jun.,▲,#cb181d
-2024-06-02,B925,Sant Antoni de Portmany (Baleares),Baleares,13.5,12.4,1.1,13.5,12.4,"+1,1", 2 jun.,▲,#cb181d
-2024-06-02,8193E,Jalance (Valencia),Valencia,12.7,12.6,0.1,12.7,12.6,"+0,1", 2 jun.,▲,#cb181d
-2024-06-03,3125Y,San Sebastián de los Reyes (Madrid),Madrid,14.4,12.4,2,14.4,12.4,+2, 3 jun.,▲,#cb181d
-2024-06-03,8177A,Chinchilla (Albacete),Albacete,11.2,9.6,1.6,11.2,9.6,"+1,6", 3 jun.,▲,#cb181d
-2024-06-03,1059X,Punta Galea (Bizkaia),Bizkaia,16.9,12.6,4.3,16.9,12.6,"+4,3", 3 jun.,▲,#cb181d
-2024-06-03,B925,Sant Antoni de Portmany (Baleares),Baleares,13.1,12.9,0.2,13.1,12.9,"+0,2", 3 jun.,▲,#cb181d
-2024-06-03,8193E,Jalance (Valencia),Valencia,11.5,12.8,-1.3,12.8,11.5,"-1,3", 3 jun.,▼,#2171b5
-2024-06-04,3125Y,San Sebastián de los Reyes (Madrid),Madrid,14.8,10.8,4,14.8,10.8,+4, 4 jun.,▲,#cb181d
-2024-06-04,8177A,Chinchilla (Albacete),Albacete,12.1,10.9,1.2,12.1,10.9,"+1,2", 4 jun.,▲,#cb181d
-2024-06-04,1059X,Punta Galea (Bizkaia),Bizkaia,16,13,3,16,13,+3, 4 jun.,▲,#cb181d
-2024-06-04,B925,Sant Antoni de Portmany (Baleares),Baleares,15.5,15.1,0.4,15.5,15.1,"+0,4", 4 jun.,▲,#cb181d
-2024-06-04,8193E,Jalance (Valencia),Valencia,13.7,12.9,0.8,13.7,12.9,"+0,8", 4 jun.,▲,#cb181d
-2024-06-05,3125Y,San Sebastián de los Reyes (Madrid),Madrid,17,10.2,6.8,17,10.2,"+6,8", 5 jun.,▲,#cb181d
-2024-06-05,8177A,Chinchilla (Albacete),Albacete,14.8,11,3.8,14.8,11,"+3,8", 5 jun.,▲,#cb181d
-2024-06-05,1059X,Punta Galea (Bizkaia),Bizkaia,16.4,12.4,4,16.4,12.4,+4, 5 jun.,▲,#cb181d
-2024-06-05,B925,Sant Antoni de Portmany (Baleares),Baleares,15.5,15.7,-0.2,15.7,15.5,"-0,2", 5 jun.,▼,#2171b5
-2024-06-05,8193E,Jalance (Valencia),Valencia,14.3,12.6,1.7,14.3,12.6,"+1,7", 5 jun.,▲,#cb181d
-2024-06-06,3125Y,San Sebastián de los Reyes (Madrid),Madrid,17.9,12.6,5.3,17.9,12.6,"+5,3", 6 jun.,▲,#cb181d
-2024-06-06,8177A,Chinchilla (Albacete),Albacete,NA,10.4,NA,NA,NA,NA, 6 jun.,NA,NA
-2024-06-06,1059X,Punta Galea (Bizkaia),Bizkaia,17.4,12.8,4.6,17.4,12.8,"+4,6", 6 jun.,▲,#cb181d
-2024-06-06,B925,Sant Antoni de Portmany (Baleares),Baleares,17.2,15.8,1.4,17.2,15.8,"+1,4", 6 jun.,▲,#cb181d
-2024-06-06,8193E,Jalance (Valencia),Valencia,14.2,12.2,2,14.2,12.2,+2, 6 jun.,▲,#cb181d
-2024-06-07,3125Y,San Sebastián de los Reyes (Madrid),Madrid,19.3,11.2,8.1,19.3,11.2,"+8,1", 7 jun.,▲,#cb181d
-2024-06-07,8177A,Chinchilla (Albacete),Albacete,17,11.4,5.6,17,11.4,"+5,6", 7 jun.,▲,#cb181d
-2024-06-07,1059X,Punta Galea (Bizkaia),Bizkaia,17.9,13.6,4.3,17.9,13.6,"+4,3", 7 jun.,▲,#cb181d
-2024-06-07,B925,Sant Antoni de Portmany (Baleares),Baleares,18.3,15,3.3,18.3,15,"+3,3", 7 jun.,▲,#cb181d
-2024-06-07,8193E,Jalance (Valencia),Valencia,19.8,13.1,6.7,19.8,13.1,"+6,7", 7 jun.,▲,#cb181d
-2024-06-08,3125Y,San Sebastián de los Reyes (Madrid),Madrid,16.1,8.7,7.4,16.1,8.7,"+7,4", 8 jun.,▲,#cb181d
-2024-06-08,8177A,Chinchilla (Albacete),Albacete,12.6,11.3,1.3,12.6,11.3,"+1,3", 8 jun.,▲,#cb181d
-2024-06-08,1059X,Punta Galea (Bizkaia),Bizkaia,19,13.6,5.4,19,13.6,"+5,4", 8 jun.,▲,#cb181d
-2024-06-08,B925,Sant Antoni de Portmany (Baleares),Baleares,21.8,15.3,6.5,21.8,15.3,"+6,5", 8 jun.,▲,#cb181d
-2024-06-08,8193E,Jalance (Valencia),Valencia,15.7,13.7,2,15.7,13.7,+2, 8 jun.,▲,#cb181d
-2024-06-09,3125Y,San Sebastián de los Reyes (Madrid),Madrid,13.7,9.2,4.5,13.7,9.2,"+4,5", 9 jun.,▲,#cb181d
-2024-06-09,8177A,Chinchilla (Albacete),Albacete,12.8,11,1.8,12.8,11,"+1,8", 9 jun.,▲,#cb181d
-2024-06-09,1059X,Punta Galea (Bizkaia),Bizkaia,17.9,14,3.9,17.9,14,"+3,9", 9 jun.,▲,#cb181d
-2024-06-09,B925,Sant Antoni de Portmany (Baleares),Baleares,18.4,13.8,4.6,18.4,13.8,"+4,6", 9 jun.,▲,#cb181d
-2024-06-09,8193E,Jalance (Valencia),Valencia,15.9,13.4,2.5,15.9,13.4,"+2,5", 9 jun.,▲,#cb181d
-2024-06-10,3125Y,San Sebastián de los Reyes (Madrid),Madrid,11.5,11.7,-0.2,11.7,11.5,"-0,2",10 jun.,▼,#2171b5
-2024-06-10,8177A,Chinchilla (Albacete),Albacete,15,11.6,3.4,15,11.6,"+3,4",10 jun.,▲,#cb181d
-2024-06-10,1059X,Punta Galea (Bizkaia),Bizkaia,17.3,14.4,2.9,17.3,14.4,"+2,9",10 jun.,▲,#cb181d
-2024-06-10,B925,Sant Antoni de Portmany (Baleares),Baleares,17.4,14.7,2.7,17.4,14.7,"+2,7",10 jun.,▲,#cb181d
-2024-06-10,8193E,Jalance (Valencia),Valencia,15,15.1,-0.1,15.1,15,"-0,1",10 jun.,▼,#2171b5
+2024-05-14,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,9.9,9.9,0,9.9,9.9,0,14 may.,▼,#2171b5
+2024-05-14,8177A,Chinchilla (Albacete),Anomalía más alta,11.7,8.2,3.5,11.7,8.2,"+3,5",14 may.,▲,#cb181d
+2024-05-14,1059X,Punta Galea (Bizkaia),Anomalía más alta,11,10.7,0.3,11,10.7,"+0,3",14 may.,▲,#cb181d
+2024-05-14,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,15.6,10.7,4.9,15.6,10.7,"+4,9",14 may.,▲,#cb181d
+2024-05-14,8193E,Jalance (Valencia),Anomalía más alta,16,9.6,6.4,16,9.6,"+6,4",14 may.,▲,#cb181d
+2024-05-15,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,9.4,8.2,1.2,9.4,8.2,"+1,2",15 may.,▲,#cb181d
+2024-05-15,8177A,Chinchilla (Albacete),Anomalía más alta,7.6,9.7,-2.1,9.7,7.6,"-2,1",15 may.,▼,#2171b5
+2024-05-15,1059X,Punta Galea (Bizkaia),Anomalía más alta,10,10.6,-0.6,10.6,10,"-0,6",15 may.,▼,#2171b5
+2024-05-15,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,13.1,12.1,1,13.1,12.1,+1,15 may.,▲,#cb181d
+2024-05-15,8193E,Jalance (Valencia),Anomalía más alta,10.9,9.7,1.2,10.9,9.7,"+1,2",15 may.,▲,#cb181d
+2024-05-16,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,8.4,7.6,0.8,8.4,7.6,"+0,8",16 may.,▲,#cb181d
+2024-05-16,8177A,Chinchilla (Albacete),Anomalía más alta,7.4,8,-0.6,8,7.4,"-0,6",16 may.,▼,#2171b5
+2024-05-16,1059X,Punta Galea (Bizkaia),Anomalía más alta,10.4,10.4,0,10.4,10.4,0,16 may.,▼,#2171b5
+2024-05-16,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,12.1,12.2,-0.1,12.2,12.1,"-0,1",16 may.,▼,#2171b5
+2024-05-16,8193E,Jalance (Valencia),Anomalía más alta,8.8,9.7,-0.9,9.7,8.8,"-0,9",16 may.,▼,#2171b5
+2024-05-17,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,11.2,8.9,2.3,11.2,8.9,"+2,3",17 may.,▲,#cb181d
+2024-05-17,8177A,Chinchilla (Albacete),Anomalía más alta,9.8,9.1,0.7,9.8,9.1,"+0,7",17 may.,▲,#cb181d
+2024-05-17,1059X,Punta Galea (Bizkaia),Anomalía más alta,11.9,10.3,1.6,11.9,10.3,"+1,6",17 may.,▲,#cb181d
+2024-05-17,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,14.6,12.4,2.2,14.6,12.4,"+2,2",17 may.,▲,#cb181d
+2024-05-17,8193E,Jalance (Valencia),Anomalía más alta,8.6,8.6,0,8.6,8.6,0,17 may.,▼,#2171b5
+2024-05-18,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,7.9,8.6,-0.7,8.6,7.9,"-0,7",18 may.,▼,#2171b5
+2024-05-18,8177A,Chinchilla (Albacete),Anomalía más alta,9.3,8.1,1.2,9.3,8.1,"+1,2",18 may.,▲,#cb181d
+2024-05-18,1059X,Punta Galea (Bizkaia),Anomalía más alta,11.2,10,1.2,11.2,10,"+1,2",18 may.,▲,#cb181d
+2024-05-18,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,13.6,11.3,2.3,13.6,11.3,"+2,3",18 may.,▲,#cb181d
+2024-05-18,8193E,Jalance (Valencia),Anomalía más alta,12.4,9.4,3,12.4,9.4,+3,18 may.,▲,#cb181d
+2024-05-19,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,9.3,8.9,0.4,9.3,8.9,"+0,4",19 may.,▲,#cb181d
+2024-05-19,8177A,Chinchilla (Albacete),Anomalía más alta,9.6,8.8,0.8,9.6,8.8,"+0,8",19 may.,▲,#cb181d
+2024-05-19,1059X,Punta Galea (Bizkaia),Anomalía más alta,13,10.7,2.3,13,10.7,"+2,3",19 may.,▲,#cb181d
+2024-05-19,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,12.8,10.7,2.1,12.8,10.7,"+2,1",19 may.,▲,#cb181d
+2024-05-19,8193E,Jalance (Valencia),Anomalía más alta,12.5,9.7,2.8,12.5,9.7,"+2,8",19 may.,▲,#cb181d
+2024-05-20,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,7.2,6.2,1,7.2,6.2,+1,20 may.,▲,#cb181d
+2024-05-20,8177A,Chinchilla (Albacete),Anomalía más alta,9.2,9.6,-0.4,9.6,9.2,"-0,4",20 may.,▼,#2171b5
+2024-05-20,1059X,Punta Galea (Bizkaia),Anomalía más alta,13.8,10.4,3.4,13.8,10.4,"+3,4",20 may.,▲,#cb181d
+2024-05-20,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,13.8,12.1,1.7,13.8,12.1,"+1,7",20 may.,▲,#cb181d
+2024-05-20,8193E,Jalance (Valencia),Anomalía más alta,12.4,10.1,2.3,12.4,10.1,"+2,3",20 may.,▲,#cb181d
+2024-05-21,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,10.3,7.7,2.6,10.3,7.7,"+2,6",21 may.,▲,#cb181d
+2024-05-21,8177A,Chinchilla (Albacete),Anomalía más alta,10.6,9.2,1.4,10.6,9.2,"+1,4",21 may.,▲,#cb181d
+2024-05-21,1059X,Punta Galea (Bizkaia),Anomalía más alta,13.3,11.8,1.5,13.3,11.8,"+1,5",21 may.,▲,#cb181d
+2024-05-21,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,14.9,12.4,2.5,14.9,12.4,"+2,5",21 may.,▲,#cb181d
+2024-05-21,8193E,Jalance (Valencia),Anomalía más alta,8.8,9.6,-0.8,9.6,8.8,"-0,8",21 may.,▼,#2171b5
+2024-05-22,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,7.9,7.8,0.1,7.9,7.8,"+0,1",22 may.,▲,#cb181d
+2024-05-22,8177A,Chinchilla (Albacete),Anomalía más alta,8.6,10.6,-2,10.6,8.6,-2,22 may.,▼,#2171b5
+2024-05-22,1059X,Punta Galea (Bizkaia),Anomalía más alta,12.4,11.6,0.8,12.4,11.6,"+0,8",22 may.,▲,#cb181d
+2024-05-22,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,14.7,12.8,1.9,14.7,12.8,"+1,9",22 may.,▲,#cb181d
+2024-05-22,8193E,Jalance (Valencia),Anomalía más alta,9.1,9.8,-0.7,9.8,9.1,"-0,7",22 may.,▼,#2171b5
+2024-05-23,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,8.8,9.4,-0.6,9.4,8.8,"-0,6",23 may.,▼,#2171b5
+2024-05-23,8177A,Chinchilla (Albacete),Anomalía más alta,10.4,10.3,0.1,10.4,10.3,"+0,1",23 may.,▲,#cb181d
+2024-05-23,1059X,Punta Galea (Bizkaia),Anomalía más alta,13.6,11.9,1.7,13.6,11.9,"+1,7",23 may.,▲,#cb181d
+2024-05-23,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,14,13.9,0.1,14,13.9,"+0,1",23 may.,▲,#cb181d
+2024-05-23,8193E,Jalance (Valencia),Anomalía más alta,9.7,9.6,0.1,9.7,9.6,"+0,1",23 may.,▲,#cb181d
+2024-05-24,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,11.5,9.4,2.1,11.5,9.4,"+2,1",24 may.,▲,#cb181d
+2024-05-24,8177A,Chinchilla (Albacete),Anomalía más alta,10.2,9.4,0.8,10.2,9.4,"+0,8",24 may.,▲,#cb181d
+2024-05-24,1059X,Punta Galea (Bizkaia),Anomalía más alta,11.4,11.5,-0.1,11.5,11.4,"-0,1",24 may.,▼,#2171b5
+2024-05-24,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,14.5,14.7,-0.2,14.7,14.5,"-0,2",24 may.,▼,#2171b5
+2024-05-24,8193E,Jalance (Valencia),Anomalía más alta,14.5,10.4,4.1,14.5,10.4,"+4,1",24 may.,▲,#cb181d
+2024-05-25,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,11.5,9.1,2.4,11.5,9.1,"+2,4",25 may.,▲,#cb181d
+2024-05-25,8177A,Chinchilla (Albacete),Anomalía más alta,10.7,9.1,1.6,10.7,9.1,"+1,6",25 may.,▲,#cb181d
+2024-05-25,1059X,Punta Galea (Bizkaia),Anomalía más alta,13.7,12.8,0.9,13.7,12.8,"+0,9",25 may.,▲,#cb181d
+2024-05-25,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,14.7,14.2,0.5,14.7,14.2,"+0,5",25 may.,▲,#cb181d
+2024-05-25,8193E,Jalance (Valencia),Anomalía más alta,10.9,10.2,0.7,10.9,10.2,"+0,7",25 may.,▲,#cb181d
+2024-05-26,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,11.8,9.2,2.6,11.8,9.2,"+2,6",26 may.,▲,#cb181d
+2024-05-26,8177A,Chinchilla (Albacete),Anomalía más alta,14.1,9.9,4.2,14.1,9.9,"+4,2",26 may.,▲,#cb181d
+2024-05-26,1059X,Punta Galea (Bizkaia),Anomalía más alta,15.5,12.9,2.6,15.5,12.9,"+2,6",26 may.,▲,#cb181d
+2024-05-26,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,14,13.1,0.9,14,13.1,"+0,9",26 may.,▲,#cb181d
+2024-05-26,8193E,Jalance (Valencia),Anomalía más alta,12.5,12.2,0.3,12.5,12.2,"+0,3",26 may.,▲,#cb181d
+2024-05-27,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,14.5,8.7,5.8,14.5,8.7,"+5,8",27 may.,▲,#cb181d
+2024-05-27,8177A,Chinchilla (Albacete),Anomalía más alta,15.9,9.7,6.2,15.9,9.7,"+6,2",27 may.,▲,#cb181d
+2024-05-27,1059X,Punta Galea (Bizkaia),Anomalía más alta,12.7,12.5,0.2,12.7,12.5,"+0,2",27 may.,▲,#cb181d
+2024-05-27,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,17,13.3,3.7,17,13.3,"+3,7",27 may.,▲,#cb181d
+2024-05-27,8193E,Jalance (Valencia),Anomalía más alta,17.2,11.9,5.3,17.2,11.9,"+5,3",27 may.,▲,#cb181d
+2024-05-28,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,15.4,9.1,6.3,15.4,9.1,"+6,3",28 may.,▲,#cb181d
+2024-05-28,8177A,Chinchilla (Albacete),Anomalía más alta,14,9.4,4.6,14,9.4,"+4,6",28 may.,▲,#cb181d
+2024-05-28,1059X,Punta Galea (Bizkaia),Anomalía más alta,11.6,11.6,0,11.6,11.6,0,28 may.,▼,#2171b5
+2024-05-28,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,17,15.1,1.9,17,15.1,"+1,9",28 may.,▲,#cb181d
+2024-05-28,8193E,Jalance (Valencia),Anomalía más alta,18,12.3,5.7,18,12.3,"+5,7",28 may.,▲,#cb181d
+2024-05-29,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,17.5,9,8.5,17.5,9,"+8,5",29 may.,▲,#cb181d
+2024-05-29,8177A,Chinchilla (Albacete),Anomalía más alta,13.4,8.5,4.9,13.4,8.5,"+4,9",29 may.,▲,#cb181d
+2024-05-29,1059X,Punta Galea (Bizkaia),Anomalía más alta,13.8,11.6,2.2,13.8,11.6,"+2,2",29 may.,▲,#cb181d
+2024-05-29,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,14.3,13.5,0.8,14.3,13.5,"+0,8",29 may.,▲,#cb181d
+2024-05-29,8193E,Jalance (Valencia),Anomalía más alta,12.9,11.4,1.5,12.9,11.4,"+1,5",29 may.,▲,#cb181d
+2024-05-30,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,18.2,9.9,8.3,18.2,9.9,"+8,3",30 may.,▲,#cb181d
+2024-05-30,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,18.2,9.9,8.3,18.2,9.9,"+8,3",30 may.,▲,#cb181d
+2024-05-30,8177A,Chinchilla (Albacete),Anomalía más alta,16.2,10.2,6,16.2,10.2,+6,30 may.,▲,#cb181d
+2024-05-30,8177A,Chinchilla (Albacete),Anomalía más alta,16.2,10.2,6,16.2,10.2,+6,30 may.,▲,#cb181d
+2024-05-30,1059X,Punta Galea (Bizkaia),Anomalía más alta,16.1,13.3,2.8,16.1,13.3,"+2,8",30 may.,▲,#cb181d
+2024-05-31,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,14.2,10.8,3.4,14.2,10.8,"+3,4",31 may.,▲,#cb181d
+2024-05-31,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,14.2,10.8,3.4,14.2,10.8,"+3,4",31 may.,▲,#cb181d
+2024-05-31,8177A,Chinchilla (Albacete),Anomalía más alta,14.8,9.2,5.6,14.8,9.2,"+5,6",31 may.,▲,#cb181d
+2024-05-31,8177A,Chinchilla (Albacete),Anomalía más alta,14.8,9.2,5.6,14.8,9.2,"+5,6",31 may.,▲,#cb181d
+2024-05-31,1059X,Punta Galea (Bizkaia),Anomalía más alta,16.4,12.8,3.6,16.4,12.8,"+3,6",31 may.,▲,#cb181d
+2024-06-01,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,11.2,11.6,-0.4,11.6,11.2,"-0,4", 1 jun.,▼,#2171b5
+2024-06-01,8177A,Chinchilla (Albacete),Anomalía más alta,13.2,9.6,3.6,13.2,9.6,"+3,6", 1 jun.,▲,#cb181d
+2024-06-01,1059X,Punta Galea (Bizkaia),Anomalía más alta,15.3,13.3,2,15.3,13.3,+2, 1 jun.,▲,#cb181d
+2024-06-01,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,15.3,10.5,4.8,15.3,10.5,"+4,8", 1 jun.,▲,#cb181d
+2024-06-01,8193E,Jalance (Valencia),Anomalía más alta,16.3,12,4.3,16.3,12,"+4,3", 1 jun.,▲,#cb181d
+2024-06-02,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,11.6,13.1,-1.5,13.1,11.6,"-1,5", 2 jun.,▼,#2171b5
+2024-06-02,8177A,Chinchilla (Albacete),Anomalía más alta,10.8,9.8,1,10.8,9.8,+1, 2 jun.,▲,#cb181d
+2024-06-02,1059X,Punta Galea (Bizkaia),Anomalía más alta,17.3,13.5,3.8,17.3,13.5,"+3,8", 2 jun.,▲,#cb181d
+2024-06-02,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,13.5,12.4,1.1,13.5,12.4,"+1,1", 2 jun.,▲,#cb181d
+2024-06-02,8193E,Jalance (Valencia),Anomalía más alta,12.7,12.6,0.1,12.7,12.6,"+0,1", 2 jun.,▲,#cb181d
+2024-06-03,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,14.4,12.4,2,14.4,12.4,+2, 3 jun.,▲,#cb181d
+2024-06-03,8177A,Chinchilla (Albacete),Anomalía más alta,11.2,9.6,1.6,11.2,9.6,"+1,6", 3 jun.,▲,#cb181d
+2024-06-03,1059X,Punta Galea (Bizkaia),Anomalía más alta,16.9,12.6,4.3,16.9,12.6,"+4,3", 3 jun.,▲,#cb181d
+2024-06-03,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,13.1,12.9,0.2,13.1,12.9,"+0,2", 3 jun.,▲,#cb181d
+2024-06-03,8193E,Jalance (Valencia),Anomalía más alta,11.5,12.8,-1.3,12.8,11.5,"-1,3", 3 jun.,▼,#2171b5
+2024-06-04,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,14.8,10.8,4,14.8,10.8,+4, 4 jun.,▲,#cb181d
+2024-06-04,8177A,Chinchilla (Albacete),Anomalía más alta,12.1,10.9,1.2,12.1,10.9,"+1,2", 4 jun.,▲,#cb181d
+2024-06-04,1059X,Punta Galea (Bizkaia),Anomalía más alta,16,13,3,16,13,+3, 4 jun.,▲,#cb181d
+2024-06-04,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,15.5,15.1,0.4,15.5,15.1,"+0,4", 4 jun.,▲,#cb181d
+2024-06-04,8193E,Jalance (Valencia),Anomalía más alta,13.7,12.9,0.8,13.7,12.9,"+0,8", 4 jun.,▲,#cb181d
+2024-06-05,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,17,10.2,6.8,17,10.2,"+6,8", 5 jun.,▲,#cb181d
+2024-06-05,8177A,Chinchilla (Albacete),Anomalía más alta,14.8,11,3.8,14.8,11,"+3,8", 5 jun.,▲,#cb181d
+2024-06-05,1059X,Punta Galea (Bizkaia),Anomalía más alta,16.4,12.4,4,16.4,12.4,+4, 5 jun.,▲,#cb181d
+2024-06-05,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,15.5,15.7,-0.2,15.7,15.5,"-0,2", 5 jun.,▼,#2171b5
+2024-06-05,8193E,Jalance (Valencia),Anomalía más alta,14.3,12.6,1.7,14.3,12.6,"+1,7", 5 jun.,▲,#cb181d
+2024-06-06,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,17.9,12.6,5.3,17.9,12.6,"+5,3", 6 jun.,▲,#cb181d
+2024-06-06,8177A,Chinchilla (Albacete),Anomalía más alta,NA,10.4,NA,NA,NA,NA, 6 jun.,NA,NA
+2024-06-06,1059X,Punta Galea (Bizkaia),Anomalía más alta,17.4,12.8,4.6,17.4,12.8,"+4,6", 6 jun.,▲,#cb181d
+2024-06-06,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,17.2,15.8,1.4,17.2,15.8,"+1,4", 6 jun.,▲,#cb181d
+2024-06-06,8193E,Jalance (Valencia),Anomalía más alta,14.2,12.2,2,14.2,12.2,+2, 6 jun.,▲,#cb181d
+2024-06-07,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,19.3,11.2,8.1,19.3,11.2,"+8,1", 7 jun.,▲,#cb181d
+2024-06-07,8177A,Chinchilla (Albacete),Anomalía más alta,17,11.4,5.6,17,11.4,"+5,6", 7 jun.,▲,#cb181d
+2024-06-07,1059X,Punta Galea (Bizkaia),Anomalía más alta,17.9,13.6,4.3,17.9,13.6,"+4,3", 7 jun.,▲,#cb181d
+2024-06-07,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,18.3,15,3.3,18.3,15,"+3,3", 7 jun.,▲,#cb181d
+2024-06-07,8193E,Jalance (Valencia),Anomalía más alta,19.8,13.1,6.7,19.8,13.1,"+6,7", 7 jun.,▲,#cb181d
+2024-06-08,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,16.1,8.7,7.4,16.1,8.7,"+7,4", 8 jun.,▲,#cb181d
+2024-06-08,8177A,Chinchilla (Albacete),Anomalía más alta,12.6,11.3,1.3,12.6,11.3,"+1,3", 8 jun.,▲,#cb181d
+2024-06-08,1059X,Punta Galea (Bizkaia),Anomalía más alta,19,13.6,5.4,19,13.6,"+5,4", 8 jun.,▲,#cb181d
+2024-06-08,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,21.8,15.3,6.5,21.8,15.3,"+6,5", 8 jun.,▲,#cb181d
+2024-06-08,8193E,Jalance (Valencia),Anomalía más alta,15.7,13.7,2,15.7,13.7,+2, 8 jun.,▲,#cb181d
+2024-06-09,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,13.7,9.2,4.5,13.7,9.2,"+4,5", 9 jun.,▲,#cb181d
+2024-06-09,8177A,Chinchilla (Albacete),Anomalía más alta,12.8,11,1.8,12.8,11,"+1,8", 9 jun.,▲,#cb181d
+2024-06-09,1059X,Punta Galea (Bizkaia),Anomalía más alta,17.9,14,3.9,17.9,14,"+3,9", 9 jun.,▲,#cb181d
+2024-06-09,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,18.4,13.8,4.6,18.4,13.8,"+4,6", 9 jun.,▲,#cb181d
+2024-06-09,8193E,Jalance (Valencia),Anomalía más alta,15.9,13.4,2.5,15.9,13.4,"+2,5", 9 jun.,▲,#cb181d
+2024-06-10,3125Y,San Sebastián de los Reyes (Madrid),Anomalía más alta,11.5,11.7,-0.2,11.7,11.5,"-0,2",10 jun.,▼,#2171b5
+2024-06-10,8177A,Chinchilla (Albacete),Anomalía más alta,15,11.6,3.4,15,11.6,"+3,4",10 jun.,▲,#cb181d
+2024-06-10,1059X,Punta Galea (Bizkaia),Anomalía más alta,17.3,14.4,2.9,17.3,14.4,"+2,9",10 jun.,▲,#cb181d
+2024-06-10,B925,Sant Antoni de Portmany (Baleares),Anomalía más alta,17.4,14.7,2.7,17.4,14.7,"+2,7",10 jun.,▲,#cb181d
+2024-06-10,8193E,Jalance (Valencia),Anomalía más alta,15,15.1,-0.1,15.1,15,"-0,1",10 jun.,▼,#2171b5
 2024-05-14,1387E,A Coruña Aeropuerto (A Coruña),A Coruña,10.2,9.8,0.4,10.2,9.8,"+0,4",14 may.,▲,#cb181d
 2024-05-14,1390X,"Carballo, Depuradora (A Coruña)",A Coruña,10.2,8.1,2.1,10.2,8.1,"+2,1",14 may.,▲,#cb181d
 2024-05-14,1406X,Mazaricos (A Coruña),A Coruña,8.7,8.7,0,8.7,8.7,0,14 may.,▼,#2171b5
