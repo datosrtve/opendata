@@ -3136,12 +3136,12 @@ cod_mun,municipio,provincia,zona_iso,d_previo,d_actual,variacion,pob
 03140,Villena,Alicante,Interior de Alicante,38,35.2,-2.8,34170
 03103,Penàguila,Alicante,Interior de Alicante,38,35.2,-2.8,315
 03104,Petrer,Alicante,Interior de Alicante,38,35.2,-2.8,34013
-38002,Agulo,Santa Cruz de Tenerife,La Gomera,34,35.2,1.2,1123
-38003,Alajeró,Santa Cruz de Tenerife,La Gomera,34,35.2,1.2,2066
-38021,Hermigua,Santa Cruz de Tenerife,La Gomera,34,35.2,1.2,1943
-38036,San Sebastián de la Gomera,Santa Cruz de Tenerife,La Gomera,34,35.2,1.2,9584
-38049,Valle Gran Rey,Santa Cruz de Tenerife,La Gomera,34,35.2,1.2,4705
-38050,Vallehermoso,Santa Cruz de Tenerife,La Gomera,34,35.2,1.2,2940
+38002,Agulo,Santa Cruz de Tenerife,La Gomera,34,33,1,1123
+38003,Alajeró,Santa Cruz de Tenerife,La Gomera,34,33,1,2066
+38021,Hermigua,Santa Cruz de Tenerife,La Gomera,34,33,1,1943
+38036,San Sebastián de la Gomera,Santa Cruz de Tenerife,La Gomera,34,33,1,9584
+38049,Valle Gran Rey,Santa Cruz de Tenerife,La Gomera,34,33,1,4705
+38050,Vallehermoso,Santa Cruz de Tenerife,La Gomera,34,33,1,2940
 38014,Fuencaliente de la Palma,Santa Cruz de Tenerife,Oeste de La Palma,34,35.2,1.2,1849
 38016,Garafía,Santa Cruz de Tenerife,Oeste de La Palma,34,35.2,1.2,1949
 38024,Los Llanos de Aridane,Santa Cruz de Tenerife,Oeste de La Palma,34,35.2,1.2,20375
@@ -5564,9 +5564,9 @@ cod_mun,municipio,provincia,zona_iso,d_previo,d_actual,variacion,pob
 22156,Monflorite-Lascasas,Huesca,Centro de Huesca,36,33.2,-2.8,469
 22202,Salas Bajas,Huesca,Centro de Huesca,36,33.2,-2.8,191
 22203,Salillas,Huesca,Centro de Huesca,36,33.2,-2.8,104
-38013,Frontera,Santa Cruz de Tenerife,El Hierro,34,33.1,-0.9,4483
-38048,Valverde,Santa Cruz de Tenerife,El Hierro,34,33.1,-0.9,5149
-38901,El Pinar de El Hierro,Santa Cruz de Tenerife,El Hierro,34,33.1,-0.9,2027
+38013,Frontera,Santa Cruz de Tenerife,El Hierro,34,31.5,-2.5,4483
+38048,Valverde,Santa Cruz de Tenerife,El Hierro,34,31.5,-2.5,5149
+38901,El Pinar de El Hierro,Santa Cruz de Tenerife,El Hierro,34,31.5,-2.5,2027
 07024,Formentera,Baleares,Ibiza y Formentera,36,33.1,-2.9,11389
 07026,Eivissa,Baleares,Ibiza y Formentera,36,33.1,-2.9,51872
 07046,Sant Antoni de Portmany,Baleares,Ibiza y Formentera,36,33.1,-2.9,28551
@@ -6401,57 +6401,57 @@ cod_mun,municipio,provincia,zona_iso,d_previo,d_actual,variacion,pob
 37131,Frades de la Sierra,Salamanca,Sistema Central de Salamanca,34,32.5,-1.5,180
 37214,Nava de Francia,Salamanca,Sistema Central de Salamanca,34,32.5,-1.5,121
 37217,Navalmoral de Béjar,Salamanca,Sistema Central de Salamanca,34,32.5,-1.5,60
-03002,Agost,Alicante,Litoral sur de Alicante,36,32.4,-3.6,5069
-03004,Aigües,Alicante,Litoral sur de Alicante,36,32.4,-3.6,1144
-03005,Albatera,Alicante,Litoral sur de Alicante,36,32.4,-3.6,13095
-03011,L'Alfàs del Pi,Alicante,Litoral sur de Alicante,36,32.4,-3.6,20710
-03012,Algorfa,Alicante,Litoral sur de Alicante,36,32.4,-3.6,3684
-03014,Alicante/Alacant,Alicante,Litoral sur de Alicante,36,32.4,-3.6,350598
-03015,Almoradí,Alicante,Litoral sur de Alicante,36,32.4,-3.6,21775
-03019,Aspe,Alicante,Litoral sur de Alicante,36,32.4,-3.6,21469
-03024,Benejúzar,Alicante,Litoral sur de Alicante,36,32.4,-3.6,5642
-03025,Benferri,Alicante,Litoral sur de Alicante,36,32.4,-3.6,2016
-03031,Benidorm,Alicante,Litoral sur de Alicante,36,32.4,-3.6,72184
-03034,Benijófar,Alicante,Litoral sur de Alicante,36,32.4,-3.6,3538
-03044,Bigastro,Alicante,Litoral sur de Alicante,36,32.4,-3.6,7360
-03046,Busot,Alicante,Litoral sur de Alicante,36,32.4,-3.6,3512
-03055,Catral,Alicante,Litoral sur de Alicante,36,32.4,-3.6,9342
-03058,Cox,Alicante,Litoral sur de Alicante,36,32.4,-3.6,7489
-03059,Crevillent,Alicante,Litoral sur de Alicante,36,32.4,-3.6,30092
-03061,Daya Nueva,Alicante,Litoral sur de Alicante,36,32.4,-3.6,1792
-03062,Daya Vieja,Alicante,Litoral sur de Alicante,36,32.4,-3.6,672
-03064,Dolores,Alicante,Litoral sur de Alicante,36,32.4,-3.6,7886
-03065,Elche/Elx,Alicante,Litoral sur de Alicante,36,32.4,-3.6,238285
-03069,Finestrat,Alicante,Litoral sur de Alicante,36,32.4,-3.6,8864
-03070,Formentera del Segura,Alicante,Litoral sur de Alicante,36,32.4,-3.6,4624
-03074,Granja de Rocamora,Alicante,Litoral sur de Alicante,36,32.4,-3.6,2674
-03076,Guardamar del Segura,Alicante,Litoral sur de Alicante,36,32.4,-3.6,17284
-03077,El Fondó de les Neus/El Hondón de las Nieves,Alicante,Litoral sur de Alicante,36,32.4,-3.6,2720
-03078,Hondón de los Frailes,Alicante,Litoral sur de Alicante,36,32.4,-3.6,1307
-03090,Mutxamel,Alicante,Litoral sur de Alicante,36,32.4,-3.6,27075
-03093,Novelda,Alicante,Litoral sur de Alicante,36,32.4,-3.6,25792
-03094,La Nucia,Alicante,Litoral sur de Alicante,36,32.4,-3.6,19104
-03098,Orxeta,Alicante,Litoral sur de Alicante,36,32.4,-3.6,866
-03099,Orihuela,Alicante,Litoral sur de Alicante,36,32.4,-3.6,82425
-03107,Polop,Alicante,Litoral sur de Alicante,36,32.4,-3.6,5473
-03109,Rafal,Alicante,Litoral sur de Alicante,36,32.4,-3.6,4774
-03111,Redován,Alicante,Litoral sur de Alicante,36,32.4,-3.6,8192
-03112,Relleu,Alicante,Litoral sur de Alicante,36,32.4,-3.6,1262
-03113,Rojales,Alicante,Litoral sur de Alicante,36,32.4,-3.6,17389
-03118,San Fulgencio,Alicante,Litoral sur de Alicante,36,32.4,-3.6,9680
-03119,Sant Joan d'Alacant,Alicante,Litoral sur de Alicante,36,32.4,-3.6,25244
-03120,San Miguel de Salinas,Alicante,Litoral sur de Alicante,36,32.4,-3.6,6914
-03133,Torrevieja,Alicante,Litoral sur de Alicante,36,32.4,-3.6,89729
-03139,Villajoyosa/La Vila Joiosa,Alicante,Litoral sur de Alicante,36,32.4,-3.6,36098
-03902,Pilar de la Horadada,Alicante,Litoral sur de Alicante,36,32.4,-3.6,23522
-03903,Los Montesinos,Alicante,Litoral sur de Alicante,36,32.4,-3.6,5466
-03904,San Isidro,Alicante,Litoral sur de Alicante,36,32.4,-3.6,2247
-03049,Callosa de Segura,Alicante,Litoral sur de Alicante,36,32.4,-3.6,19431
-03050,El Campello,Alicante,Litoral sur de Alicante,36,32.4,-3.6,30158
+03002,Agost,Alicante,Litoral sur de Alicante,36,35.2,-0.8,5069
+03004,Aigües,Alicante,Litoral sur de Alicante,36,35.2,-0.8,1144
+03005,Albatera,Alicante,Litoral sur de Alicante,36,35.2,-0.8,13095
+03011,L'Alfàs del Pi,Alicante,Litoral sur de Alicante,36,35.2,-0.8,20710
+03012,Algorfa,Alicante,Litoral sur de Alicante,36,35.2,-0.8,3684
+03014,Alicante/Alacant,Alicante,Litoral sur de Alicante,36,35.2,-0.8,350598
+03015,Almoradí,Alicante,Litoral sur de Alicante,36,35.2,-0.8,21775
+03019,Aspe,Alicante,Litoral sur de Alicante,36,35.2,-0.8,21469
+03024,Benejúzar,Alicante,Litoral sur de Alicante,36,35.2,-0.8,5642
+03025,Benferri,Alicante,Litoral sur de Alicante,36,35.2,-0.8,2016
+03031,Benidorm,Alicante,Litoral sur de Alicante,36,35.2,-0.8,72184
+03034,Benijófar,Alicante,Litoral sur de Alicante,36,35.2,-0.8,3538
+03044,Bigastro,Alicante,Litoral sur de Alicante,36,35.2,-0.8,7360
+03046,Busot,Alicante,Litoral sur de Alicante,36,35.2,-0.8,3512
+03055,Catral,Alicante,Litoral sur de Alicante,36,35.2,-0.8,9342
+03058,Cox,Alicante,Litoral sur de Alicante,36,35.2,-0.8,7489
+03059,Crevillent,Alicante,Litoral sur de Alicante,36,35.2,-0.8,30092
+03061,Daya Nueva,Alicante,Litoral sur de Alicante,36,35.2,-0.8,1792
+03062,Daya Vieja,Alicante,Litoral sur de Alicante,36,35.2,-0.8,672
+03064,Dolores,Alicante,Litoral sur de Alicante,36,35.2,-0.8,7886
+03065,Elche/Elx,Alicante,Litoral sur de Alicante,36,35.2,-0.8,238285
+03069,Finestrat,Alicante,Litoral sur de Alicante,36,35.2,-0.8,8864
+03070,Formentera del Segura,Alicante,Litoral sur de Alicante,36,35.2,-0.8,4624
+03074,Granja de Rocamora,Alicante,Litoral sur de Alicante,36,35.2,-0.8,2674
+03076,Guardamar del Segura,Alicante,Litoral sur de Alicante,36,35.2,-0.8,17284
+03077,El Fondó de les Neus/El Hondón de las Nieves,Alicante,Litoral sur de Alicante,36,35.2,-0.8,2720
+03078,Hondón de los Frailes,Alicante,Litoral sur de Alicante,36,35.2,-0.8,1307
+03090,Mutxamel,Alicante,Litoral sur de Alicante,36,35.2,-0.8,27075
+03093,Novelda,Alicante,Litoral sur de Alicante,36,35.2,-0.8,25792
+03094,La Nucia,Alicante,Litoral sur de Alicante,36,35.2,-0.8,19104
+03098,Orxeta,Alicante,Litoral sur de Alicante,36,35.2,-0.8,866
+03099,Orihuela,Alicante,Litoral sur de Alicante,36,35.2,-0.8,82425
+03107,Polop,Alicante,Litoral sur de Alicante,36,35.2,-0.8,5473
+03109,Rafal,Alicante,Litoral sur de Alicante,36,35.2,-0.8,4774
+03111,Redován,Alicante,Litoral sur de Alicante,36,35.2,-0.8,8192
+03112,Relleu,Alicante,Litoral sur de Alicante,36,35.2,-0.8,1262
+03113,Rojales,Alicante,Litoral sur de Alicante,36,35.2,-0.8,17389
+03118,San Fulgencio,Alicante,Litoral sur de Alicante,36,35.2,-0.8,9680
+03119,Sant Joan d'Alacant,Alicante,Litoral sur de Alicante,36,35.2,-0.8,25244
+03120,San Miguel de Salinas,Alicante,Litoral sur de Alicante,36,35.2,-0.8,6914
+03133,Torrevieja,Alicante,Litoral sur de Alicante,36,35.2,-0.8,89729
+03139,Villajoyosa/La Vila Joiosa,Alicante,Litoral sur de Alicante,36,35.2,-0.8,36098
+03902,Pilar de la Horadada,Alicante,Litoral sur de Alicante,36,35.2,-0.8,23522
+03903,Los Montesinos,Alicante,Litoral sur de Alicante,36,35.2,-0.8,5466
+03904,San Isidro,Alicante,Litoral sur de Alicante,36,35.2,-0.8,2247
+03049,Callosa de Segura,Alicante,Litoral sur de Alicante,36,35.2,-0.8,19431
+03050,El Campello,Alicante,Litoral sur de Alicante,36,35.2,-0.8,30158
 03080,Jacarilla,Alicante,Litoral sur de Alicante,36,32.4,-3.6,2101
-03088,Monforte del Cid,Alicante,Litoral sur de Alicante,36,32.4,-3.6,8831
-03121,Santa Pola,Alicante,Litoral sur de Alicante,36,32.4,-3.6,37839
-03122,San Vicente del Raspeig/Sant Vicent del Raspeig,Alicante,Litoral sur de Alicante,36,32.4,-3.6,59964
+03088,Monforte del Cid,Alicante,Litoral sur de Alicante,36,35.2,-0.8,8831
+03121,Santa Pola,Alicante,Litoral sur de Alicante,36,35.2,-0.8,37839
+03122,San Vicente del Raspeig/Sant Vicent del Raspeig,Alicante,Litoral sur de Alicante,36,35.2,-0.8,59964
 35001,Agaete,Las Palmas,Norte de Gran Canaria,34,32.4,-1.6,5593
 35006,Arucas,Las Palmas,Norte de Gran Canaria,34,32.4,-1.6,38655
 35008,Firgas,Las Palmas,Norte de Gran Canaria,34,32.4,-1.6,7701
