@@ -1,8 +1,10 @@
 indicativo,<b></b>,temMax,fecha_maxima,record,mes_falso,month,nombre_clean,provincia_clean,<span></span>,fecha,nota
-1696O,35.3,34.9,2015-06-29,Mensual,7,Junio,Beariz,Ourense,7.293305126498245,2024-06-07,Beariz 35.3ºC
-6268Y,33.8,33.8,2016-06-13,Mensual,7,Junio,"Motril, Puerto",Granada,6.708343651649087,2024-06-06,NA
-9201X,32.2,32.1,2023-06-25,Mensual,7,Junio,Jaca,Huesca,7.096369412222891,2024-06-06,NA
-C328W,29,28.3,2023-06-08,Mensual,7,Junio,Hermigua,Sta. Cruz de Tenerife,6.9055291807952495,2024-06-07,Hermigua 29ºC
+1696O,35.3,34.9,2015-06-29,Mensual,7,Junio,Beariz,Ourense,6.746685757468863,2024-06-07,NA
+6199X,36.8,34.9,2023-06-27,Mensual,7,Junio,Vélez-Málaga,Málaga,7.253314242531137,2024-06-15,Vélez-Málaga 36.8ºC
+6268Y,33.8,33.8,2016-06-13,Mensual,7,Junio,"Motril, Puerto",Granada,7.146030979428654,2024-06-06,NA
+9201X,32.2,32.1,2023-06-25,Mensual,7,Junio,Jaca,Huesca,6.863176168165027,2024-06-06,NA
+C129V,32.3,29.9,2013-06-29,Mensual,7,Junio,Fuencaliente,Sta. Cruz de Tenerife,7.041636233218306,2024-06-14,NA
+C328W,29,28.3,2023-06-08,Mensual,7,Junio,Hermigua,Sta. Cruz de Tenerife,6.961252283673829,2024-06-07,Hermigua 29ºC
 4090Y,34.4,33.9,2011-05-28,Mensual,8,Mayo,San Clemente,Cuenca,8,2024-05-30,San Clemente 34.4ºC
 4386B,37,36.9,2015-05-13,Mensual,8,Mayo,Llerena,Badajoz,8.299796995501348,2024-05-30,NA
 5038X,37.1,36.2,2009-05-20,Mensual,8,Mayo,Cazorla,Jaén,7.80017649220801,2024-05-30,NA
@@ -45,39 +47,42 @@ C328W,29,28.3,2023-06-08,Mensual,7,Junio,Hermigua,Sta. Cruz de Tenerife,6.905529
 9091R,30.2,28.8,2013-04-17,Mensual,9,Abril,Vitoria-Gasteiz Aeropuerto,Araba/Álava,8.7389416703254,2024-04-13,NA
 9111,27.6,27.4,2023-04-27,Mensual,9,Abril,Belorado,Burgos,8.891001199361686,2024-04-14,NA
 9263X,28.2,27.6,2011-04-08,Mensual,9,Abril,"Aranguren, Ilundain",Navarra,8.854119058072571,2024-04-14,NA
-9585,22,22,1934-04-16,Mensual,9,Abril,La Molina,Girona,9,2024-04-13,NA
+9585,22,22,1934-04-16,Mensual,9,Abril,La Molina,Girona,9,2024-04-13,La Molina 22ºC
 9990X,28.3,26.8,2023-04-28,Mensual,9,Abril,"Naut Aran, Arties",Lleida,9,2024-04-14,NA
 B228,28.9,28,1992-04-25,Mensual,9,Abril,"Palma, Puerto",Baleares,9.220469036120171,2024-04-06,NA
 B346X,30.1,29.8,2012-04-27,Mensual,9,Abril,Porreres,Baleares,8.949560928492351,2024-04-14,NA
 C229J,38,36.1,2008-04-25,Mensual,9,Abril,Pájara,Las Palmas,8.964880603035475,2024-04-11,NA
 C329Z,35.3,33.4,2002-04-23,Mensual,9,Abril,San Sebastián de La Gomera,Sta. Cruz de Tenerife,9.063650456668801,2024-04-11,NA
 C429I,38.3,36.2,2008-04-27,Mensual,9,Abril,Tenerife Sur Aeropuerto,Sta. Cruz de Tenerife,9.03516805743573,2024-04-11,Tenerife Sur Aeropuerto 38.3ºC
-0324A,25.7,25.5,1990-03-22,Mensual,10,Abril,Ripoll,Girona,10.226976084146603,2024-03-21,NA
-1484C,28.6,28.6,2021-03-31,Mensual,10,Abril,Pontevedra,Pontevedra,10.114964993443598,2024-03-22,NA
-1542,20.6,18.8,2002-03-23,Mensual,10,Abril,Puerto de Leitariegos,Asturias,10.088146836472504,2024-03-22,NA
-1549,28.8,27.2,2017-03-10,Mensual,10,Abril,Ponferrada,León,10.05081179974158,2024-03-22,NA
-1700X,30.3,30.1,2002-03-23,Mensual,10,Abril,O Carballiño,Ourense,10.126506601706545,2024-03-22,NA
-2030,25.5,25.4,2017-03-10,Mensual,10,Abril,Soria,Soria,9.814604740196353,2024-03-22,NA
-2150H,19.3,18.7,2017-03-10,Mensual,10,Abril,"La Pinilla, Estación de Esquí",Segovia,10,2024-03-22,NA
-2298,25.7,23.7,2017-03-10,Mensual,10,Abril,Palacios de La Sierra,Burgos,9.975675969788911,2024-03-22,NA
-2331,24.6,24.5,1957-03-11,Mensual,10,Abril,Burgos Aeropuerto,Burgos,9.939347213225219,2024-03-22,NA
-2374X,26.1,25.1,2017-03-10,Mensual,10,Abril,Carrión de los Condes,Palencia,9.860687336921535,2024-03-22,NA
-2422,26.6,26,2021-03-31,Mensual,10,Abril,Valladolid,Valladolid,10.291065770400689,2024-03-22,NA
-2462,18.9,18.9,2020-03-11,Mensual,10,Abril,Puerto de Navacerrada,Madrid,9.909167944354662,2024-03-23,Puerto de Navacerrada 18.9ºC
-2465,24.9,24.6,2017-03-09,Mensual,10,Abril,Segovia,Segovia,10.093230066353284,2024-03-22,NA
-2539,25.4,24.6,1965-03-30,Mensual,10,Abril,Valladolid Aeropuerto,Valladolid,9.906769933646716,2024-03-22,NA
-2755X,26.1,26.1,1992-03-20,Mensual,10,Abril,Benavente,Zamora,9.703682161820048,2024-03-22,NA
-3130C,24.8,24.6,2020-03-11,Mensual,10,Abril,Sigüenza,Guadalajara,10.124306755137713,2024-03-22,NA
-3168D,27.6,26.9,2015-03-31,Mensual,10,Abril,Guadalajara,Guadalajara,9.946511742702626,2024-03-22,NA
-4147X,28.8,28.6,2020-03-11,Mensual,10,Abril,Valdepeñas,Ciudad Real,9.808391677594004,2024-03-22,NA
-5514,29.3,29.1,2015-03-31,Mensual,10,Abril,Granada Base Aérea,Granada,10.169304509441034,2024-03-23,NA
-6293X,27,23.3,2023-03-31,Mensual,10,Abril,Roquetas de Mar,Almería,10,2024-03-23,NA
-6302A,30,29.9,2001-03-23,Mensual,10,Abril,Abla,Almería,9.865500711103449,2024-03-18,NA
-8177A,29,25.1,2023-03-29,Mensual,10,Abril,Chinchilla,Albacete,10.174140828848083,2024-03-19,NA
-8368U,28.2,28,2020-03-12,Mensual,10,Abril,Teruel,Teruel,9.86897626122163,2024-03-22,NA
-9001D,24.4,24,2017-03-09,Mensual,10,Abril,Reinosa,Cantabria,10.053149832804404,2024-03-22,NA
-9019B,27.7,25.8,2002-03-22,Mensual,10,Abril,"Valderredible, Polientes",Cantabria,9.75951859870672,2024-03-22,NA
-9208E,24.7,23.6,2020-03-12,Mensual,10,Abril,Aragüés del Puerto,Huesca,10.023573734814052,2024-03-22,NA
+0324A,25.7,25.5,1990-03-22,Mensual,10,Marzo,Ripoll,Girona,10.233201379296398,2024-03-21,NA
+1484C,28.6,28.6,2021-03-31,Mensual,10,Marzo,Pontevedra,Pontevedra,9.882529306308605,2024-03-22,NA
+1542,20.6,18.8,2002-03-23,Mensual,10,Marzo,Puerto de Leitariegos,Asturias,10.06505884777418,2024-03-22,NA
+1549,28.8,27.2,2017-03-10,Mensual,10,Marzo,Ponferrada,León,9.918391610009925,2024-03-22,NA
+1700X,30.3,30.1,2002-03-23,Mensual,10,Marzo,O Carballiño,Ourense,10.108510508036831,2024-03-22,O Carballiño 30.3ºC
+1735X,27.2,25.9,2012-03-25,Mensual,10,Marzo,Xinzo de Limia,Ourense,10.289837690166696,2024-03-22,NA
+2030,25.5,25.4,2017-03-10,Mensual,10,Marzo,Soria,Soria,9.804485946231543,2024-03-22,NA
+2150H,19.3,18.7,2017-03-10,Mensual,10,Marzo,"La Pinilla, Estación de Esquí",Segovia,10,2024-03-22,NA
+2235U,24.7,24.3,2017-03-10,Mensual,10,Marzo,Cervera de Pisuerga,Palencia,9.950862405571995,2024-03-22,NA
+2298,25.7,23.7,2017-03-10,Mensual,10,Marzo,Palacios de La Sierra,Burgos,9.97980404555731,2024-03-22,NA
+2331,24.6,24.5,1957-03-11,Mensual,10,Marzo,Burgos Aeropuerto,Burgos,10.07807923441332,2024-03-22,NA
+2374X,26.1,25.1,2017-03-10,Mensual,10,Marzo,Carrión de los Condes,Palencia,9.848003728787901,2024-03-22,NA
+2422,26.6,26,2021-03-31,Mensual,10,Marzo,Valladolid,Valladolid,9.704331852804888,2024-03-22,NA
+2462,18.9,18.9,2020-03-11,Mensual,10,Marzo,Puerto de Navacerrada,Madrid,9.932622720967379,2024-03-23,Puerto de Navacerrada 18.9ºC
+2465,24.9,24.6,2017-03-09,Mensual,10,Marzo,Segovia,Segovia,10.107020874398636,2024-03-22,NA
+2539,25.4,24.6,1965-03-30,Mensual,10,Marzo,Valladolid Aeropuerto,Valladolid,9.892979125601364,2024-03-22,NA
+2755X,26.1,26.1,1992-03-20,Mensual,10,Marzo,Benavente,Zamora,10,2024-03-22,NA
+3130C,24.8,24.6,2020-03-11,Mensual,10,Marzo,Sigüenza,Guadalajara,10.133776092998295,2024-03-22,NA
+3168D,27.6,26.9,2015-03-31,Mensual,10,Marzo,Guadalajara,Guadalajara,10.086509756378156,2024-03-22,NA
+4147X,28.8,28.6,2020-03-11,Mensual,10,Marzo,Valdepeñas,Ciudad Real,10.176206040537092,2024-03-22,NA
+5514,29.3,29.1,2015-03-31,Mensual,10,Marzo,Granada Base Aérea,Granada,9.848300791403313,2024-03-23,NA
+6293X,27,23.3,2023-03-31,Mensual,10,Marzo,Roquetas de Mar,Almería,10,2024-03-23,NA
+6302A,30,29.9,2001-03-23,Mensual,10,Marzo,Abla,Almería,9.883407298273184,2024-03-18,NA
+8177A,29,25.1,2023-03-29,Mensual,10,Marzo,Chinchilla,Albacete,10.182395525454517,2024-03-19,NA
+8368U,28.2,28,2020-03-12,Mensual,10,Marzo,Teruel,Teruel,10.137076159243719,2024-03-22,NA
+9001D,24.4,24,2017-03-09,Mensual,10,Marzo,Reinosa,Cantabria,10.044764751656691,2024-03-22,NA
+9019B,27.7,25.8,2002-03-22,Mensual,10,Marzo,"Valderredible, Polientes",Cantabria,9.751493671004006,2024-03-22,NA
+9208E,24.7,23.6,2020-03-12,Mensual,10,Marzo,Aragüés del Puerto,Huesca,10.019467147314137,2024-03-22,NA
+9263X,24.7,24.5,2023-03-29,Mensual,10,Marzo,"Aranguren, Ilundain",Navarra,9.92192076558668,2024-03-22,NA
 0200E,23.5,22.4,2020-02-03,Mensual,11,Febrero,"Barcelona, Fabra",Barcelona,10.955386629568892,2024-02-04,NA
 0372C,25.2,24.3,2023-02-04,Mensual,11,Febrero,Porqueres,Girona,11.09105777541884,2024-02-04,NA
 1059X,25.1,25.1,2019-02-27,Mensual,11,Febrero,Punta Galea,Bizkaia,11.121740267189656,2024-02-15,NA
