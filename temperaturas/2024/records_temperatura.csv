@@ -1,8 +1,10 @@
 indicativo,<b></b>,temMax,fecha_maxima,record,mes_falso,month,nombre_clean,provincia_clean,<span></span>,fecha,nota
-1696O,35.3,34.9,2015-06-29,Mensual,7,Junio,Beariz,Ourense,7.257191706205396,2024-06-07,NA
-6199X,36.8,34.9,2023-06-27,Mensual,7,Junio,Vélez-Málaga,Málaga,6.742808293794604,2024-06-15,Vélez-Málaga 36.8ºC
-6268Y,33.8,33.8,2016-06-13,Mensual,7,Junio,"Motril, Puerto",Granada,6.877162093217878,2024-06-06,NA
-9201X,32.2,32.1,2023-06-25,Mensual,7,Junio,Jaca,Huesca,7.113939262468504,2024-06-06,NA
+1696O,35.3,34.9,2015-06-29,Mensual,7,Junio,Beariz,Ourense,6.804629646603421,2024-06-07,NA
+4501X,40.4,39.9,2023-06-26,Mensual,7,Junio,Fuente de Cantos,Badajoz,6.709856244173964,2024-06-24,Fuente de Cantos 40.4ºC
+6199X,36.8,34.9,2023-06-27,Mensual,7,Junio,Vélez-Málaga,Málaga,7.293055530094869,2024-06-15,NA
+6268Y,33.8,33.8,2016-06-13,Mensual,7,Junio,"Motril, Puerto",Granada,7.1957974136226746,2024-06-06,NA
+9201X,32.2,32.1,2023-06-25,Mensual,7,Junio,Jaca,Huesca,6.901771292104861,2024-06-06,NA
+C129V,35.4,29.9,2013-06-29,Mensual,7,Junio,Fuencaliente,Sta. Cruz de Tenerife,7.098655768121234,2024-06-24,NA
 C328W,29,28.3,2023-06-08,Mensual,7,Junio,Hermigua,Sta. Cruz de Tenerife,7,2024-06-07,Hermigua 29ºC
 4090Y,34.4,33.9,2011-05-28,Mensual,8,Mayo,San Clemente,Cuenca,8,2024-05-30,San Clemente 34.4ºC
 4386B,37,36.9,2015-05-13,Mensual,8,Mayo,Llerena,Badajoz,8.299796995501348,2024-05-30,NA
