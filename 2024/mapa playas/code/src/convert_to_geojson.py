@@ -1,7 +1,7 @@
 import csv
 import json
 
-csv_file_path = 'filtros_playas_prueba_foto.csv'
+csv_file_path = 'https://raw.githubusercontent.com/datosrtve/opendata/main/2024/mapa%20playas/code/data/filtros_playas_prueba_foto.csv'
 geojson_file_path = 'playas.geojson'
 
 features = []
